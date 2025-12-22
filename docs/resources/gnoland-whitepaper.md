@@ -6,8 +6,9 @@ _If you can read this, DO NOT share until the whitepaper is complete_
 Jae Kwon - Chief Architect
 XXX
 
-###############
 ## Introduction
+
+### Gno.land Genesis - The General Information Problem
 
 _The prefix "gno" in Koine Greek is derived from the verb "ginōskō," which
 means "to know" or "to recognize." It is often associated with terms related to
@@ -90,19 +91,22 @@ original authors (of prophets, scribes, and historians) so as to reverse the
 effects of the Principle of Explosion rooted in our general spiritual
 subversion and degeneration.
 
+### Gno.land Genesis - Addressing Mistranslations of the Bible
+
+**The New Testament had been mistranslated to hide the primary reason why Jesus
+was crucified--it was because he was in protest of taxes.** Despite all the
+sources online and the authorities at Church, this can be verified by
+inspecting the facts.
+
 It is now well understood in some circles that certain translations of the
 bible were intentionally designed (or at least promoted) with the intent of
 deceiving its readers for mass manipulation. Online tools such as BibleHub.com
-can be used to help descern better the intended meaning and identify mistranslations, but readers cannot
-easily be convinced unless they take the initiative do the research
-themselves--but most have no time or energy for such study. Furthermore, 
-even on BibleHub.com there still persist systemic mistranslations that have
-been carried on for millenia since the time of the Roman Empire.
-
-Specifically, the New Testament had been mistranslated to hide the primary
-reason why Jesus was crucified--it was because he was in protest of taxes.
-Despite all the sources online and the authorities at Church, this can be
-verified by inspecting the facts.
+can be used to help descern better the intended meaning and identify
+mistranslations, but readers cannot easily be convinced unless they take the
+initiative do the research themselves--but most have no time or energy for such
+study. Furthermore, even on BibleHub.com there still persist systemic
+mistranslations that have been carried on for millenia since the time of the
+Roman Empire.
 
 I am not advocating for tax avoidance. I am merely pointing out the truth
 of the bible that had been hidden successfully for centuries if not the 
@@ -117,7 +121,9 @@ empire.
 > 20:25: **And he said unto them, Render therefore unto Caesar the things which be Caesar's, and unto God the things which be God's.**
 > 20:26: And they could not take hold of his words before the people: **and they marvelled at his answer**, and held their peace.
 
-In the current interpretion, indeed all interpretations of Luke 20:25-26 it is claimed that Jesus gave an astonishing answer by agreeing to pay tribute to Caesar.
+In the current interpretion, indeed all interpretations of Luke 20:25-26 it is
+claimed that Jesus gave an astonishing answer by agreeing to pay tribute to
+Caesar.
 
 Yet this is incorrect, as can be seen later in Luke 23:
 
@@ -214,156 +220,13 @@ amount of one stater(a), which is equivalent to a "two-drachma coin/didrachma".
 > in the Greek world prior to the time of Alexander the Great (along with the
 > Corinthian stater).
 
-A spearate page for the stater does mention the association but also confuses
+A separate page for the stater does mention the association but also confuses
 with additional language for a smaller drachma(e) unit in Corinth. At the same
 time it shows the Athenian four-drachma(e) as having twice the weight of the
 Athenian and Corinthian stater--it is clear that all translations of stater to
 "four-drachma(e) coin" is incorrect.
 
-> https://en.wikipedia.org/wiki/Stater:
-> The silver stater minted at Corinth[5] of 8.6 g (0.28 ozt) weight was divided
-> into three silver drachmae of 2.9 g (0.093 ozt), but was often linked to the
-> Athenian silver didrachm (two drachmae) weighing 8.6 g (0.28 ozt).[6] In
-> comparison, the Athenian silver tetradrachm (four drachmae) weighed 17.2 g
-> (0.55 ozt). 
-
-> https://www.forumancientcoins.com/NumisWiki/view.asp?key=Stater%20vs%20Didrachm:
-> What is the difference between a stater and a didrachm?
-> 
-> This is quite an arcane subject. However, the short answer is that what
-> determines when a stater is termed that, rather than a didrachm, is little
-> more than popular usage.
-> 
-> The original stater was the primary denomination of the early coinage (after
-> the cessation of usage of naturally occurring electrum) in parts of Asia
-> Minor and was based on a fixed weight of gold. Stater in this sense is a
-> numismatic term for the primary denomination off which all other
-> denominations are keyed e.g hemistater being half a stater.
-> 
-> Coinage when initially struck in gold poor Greece was based on a primary
-> denomination in silver (valued at roughly one tenth that of gold by weight).
-> This occurred in Aegina with the primary denomination being a coin of 12.2 gm
-> of silver. This came to be called a stater by numismatists, though what the
-> ancient Greeks called it is unknown.
-> 
-> This name sticks, although technically it could equally well be called a
-> didrachm as shown in the simple summary of weight standards below from
-> Morkholm's publication Early Hellenistic Coinage.  The key point of this table
-> is that the stater/didrachm is a primary denomination in all Greek weight
-> systems, albeit with a different weight of silver being the basis of each
-> system.
-> 
-> So far so good? Then the Athenians moved to a light stater/didrachm based
-> system of ca. 8.5 gm silver for the primary denomination. This is called a
-> didrachm, rather than a stater by numismatists for no other reason that the
-> Greek equivalent of the word drachm was what half a didrachm (or hemistater)
-> was called in Athens. Thus we call an Attic weight standard tetradrachm a
-> tetradrachm rather than a distater.
-> 
-> Now to add to the confusion a stater as called by numismatists in the Attic
-> Weight system reserved for a denomination in gold with a base unit weight of
-> 8.6 grams.
-> 
-> Confused? Most people (including me) are by this stage and we have yet to
-> move on to the Phoenician Shekel, Persian Daric and Siglos, or the Litra of
-> Sicily, which was based on a primary unit in bronze.
->
-> Morkolm's Early Hellenistic Coinage has a nice summary of the evolution of
-> these weight systems and a more expansive explanation can be found in the
-> Preface to any of the volumes of Oliver Hoover's The Handbook of Greek Coinage.
-> 
-> At the bottom of this thread is a more comprehensive overview of weight
-> standards https://www.forumancientcoins.com/board/index.php?topic=10182.0
-> 
-> Some nice pictures and a very high level summary of denominations can be
-> found here http://www.classicalcoins.com/denominations.html
-> 
-> This also is why we have some coins such as the Babylonian Baal/Lion coins
-> called variously lion staters or tetradrachms, sometimes simultaneously in the
-> one publication!
-> 
-> Similarly you will see Carthaginian coins described as 1 1/2 Shekels or
-> Tridrachms... not much sense in either case as we have no idea what they were
-> really called. The Carthaginians being of Phoenician extraction, I suspect they
-> were originally struck by the Carthaginians with a lower silver to gold value
-> than the Phoenician Shekel, reflecting Carthage's original gold based economy,
-> prominence and wealth, and were called a shekel by the Carthaginians despite
-> being 50% heavier that the Phoenician silver shekel.
-> 
-> **Table 1. Eastern Hellenistic coin standards (The weights are given in grams.)**
-> 
-> |Standard|Tetradrachm|Didrachm|Drachm|Hemidrachm|
-> |Aeginetan|-|12.2|6.1|3.05|
-> |Reduced Aeginetan (Corcyrean)|-|11.5 - 10.0|5.75 - 5.0|2.8 - 2.5|
-> |Persian|-|11.2|5.6|2.8|
-> |Attic|17.3 - 16.18|8.65 - 8.4|4.3 - 4.2|2.15 - 2.1|
-> |Chian|15.6|7.8|3.9|-|
-> |Ptolemaic|14.3|7.15|3.55|-|
-> |Rhodian|13.6 - 13.4|6.8 - 6.7|3.4|-|
-> |Cistophoric|12.6|6.3|3.15|-|
-
-
- * **leptop (widow's mite)**: Mark 12:42, Luke 12:59, 21:2
- * **drachma**: Luke 15:8 - Cappadocian drachma
- * **denarius (day's wages)**: Matthew 18:28; 20:1–16; 22:19; Mark 6:37; 12:15; 14:5; Luke 7:41; 10:35; 20:24; John 6:7; 12:5; Rev. 6:6 - equivalent to the drachma; Caesar's head
- * **didrachma**: Matthew 17:24 - mistranslated to "tribute coin"
- * **stater/statera (statēra)**: Matthew 17:27 - interchangeable w/ didrachma
- * **Tyre shekel (Temple tax)**: Exodus 30:13 (Money Changers), John 2:15, Matthew 21:12 (Peter's Fish), Matthew 17:27 (Judas' 30 coins) Matthew 26:15
-
-// shekel : denarius : talent :: Jewish : Greek : Roman
-
-> https://cdn.bakerpublishinggroup.com/processed/esource-assets/files/2058/original/1.2.Coins_Mentioned_in_the_New_Testament.pdf?1525364484:
-> **denarius**: This silver coin was the usual day’s wage for a typical
-> laborer (see Matt. 18:28; 20:1–16; 22:19; Mark 6:37; 12:15; 14:5;
-> Luke 7:41; 10:35; 20:24; John 6:7; 12:5; Rev. 6:6). **The denarius (a
-> Roman coin) appears to have been roughly equivalent in value to the
-> drachma (a Greek coin). The “lost coin” in the parable that Jesus
-> tells in Luke 15:8–10 is a drachma**.
-
-// Silver Depositories and Grain Silos
-
-> FOOD PRICES ARE CLIMBING EVEN HIGHER.
-> IT MAY DIP AT TIMES BUT IT WILL FULFILL REV6:6.
-> THE TARIFFS IS WHAT IS FUCKING YOU OVER.
-> THE MONEY HAS GONE TO PALENTIR TO FUCK YOU OVER MORE.
-> FUEL PRICES DOWN CUZ THERE IS NO MORE MONEY TO SPEND.
-
-> Berean Standard Bible.
-> Rev 6:5: Then I looked and saw a black horse, and its rider held in his hand a pair of scales.
-> Rev 6:6: And I heard what sounded like a voice from among the four living creatures, saying, “A quart of wheat for a denarius, a and three quarts of barley for a denarius, and do not harm the oil and wine.”
-
-> "A quart of wheat for a denarius."
-
- * One ounce is 28.35 grams.
- * A denarius is a drachm is 4.3g.
- * A silver denarius is thus $70 x 4.3/28.35 = $10.61 today.
- * A silver denarius constituted a day's wage for a manual laborer.
- * A quart of wheat weighs ~1.1 pounds.
- * On Amazon a quart of wheat costs $9 ~ $14 today.
- * So already a quart of wheat costs about a denarius.
- * But you know the fucked up part?
- * Silver is going to $600+ before you agree there is dollar hyperinflation.
-
-_You WILL be buying wheat in silver coins.
-And at the farmers market you will hear,
-
-**"A quart of wheat for a denarius"**_
-
-next year, or the year after that, or certainly by 2028 end.
-
-We should be buying WHEAT and storing it in silos for the coming years.
-Instead we're putting tarrifs on it and giving the proceeds to Palentir.
-If we're not going to investigate Bill Gates and the assassination of the
-person who was going to take him to court earlier this January 2025,
-
-We best start preparing for the coming holodomor.
-
-A government that is not preparing by storing grain right now for the coming 4
-years, and starting to prepare for the next 40+ years of the coming solar
-minimum, is a government that does not care about its obsolescence.
-
-The monitoring and mass surveillance cannot handle the stochastic terror that
-will upend any sense of order.
+See the appendex for more information on coin denomination information.
 
 Past approaches to knowledge systems and their limitations.
 Summary of solution.
@@ -517,12 +380,164 @@ Politics will be more honest.
 1000 year plan.
 
 ##############
-BAK
+## Resources
 
 https://biblehub.com
 https://berean.bible/links.htm
 https://interlinearbible.com/bib.pdf
 https://berean.bible/downloads.htm
+
+## Appendix
+
+### The New Testament and Silver Coinage
+
+> https://en.wikipedia.org/wiki/Stater:
+> The silver stater minted at Corinth[5] of 8.6 g (0.28 ozt) weight was divided
+> into three silver drachmae of 2.9 g (0.093 ozt), but was often linked to the
+> Athenian silver didrachm (two drachmae) weighing 8.6 g (0.28 ozt).[6] In
+> comparison, the Athenian silver tetradrachm (four drachmae) weighed 17.2 g
+> (0.55 ozt). 
+
+> https://www.forumancientcoins.com/NumisWiki/view.asp?key=Stater%20vs%20Didrachm:
+> What is the difference between a stater and a didrachm?
+> 
+> This is quite an arcane subject. However, the short answer is that what
+> determines when a stater is termed that, rather than a didrachm, is little
+> more than popular usage.
+> 
+> The original stater was the primary denomination of the early coinage (after
+> the cessation of usage of naturally occurring electrum) in parts of Asia
+> Minor and was based on a fixed weight of gold. Stater in this sense is a
+> numismatic term for the primary denomination off which all other
+> denominations are keyed e.g hemistater being half a stater.
+> 
+> Coinage when initially struck in gold poor Greece was based on a primary
+> denomination in silver (valued at roughly one tenth that of gold by weight).
+> This occurred in Aegina with the primary denomination being a coin of 12.2 gm
+> of silver. This came to be called a stater by numismatists, though what the
+> ancient Greeks called it is unknown.
+> 
+> This name sticks, although technically it could equally well be called a
+> didrachm as shown in the simple summary of weight standards below from
+> Morkholm's publication Early Hellenistic Coinage.  The key point of this table
+> is that the stater/didrachm is a primary denomination in all Greek weight
+> systems, albeit with a different weight of silver being the basis of each
+> system.
+> 
+> So far so good? Then the Athenians moved to a light stater/didrachm based
+> system of ca. 8.5 gm silver for the primary denomination. This is called a
+> didrachm, rather than a stater by numismatists for no other reason that the
+> Greek equivalent of the word drachm was what half a didrachm (or hemistater)
+> was called in Athens. Thus we call an Attic weight standard tetradrachm a
+> tetradrachm rather than a distater.
+> 
+> Now to add to the confusion a stater as called by numismatists in the Attic
+> Weight system reserved for a denomination in gold with a base unit weight of
+> 8.6 grams.
+> 
+> Confused? Most people (including me) are by this stage and we have yet to
+> move on to the Phoenician Shekel, Persian Daric and Siglos, or the Litra of
+> Sicily, which was based on a primary unit in bronze.
+>
+> Morkolm's Early Hellenistic Coinage has a nice summary of the evolution of
+> these weight systems and a more expansive explanation can be found in the
+> Preface to any of the volumes of Oliver Hoover's The Handbook of Greek Coinage.
+> 
+> At the bottom of this thread is a more comprehensive overview of weight
+> standards https://www.forumancientcoins.com/board/index.php?topic=10182.0
+> 
+> Some nice pictures and a very high level summary of denominations can be
+> found here http://www.classicalcoins.com/denominations.html
+> 
+> This also is why we have some coins such as the Babylonian Baal/Lion coins
+> called variously lion staters or tetradrachms, sometimes simultaneously in the
+> one publication!
+> 
+> Similarly you will see Carthaginian coins described as 1 1/2 Shekels or
+> Tridrachms... not much sense in either case as we have no idea what they were
+> really called. The Carthaginians being of Phoenician extraction, I suspect they
+> were originally struck by the Carthaginians with a lower silver to gold value
+> than the Phoenician Shekel, reflecting Carthage's original gold based economy,
+> prominence and wealth, and were called a shekel by the Carthaginians despite
+> being 50% heavier that the Phoenician silver shekel.
+> 
+> **Table 1. Eastern Hellenistic coin standards (The weights are given in grams.)**
+> 
+> |Standard|Tetradrachm|Didrachm|Drachm|Hemidrachm|
+> |Aeginetan|-|12.2|6.1|3.05|
+> |Reduced Aeginetan (Corcyrean)|-|11.5 - 10.0|5.75 - 5.0|2.8 - 2.5|
+> |Persian|-|11.2|5.6|2.8|
+> |Attic|17.3 - 16.18|8.65 - 8.4|4.3 - 4.2|2.15 - 2.1|
+> |Chian|15.6|7.8|3.9|-|
+> |Ptolemaic|14.3|7.15|3.55|-|
+> |Rhodian|13.6 - 13.4|6.8 - 6.7|3.4|-|
+> |Cistophoric|12.6|6.3|3.15|-|
+
+
+ * **leptop (widow's mite)**: Mark 12:42, Luke 12:59, 21:2
+ * **drachma**: Luke 15:8 - Cappadocian drachma
+ * **denarius (day's wages)**: Matthew 18:28; 20:1–16; 22:19; Mark 6:37; 12:15; 14:5; Luke 7:41; 10:35; 20:24; John 6:7; 12:5; Rev. 6:6 - equivalent to the drachma; Caesar's head
+ * **didrachma**: Matthew 17:24 - mistranslated to "tribute coin"
+ * **stater/statera (statēra)**: Matthew 17:27 - interchangeable w/ didrachma
+ * **Tyre shekel (Temple tax)**: Exodus 30:13 (Money Changers), John 2:15, Matthew 21:12 (Peter's Fish), Matthew 17:27 (Judas' 30 coins) Matthew 26:15
+
+// shekel : denarius : talent :: Jewish : Greek : Roman
+
+> https://cdn.bakerpublishinggroup.com/processed/esource-assets/files/2058/original/1.2.Coins_Mentioned_in_the_New_Testament.pdf?1525364484:
+> **denarius**: This silver coin was the usual day’s wage for a typical
+> laborer (see Matt. 18:28; 20:1–16; 22:19; Mark 6:37; 12:15; 14:5;
+> Luke 7:41; 10:35; 20:24; John 6:7; 12:5; Rev. 6:6). **The denarius (a
+> Roman coin) appears to have been roughly equivalent in value to the
+> drachma (a Greek coin). The “lost coin” in the parable that Jesus
+> tells in Luke 15:8–10 is a drachma**.
+
+### The Book of Revelation, Collapse of the Dollar, and Food Insecurity
+
+// Silver Depositories and Grain Silos
+
+> FOOD PRICES ARE CLIMBING EVEN HIGHER.
+> IT MAY DIP AT TIMES BUT IT WILL FULFILL REV6:6.
+> THE TARIFFS IS WHAT IS FUCKING YOU OVER.
+> THE MONEY HAS GONE TO PALENTIR TO FUCK YOU OVER MORE.
+> FUEL PRICES DOWN CUZ THERE IS NO MORE MONEY TO SPEND.
+
+> Berean Standard Bible.
+> Rev 6:5: Then I looked and saw a black horse, and its rider held in his hand a pair of scales.
+> Rev 6:6: And I heard what sounded like a voice from among the four living creatures, saying, “A quart of wheat for a denarius, a and three quarts of barley for a denarius, and do not harm the oil and wine.”
+
+> "A quart of wheat for a denarius."
+
+ * One ounce is 28.35 grams.
+ * A denarius is a drachm is 4.3g.
+ * A silver denarius is thus $70 x 4.3/28.35 = $10.61 today.
+ * A silver denarius constituted a day's wage for a manual laborer.
+ * A quart of wheat weighs ~1.1 pounds.
+ * On Amazon a quart of wheat costs $9 ~ $14 today.
+ * So already a quart of wheat costs about a denarius.
+ * But you know the fucked up part?
+ * Silver is going to $600+ before you agree there is dollar hyperinflation.
+
+_You WILL be buying wheat in silver coins.
+And at the farmers market you will hear,
+
+**"A quart of wheat for a denarius"**_
+
+next year, or the year after that, or certainly by 2028 end.
+
+We should be buying WHEAT and storing it in silos for the coming years.
+Instead we're putting tarrifs on it and giving the proceeds to Palentir.
+If we're not going to investigate Bill Gates and the assassination of the
+person who was going to take him to court earlier this January 2025,
+
+We best start preparing for the coming holodomor.
+
+A government that is not preparing by storing grain right now for the coming 4
+years, and starting to prepare for the next 40+ years of the coming solar
+minimum, is a government that does not care about its obsolescence.
+
+The monitoring and mass surveillance cannot handle the stochastic terror that
+will upend any sense of order.
+
 
 
 > Berean Literal Bible
