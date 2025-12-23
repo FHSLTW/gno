@@ -3,8 +3,13 @@ _If you can read this, DO NOT share until the whitepaper is complete_
 
 # Gno.land Whitepaper
 
-Jae Kwon - Chief Architect
-XXX
+@author: Jae Kwon - chief architect; chief founder/inventor of Tendermint and
+Cosmos; first to completely solve BFT proof-of-stake in 2013,2014.
+
+I alone could not have arrived at the final design of the Gno langauge
+without the help of the many developers who gave much time of their lives to
+contribute to this project and the design of the language; specifically
+Manfred, Morgan, Maxwell, Guilhem, Milos, Ray, and Omar.
 
 ## Introduction
 
@@ -236,7 +241,7 @@ associated with the tetradrachm as if they are equivalent. This is the false
 association in many other translations of the bible that mistranslate a stater
 as a "four-drachma coin", implying that Jesus asked Peter to pay the full
 "didrachma/two-drachma" for each. No, Jesus asked Peter to half the required
-amount of one stater(a), which is equivalent to a "two-drachma coin/didrachma".
+amount--of one stater(a)--which is equivalent to a "two-drachma coin/didrachma".
 
 > https://en.wikipedia.org/wiki/Ancient_drachma:
 > The tetradrachm ("four drachmae") coin was perhaps the most widely used coin
