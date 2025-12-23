@@ -48,11 +48,11 @@ It should be noted that all these problems are fueled by the impetus to seek a
 return from (capital) investment, whether legitimate, whether bubble, or
 whether fruadulent in nature.
 
-Another problem is the establishment of the "AI beast matrix prison".
-Palentir has partnered with the current US administration to create a vast mass
+Another problem is the establishment of the "AI beast matrix prison".  Palentir
+has partnered with the current US administration to create a vast mass
 surveillance system that intercepts your internet interactions and censors what
-you post, and what you see, using sophisticated AI. The uploading of files
-will grind to a halt depending on its content. The link you posted will load
+you post, and what you see, using sophisticated AI. The uploading of files will
+grind to a halt depending on its content. The link you post will load
 differently for the recipient, and so on.
 
 Wikipedia is the predominant tool for knowledge but it is also massively
@@ -96,21 +96,25 @@ fruit from the Tree of Knowledge of Good and Evil (of capital Truth and
 Falsehood), on the suggestion of the serpent who in the technical sense did not
 lie, but did lie by omission with _intent_ to deceive.
 
-Gno.land is inspired by the structure (numbered verses of books) of the bible
-and a desire to facilitate the world to see more clearly the intent of the
-original authors (of prophets, scribes, and historians) so as to reverse the
-effects of the Principle of Explosion rooted in our general spiritual
-subversion and degeneration.
+### Gno.land Application for AI Safety
+
+XXX 
 
 ### Gno.land Genesis - Addressing Mistranslations of the Bible
 
-Gno.land was started during the Covid19 lockdowns when I was most frustarted at
-the censorship of information regarding the true laboratory origins of Covid19
-and the conspiracy to forcibly medicate the population with a dangerous
-experimental gene therapy that did more harm to children and young adults than
-good. I was also frustrated over the years of dealing with the ICF and the
-"Cosmos Cartel" which defamed and slandered the chief architect and visionary
-and inventor behind the project.
+Gno.land was originally inspired by the structure (numbered verses of books) of
+the bible and a desire to facilitate the world to see more clearly the intent
+of the original authors (of prophets, scribes, and historians) so as to reverse
+the effects of the Principle of Explosion rooted in our general spiritual
+subversion and degeneration.
+
+Coding for Gno.land began during the Covid19 lockdowns when I was most
+frustarted at the censorship of information regarding the true laboratory
+origins of Covid19 and the conspiracy to forcibly medicate the population with
+a dangerous experimental gene therapy that did more harm to children and young
+adults than good. I was also frustrated over the years of dealing with the ICF
+and the "Cosmos Cartel" which defamed and slandered the chief architect and
+visionary and inventor behind the project.
 
 Prior to that during December 25th, 2019, when I started reading the New
 Testament for the first time, the first thing I read was the Book of Revelation
@@ -255,11 +259,6 @@ Athenian and Corinthian stater--it is clear that all translations of stater to
 "four-drachma(e) coin" is incorrect.
 
 See the appendex for more information on coin denomination information.
-
-### Gno.land Genesis - Past Approaches to Knowledge Systems and Limitations
-
-TODO wikipedia
-TODO Ethereum
 
 ### Gno.land Genesis - Open Censorship-Resistant Programmable Knowledge Base
 
