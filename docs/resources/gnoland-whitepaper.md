@@ -96,7 +96,7 @@ lie, but did lie by omission with _intent_ to deceive.
 
 ### Gno.land for AI Safety
 
-AI has become 
+LLM based AI models have created a 
 
 ### Gno.land Genesis - Addressing Mistranslations of the Bible
 
@@ -445,8 +445,9 @@ https://www.jetir.org/papers/JETIR1904417.pdf ??
 
 Consider the following statements:
 
- * Jesus was crucified for protesting the tax system as well as protecting
-   chilren against the hypocracy of the priests in Jerusalem at the time.
+ * Jesus was crucified primarily for protesting the tax system and also calling
+   out the hypocracy of the Sanhedrin priests who followed the elitist
+   (anti-goyic) anti-Torah inversions manifest in Babylonian Talmud.
 
  * The Federal Reserve was unconstitutionally ratified in order to debase the
    people's money from the underlying gold and silver.
@@ -455,20 +456,23 @@ Consider the following statements:
    and Astor, specifically to debase the dollar and to steal the works of
    Nikolas Tesla.
 
+ * The AI bubble will collapse as people demand reparations and justice for the
+   explosion of fraud enabled by AI API providers.
+
  * The dollar and most fiat currencies will hyperinflate and collapse by 2030.
 
  * Silver will temporarily replace gold and the dollar as the primary store of
    value and become once again the primary means of exchange; local crypto
    currencies will follow.
 
- * In the future most EV cars will use silver solid-state batteries.
+ * In the future most electric vehicles will use silver solid-state batteries.
 
- * The US will trade grain with China for silver.
+ * The USA will begin bartering grain for silver with China.
 
  * The price of a quart of wheat will exceed $600 by 2030 if not much sooner.
 
- * There exists at this moment a US/global surveillance system headed by Palentir
-   which uses advanced AI to intercept, mutate, and censor sensitive
+ * There exists at this moment a US-based global surveillance system headed by
+   Palentir which uses advanced AI to intercept, mutate, and censor sensitive
    information from reaching public consciousness; and Twitter is complicit.
 
  * The dynastic elites wish for global depopulation; and Covid19 was engineered
@@ -477,13 +481,13 @@ Consider the following statements:
  * Fauci should be in jail for illegaly aiding in the development of the
    Covid19 virus and lying to the US Congress about it under oath.
 
- * The Grand Solar Minimum will create a deficit in global food production and
-   we are at risk of a global Holodomor; and this is why Bill Gates has been
-   buying farmland.
+ * The Grand Solar Minimum will create a deficit in global food production for
+   decades and we are at risk of a global Holodomor; this is why Bill Gates has
+   been buying farmland.
 
  * Stocking up on organic grains and organic legumes and silver is the best way
    for a nation's people to defend against a tyrannical government and mitigate
-   excess immigration.
+   excess immigration, and to survive the Grand Solar Minimum.
 
  * Glyphosate in grains is a significant contributor to cancer; farmers may be
    pressured by weather and financial reasons to use glyphosate against the
@@ -494,8 +498,8 @@ Consider the following statements:
    the glyphosate; studies are needed.
 
  * The "10 Lost Tribes of Israel" are not all represented in the Jewish
-   population, but are mixed in the general Eurasian population as well as some
-   people in Africa.
+   population, but are also mixed in the general Eurasian population as well
+   other places such as in Etheopia.
 
  * The intent behind the bombing of Hiroshima and Nagasaki was to genocide the
    Hebrew Israelites who settled in Japan after traveling due East of Jerusalem
@@ -503,6 +507,7 @@ Consider the following statements:
 
  * Dolmen are related to the Ark of the Covenant, the two tablets of Moses, and
    originate from Mt Ebal in the Old Testament.
+
 
 Most if not all of the statements are true, but are not convincing unless the
 supporting evidence and discussions are also taken into account. Not only that,
