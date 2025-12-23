@@ -99,10 +99,27 @@ subversion and degeneration.
 
 ### Gno.land Genesis - Addressing Mistranslations of the Bible
 
-**The New Testament had been mistranslated to hide the primary reason why Jesus
-was crucified--it was because he was in protest of taxes.** Despite all the
-sources online and the authorities at Church, this can be verified by
-inspecting the facts.
+Gno.land was started during the Covid19 lockdowns when I was most frustarted at
+the censorship of information regarding the true laboratory origins of Covid19
+and the conspiracy to forcibly medicate the population with a dangerous
+experimental gene therapy that did more harm to children and young adults than
+good. I was also frustrated over the years of dealing with the ICF and the
+"Cosmos Cartel" which defamed and slandered the chief architect and visionary
+and inventor behind the project.
+
+Prior to that during December 25th, 2019, when I started reading the New
+Testament for the first time, the first thing I read was the Book of Revelation
+and specifically the Letter to Ephesus; and it spoke to me like nobody else
+could regarding what I was enduring with the drama around Cosmos. During the
+course of the Covid19 lockdown I studied every conspiracy theory to understand
+the reason for both "GORE2020" and the lockdowns, and discovered that they both
+have the same underlying cause. During this time I also learned that many
+translations of the Old Testament and New Testament were wrong by design.
+
+For example, **the New Testament had been mistranslated to hide one of the
+primary reason why Jesus was crucified--it was because he was in protest of
+taxes.** Despite all the sources online and the authorities at Church, this can
+be verified by inspecting the facts.
 
 It is now well understood in some circles that certain translations of the
 bible were intentionally designed (or at least promoted) with the intent of
@@ -114,10 +131,10 @@ study. Furthermore, even on BibleHub.com there still persist systemic
 mistranslations that have been carried on for millenia since the time of the
 Roman Empire.
 
-I am not advocating for tax avoidance. I am merely pointing out the truth
-of the bible that had been hidden successfully for centuries if not the 
-entirety of two millenia since the first Latin translation by the Roman
-empire.
+(I am not advocating for tax avoidance here, but merely pointing out the truth
+that the meaning behind the Word had been hidden successfully for centuries if
+not the entirety of two millenia since the first Latin translation by the Roman
+Empire.)
 
 > King James Version - Luke 20
 > 20:21: And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:
