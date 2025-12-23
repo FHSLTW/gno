@@ -26,8 +26,6 @@ means "to know" or "to recognize." It is often associated with terms related to
 knowledge, such as "gnosis," which signifies knowledge or insight, particularly
 in a spiritual context._
 
-// Problem of the world; censorship of information.
-
 The world faces a serious problem of misinformation and too much information
 without distillation. Traditional web2.0 platforms actively suppress
 inconvenient information at the expense of true progress; for we need first to
@@ -96,9 +94,9 @@ fruit from the Tree of Knowledge of Good and Evil (of capital Truth and
 Falsehood), on the suggestion of the serpent who in the technical sense did not
 lie, but did lie by omission with _intent_ to deceive.
 
-### Gno.land Application for AI Safety
+### Gno.land for AI Safety
 
-XXX 
+AI has become 
 
 ### Gno.land Genesis - Addressing Mistranslations of the Bible
 
@@ -450,9 +448,6 @@ Consider the following statements:
  * Jesus was crucified for protesting the tax system as well as protecting
    chilren against the hypocracy of the priests in Jerusalem at the time.
 
- * Fauci should be in jail for illegaly aiding in the development of the
-   Covid19 virus and lying to the US Congress about it under oath.
-
  * The Federal Reserve was unconstitutionally ratified in order to debase the
    people's money from the underlying gold and silver.
 
@@ -460,38 +455,54 @@ Consider the following statements:
    and Astor, specifically to debase the dollar and to steal the works of
    Nikolas Tesla.
 
- * The intent behind the bombing of Hiroshima and Nagasaki was to genocide the
-   Hebrew Israelites who settled in Japan after traveling due East of Jerusalem
-   due to Genesis 3.
+ * The dollar and most fiat currencies will hyperinflate and collapse by 2030.
 
- * Silver will soon replace gold and the dollar as the primary store of value
-   and the means of physical exchange barter.
+ * Silver will temporarily replace gold and the dollar as the primary store of
+   value and become once again the primary means of exchange; local crypto
+   currencies will follow.
 
- * The Grand Solar Minimum will create a deficit in global food production.
+ * In the future most EV cars will use silver solid-state batteries.
 
  * The US will trade grain with China for silver.
 
  * The price of a quart of wheat will exceed $600 by 2030 if not much sooner.
 
+ * There exists at this moment a US/global surveillance system headed by Palentir
+   which uses advanced AI to intercept, mutate, and censor sensitive
+   information from reaching public consciousness; and Twitter is complicit.
+
+ * The dynastic elites wish for global depopulation; and Covid19 was engineered
+   for this purpose.
+
+ * Fauci should be in jail for illegaly aiding in the development of the
+   Covid19 virus and lying to the US Congress about it under oath.
+
+ * The Grand Solar Minimum will create a deficit in global food production and
+   we are at risk of a global Holodomor; and this is why Bill Gates has been
+   buying farmland.
+
+ * Stocking up on organic grains and organic legumes and silver is the best way
+   for a nation's people to defend against a tyrannical government and mitigate
+   excess immigration.
+
+ * Glyphosate in grains is a significant contributor to cancer; farmers may be
+   pressured by weather and financial reasons to use glyphosate against the
+   recommended directions to force an hearly harvest before cold weather.
+
+ * Chlorination (e.g. with chlorine dioxide) or ozonation of water soaked
+   grains with application of UV light of certain frequencies may neutralize
+   the glyphosate; studies are needed.
+
  * The "10 Lost Tribes of Israel" are not all represented in the Jewish
    population, but are mixed in the general Eurasian population as well as some
    people in Africa.
 
+ * The intent behind the bombing of Hiroshima and Nagasaki was to genocide the
+   Hebrew Israelites who settled in Japan after traveling due East of Jerusalem
+   due to Genesis 3.
+
  * Dolmen are related to the Ark of the Covenant, the two tablets of Moses, and
    originate from Mt Ebal in the Old Testament.
-
- * The dollar will hyperinflate and collapse by 2030.
-
- * The globalist elites want global depopulation; and Covid19 was engineered
-   for this purpose.
-
- * Stocking up on grains and legumes and silver is the best way for a nation's
-   people to defend against a tyrannical government and mitigate excess
-   immigration.
-
- * There exists at this moment a US/global surveillance system headed by Palentir
-   which uses advanced AI to intercept, mutate, and censor sensitive
-   information from reaching public consciousness; and Twitter is complicit.
 
 Most if not all of the statements are true, but are not convincing unless the
 supporting evidence and discussions are also taken into account. Not only that,
