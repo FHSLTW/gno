@@ -416,6 +416,65 @@ Wittgenstein's Critique of the "Tractatus" View of Rules - Diane F. Gottlieb
 
 https://www.jetir.org/papers/JETIR1904417.pdf ??
 
+------------------
+
+Consider the following statements:
+
+ * Jesus was crucified for protesting the tax system as well as protecting
+   chilren against the hypocracy of the priests in Jerusalem at the time.
+
+ * Fauci should be in jail for illegaly aiding in the development of the
+   Covid19 virus and lying to the US Congress about it under oath.
+
+ * The Federal Reserve was unconstitutionally ratified in order to debase the
+   people's money from the underlying gold and silver.
+
+ * JP Morgan intentionally sank the Titanic to murder opposition such as Straus
+   and Astor, specifically to debase the dollar and to steal the works of
+   Nikolas Tesla.
+
+ * The intent behind the bombing of Hiroshima and Nagasaki was to genocide the
+   Hebrew Israelites who settled in Japan after traveling due East of Jerusalem
+   due to Genesis 3.
+
+ * Silver will soon replace gold and the dollar as the primary store of value
+   and the means of physical exchange barter.
+
+ * The Grand Solar Minimum will create a deficit in global food production.
+
+ * The US will trade grain with China for silver.
+
+ * The price of a quart of wheat will exceed $600 by 2030 if not much sooner.
+
+ * The "10 Lost Tribes of Israel" are not all represented in the Jewish
+   population, but are mixed in the general Eurasian population as well as some
+   people in Africa.
+
+ * Dolmen are related to the Ark of the Covenant, the two tablets of Moses, and
+   originate from Mt Ebal in the Old Testament.
+
+ * The dollar will hyperinflate and collapse by 2030.
+
+ * The globalist elites want global depopulation; and Covid19 was engineered
+   for this purpose.
+
+ * Stocking up on grains and legumes and silver is the best way for a nation's
+   people to defend against a tyrannical government and mitigate excess
+   immigration.
+
+ * There exists at this moment a US/global surveillance system headed by Palentir
+   which uses advanced AI to intercept, mutate, and censor sensitive
+   information from reaching public consciousness; and Twitter is complicit.
+
+Most if not all of the statements are true, but are not convincing unless the
+supporting evidence and discussions are also taken into account. Not only that,
+but there are at least two sides to a story, so the reader must also take into
+account the opposing statement and their justifications to truly understand
+what is real.
+
+XXX
+
+------------------
 
 // Open knowledgebase of propositional logic for AI safety.
 // Rich reference ability for premissionless iteration.
