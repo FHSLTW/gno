@@ -8,6 +8,12 @@ XXX
 
 ## Introduction
 
+> 10:26: So do not be afraid of them. For there is nothing concealed that will
+>        not be disclosed, and nothing hidden that will not be made known.
+> 10:27: What I tell you in the dark, speak in the daylight; what is whispered
+>        in your ear, proclaim from the housetops.
+> - Matthew 10, Berean Standard Bible
+
 ### Gno.land Genesis - The General Information Problem
 
 _The prefix "gno" in Koine Greek is derived from the verb "ginōskō," which
