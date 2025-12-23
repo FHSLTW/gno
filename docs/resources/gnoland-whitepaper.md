@@ -105,9 +105,39 @@ touts the importance of freedom of speech.
 The AI bubble will collapse as the macro economic and environmental and (geo)
 political and spriitual effects catch up to the current market exuberism. As in
 the Dot Com bubble, the systems that emerge only *after* the bubble has burst
-will become dominant.
+will become dominant. For now, the "machine" will continue to try to use AI to
+censor information to erect a techno-fascist totalitarian government.
 
-XXX
+One way to mitigate the effects of this global technological coup attempt is to
+create a graph of propositional statements and ideas on Gno.land that can help
+anchor instances of AI to key truths. The main AI API providers will attempt to
+circumvent this by blacklisting and quarantining information hosted on
+Gno.land, but this does not prevent the people from being anchored to truth by
+visiting Gno.land themselves. When the people become aware of the vast
+differences between the apparent truths on Gno.land vs the information provided
+by the AI, they will naturally begin to distrust AI, making the censored
+services obsolete.
+
+At some point the main AI API providers may develop an AI model that is better
+at overtly lying, or, like the serpent in Genesis, providing incomplete-truths
+in order to deceive the user. When that happens, evidence of such developments
+will at some point be disclosed on Gno.land to help the people understand how
+they are being manipulated by these AI providers.
+
+// What do we need for the future:
+
+XXX Asimov:
+
+// Asimov's Three Laws of Robotics
+
+ 1. A robot may not injure a human being or, through inaction, allow a human
+    being to come to harm.
+
+ 2. A robot must obey the orders given it by human beings except where such
+    orders would conflict with the First Law.
+
+ 3. A robot must protect its own existence as long as such protection does not
+    conflict with the First or Second Law.
 
 ### Gno.land Genesis - Addressing Mistranslations of the Bible
 
