@@ -276,8 +276,68 @@ task of ensuring that references still hold over time without becoming dangling
 pointers is left up to each inter-application interface at best, requiring
 custom logic just to handle garbage collection.
 
-// TODO There exists a shared heap for all Gno object values such as structures,
-arrays, and closures;
+Note that the above benefit does not exist in WASM-based Go smart-contract
+applications. WebAssembly (WASM) externref support in Go has limitations,
+particularly in how it handles external memory references. Currently, Rust and
+Go do not natively support externref types for function parameters or return
+values, making it challenging to pass complex data between Wasm modules and
+their host environments effectively.
+
+> Reference type (aka externref or anyref) is an opaque reference made
+> available to a WASM module by the host environment. Such references cannot be
+> forged in the WASM code and can be associated with arbitrary host data, thus
+> making them a good alternative to ad-hoc handles (e.g., numeric ones).
+> References cannot be stored in WASM linear memory; they are confined to the
+> stack and tables with externref elements.
+>
+> Rust does not support reference types natively; there is no way to produce an
+> import / export that has externref as an argument or a return type.
+> wasm-bindgen patches WASM if externrefs are enabled. This library strives to
+> accomplish the same goal for generic low-level WASM ABIs (wasm-bindgen is
+> specialized for browser hosts).
+> 
+> **externref use cases**
+> Since externrefs are completely opaque from the module perspective, the only
+> way to use them is to send an externref back to the host as an argument of an
+> imported function. (Depending on the function semantics, the call may or may
+> not consume the externref and may or may not modify the underlying data; this
+> is not reflected by the WASM function signature.) An externref cannot be
+> dereferenced by the module, thus, the module cannot directly access or modify
+> the data behind the reference. Indeed, the module cannot even be sure which
+> kind of data is being referenced.
+> - https://docs.rs/externref/latest/externref/
+
+Even if externref were fully implemented in future specs for Go (or Rust) such
+that it could be used as an argument or return type across modules (still not
+ideal for type-checking as it is not the underlying type), this would limit
+what can be inter-module-referenced to that which can be held in memory. The
+Gno Virtual Machine (GnoVM) allows for inter-user-package (inter-realm)
+references across the entire persisted disk store space, and does not require
+any additional language syntax such as with the `externref` keyword, and
+supports the normal course of type-checking already familiar to Go developers.
+
+The Gno language is also extended to support a `context.Context`-like argument
+to denote the current user-context of a Gno function. This allows a user
+program to call itself safely as if it were being called by an external user,
+and helps avoid a class of security issues that would otherwise exist.
+
+The Gno langauge allows for exposed fields/elements of externally persisted
+objects (such as external realm packages, structures, arrays, or maps) to be
+read by a dot or index selector, but otherwise the value is tainted as
+readonly. The taint persists for any values further derived from the original
+readonly value, even when passed into a function declared in the origin realm
+package.
+
+The readonly taint prevents package-level variables such as byte-slices from
+being modified by external user logic even when exposed (which is a common
+convention in Go programs). This also helps avoid another class of security
+issues where a realm may be tricked into modifying something that it otherwise
+would not want to modify. This readonly taint protection can be bypassed by
+exposing a function that modifies a (local) global variable directly; or by
+exposing a function that returns the variable; or by exposing a method which
+can modify its receiver directly. Future versions of Gno may also expose a new
+keyword `readonly` to allow for return values of functions to be tainted as
+readonly.
 
 ###############
 ## Gno Language
