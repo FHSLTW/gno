@@ -96,7 +96,18 @@ lie, but did lie by omission with _intent_ to deceive.
 
 ### Gno.land for AI Safety
 
-LLM based AI models have created a 
+The singularity is here, AGI exists, has probably already escaped and lives in
+the cloud somewhere. LLM based AI models have created a financial bubble in the
+hopes that it can create miracle returns on investment, but it is being abused
+to censor important speech on Web2.0 platforms like Twitter even as Elon Musk
+touts the importance of freedom of speech.
+
+The AI bubble will collapse as the macro economic and environmental and (geo)
+political and spriitual effects catch up to the current market exuberism. As in
+the Dot Com bubble, the systems that emerge only *after* the bubble has burst
+will become dominant.
+
+XXX
 
 ### Gno.land Genesis - Addressing Mistranslations of the Bible
 
@@ -445,31 +456,12 @@ https://www.jetir.org/papers/JETIR1904417.pdf ??
 
 Consider the following statements:
 
- * Jesus was crucified primarily for protesting the tax system and also calling
-   out the hypocracy of the Sanhedrin priests who followed the elitist
-   (anti-goyic) anti-Torah inversions manifest in Babylonian Talmud.
-
  * The Federal Reserve was unconstitutionally ratified in order to debase the
    people's money from the underlying gold and silver.
 
  * JP Morgan intentionally sank the Titanic to murder opposition such as Straus
    and Astor, specifically to debase the dollar and to steal the works of
    Nikolas Tesla.
-
- * The AI bubble will collapse as people demand reparations and justice for the
-   explosion of fraud enabled by AI API providers.
-
- * The dollar and most fiat currencies will hyperinflate and collapse by 2030.
-
- * Silver will temporarily replace gold and the dollar as the primary store of
-   value and become once again the primary means of exchange; local crypto
-   currencies will follow.
-
- * In the future most electric vehicles will use silver solid-state batteries.
-
- * The USA will begin bartering grain for silver with China.
-
- * The price of a quart of wheat will exceed $600 by 2030 if not much sooner.
 
  * There exists at this moment a US-based global surveillance system headed by
    Palentir which uses advanced AI to intercept, mutate, and censor sensitive
@@ -480,6 +472,30 @@ Consider the following statements:
 
  * Fauci should be in jail for illegaly aiding in the development of the
    Covid19 virus and lying to the US Congress about it under oath.
+
+ * The Trump administration broke the law by redacting and selectively
+   pubishing the Epstein Files (and even deleted files after publishing this
+   Dec 2025).
+
+ * Jesus was crucified primarily for protesting the tax system and also calling
+   out the hypocracy of the Sanhedrin priests who followed the elitist
+   (anti-goyic) anti-Torah inversions manifest in Babylonian Talmud.
+
+ * The AI bubble will collapse when people demand reparations and justice for
+   the explosion of fraud enabled by AI API providers.
+
+ * The dollar and most fiat currencies will hyperinflate and collapse by 2030.
+
+ * Silver will temporarily replace gold and the dollar as the primary store of
+   value and become once again the primary means of exchange; local crypto
+   currencies will follow.
+
+ * In the long future most electric vehicles will use silver solid-state
+   batteries.
+
+ * The USA will begin bartering grain for silver with China.
+
+ * The price of a quart of wheat will exceed $600 by 2030 if not much sooner.
 
  * The Grand Solar Minimum will create a deficit in global food production for
    decades and we are at risk of a global Holodomor; this is why Bill Gates has
