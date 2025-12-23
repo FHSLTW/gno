@@ -47,7 +47,7 @@ Another problem is the establishment of the "AI beast matrix prison".
 Palentir has partnered with the current US administration to create a vast mass
 surveillance system that intercepts your internet interactions and censors what
 you post, and what you see, using sophisticated AI. The uploading of files
-will grind to a halt depending on its content.The link you posted will load
+will grind to a halt depending on its content. The link you posted will load
 differently for the recipient, and so on.
 
 Wikipedia is the predominant tool for knowledge but it is also massively
@@ -368,7 +368,7 @@ readonly.
 Programming language evolution.
 Single-user languages.
 Multi-user language attempts and drawbacks.
-Gno is the first mutli-user general purpose programming language.
+Gno is the first multi-user general purpose programming language.
 Gno.land is the first multi-user general purpose language-based operating system.
 Extends Go to be multi-user.
 Stateless library packages and stateful user realms.
@@ -423,7 +423,7 @@ On Philosophical_Investigations
 Wittgenstein later drafted a criticism of his previous work titled "Philosophical Investigations", 
 
 In a famous passage from the Blue Book, Wittgenstein says that we have a faith
-that "the mechanism of the mind.., can bring about effects which no material
+that "the mechanism of the mind... can bring about effects which no material
 mechanism could" .20 For one who believes that when we mean and understand
 language, such an analysis must be taking place, the lack of a method of
 analysis will not trouble one. For such a one also has faith that the mind can
