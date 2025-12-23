@@ -228,8 +228,56 @@ Athenian and Corinthian stater--it is clear that all translations of stater to
 
 See the appendex for more information on coin denomination information.
 
-Past approaches to knowledge systems and their limitations.
-Summary of solution.
+### Gno.land Genesis - Past Approaches to Knowledge Systems and Limitations
+
+TODO wikipedia
+TODO Ethereum
+
+### Gno.land Genesis - Open Censorship-Resistant Programmable Knowledge Base
+
+Gno.land is a blockchain that interprets the Gno (essentially Go) AST.
+Gno.land is different than any existing smart contract platform in that it
+inter-smart-contract (cross-realm) function calls are handled transparently.
+That is, importing and calling a function or method of another user's
+smart-contract application is no different than that of a library package
+(except that user (stateful) smart-contract applications have a path with
+prefix '/r/', while immutable (stateless) library packages have a path with
+prefix '/p/'). 
+
+**The Gno langauge extends the Go language with minimal modifications to account
+for untrusted external user logic.**
+
+All of our programming languages to date make the same assumption that there is
+only one user -- the programmer, or program executor user. Whether written in
+C, C++, Python, Java, Javascript, or Go, it is assumed that all of the
+dependencies of the program are trusted. If there is a vulnerability in any of
+the dependencies there is a vulnerability in the program; and it is the job of
+the programmer or program/product manager to ensure that the overall program is
+free of exploits.
+
+Smart contract platforms like Ethereum allows for many users to upload their
+application and call other user application logic functions, but Solidity is
+not a general purpose programming language and has severe limitations that make
+it suboptimal for solving the task at hand.
+
+Specifically, **Solidity and other existing smart-contract languages/platforms
+do not support a shared heap memory space for objects to be referenced by
+external-user objects in a uniform manner by language rules**. Alice cannot
+simply declare a structure object that references the structure object
+persisted in Bob's application and trust the garbage collector to retain Bob's
+object for as long as Alice's object is retained.
+
+**Shared garbage-collection in a shared (multi-user) graph of object references
+makes it possible for one's object representing (say) a propositional statement
+or idea to be easily referenced by an alternative statement or idea, or even be
+extended by reference with additional commentary, metadata, or even a
+subreddit-like tree of discussions.** Without a shared garbage collector the
+task of ensuring that references still hold over time without becoming dangling
+pointers is left up to each inter-application interface at best, requiring
+custom logic just to handle garbage collection.
+
+// TODO There exists a shared heap for all Gno object values such as structures,
+arrays, and closures;
 
 ###############
 ## Gno Language
