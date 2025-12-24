@@ -139,13 +139,13 @@ that the meaning behind the Word had been hidden successfully for centuries if
 not the entirety of two millenia since the first Latin translation by the Roman
 Empire.)
 
-> King James Version - Luke 20
-> 20:21: And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:
-> 20:22: Is it lawful for us to give tribute [taxes] unto Caesar, or no?
-> 20:23: But he perceived their craftiness, and said unto them, Why tempt ye me?
-> 20:24: **Shew me a penny. Whose image and superscription hath it? They answered and said, Caesar's.**
-> 20:25: **And he said unto them, Render therefore unto Caesar the things which be Caesar's, and unto God the things which be God's.**
-> 20:26: And they could not take hold of his words before the people: **and they marvelled at his answer**, and held their peace.
+> King James Version:
+> Luke 20:21: And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:
+> Luke 20:22: Is it lawful for us to give tribute [taxes] unto Caesar, or no?
+> Luke 20:23: But he perceived their craftiness, and said unto them, Why tempt ye me?
+> Luke 20:24: **Shew me a penny. Whose image and superscription hath it? They answered and said, Caesar's.**
+> Luke 20:25: **And he said unto them, Render therefore unto Caesar the things which be Caesar's, and unto God the things which be God's.**
+> Luke 20:26: And they could not take hold of his words before the people: **and they marvelled at his answer**, and held their peace.
 
 In the current interpretion, indeed all interpretations of Luke 20:25-26 it is
 claimed that Jesus gave an astonishing answer by agreeing to pay tribute to
@@ -153,11 +153,11 @@ Caesar.
 
 Yet this is incorrect, as can be seen later in Luke 23:
 
-> King James Version - Luke 23
-> 23:2: And they began to accuse him, saying, We found this fellow perverting the nation, **and forbidding to give tribute to Caesar**, saying that he himself is Christ a King.
+> King James Version:
+> Luke 23:2: And they began to accuse him, saying, We found this fellow perverting the nation, **and forbidding to give tribute to Caesar**, saying that he himself is Christ a King.
 
-> Berean Literal bible - Luke 23
-> 23:2: And they began to accuse Him, saying, “We found this man subverting our nation, forbidding payment of taxes to Caesar, and proclaiming Himself to be Christ, a King.”
+> Berean Literal bible:
+> Luke 23:2: And they began to accuse Him, saying, “We found this man subverting our nation, forbidding payment of taxes to Caesar, and proclaiming Himself to be Christ, a King.”
 
 There is a logical inconsistency, as it is written in Luke that Jesus was
 accused of forbidding to give tribute instead.
@@ -178,27 +178,30 @@ the following passage (Matthew 17) were for the Second Temple in Jerusalem.
 There in Matthew 17 there exists clear evidence of intentional mistranlation
 for the purpose of hiding Jesus' true intent of protesting taxes.
 
-> King James Version - Matthew 17
-> 17:24: And when they were come to Capernaum, **they that received tribute money** came to Peter, and said, Doth not your master pay **tribute**?
-> 17:25: He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take **custom or tribute**? of their own children, or of strangers?
-> 17:26: Peter saith unto him, Of strangers. Jesus saith unto him, **Then are the children free**.
-> 17:27: Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find **a piece of money**: that take, and give unto them **for me and thee**.
+> King James Version:
+> Matthew 17:24: And when they were come to Capernaum, **they that received tribute money** came to Peter, and said, Doth not your master pay **tribute**?
+> Matthew 17:25: He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take **custom or tribute**? of their own children, or of strangers?
+> Matthew 17:26: Peter saith unto him, Of strangers. Jesus saith unto him, **Then are the children free**.
+> Matthew 17:27: Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find **a piece of money**: that take, and give unto them **for me and thee**.
 
-> New International Version - Matthew 17
-> 17:24: After Jesus and his disciples arrived in Capernaum, **the collectors of the two-drachma temple tax** came to Peter and asked, “Doesn’t your teacher pay the **temple tax**?”
-> 17:25: “Yes, he does,” he replied. When Peter came into the house, Jesus was the first to speak. “What do you think, Simon?” he asked. “From whom do the kings of the earth **collect duty and taxes**—from their own children or from others?”
-> 17:26: “From others,” Peter answered. **“Then the children are exempt,”** Jesus said to him.
-> 17:27: “But so that we may not cause offense, go to the lake and throw out your line. Take the first fish you catch; open its mouth and you will find **a four-drachma coin**. Take it and give it to them **for my tax and yours**.”
+> New International Version:
+> Matthew 17:24: After Jesus and his disciples arrived in Capernaum, **the collectors of the two-drachma temple tax** came to Peter and asked, “Doesn’t your teacher pay the **temple tax**?”
+> Matthew 17:25: “Yes, he does,” he replied. When Peter came into the house, Jesus was the first to speak. “What do you think, Simon?” he asked. “From whom do the kings of the earth **collect duty and taxes**—from their own children or from others?”
+> Matthew 17:26: “From others,” Peter answered. **“Then the children are exempt,”** Jesus said to him.
+> Matthew 17:27: “But so that we may not cause offense, go to the lake and throw out your line. Take the first fish you catch; open its mouth and you will find **a four-drachma coin**. Take it and give it to them **for my tax and yours**.”
 
-> Berean Litereal Bible - Matthew 17
-> 17:24: And they having come to Capernaum, **those collecting the didrachmas** came to Peter and said, “Does your Teacher pay the **didrachmas**?”
-> 17:25: He says, “Yes.” And he having entered into the house, Jesus anticipated him, saying, “What do you think, Simon? From whom do the kings of the earth receive **custom or tribute**? From their sons, or from strangers?”
-> 17:26: And he having said, “From the strangers,” Jesus said to him, **“Then the sons are free"**.
-> 17:27: But that we might not offend them, having gone to the sea, cast a hook and take the first fish having come up, and having opened its mouth, you will find **a stater**. Having taken that, give it to them **for Me and yourself**.”
+> Berean Litereal Bible:
+> Matthew 17:24: And they having come to Capernaum, **those collecting the didrachmas** came to Peter and said, “Does your Teacher pay the **didrachmas**?”
+> Matthew 17:25: He says, “Yes.” And he having entered into the house, Jesus anticipated him, saying, “What do you think, Simon? From whom do the kings of the earth receive **custom or tribute**? From their sons, or from strangers?”
+> Matthew 17:26: And he having said, “From the strangers,” Jesus said to him, **“Then the sons are free"**.
+> Matthew 17:27: But that we might not offend them, having gone to the sea, cast a hook and take the first fish having come up, and having opened its mouth, you will find **a stater**. Having taken that, give it to them **for Me and yourself**.”
 
 It is apparent that the Berean Literal Bible does a better job at preserving
 context (the original coin denomination names) and this can be verified by comparing
 each transation to the original Koine Greek, which is left as a task to the reader.
+
+> Berean Standard Bible:
+> Acts 17:11: “Now the Bereans were more noble-minded than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if these teachings were true.”
 
 (Even BibleHub has issues showing the original Koine Greek text in
 parallel with translations--often the Koine Greek is modified to suit the
@@ -251,6 +254,16 @@ with additional language for a smaller drachma(e) unit in Corinth. At the same
 time it shows the Athenian four-drachma(e) as having twice the weight of the
 Athenian and Corinthian stater--it is clear that all translations of stater to
 "four-drachma(e) coin" is incorrect.
+
+### Gno.land Separation of Church and (persistent) State
+
+God willing, Gno.land will never censor speech, even what is wrong.
+
+Jefferson 
+
+Gno.land will launch with a minimal (living) constitution written and
+maintained in English, but also it will also ultimately it will be supplemented
+by working Gno code, immutable, and created by awakened Gno developers.
 
 ### Gno.land for AI Safety
 
@@ -619,6 +632,9 @@ I hope this opens eyes – there is an agenda at play.
 // Defi applications.
 // Name registry.
 // Open geneological database.
+// -- If we had an open geneological database, we would probably find that some
+of the key missing persons were turned into burger meat. Thus it is said, "No
+body, no crime".
 
 
 ###############
@@ -788,9 +804,9 @@ https://berean.bible/downloads.htm
 > THE MONEY HAS GONE TO PALENTIR TO FUCK YOU OVER MORE.
 > FUEL PRICES DOWN CUZ THERE IS NO MORE MONEY TO SPEND.
 
-> Berean Standard Bible.
-> Rev 6:5: Then I looked and saw a black horse, and its rider held in his hand a pair of scales.
-> Rev 6:6: And I heard what sounded like a voice from among the four living creatures, saying, “A quart of wheat for a denarius, a and three quarts of barley for a denarius, and do not harm the oil and wine.”
+> Berean Standard Bible:
+> Revelation 6:5: Then I looked and saw a black horse, and its rider held in his hand a pair of scales.
+> Revelation 6:6: And I heard what sounded like a voice from among the four living creatures, saying, “A quart of wheat for a denarius, a and three quarts of barley for a denarius, and do not harm the oil and wine.”
 
 > "A quart of wheat for a denarius."
 
@@ -827,17 +843,17 @@ will upend any sense of order.
 
 
 
-> Berean Literal Bible
-> Matthew 22:15 Then the Pharisees having gone out, took counsel how they might trap Him in His words.
-> Matthew 22:16 And they send their disciples to Him, with the Herodians, saying, “Teacher, we know that You are true, and You teach the way of God in the truth, and to You there is care about no one, for You do not look on the appearance of men.
-> Matthew 22:17 Therefore tell us, what do You think? Is it lawful to give tribute to Caesar, or not?”
-> Matthew 22:18 But having known their malice, Jesus said, “Hypocrites, why do you test Me?
-> Matthew 22:19 Show Me the coin of the tribute.” And they presented to Him a denarius.
-> Matthew 22:20 And He says to them, “Whose likeness and whose inscription is this?”
-> Matthew 22:21 They say to Him, “Caesar’s.” Then He says to them, “Therefore give back to Caesar the things of Caesar, and to God the things of God.”
-> Matthew 22:22 And having heard, they marveled. And having left Him, they went away.
+> Berean Literal Bible:
+> Matthew 22:15: Then the Pharisees having gone out, took counsel how they might trap Him in His words.
+> Matthew 22:16: And they send their disciples to Him, with the Herodians, saying, “Teacher, we know that You are true, and You teach the way of God in the truth, and to You there is care about no one, for You do not look on the appearance of men.
+> Matthew 22:17: Therefore tell us, what do You think? Is it lawful to give tribute to Caesar, or not?”
+> Matthew 22:18: But having known their malice, Jesus said, “Hypocrites, why do you test Me?
+> Matthew 22:19: Show Me the coin of the tribute.” And they presented to Him a denarius.
+> Matthew 22:20: And He says to them, “Whose likeness and whose inscription is this?”
+> Matthew 22:21: They say to Him, “Caesar’s.” Then He says to them, “Therefore give back to Caesar the things of Caesar, and to God the things of God.”
+> Matthew 22:22: And having heard, they marveled. And having left Him, they went away.
 
-> Berean Literal Bible
+> Berean Literal Bible:
 > Luke 20:19: When the scribes and chief priests realized that Jesus had spoken this parable against them, they sought to arrest Him that very hour. But they were afraid of the people.
 > Luke 20:20: So they watched Him closely and sent spies who pretended to be sincere. They were hoping to catch Him in His words in order to hand Him over to the rule and authority of the governor.
 > Luke 20:21: “Teacher,” they inquired, “we know that You speak and teach correctly. You show no partiality but teach the way of God in accordance with the truth.
@@ -846,3 +862,22 @@ will upend any sense of order.
 > Luke 20:24: “Show Me a denarius. Whose image and inscription are on it?” “Caesar’s,” they answered.
 > Luke 20:25: So Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.”
 > Luke 20:26: And they were unable to trap Him in His words before the people. And amazed at His answer, they fell silent.
+
+
+--------
+
+> Berean Standard Bible:
+> Revelation 6:6: "And I heard something like a voice in the midst of the four living
+creatures, saying, "A **choenix of wheat for a denarius**, and three choenixes of
+barley for a denarius; and you should not injure the oil and the wine." -
+Berean Standard Bible
+
+And how even the KJV hides the true meaning of it.
+
+> King James Bible:
+> Revelation 6:6: "And I heard a voice in the midst of the four beasts say, **A
+> measure of wheat for a penny**, and three measures of barley for a penny; and
+> see thou hurt not the oil and the wine." - King James Bible
+
+Silver (denarius) will continue to rise in price, whereas a penny will continue
+to deflate in value.
