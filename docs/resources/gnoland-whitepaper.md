@@ -413,6 +413,10 @@ Consider the following statements:
  * Dolmen are related to the Ark of the Covenant, the two tablets of Moses, and
    originate from Mt Ebal in the Old Testament.
 
+ * Diatomic-Carbon and Cyanide emitted in the anti-tail from 3I/ATLAS toward
+   the Sun/Jupiter from around and before 8/25/25 will collide with Earth
+   around 3/10/26 to produce more Cyanide and may fulfill the prophecy of
+   Wormwood. (see Appendix)
 
 Most if not all of the statements are true, but are not convincing unless the
 supporting evidence and discussions are also taken into account. Not only that,
@@ -881,3 +885,80 @@ And how even the KJV hides the true meaning of it.
 
 Silver (denarius) will continue to rise in price, whereas a penny will continue
 to deflate in value.
+
+### 3I/ATLAS and Wormwood.
+
+**Diatomic-Carbon and Cyanide emitted in the anti-tail from 3I/ATLAS toward the
+Sun/Jupiter from around and before 8/25/25 may collide with Earth around
+3/10/26 to produce more Cyanide. (see Appendix)**
+
+The clumps ejected from 3I/ATLAS headed toward the Sun and Jupiter from months
+ago around 8/25/25 would have been slowed down (repelled) by solar wind and the
+Earth may collide with a significant amount around 3/10/26.
+
+This is because the anti-tail is in the orbital path of the Earth, and Earth is
+slingshotting back toward particles that may have been pulled toward the
+Earth's orbit by Mars and also slowed-down/repelled by solar rays. There is a
+range of emissions (by size) for a range of time which **Earth will collide
+with and the diatomic carbon will react with the diatomic nitrogen and produce
+more cyanide**. The question is how much.
+
+An advanced computer simulation with different models is needed to calculate
+how much diatomic-carbon and cyanide the earth will absorb; and it may compute
+to biblical proportions aka Wormwood.
+
+You can use a tool to visualize the trajectory of 3I/ATLAS versus the sun and
+planets.
+
+https://www.atlascomet.com/3d-interstellar-tracker
+
+Consider that the tail and anti-tail initially preserve their momentum with
+3I/ATLAS and that the early emissions around 8/25/25 and prior can be slowed
+down and pulled (by Mars) just enough for Earth impact around 3/10/25.
+
+Professor Avi Loeb says that it won't impact the Earth in significant amounts
+but he doesn't seem to be considering the ejected matter from many months ago
+that were slowed-down/repelled by solar wind and potentially pulled toward
+Earth by Mars.
+
+Youtuber @DobsonianPower [asked this question independently
+too](https://www.youtube.com/watch?v=4R0YWlu99nY) but he takes Professor Avi
+Loeb's word for it; and doesn't consider the slowed down particles/clumps that
+were ejected around 8/25/25 and originally headed toward the Sun (anti-tail)
+and Jupiter.
+
+How much diatomic-carbon and cyanide in mass would need to be absorbed by Earth
+from a comet such as 3I/ATLAS for it to fulfill the prophecy of Wormwood?
+
+> @grok: Hypothetically, to kill ~2.7 billion people (1/3 of 8.2B global pop)
+with cyanide, assuming 150mg lethal dose per person and direct delivery, it'd
+take ~410 tons. For a meteor dispersing into waters (per Wormwood prophecy),
+dilution means vastly more--**potentially millions of tons** depending on mixing.
+
+So "potentially millions of tons"... meanwhile,
+
+> NASA Flags 3I/ATLAS for Losing 5B Tons Per Month—Interstellar Comet Defies
+> Natural Laws.
+
+3I/ATLAS is recently losing FIVE BILLION TONS PER MONTH. I'm not sure how that
+was calculated but I'm assuming that's not just the observable gasses because
+if it's an explosion of debris and the "5B tons" refers only to what is
+observable, then there's going to be a lot more than 5 BILLION TONS in debris
+PER MONTH we should be thinking about.
+
+So according to @grok's rough calculation, just 0.1% of the the anti-tail of a
+month's duration needs to collide with Earth for 3I/ATLAS to be Wormwood,
+assuming that most/all of the mass is diatomic-carbon.
+
+> 3I/ATLAS is estimated to have a mass of over 33 billion tons, with some
+> calculations suggesting it may have lost around 16% of its mass through
+> outgassing.
+
+Links:
+ - https://imgur.com/a/aF4EX37
+ - https://economictimes.indiatimes.com/us/science-tech/3i/atlas-was-not-a-threat-to-earth-but-what-about-the-poisonous-cyanide-it-left-behind/articleshow/126156310.cms
+ - https://www.ibtimes.com/3i-atlas-baffles-experts-harvard-scientist-raises-alarming-claim-about-cyanide-clouds-space-3793595
+ - https://www.forbes.com/sites/jamiecartereurope/2025/12/18/alien-comet-3iatlas-is-getting-brighter-and-greener-scientists-say/
+ - https://futurism.com/space/mysterious-interstellar-object-may-have-exploded
+ - https://www.godlikeproductions.com/forum1/message6118344/pg1
+ - https://www.msn.com/en-us/news/technology/nasa-flags-3i-atlas-for-losing-5b-tons-per-month-interstellar-comet-defies-natural-laws/ar-AA1RkStE
