@@ -121,8 +121,20 @@ translations of the Old Testament and New Testament were wrong by design.
 
 For example, **the New Testament had been mistranslated to hide one of the
 primary reason why Jesus was crucified--it was because he was in protest of
-taxes.** Despite all the sources online and the authorities at Church, this can
-be verified by inspecting the facts.
+taxes and accused by Sanhedrin of inciting the people of Israel in Judea under
+Roman rule.** Despite all the sources online and the authorities at Church,
+this can be verified by inspecting the facts. Even the Babylonian Talmud in
+[Sanhedrin attests to the fact](../../misc/jaekwon/jesus_in_talmud) that the
+Sanhedrin supreme court condemned Jesus to death for "inciting" Israel,
+although curiously (or not surprisingly) the source at sefaria.org adds
+incorrect language in the English translation (in unbolded text) that the
+incitement was for idol worship. (Also of note is that Google Translate
+[intentionally mistranslates "excrement" to
+"water"](misc/jaekwon/jesus_in_talmud/google_translate_lies.png) among other
+portions of Gittin 56b)
+
+(see more context
+[here](https://christiancourier.com/articles/the-jewish-talmud-and-the-death-of-christ))
 
 It is now well understood in some circles that certain translations of the
 bible were intentionally designed (or at least promoted) with the intent of
@@ -366,9 +378,9 @@ Consider the following statements:
    pubishing the Epstein Files (and even deleted files after publishing this
    Dec 2025).
 
- * Jesus was crucified primarily for protesting the tax system and also calling
-   out the hypocracy of the Sanhedrin priests who followed the elitist
-   (anti-goyic) anti-Torah inversions manifest in Babylonian Talmud.
+ * The New Testament had been mistranslated to hide one of the primary reason
+   why Jesus was crucified--because he was in protest of taxes and accused by
+   Sanhedrin of inciting the people of Israel in Judea under Roman rule.
 
  * The AI bubble will collapse when people demand reparations and justice for
    the explosion of fraud enabled by AI API providers.
