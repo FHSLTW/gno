@@ -897,6 +897,40 @@ And how even the KJV hides the true meaning of it.
 Silver (denarius) will continue to rise in price, whereas a penny will continue
 to deflate in value.
 
+### Persecution of Christians in China
+
+> @supergrok:
+> 
+> Merry Christmas to you too!
+> 
+> ChinaAid is a respected advocacy group founded by Bob Fu (chinaaid.org), often
+> cited in US State Department reports and by organizations like USCIRF for
+> religious freedom issues in China (uscirf.gov +1). It's advocacy-focused, so
+> cross-reference with others.
+> 
+> Upon verification, the arrests and raids in Yayang Town (Wenzhou, Zhejiang
+> province) starting around Dec 13, 2025, are reported by multiple outlets
+> including ChinaAid (which detailed a blockade and fireworks display to conceal
+> the operation) chinaaid.org, The Guardian (which covered the broader crackdown
+> on house churches in Wenzhou with over 100 detained in raids last week,
+> aligning with the timeline and location) theguardian.com, Christian Post
+> (citing ChinaAid on the SWAT-led mass arrests across at least 12 congregations)
+> christianpost.com, and Washington Stand (reporting on the CCP's mobilization of
+> over 1,000 personnel for the Dec 13-17 operations) washingtonstand.com. I
+> couldn't locate specific recent reports from Bitter Winter or International
+> Christian Concern in my searches, so those may have been a mix-up on my
+> part—apologies if so. No official CCP denial was found in any available
+> reporting.
+
+ - https://www.theguardian.com/world/2025/dec/23/christians-pastors-arrested-detained-china-crackdown-house-churches
+ - https://chinaaid.org/news/blockade-behind-the-fireworks-a-thousand-police-arrest-hundreds-of-christians-in-a-small-town-in-zhejiang/
+ - https://www.theguardian.com/world/2025/dec/23/christians-pastors-arrested-detained-china-crackdown-house-churches
+ - https://www.christianpost.com/news/swat-teams-carry-out-mass-arrests-of-christians-in-china-report.html
+ - https://washingtonstand.com/article/ccp-conducts-mass-arrests-of-christians-days-before-christmas
+ - https://chinaaid.org/news/stories-by-issue/advocacy/us-commission-labels-china-country-of-particular-concern/
+ - https://www.uscirf.gov/sites/default/files/Bob%20Fu%20USCIRF%20Testimony.pdf
+ - https://kslegislature.gov/li_2024/b2023_24/committees/ctte_spc_2023_adversary_purchases_1/documents/testimony/20230926_04.pdf
+
 ### 3I/Atlas and Wormwood
 
 **A hypothetical debris field trailing 3I/Atlas (and ejecta from its anti-tail
