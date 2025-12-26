@@ -899,6 +899,8 @@ to deflate in value.
 
 ### Persecution of Christians in China
 
+From a conversation with Twitter's @supergrok:
+
 > @supergrok:
 > 
 > Merry Christmas to you too!
@@ -930,6 +932,14 @@ to deflate in value.
  - https://chinaaid.org/news/stories-by-issue/advocacy/us-commission-labels-china-country-of-particular-concern/
  - https://www.uscirf.gov/sites/default/files/Bob%20Fu%20USCIRF%20Testimony.pdf
  - https://kslegislature.gov/li_2024/b2023_24/committees/ctte_spc_2023_adversary_purchases_1/documents/testimony/20230926_04.pdf
+
+Of course Twitter/X/Supergrok does not make it easy to copy-paste its answer to
+other platforms; when I tried initially the result was misordered (who is to
+blame I do not know); when I tried a second time the result was properly
+oredered but still the links were not whole. This was an attempt to force me to
+share the content within the walled garden of Twitter/X. See more
+[here](../../misc/jaekwon/twitter_censorship/1_Grok_X_2025-12-26T13-04-06) and
+[here](../../misc/jaekwon/twitter_censorship/second_paste_attempt.txt).
 
 ### 3I/Atlas and Wormwood
 
