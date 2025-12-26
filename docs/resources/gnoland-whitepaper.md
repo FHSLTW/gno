@@ -941,6 +941,10 @@ share the content within the walled garden of Twitter/X. See more
 [here](../../misc/jaekwon/twitter_censorship/1_Grok_X_2025-12-26T13-04-06) and
 [here](../../misc/jaekwon/twitter_censorship/second_paste_attempt.txt).
 
+Note above that when I asked @supergrok to comment on the fact that I had
+personally experienced my Twitter posts not preserving integrity, it denied any
+response.
+
 ### 3I/Atlas and Wormwood
 
 **A hypothetical debris field trailing 3I/Atlas (and ejecta from its anti-tail
