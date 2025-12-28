@@ -429,6 +429,13 @@ Consider the following statements:
    around 8/25/25) may collide with Earth around 3/10/26 to darken the skies
    and produce Cyanide, fulfilling the prophecy of Wormwood (see appendix).
 
+ * John 21:23 proves that the author of the Book of Revelation is John the
+   apostle; and that the eschatology was designed for these years 2000 years
+   after. The key is understanding the role of the Vatican as the harlot of
+   Babylon; as Peter was instructed to create, and John was allowed to hear,
+   thereby completing the Book of Revelation according to [Jesus's 3000 year
+   plan](more on github.com/jaekwon/epehsus).
+
 Most if not all of the statements are true, but are not convincing unless the
 supporting evidence and discussions are also taken into account. Not only that,
 but there are at least two sides to a story, so the reader must also take into
@@ -964,6 +971,8 @@ First I will propose a new hypothetical model that explains 3I/Atlas.
  6. 3I/Atlas is trailed by a field of carbonatious debris hidden by its dust tail.
  7. 3I/Atlas is a periodic phenomena described as Wormwood that planted life on Earth.
 
+ See [image](../../misc/jaekwon/wormwood/3i_atlas_debris_field.png).
+
 You can use a tool to visualize the trajectory of 3I/Atlas versus the sun and
 planets. See https://www.atlascomet.com/3d-interstellar-tracker.
 
@@ -997,7 +1006,7 @@ and begin the darken portions of the sky. Later, larger pieces would crash into
 the seas and oceans and create tsunami waves. Then, any following debris that
 lands under the darkened sky would do the same and in addition create Cyanide
 that is otherwise not prevented by photodissociation. Finally, the day and
-night sky would be darkened for a period of months.
+night sky would be darkened for a period of months. 
 
 This is what is described in Revelation 8:7-12.
 
