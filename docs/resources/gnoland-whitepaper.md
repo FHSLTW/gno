@@ -503,8 +503,8 @@ we need a struct declaration.
 
 ```go
 type Thought struct {
-    Text    string
-    Support []*Thought
+    Text            string
+    Dependencies    []*Thought
 }
 ```
 
@@ -513,6 +513,39 @@ annotate each child node (thought) with the type of relation to the parent
 node-- for example whether a child node represents an example, a caveat, a
 correlary, or supporting evidence and so on.
 
+#### Option "Denormalized Thought"
+
+```go
+type Thought struct {
+    Text        string
+    Examples    []*Thought
+    Caveats     []*Thought
+    Correlaries []*Thought
+    Support     []*Thought
+}
+```
+
+#### Option "Normalized Thought"
+
+```go
+type Thought struct {
+    Text    string
+    TypedSupport []*Thought
+}
+
+type TypedThought struct {
+    Type    ThoughtType
+    Thought *Thought
+}
+```
+
+
+XXX a note on []*Thought slice vs map[]*Thought vs avl.Tree (and generics).
+
+Now arises the question of whether counter-arguments should also be referenced
+as a child node to the original thought parent node. There are some options.
+
+ - Option A: 
 
 //....
 
