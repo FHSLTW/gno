@@ -94,6 +94,61 @@ fruit from the Tree of Knowledge of Good and Evil (of capital Truth and
 Falsehood), on the suggestion of the serpent who in the technical sense did not
 lie, but did lie by omission with _intent_ to deceive.
 
+### A Graph of Thoughts
+
+To illustrate the idea of a "graph of thoughts" I will first provide a brief
+overview of Wittgenstein's "Tractatus Logico-Philosophicus" (treatise of
+logical-philosophy). This is not to say that Wittgenstein's Tractatus is 100%
+correct or incorrect. Wittgenstein himself in his later years criticized
+various aspects of his earlier work especially with regards to his propositions
+about propositions as it relates to written langauge--and for this there is a
+distinction between "early Wittgenstein" and "later Wittgetnstein".
+
+1. The world is everything that is the case.
+2. What is the case (a fact) is the existence of states of affairs.
+3. A logical picture of facts is a thought.
+4. A thought is a proposition with a sense.
+5. A proposition is a truth-function of elementary propositions. (An elementary proposition is a truth-function of itself.)
+6. The general form of a proposition is the general form of a truth function, which is: XXX This is the general form of a proposition.
+7. Whereof one cannot speak, thereof one must be silent.
+
+Diving into the first root-level propositional statement, Wittgenstein supports
+the parent node with a tree of more propositional statements.
+
+> 1     The world is everything that is the case.[1]
+> 1.1   The world is the totality of facts, not of things.
+> 1.11  The world is determined by the facts, and by these being all the facts.
+> 1.12  For the totality of facts determines both what is the case, and also all that is not the case.
+> 1.13  The facts in logical space are the world.
+> 1.2   The world divides into facts.
+> 1.21  Any one can either be the case or not be the case, and everything else remain the same.
+
+// On Philosophical_Investigations
+
+Wittgenstein later drafted a criticism of his previous work titled
+"Philosophical Investigations", 
+
+> In a famous passage from the Blue Book, Wittgenstein says that we have a
+> faith that "the mechanism of the mind... can bring about effects which no
+> material mechanism could". For one who believes that when we mean and
+> understand language, such an analysis must be taking place, the lack of a
+> method of analysis will not trouble one. For such a one also has faith that
+> the mind can do wonderful things that we do not begin to understand.
+>
+> Thus, the implicit argument goes, to conceive of a rule as a part of a
+> mechanism is to make a conceptual blunder. For, if a rule functioned as
+> part of a mechanism, it would have to have true of it two contradictory
+> features: it would have an application that both had the possibility of
+> varying and did not have the possibility of varying.
+>  - "Wittgenstein's Critique of the 'Tractatus' View of Rules" - Diane F. Gottlieb
+
+See also https://www.jetir.org/papers/JETIR1904417.pdf ??
+
+TODO relate the above to AI
+TODO relate usage of "thought" here to "thought" used by Wittgenstein.
+     in short, our structures reference thought by elicitation given context.
+     - and this can be verified with AI.
+
 ### Gno.land Genesis - Addressing Mistranslations of the Bible
 
 Gno.land was originally inspired by the structure (numbered verses of books) of
@@ -160,10 +215,9 @@ Empire.)
 > Luke 20:26: And they could not take hold of his words before the people: **and they marvelled at his answer**, and held their peace.
 
 In the current interpretion, indeed all interpretations of Luke 20:25-26 it is
-claimed that Jesus gave an astonishing answer by agreeing to pay tribute to
-Caesar.
-
-Yet this is incorrect, as can be seen later in Luke 23:
+claimed that Jesus gave an astonishing answer because he agreed to pay due
+taxes to Caesar. This could not be further from the truth as can be seen later
+in Luke 23:
 
 > King James Version:
 > Luke 23:2: And they began to accuse him, saying, We found this fellow perverting the nation, **and forbidding to give tribute to Caesar**, saying that he himself is Christ a King.
@@ -267,16 +321,6 @@ time it shows the Athenian four-drachma(e) as having twice the weight of the
 Athenian and Corinthian stater--it is clear that all translations of stater to
 "four-drachma(e) coin" is incorrect.
 
-### Gno.land Separation of Church and (persistent) State
-
-God willing, Gno.land will never censor speech, even what is wrong.
-
-Jefferson 
-
-Gno.land will launch with a minimal (living) constitution written and
-maintained in English, but also it will also ultimately it will be supplemented
-by working Gno code, immutable, and created by awakened Gno developers.
-
 ### Gno.land for AI Safety
 
 The singularity is here, AGI exists, has probably already escaped and lives in
@@ -355,7 +399,7 @@ Gno.land written in Gno for the people to collectively distill such a tree.
 
 ### Gno.land Logical-Sociological Treatise
 
-Consider the following statements:
+Consider the following (singleton and compound) thought statements:
 
  * The Federal Reserve was unconstitutionally ratified in order to debase the
    people's money from the underlying gold and silver.
@@ -366,10 +410,18 @@ Consider the following statements:
 
  * There exists at this moment a US-based global surveillance system headed by
    Palentir which uses advanced AI to intercept, mutate, and censor sensitive
-   information from reaching public consciousness; and Twitter is complicit.
+   information from reaching public consciousness.
 
- * The dynastic elites wish for global depopulation; and Covid19 was engineered
-   for this purpose.
+ * Google, Wikipedia, Meta, Reddit all participate in this censorship; and even
+   Twitter is complicit with the aforementioned censorship albiet with an alibi
+   of it being "for the advertisers".
+
+ * At least some of the Rothschilds are quite litereally satanic; and in
+   Germany there has taken root satanism that includes elements of ritual child
+   sacrifice.
+
+ * The dynastic European banking elites wish for global depopulation; and
+   Covid19 was engineered for this purpose.
 
  * Fauci should be in jail for illegaly aiding in the development of the
    Covid19 virus and lying to the US Congress about it under oath.
@@ -385,7 +437,7 @@ Consider the following statements:
  * The AI bubble will collapse when people demand reparations and justice for
    the explosion of fraud enabled by AI API providers.
 
- * The dollar and most fiat currencies will hyperinflate and collapse by 2030.
+ * The dollar and most fiat currencies will hyperinflate by end of 2027.
 
  * Silver will temporarily replace gold and the dollar as the primary store of
    value and become once again the primary means of exchange; local crypto
@@ -436,13 +488,39 @@ Consider the following statements:
    thereby completing the Book of Revelation according to [Jesus's 3000 year
    plan](more on github.com/jaekwon/epehsus).
 
-Most if not all of the statements are true, but are not convincing unless the
+Most if not all of the thougths are true, but are not convincing unless the
 supporting evidence and discussions are also taken into account. Not only that,
 but there are at least two sides to a story, so the reader must also take into
 account the opposing statement and their justifications to truly understand
 what is real.
 
-### Gno.land Genesis - Open Censorship-Resistant Programmable Knowledge Base
+### Gno.land is an Open Censorship-Resistant Programmable Knowledge Base
+
+Each of the thought statements in the previous section can be represented as a
+simple Go string, but as in Tractatus we want to allow each of these thought
+statements to be supported by any number of supporting thought statements, so
+we need a struct declaration.
+
+```go
+type Thought struct {
+    Text    string
+    Support []*Thought
+}
+```
+
+The above allows for a simple tree structure, but it would be better to
+annotate each child node (thought) with the type of relation to the parent
+node-- for example whether a child node represents an example, a caveat, a
+correlary, or supporting evidence and so on.
+
+
+//....
+
+XXX finally, relate to the concept of a mind map. Also introduce the term
+mind-map in intro.
+
+
+### Gno Language
 
 Gno.land is a blockchain that interprets the Gno (essentially Go) AST.
 Gno.land is different than any existing smart contract platform in that it
@@ -551,6 +629,7 @@ readonly.
 ###############
 ## Gno Language
 
+
 Programming language evolution.
 Single-user languages.
 Multi-user language attempts and drawbacks.
@@ -586,44 +665,6 @@ TypedValue.
 ## Use Cases
 
 Open knowledgebase of propositional logic.
-
-1. The world is everything that is the case.
-2. What is the case (a fact) is the existence of states of affairs.
-3. A logical picture of facts is a thought.
-4. A thought is a proposition with a sense.
-5. A proposition is a truth-function of elementary propositions. (An elementary proposition is a truth-function of itself.)
-6. The general form of a proposition is the general form of a truth function, which is: XXX This is the general form of a proposition.
-7. Whereof one cannot speak, thereof one must be silent.
-
-The world is everything that is the case.[1]
-
-1.1   The world is the totality of facts, not of things.
-1.11  The world is determined by the facts, and by these being all the facts.
-1.12  For the totality of facts determines both what is the case, and also all that is not the case.
-1.13  The facts in logical space are the world.
-1.2   The world divides into facts.
-1.21  Any one can either be the case or not be the case, and everything else remain the same.
-
-On Philosophical_Investigations
-
-Wittgenstein later drafted a criticism of his previous work titled "Philosophical Investigations", 
-
-In a famous passage from the Blue Book, Wittgenstein says that we have a faith
-that "the mechanism of the mind... can bring about effects which no material
-mechanism could" .20 For one who believes that when we mean and understand
-language, such an analysis must be taking place, the lack of a method of
-analysis will not trouble one. For such a one also has faith that the mind can
-do wonderful things that we do not begin to understand.
-
-Thus, the implicit argument goes, to conceive of a rule as a part of a
-mechanism is to make a conceptual blunder. For, if a rule functioned as
-part of a mechanism, it would have to have true of it two contradictory
-features: it would have an application that both had the possibility of
-varying and did not have the possibility of varying.
-
-Wittgenstein's Critique of the "Tractatus" View of Rules - Diane F. Gottlieb
-
-https://www.jetir.org/papers/JETIR1904417.pdf ??
 
 ------------------
 
@@ -684,6 +725,18 @@ Anyone can fork Gno.land.
 Fork of GNU AGPL 3.0.
 Strong attribution clause terms.
 Trademark of Gno.
+
+### Gno.land Separation of Church and State
+
+Gno.land should not censor speech, even if the speech is wrong.
+However, it should ban porn and 
+
+Jefferson 
+
+Gno.land will launch with a minimal (living) constitution written and
+maintained in English, but also it will also ultimately it will be supplemented
+by working Gno code, immutable, and created by awakened Gno developers.
+
 
 ###############
 ## Future Work
