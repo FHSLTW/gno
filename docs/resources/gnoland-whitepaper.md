@@ -409,20 +409,29 @@ Gno.land written in Gno for the people to collectively distill such a tree.
 
 Consider the following (singleton and compound) thought-statements:
 
- * The Federal Reserve was unconstitutionally ratified in order to debase the
-   people's money from the underlying gold and silver.
+ * Nick Shirley exposed a massive Somali day care center scam in Minessota in a
+   viral video which reached more views than all US network television
+   combined, and yet NO mainstream media covered it (as of Dec 30th, 4 days
+   after Nick Shirley's expose.
 
- * JP Morgan intentionally sank the Titanic to murder opposition such as Straus
-   and Astor, specifically to debase the dollar and to steal the works of
-   Nikolas Tesla.
+ * Tim Walz, U.S. House of Representatives, and Democratic nominee for vice-
+   president 2024, knew of the Somali day care scam; and Walz's own appointee
+   murdered the only lawmaker who voted against the Somali day care scam.
 
  * There exists at this moment a US-based global surveillance system headed by
    Palentir which uses advanced AI to intercept, mutate, and censor sensitive
    information from reaching public consciousness.
 
  * Google, Wikipedia, Meta, Reddit all participate in this censorship; and even
-   Twitter is complicit with the aforementioned censorship albiet with an alibi
-   of it being "for the advertisers".
+   Twitter is complicit with the aforementioned censorship in subtle ways
+   albiet with an alibi of it being "for the advertisers".
+
+ * The Federal Reserve was unconstitutionally ratified in order to debase the
+   people's money from the underlying gold and silver.
+
+ * JP Morgan intentionally sank the Titanic to murder opposition such as Straus
+   and Astor, specifically to debase the dollar and to steal the works of
+   Nikolas Tesla.
 
  * At least some of the Rothschilds are quite litereally satanic; and in
    Germany there has taken root satanism that includes elements of ritual child
@@ -563,8 +572,8 @@ permissioning who can add counter-arguments to the graph. With the examples
 above and with no method declarations a *Thought object belonging to one user
 cannot be modified by a third party even though the fields of a Thought struct
 is exposed due to Gno (runtime) interrealm rules that taint third party reads
-via direct (dot and index) selectors with a readonly-taint that persists even
-with (direct selector) access of sub-fields.
+via direct dot-selectors & index-expressions with a readonly-taint that
+persists even with (direct selector) access of sub-fields.
 
 The *Thought object can however be modified by another user by calling a
 declared method. We can extend the Thought struct with additional fields for
@@ -622,25 +631,29 @@ elements from the original tree.
 
 ### Gno Language
 
-Gno.land is a blockchain that interprets the Gno (essentially Go) AST.
-Gno.land is different than any existing smart contract platform in that it
-inter-smart-contract (cross-realm) function calls are handled transparently.
-That is, importing and calling a function or method of another user's
-smart-contract application is no different than that of a library package
-(except that user (stateful) smart-contract applications have a path with
-prefix '/r/', while immutable (stateless) library packages have a path with
-prefix '/p/'). 
+**Gno is the first multi-user general-purpose programming language.**
 
-**The Gno langauge extends the Go language with minimal modifications to account
-for untrusted external user logic.**
+Gno is a minimal extension of the Go language for multi-user programming. Gno
+allows a massive number of programmers to iteratively and interactively develop
+a single shared program such as Gno.land. In other words, Go is a restricted
+subset of the Gno language in the single-user context.
 
-All of our programming languages to date make the same assumption that there is
-only one user -- the programmer, or program executor user. Whether written in
-C, C++, Python, Java, Javascript, or Go, it is assumed that all of the
-dependencies of the program are trusted. If there is a vulnerability in any of
-the dependencies there is a vulnerability in the program; and it is the job of
-the programmer or program/product manager to ensure that the overall program is
-free of exploits.
+All of our programming languages to date are designed for a single programmer
+user. All programming languages make the same assumption that there is only one
+user -- the programmer, or program executor user. Whether written in C, C++,
+Python, Java, Javascript, or Go, it is assumed that all of the dependencies of
+the program are trusted. If there is a vulnerability in any of the dependencies
+there is a vulnerability in the program; it is the job of the programmer or
+program/product manager to ensure that the overall program is free of exploits.
+
+When interacting with programs owned by another user (or process) various
+techniques are used such as via IPC APIs often generated by tools like
+Protobuf/GRPC; but such tools add extra complexity, additional surface area for
+exploits, additional compute complexity, and do not benefit directly from the
+language's native rules and type-checker--especially for inter-process passing
+of in-memory object references.
+
+#### Gno vs Existing Smart Contract Platforms
 
 Smart contract platforms like Ethereum allows for many users to upload their
 application and call other user application logic functions, but Solidity is
@@ -703,28 +716,35 @@ references across the entire persisted disk store space, and does not require
 any additional language syntax such as with the `externref` keyword, and
 supports the normal course of type-checking already familiar to Go developers.
 
-The Gno language is also extended to support a `context.Context`-like argument
+### Interrealm Programming Context
+
+Gno.land supports three types of packages:
+- **Realms (`/r/`)**: Stateful user applications (smart contracts) that
+  maintain persistent state between transactions
+- **Pure Packages (`/p/`)**: Stateless libraries that provide reusable 
+  functionality
+- **Ephemeral Packages (`/e/`)**: Temporary code execution with MsgRun
+  which allows a custom main() function to be run instead of a single
+  function call as with MsgExec.
+
+For an overview of the different package types in Gno (`/p/`, `/r/`, and 
+`/e/`), see [Anatomy of a Gno Package](../builders/anatomy-of-a-gno-package.md).
+
+Interrealm programming refers to the ability of one realm to call functions 
+in another realm. This can occur between:
+- Regular realms (`/r/`) calling other regular realms via MsgExec and MsgRun.
+- Ephemeral realms (`/e/`) calling regular realms via MsgRun (like main.go)
+
+The key concept is that code executing in one realm context can interact with 
+and call functions in other realms, enabling complex multi-user interactions 
+while maintaining clear boundaries and permissions.
+
+The Gno language is extended to support a `context.Context`-like argument
 to denote the current user-context of a Gno function. This allows a user
-program to call itself safely as if it were being called by an external user,
+realm function to call itself safely as if it were being called by an external user,
 and helps avoid a class of security issues that would otherwise exist.
 
-The Gno langauge allows for exposed fields/elements of externally persisted
-objects (such as external realm packages, structures, arrays, or maps) to be
-read by a dot or index selector, but otherwise the value is tainted as
-readonly. The taint persists for any values further derived from the original
-readonly value, even when passed into a function declared in the origin realm
-package.
-
-The readonly taint prevents package-level variables such as byte-slices from
-being modified by external user logic even when exposed (which is a common
-convention in Go programs). This also helps avoid another class of security
-issues where a realm may be tricked into modifying something that it otherwise
-would not want to modify. This readonly taint protection can be bypassed by
-exposing a function that modifies a (local) global variable directly; or by
-exposing a function that returns the variable; or by exposing a method which
-can modify its receiver directly. Future versions of Gno may also expose a new
-keyword `readonly` to allow for return values of functions to be tainted as
-readonly.
+XXX Copy paste more from gno-interrealm and link to it.
 
 ###############
 ## Gno Language
@@ -760,6 +780,20 @@ Memory model.
 AST preprocessing.
 AST interpretation.
 TypedValue.
+
+## Gno.land the Blockchain
+
+Gno.land is a massive-multi-user general-purpose language-based operating
+system.
+
+Gno.land is a blockchain that interprets the Gno (essentially Go) AST.
+Gno.land is different than any existing smart contract platform in that it
+inter-smart-contract (cross-realm) function calls are handled transparently.
+That is, importing and calling a function or method of another user's
+smart-contract application is no different than that of a library package
+(except that user (stateful) smart-contract applications have a path with
+prefix '/r/', while immutable (stateless) library packages have a path with
+prefix '/p/').  XXX
 
 ###############
 ## Use Cases
