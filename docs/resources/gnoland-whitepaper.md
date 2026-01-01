@@ -307,7 +307,33 @@ demonstration--he didn't have any on him. Also, a denarius is a smaller
 denomination than a didrachma or a stater which is for tax payments for the
 temple. In short, Jesus was rejecting Caesar's taxes.
 
-While the taxes mentioned previously in Luke 20 were for Caesar, the taxes in
+> Berean Standard Bible (Luke 20):
+> 19: When the scribes and chief priests realized that Jesus had spoken this
+>     parable against them, **they sought to arrest Him that very hour. But they were
+>     afraid of the people (so they could not yet)**.
+> 20: So they watched Him closely and sent spies who pretended to be sincere.
+>     They were hoping to catch Him in His words in order to hand Him over to the
+>     rule and authority of the governor.
+> 21: “Teacher,” they inquired, “we know that You speak and teach correctly. You
+>     show no partiality, but teach the way of God in accordance with the truth.
+> 22: Is it lawful for us to pay taxes to Caesar or not?”
+> 23: But Jesus saw through their duplicity and said to them,
+> 24: “**Show Me a denarius**. Whose image and inscription are on it?” “**Caesar’s**,”
+>     they answered.
+> 25: So Jesus told them, “**Give to Caesar what is Caesar’s (denarius that have
+>     Caesar's face), and to God what is God’s (didrachma for Temple tax)"
+> 26: And they were unable to trap Him in His words before the people; and
+>     amazed at His answer, they fell silent.
+
+The Sanhedrein scribes and priests could not arrest him until Jesus gave this
+answer. Even when he gave this answer they could not immediately trap him, for
+to trap him one would have to prove assertions about the personal holdings of
+the denarius by Jesus and his followers; and "what is Caesar's" does not
+exactly mean "only what has Caesar's face inscribed", but is only implied; and
+besides to try to trap him on these points would only aid in "inciting" them to
+avoid taxes, such as by asking for wages to be paid in other denominations.
+
+While the taxes mentioned previously (Luke 20) were for Caesar, the taxes in
 the following passage (Matthew 17) were for the Second Temple in Jerusalem.
 There in Matthew 17 there exists clear evidence of intentional mistranlation
 for the purpose of hiding Jesus' true intent of protesting taxes.
