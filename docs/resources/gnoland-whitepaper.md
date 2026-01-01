@@ -732,7 +732,22 @@ function to call itself safely as if it were being called by an external user,
 and helps avoid a class of security issues that would otherwise exist.
 
 ```go
-XXX show example
+// realm /r/alice/mail
+
+func SendMail(cur realm, text string) {
+    if text == "" {
+        // runtime.PreviousRealm() is preserved for recursive call.
+        SendMail(nil, "<empty>")
+    }
+    caller := runtime.PreviousRealm()
+    if inBlacklist(caller) {
+        // runtime.PreviousRealm() becomes self; message from self to self.
+        SendMail(cross, fmt.Sprintf("blacklisted caller %v blocked", caller))
+    } else {
+        // sendMailPrivate not exposed to external callers.
+        sendMailPrivate(text)
+    }
+}
 ```
 
 ### Realm-Storage Write Access
