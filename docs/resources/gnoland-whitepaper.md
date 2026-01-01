@@ -1,15 +1,23 @@
 _This is a work in progress. Saving on github for deadman switch_
 _If you can read this, DO NOT share until the whitepaper is complete_
 
-# Gno.land Whitepaper
+# Jae's Gno.land Manifesto Whitepaper
 
 @author: Jae Kwon - chief architect; chief founder/inventor of Tendermint and
 Cosmos; first to completely solve BFT proof-of-stake in 2013,2014.
 
-I alone could not have arrived at the final design of the Gno langauge
-without the help of the many developers who gave much time of their lives to
-contribute to this project and the design of the language; specifically
-Manfred, Morgan, Maxwell, Guilhem, Milos, Ray, and Omar.
+I wrote this whitepaper to include a manifesto for why the project exists in
+the first place, including many details and ideas specifically for its original
+intended design to serve as an open censorship-resistant knowledge base of
+structured information. The genesis motivation as well as primary motivation
+for me is deeply spiritual though not everybody who contributed and not
+everybody in the core team share my spiritual resonance; therefore this
+whitepaper is authored by myself so as to not speak on behalf of anyone else.
+
+That said, I alone could not have arrived at the final design of the Gno
+langauge without the help of the many developers who gave much time of their
+lives to contribute to this project and the design of the language;
+specifically Manfred, Morgan, Milos, Maxwell, Guilhem, Ray, and Omar.
 
 ## Introduction
 
