@@ -251,7 +251,8 @@ Roman Empire.
 (I am not advocating for tax avoidance here, but merely pointing out the truth
 that the meaning behind the Word had been hidden successfully for centuries if
 not the entirety of two millenia since the first Latin translation by the Roman
-Empire.)
+Empire. It's generally not a good idea to offend authorities, even if they are
+illegitimate.)
 
 > King James Version (Luke 20):
 > 21: And they asked him, saying, Master, we know that thou sayest and teachest
@@ -621,6 +622,10 @@ Consider the following (singleton and compound) thought-statements:
  * Chlorination (e.g. with chlorine dioxide) or ozonation of water soaked
    grains with application of UV light of certain frequencies may neutralize
    the glyphosate; studies are needed.
+
+ * The primary cause of fraud is taxation. In the long run the magnitude of the
+   fraud is proportional to the amount of taxation. This follows from the
+   premise that absolute power corrupts absolutely.
 
  * The "10 Lost Tribes of Israel" are not all represented in the Jewish
    population, but are also mixed in the general Eurasian population as well
