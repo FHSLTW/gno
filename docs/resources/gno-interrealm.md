@@ -1,5 +1,7 @@
 # Interrealm Specification
 
+_NOTE: Keep up to date with docs/resources/gnoland-whitepaper_
+
 ## Introduction
 
 **Gno is the first multi-user general-purpose programming language.**
@@ -124,7 +126,7 @@ index-expressions if the object resides in the same realm as the current
 realm-storage-context. Unreal objects can always be directly mutated if its
 elements are directly exposed.**
 
-#### Crossing-Functions and Crossing-Methods
+### Crossing-Functions and Crossing-Methods
 
 A crossing-function or crossing-method is that which is declared in a realm and
 has as its first argument `cur realm`. The `cur realm` argument must appear as
@@ -223,7 +225,7 @@ current realm-context of itself, and its `runtime.PreviousRealm()` will panic
 unless the call stack includes a crossing function called like `fn(cross,
 ...)`.
 
-#### Realm Boundaries
+### Realm Boundaries
 
 The current and previous runtime realm-context have an associated Gno address
 from which native coins can be sent from and received to. Such native coins can
@@ -262,7 +264,7 @@ realm boundary.
 No realm boundary is created for non-crossing functions and non-crossing
 methods of unreal receivers.
 
-#### Realm-Transaction Finalization
+### Realm-Transaction Finalization
 
 Realm-transaction finalization occurs when returning from a realm
 boundary. When returning from a cross-call (with `cross`) realm-transaction
@@ -276,7 +278,7 @@ object IDs and stored in the current realm-storage-context; and ref-count-zero
 objects deleted (full "disk-persistent cycle GC" will come after launch); and
 any modified ref-counts and new Merkle hash root computed. 
 
-## Readonly Taint Specification
+### Readonly Taint Specification
 
 Go's language rules for value access through dot-selectors & index-expressions
 are the same within the same realm, but exposed values through dot-selector &
@@ -375,7 +377,7 @@ allow for return values of functions to be tainted as readonly. Then with `func
 GetBlacklist() readonly []string` the return value would be readonly tainted
 for both bob and alice.
 
-### Crossing Function/Method Design Goals
+### Interrealm Specification Design Goals
 
 P package code should behave the same even when copied verbatim in a realm
 package; and likewise non-crossing code should behave the same when copied
@@ -418,7 +420,7 @@ be upgraded.
 Both `fn(cross, ...)` and `func fn(cur realm, ...){...}` may become special
 syntax in future Gno versions.
 
-## `panic()` and `revive(fn)`
+### `panic()` and `revive(fn)`
 
 `panic()` behaves the same within the same realm boundary, but when a panic
 crosses a realm boundary (as defined in [Realm
@@ -450,9 +452,12 @@ was an abort.
 
 TL;DR: `revive(fn)` is Gno's builtin for STM (software transactional memory).
 
-## `attach()`
+### `attach()`
 
-Coming soon.
+In future releases of Gno the `attach()` function can be used to associate
+unreal objects to the current realm-storage-context before being passed into
+function declared in an external realm package, or into a method of a real
+receiver residing in an exteral realm-context.
 
 ## Application
 
