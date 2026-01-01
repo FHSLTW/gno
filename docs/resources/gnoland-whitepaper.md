@@ -2,7 +2,7 @@ _This is a work in progress. Refer to github.com/gnolang/gno/pull/5005/changes
 for the latest revision of this whitepaper. To see the latest testnet in
 action, visit https://gno.land._
 
-# Jae's Gno.land Manifesto Whitepaper
+# (Jae's) Gno.land Manifesto Whitepaper
 
 @author: Jae Kwon - chief architect; chief founder/inventor of Tendermint and
 Cosmos; first to completely solve BFT proof-of-stake in 2013,2014.
