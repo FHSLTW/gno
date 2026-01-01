@@ -302,9 +302,10 @@ understanding this passage.o
 
 A denarius was typically considered a day's wage for a common laborer in
 ancient Rome. Jesus was not a common laborer and didn't have many denarius
-coins. This is partially why he ask someone else for it. Also, a denarius is a
-smaller denomination than a didrachma or a stater which is for tax payments for
-the temple. In short, Jesus was rejecting Caesar's taxes.
+coins. This is likely why he ask someone else for to show one for
+demonstration--he didn't have any on him. Also, a denarius is a smaller
+denomination than a didrachma or a stater which is for tax payments for the
+temple. In short, Jesus was rejecting Caesar's taxes.
 
 While the taxes mentioned previously in Luke 20 were for Caesar, the taxes in
 the following passage (Matthew 17) were for the Second Temple in Jerusalem.
