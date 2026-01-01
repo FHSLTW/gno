@@ -1,5 +1,6 @@
-_This is a work in progress. Saving on github for deadman switch_
-_If you can read this, DO NOT share until the whitepaper is complete_
+_This is a work in progress. Refer to github.com/gnolang/gno/pull/5005/changes
+for the latest revision of this whitepaper. To see the latest testnet in
+action, visit https://gno.land._
 
 # Jae's Gno.land Manifesto Whitepaper
 
