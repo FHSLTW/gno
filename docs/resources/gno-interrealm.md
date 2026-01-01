@@ -48,14 +48,17 @@ and call functions in other realms, enabling complex multi-user interactions
 while maintaining clear boundaries and permissions.
 
 The Gno language is extended to support a `context.Context`-like argument
-to denote the current user-context of a Gno function. This allows a user
+to denote the current realm-context of a Gno function. This allows a user
 realm function to call itself safely as if it were being called by an external user,
 and helps avoid a class of security issues that would otherwise exist.
 
-### Realm Write Access
+### Realm-Storage Write Access
 
 Every object in Gno is persisted in disk with additional metadata including the
-OwnerID.
+object ID and an optional OwnerID (if persisted with a ref-count of exactly 1).
+The object ID is only set at the end of a realm-transaction during
+realm-transaction finalization (more on that later). A GnoVM transaction is
+composed of one or many scoped (stacked) realm-transactions.
 
 ```go
 type ObjectInfo struct {
@@ -71,34 +74,69 @@ type ObjectInfo struct {
 }
 ```
 
-Objects that are directly or indirectly reachable (referenced) from the realm
-package's global variables and thus have its ObjectInfo.OwnerID set to the
-realm (and thus are not already associated with another realm) are said to
-_reside_ in the realm (memory space).
+When an object is persisted during realm-transaction finalization the object
+becomes "real" (as in it is really persisted in the virtual machine state) and
+is said to "reside" in the realm; and otherwise is considered "unreal". New
+objects instantiated during a transaction are always unreal; and during
+finalization such objects are either discarded (transaction-level garbage
+collected) or become persisted and real.
 
-**An object can only be mutated if the object resides in the same realm as the
-current realm in the Gno Machine's execution context.**
+Unreal (new) objects that become referenced by a real (persisted) object at
+runtime will get their OwnerID set to the parent object's storage realm, but
+will not yet have its object ID set before realm-transaction finalization.
+Subsequent references at runtime of such an unreal object by real objects
+residing in other realms do not override the OwnerID intially set, so during
+realm-transaction finalization it ends up residing in the first realm it became
+associated with (referenced from). Unreal objects that become persisted but was
+never directly referenced by any real object during runtime will only get its
+OwnerID set to the realm of the first real ancestor.
 
-(Note that the term "realm" refers to both state as well as an (virtual user)
-account. We may change terminology in the future to separate these two
-concepts. For example, we may refer to the execution context account as an
-"agent"--an object can only be mutated if the object resides in the same realm
-as the current _agent_.)
+Real objects with ref-count of 1 have their hash included in the sole parent
+object's serialized byte form, thus an object tree of only ref-count 1
+descendants are Merkle-hashed completely.
+
+When a real or unreal object ends up with a ref-count of 2 or greater during
+realm-transaction finalization its OwnerID is set to zero and the object is
+considered to have "escaped". When such a real object is persisted with
+ref-count of 2 or greater it is forever considered escaped even if its
+ref-count is in later transactions is reduced to 1. Escaped real objects do not
+have their hash included in the parent objects' serialized byte form but
+instead are Merkle-ized separately in an iavl tree of escaped object hashes
+(keyed by the escaped object's ID) for each realm package. (This is implemented
+as a stub but not yet implemented for the initial release of Gno.land)
+
+**An object can only be directly mutated if the object resides in the same
+realm as the Gno VM's current runtime realm-context, or, if a
+non-crossing method of the receiver is called; and in both cases not superceded
+by a non-crossing method call into another storage-realm.** 
+
+(Note that the term "realm" refers to both storage (state) of the realm as well
+as a virtual user (agent) representing the realm. We may change terminology in
+the future to separate these two concepts. For example we may refer to the
+current runtime realm-context user as an "realm-agent" to distinguish it from
+the "realm-storage" in which objects resides.)
 
 Go's language rules for value access through dot-selectors & index-expressions
 are the same within the same realm, but exposed values through dot-selector &
 index-expressions are tainted read-only when performed by an external realm.
 More on that later.
 
-Realm crossing occurs when a crossing function (declared as
-`func fn(cur realm, ...){...}`) 
-is called with the Gno `fn(cross, ...)` syntax.
+#### Crossing-Functions and Crossing-Methods
+
+A crossing-function or crossing-method is that which is declared in a realm and
+has as its first argument `cur realm`. The first argument *must* be called
+`cur` as enforced by the preprocessor type-checker, and to prevent confusing
+such an argument `cur realm` can only be declared as the first argument.
+
+Realm-context and realm-storage crossing occurs when a crossing-function or
+crossing-method is called with the `cross` keyword in the first argument as in
+`fn(cross, ...)`. Such a call is called a "cross-call".
 
 ```go
 package main
 import "gno.land/r/alice/realm1"
 
-func main() {
+func main(cur realm) {
     bread := realm1.MakeBread(cross, "flour", "water")
 }
 ```
@@ -106,31 +144,82 @@ func main() {
 (In Linux/Unix operating systems user processes can cross-call into the kernel
 by calling special syscall functions, but user processes cannot directly
 cross-call into other users' processes. This makes the GnoVM a more complete
-multi-user operating system than traditional operating systems)
+multi-user operating system than traditional operating systems.)
 
-Besides explicit realm crossing via the `fn(cross, ...)` Gno syntax, implicit
-realm crossing occurs when calling a method of a receiver object stored in an
-external realm. Implicitly crossing into (borrowing) a receiver object's
-storage realm allows the method to directly modify the receiver as well as all
-other objects directly reachable from the receiver stored in the same realm as
-the receiver. Unlike explicit crosses, implicit crosses do not shift or
-otherwise effect the current realm context; `std.CurrentRealm()` does not
-change unless a method is called like `receiver.Method(cross, args...)`.
+When a crossing-function or crossing-method is called with `nil` as the first
+argument instead of `cross` it is a non-crossing call; and no realm-context nor
+realm-storage crossing takes place. To prevent confusion a non-crossing call of
+a crossing-function declared in a realm different than that of the caller's
+realm-storage (or a non-crossing call of a crossing-method of a receiver
+residing in realm-storage different than that of the caller's realm-storage)
+will result in either a type-check error; or a runtime error if the
+crossing-function or crossing-method is variable.
 
-Realms hold objects in residence and they also have a Gno address to send and
-receive coins from. Coins can only be spent from the current realm context.
+Besides explicit realm-crossing via the `fn(cross, ...)` syntax, implicit
+storage-crossing occurs when cross-calling a non-crossing method of a receiver
+object residing in an external realm-straoge. Storage-crossing into a
+receiver's residing realm allows the method to directly modify the receiver
+(and any objects directly reachable and residing in the receiver's residing
+realm). Unlike explicit realm-crossing, storage-crossing does not shift or
+otherwise effect the current/previous realm-context.
 
-### Realm Boundaries
+In other words, the current realm-context as returned by
+`runtime.CurrentRealm()` does not change when a non-crossing method is called
+like `receiver.Method(args...)`. If the receiver resides in realm-storage that
+differs from the caller's realm-storage (or realm-context with no intermediate
+storage-crossing) such a method call cannot directly modify the receiver nor
+any reachable object that resides in any realm-storage besides that of the
+caller's own realm-storage. 
 
-A realm boundary is defined as a change in realm in the call frame stack
-from one realm to another, whether explicitly crossed with `fn(cross, ...)`
-or implicitly borrow-crossed into a different receiver's storage realm.
-A realm may cross into itself with an explicit cross-call.
+On the other hand if the method is a crossing-method as in
+`receiver.Method(cross, args...)` both realm-crossing and storage-crossing
+takes place; the current realm-context and realm-storage changes to the realm
+where the method is declared (not necessarily where the receiver resides). Such
+a method-call cannot directly modify the real receiver if it happens to reside
+in a realm other than where the type and methods are declared; but it can
+modify any unreal receiver or unreal reachable objects.
 
-When returning from a realm boundary, all new reachable objects are assigned
-object IDs and stored in the current realm, ref-count-zero objects deleted
-(full "disk-persistent cycle GC" will come after launch) and any modified
-ref-count and Merkle hash root computed. This is called realm finalization.
+#### Realm-Context and Realm-Storage Boundaries
+
+Each time a crossing-function or crossing-method is cross-called it shifts the
+"current" runtime realm-context to the "previous" runtime realm-context such
+that `runtime.PreviousRealm()` returns what used to be returned with
+`runtime.CurrentRealm()` before the realm-context boundary. The current
+realm-storage is always set to that of realm-context after cross-calling.
+
+Every crossing-call of a crossing-function or crossing-method creates a new
+realm-context boundary; even when there is no resulting change/shift in
+realm-context or realm-storage.
+
+A realm-storage boundary is defined as a change in the call frame stack from
+one realm-storage to another. A realm-storage boundary occurs when calling a
+storage-crossing (non-crossing) method from one realm-storage to another
+realm-storage in which the real receiver resides. No realm-storage boundary
+occurs when calling a non-crossing method of an unreal receiver.
+
+Storage-crossing a non-crossing method may create a realm boundary but
+`runtime.CurrentRealm()` and `runtime.PreviousRealm()` always remain unchanged;
+these only change/shift when cross-calling crossing-functions or
+crossing-methods.
+
+The current and previous realm-context have an associated Gno address from
+which native coins can be sent from and received to. Such native coins can only
+be sent from a banker instantiated with either realm-context.
+
+#### Realm-Transaction Finalization
+
+Realm-transaction finalization occurs when returning from a realm-context
+boundary (all cross-calls) or a realm-storage boundary (some non-crossing
+method calls). When returning from a cross-call (with `cross`)
+realm-transaction finalization will occur even with no change of realm-context
+or realm-storage. Realm-transaction finalization does NOT occur when returning
+from a non-crossing-call of a method of an unreal receiver or a real receiver
+that resides in the same realm-storage as that of the caller.
+
+During realm-transaction finalization all new reachable objects are assigned
+object IDs and stored in the current realm-storage; and ref-count-zero objects
+deleted (full "disk-persistent cycle GC" will come after launch); and any
+modified ref-counts and new Merkle hash root computed. 
 
 ## Readonly Taint Specification
 
@@ -138,59 +227,62 @@ Go's language rules for value access through dot-selectors & index-expressions
 are the same within the same realm, but exposed values through dot-selector &
 index-expressions are tainted read-only when performed by an external realm.
 
-The readonly taint persists for any values further derived from the original
-readonly value, even when passed into a function declared in the origin realm
-package.
+The readonly taint prevents the direct modification of real objects by any
+logic, even from logic declared in the same realm as that of the object's
+storage-realm.
 
 A realm cannot directly modify another realm's objects without calling a
 function that gives permission for the modification to occur.
 
-The readonly taint prevents package-level variables such as byte-slices from
-being modified by external user logic even when exposed (which is a common
-convention in Go programs). 
-
-For an external user to manipulate another realm's value a function (or method)
-*must* be declared in the same realm (in which the value resides) that modifies
-the aforementioned value by a name declared outside the scope of said function
-or method (it cannot be declared as an argument of the function); or the
-function or method must return the value as a return value.
-
-A Gno package's global variables even when exposed (e.g. `package realm1; var
-MyGlobal int = 1`) is safe from external manipulation (e.g. `import
-"xxx/realm1"; realm1.MyGlobal = 2`).
-
-The readonly taint helps prevent another class of security issue where a realm
-may be tricked into modifying something that it otherwise would not want to
-modify.  This readonly taint protection can be bypassed by exposing a function
-that modifies a (local) global variable directly; or by exposing a function
-that returns the variable; or by exposing a method which can modify its
-receiver directly. Future versions of Gno may also expose a new keyword
-`readonly` to allow for return values of functions to be tainted as readonly.
-
-For example `externalrealm.Foo` is a dot-selector expression so the value is
-tainted with the `N_Readonly` attribute.
+For example `externalrealm.Foo` is a dot-selector expression on an external
+object (package) so the value is tainted with the `N_Readonly` attribute.
 
 The same is true for `externalobject.FieldA` where `externalobject` resides in
-an external realm (as compared to the current realm context).
+an external realm.
 
 The same is true for `externalobject[0]`: direct index expressions also taint
 the resulting value with the `N_Readonly` attribute. 
 
 The same is true for `externalobject.FieldA.FieldB[0]`: the readonly taint
-follows any subsequently derived values.
+persists for any subsequent direct access, so even if FieldA or FieldB resided in
+the caller's own realm-context or realm-storage the result is tainted readonly.
 
-The readonly taint also prohibits mutations even if the object resides in the
-current realm execution context. This protects realms against mutating objects
-it doesn't intend to (e.g. by an exploit where a realm's own object is passed
-to the same realm's mutator function by a malicious third party, where the
-first object was not intended to be passed in that way).
+A Gno package's global variables even when exposed (e.g. `package realm1; var
+MyGlobal int = 1`) are safe from external manipulation (e.g. `import
+"xxx/realm1"; realm1.MyGlobal = 2`) by the readonly taint when accessed
+directly by dot-selector or index from external realm logic; and also by a
+separate `DidUpdate()` guard when accessed by other means such as by return
+value of a function.
+
+A function or method's arguments and return values retain and pass through any
+readonly taint from caller to callee. Even if realm's function (or method)
+returns an untainted real object, a separate guard in `DidUpdate()` prevents it
+from being modified at runtime by an external realm.
+
+For a realm (user) to manipulate an untainted object residing in an external
+realm a function (or method) can be declared in the external realm which
+references and modifies the aforementioned untainted object directly (by a name
+declared outside of the scope of said function or method). Or, the function can
+take in as argument an untainted real object returned by another function.
+
+Besides protecting against writing by direct access the readonly taint also
+helps prevent a class of security issue where a realm may be tricked into
+modifying something that it otherwise would not want to modify. Since the
+readonly taint prohibits mutations even from logic declared in the same realm,
+it protects realms against mutating its own object that it doesn't intend to:
+such as when a realm's real object is passed as an argument to a mutator
+function where the object happens to match the type of the argument.
 
 Objects returned from functions or methods are not readonly tainted. So if
 `func (eo object) GetA() any { return eo.FieldA }` then `externalobject.GetA()`
-returns an object that is not tainted. The return object's fields would still
-be protected from external realm direct modification, but the return object
-could be passed back to the realm for mutation; or the object may be mutated
-through its own methods.
+returns an object that is not tainted assuming eo.FieldA was not otherwise
+tainted. While the parent object `eo` is still protected from direct
+modification by external realm logic, the returned object from `GetA()` can be
+passed as an argument to logic declared in the residing realm of `eo.FieldA`
+for direct mutation.
+
+Whether or not an object is readonly tainted it can always be mutated by a
+method declared on the receiver.
 
 ```go
 // /r/alice
@@ -215,17 +307,18 @@ modify an externally provided slice; yet if you call `alice.FilterList(cross,
 alice.GetBlacklist())` you can trick alice into modifying its own blacklist--the
 result is that alice.BlackList becomes full of blank values.
 
-With the readonly taint, `var Blacklist []string` solves the problem for you;
-that is, /r/bob cannot call `alice.FilterList(cross, alice.Blacklist)`, even
-though alice can call `FilterList(cur, Blacklist)` if it wants to (but that would
-simply be programmer error).
+With the readonly taint `var Blacklist []string` solves the problem for you;
+that is, /r/bob cannot successfully call `alice.FilterList(cross,
+alice.Blacklist)` because `alice.Blacklist` is readonly tainted for bob.
 
-Of course the problem remains if alice implements `func GetBlacklist() []string
-{ return Blacklist }` since then /r/bob can call `alice.FilterList(cross,
-alice.GetBlacklist())` which would not be readonly tainted.
+The problem remains if alice implements `func GetBlacklist() []string { return
+Blacklist }` since then /r/bob can call `alice.FilterList(cross,
+alice.GetBlacklist())` and the argument is not readonly tainted.
 
-In the future versions we may add support for a `readonly` modifier as in `func
-GetBlacklist() readonly []string`.
+Future versions of Gno may also expose a new modifier keyword `readonly` to
+allow for return values of functions to be tainted as readonly. Then with `func
+GetBlacklist() readonly []string` the return value would be readonly tainted
+for bob and alice.
 
 ## `fn(cross, ...)` and `func fn(cur realm, ...){...}` Specification
 
@@ -530,9 +623,9 @@ the address is the same.
 ### MsgAddPackage
 
 During MsgAddPackage `std.PreviousRealm()` refers to the package deployer both
-in global var decls and inside `init()` functions. After that the
-package deployer is no longer provided, so packages need to remember the
-deployer in the initialization phase if needed.
+in global var decls and inside `init()` functions. After that the package
+deployer is no longer provided, so packages need to remember the deployer in
+the initialization phase if needed.
 
 ```go
 // PKGPATH: gno.land/r/test/test

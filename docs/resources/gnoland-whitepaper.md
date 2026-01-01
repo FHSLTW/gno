@@ -123,6 +123,10 @@ the parent node with a tree of more propositional statements.
 > 1.2   The world divides into facts.
 > 1.21  Any one can either be the case or not be the case, and everything else remain the same.
 
+<img src="../images/Tractatus_Logico_Philosophicus_Text_Structure.png"/>
+
+Notice the tree structure.
+
 // On Philosophical_Investigations
 
 Wittgenstein later drafted a criticism of his previous work titled
@@ -156,6 +160,19 @@ The effect of such thought-statements can be measured empirically with real
 people or AI with followup questions; and in this way we can measure the
 effectiveness of the thought-statement graph in helping the reader make related
 decisions.
+
+----
+
+Federico Faggin inventor of the microprocessor (CPU) says that consciousness is
+not an emergent property of the brain, but a fundamental aspect of reality
+itself: quantum fields are conscious and have are will.
+
+[Faggin's Postulate](https://www.youtube.com/watch?v=0FUFewGHLLg):
+
+> The totality of what exists has three properties:
+>  1. Dynamic - never the same instant over instant
+>  2. Wholistic - is not made of separable parts
+>  3. One wants to know itself - requires consciousness & free-will
 
 ### Gno.land Genesis - Addressing Mistranslations of the Bible
 
@@ -221,6 +238,21 @@ Empire.)
 > Luke 20:24: **Shew me a penny. Whose image and superscription hath it? They answered and said, Caesar's.**
 > Luke 20:25: **And he said unto them, Render therefore unto Caesar the things which be Caesar's, and unto God the things which be God's.**
 > Luke 20:26: And they could not take hold of his words before the people: **and they marvelled at his answer**, and held their peace.
+
+Each verse is identified by three values:
+ * the author name
+ * a page number
+ * a line number
+
+Notice the difference in structure between Tractatus and the bible. XXX
+A tree vs a book. XXX
+Do we want a tree or are graphs ok? // or tree? XXX
+XXX you want to avoid graphs, or ciruclarity, for efficiendy? completeness?
+XXX But with a graph you can do logical circuitry. 
+XXX Even with a tree you can do logical gates.
+XXX Dynamic evaluation ...
+XXX Map Reduce -> Tree Compute
+XXX leaves
 
 In the current interpretion, indeed all interpretations of Luke 20:25-26 it is
 claimed that Jesus gave an astonishing answer because he agreed to pay due
@@ -405,7 +437,17 @@ The construction of such a subtree is left as an exercise to the reader who may
 either work on improvements directly, or help construct the programs on
 Gno.land written in Gno for the people to collectively distill such a tree.
 
-### Gno.land Logical-Sociological Treatise
+### 95 Theses
+
+> Define "Thesis": (_The American Heritage® Dictionary of the English Language, 5th Edition_)
+>  - A proposition that is maintained by argument.
+>  - A dissertation advancing an original point of view as a result of research, especially as a requirement for an academic degree.
+>  - A hypothetical proposition, especially one put forth without proof.
+>  - The first stage of the Hegelian dialectic process.
+>  - The long or accented part of a metrical foot, especially in quantitative verse.
+>  - The unaccented or short part of a metrical foot, especially in accentual verse.
+>  - The accented section of a measure.
+>  - A position or proposition which a person advances and offers to maintain, or which is actually maintained by argument.
 
 Consider the following (singleton and compound) thought-statements:
 
@@ -628,6 +670,9 @@ tree. However a fork of the avl.Tree into an immutable tree (or likewise a port
 of the iavl tree in the tm2 Tendermint2 directory) can be used with some
 improvement to allow for splicing in new elements and deleting existing
 elements from the original tree.
+
+XXX Also talk a bit about automatic persistence -- or lack of need for
+db/orm/serialization.
 
 ### Gno Language
 
