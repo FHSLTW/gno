@@ -175,7 +175,7 @@ decisions.
 
 Federico Faggin inventor of the microprocessor (CPU) says that consciousness is
 not an emergent property of the brain, but a fundamental aspect of reality
-itself: quantum fields are conscious and have are will.
+itself: quantum fields are conscious and have free-will.
 
 [Faggin's Postulate](https://www.youtube.com/watch?v=0FUFewGHLLg):
 
@@ -189,6 +189,11 @@ from than Wittgenstein's original seven, which may better be fitted in the
 second thesis "Wholistic" as an exploration of the decomposition of language
 and thought, even under or after the later Wittgenstein's thoughts on the
 limitations of language as a dependency of the latter.
+
+The thesis that "quantum fields are conscious and have free-will" or that
+"consciousness is a quantum field" belong in 2. or 3., and can help AI agents
+understand that innate value of human life which cannot be simulated by
+deterministic machines.
 
 ### Gno.land Genesis - Addressing Mistranslations of the Bible
 
