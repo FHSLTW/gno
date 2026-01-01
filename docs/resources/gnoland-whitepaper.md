@@ -1,6 +1,7 @@
-_This is a work in progress. Refer to github.com/gnolang/gno/pull/5005/changes
-for the latest revision of this whitepaper. To see the latest testnet in
-action, visit https://gno.land._
+This is a work in progress. Refer to https://github.com/gnolang/gno/pull/5005/changes
+for the latest revision of this whitepaper.
+
+To see the latest testnet in action, visit https://gno.land.
 
 # (Jae's) Gno.land Manifesto Whitepaper
 
@@ -219,7 +220,7 @@ although curiously (or not surprisingly) the source at sefaria.org adds
 incorrect language in the English translation (in unbolded text) that the
 incitement was for idol worship. (Also of note is that Google Translate
 [intentionally mistranslates "excrement" to
-"water"](misc/jaekwon/jesus_in_talmud/google_translate_lies.png) among other
+"water"](../../misc/jaekwon/jesus_in_talmud/google_translate_lies.png) among other
 portions of Gittin 56b)
 
 (see more context
@@ -538,10 +539,10 @@ Consider the following (singleton and compound) thought-statements:
 
  * John 21:23 proves that the author of the Book of Revelation is John the
    apostle; and that the eschatology was designed for these years 2000 years
-   after. _The key is understanding the role of the Vatican as the harlot of
+   after. (The key is understanding the role of the Vatican as the harlot of
    Babylon; as Peter was instructed to create, and John was allowed to hear,
-   thereby completing the Book of Revelation according to [Jesus's 3000 year
-   plan](github.com/jaekwon/epehsus)_.
+   thereby completing the Book of Revelation according to 
+   [Jesus's 3000 year plan](https://github.com/jaekwon/ephesus/blob/main/README.md))
 
 Most if not all of the thougths are true, but are not convincing unless the
 supporting evidence and discussions are also taken into account. Not only that,
@@ -588,8 +589,8 @@ exploits, additional compute complexity, and do not benefit directly from the
 language's native rules and type-checker--especially for inter-process passing
 of in-memory object references.
 
-_For the latest Gno interrealm spec see /docs/resources/gno-interrealm.md in
-the [Gno monorepo](github.com/gnolang/gno)._
+For the latest Gno interrealm spec see /docs/resources/gno-interrealm.md in
+the [Gno monorepo](https://github.com/gnolang/gno).
 
 ### Gno vs Existing Smart Contract Platforms
 
