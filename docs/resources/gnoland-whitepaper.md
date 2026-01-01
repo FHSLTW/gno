@@ -23,11 +23,11 @@ specifically Manfred, Morgan, Milos, Maxwell, Guilhem, Ray, and Omar.
 
 ## Introduction
 
-> 10:26: So do not be afraid of them. For there is nothing concealed that will
->        not be disclosed, and nothing hidden that will not be made known.
-> 10:27: What I tell you in the dark, speak in the daylight; what is whispered
->        in your ear, proclaim from the housetops.
-> - Matthew 10, Berean Standard Bible
+> Berean Standard Bible (Matthew 10):
+> 26: So do not be afraid of them. For there is nothing concealed that will
+      not be disclosed, and nothing hidden that will not be made known.
+> 27: What I tell you in the dark, speak in the daylight; what is whispered
+>     in your ear, proclaim from the housetops.
 
 ### Gno.land Genesis - The General Information Problem
 
@@ -47,7 +47,9 @@ Youtube and TikTok is full of AI generated videos that contain false
 information about everything from the economy to UFOs. Even worse, the AI
 providers monetize their services by offering its services to scammers.
 
-"Sam Altman Warns That AI Is About to Cause a Massive “Fraud Crisis” in Which Anyone Can Perfectly Imitate Anyone Else" - https://futurism.com/sam-altman-ai-fraud-crisis-imitate
+"Sam Altman Warns That AI Is About to Cause a Massive “Fraud Crisis” in Which
+Anyone Can Perfectly Imitate Anyone Else" -
+https://futurism.com/sam-altman-ai-fraud-crisis-imitate
 
 Twitter is full of AI bot accounts that point to entire ecosystems of AI
 generated content and programs that only serve to steal your tokens.
@@ -78,23 +80,22 @@ that are true (or worse, unprovable) can be spread to occlude the truths that
 actually matter most.
 
 > In classical logic, intuitionistic logic, and similar logical systems, the
-> principle of explosion[a][b] is the law according to which any statement can
-> be proven from a contradiction.[1][2][3] That is, from a contradiction, any
+> principle of explosion is the law according to which any statement can
+> be proven from a contradiction. That is, from a contradiction, any
 > proposition (including its negation) can be inferred; this is known as
-> deductive explosion.[4][5]
+> deductive explosion.
 
 > The proof of this principle was first given by 12th-century French
-> philosopher William of Soissons.[6] Due to the principle of explosion, the
+> philosopher William of Soissons. Due to the principle of explosion, the
 > existence of a contradiction (inconsistency) in a formal axiomatic system is
 > disastrous; since any statement-true or not-can be proven, it trivializes the
-> concepts of truth and falsity.[7] Around the turn of the 20th century, the
+> concepts of truth and falsity. Around the turn of the 20th century, the
 > discovery of contradictions such as Russell's paradox at the foundations of
 > mathematics thus threatened the entire structure of mathematics.
 > Mathematicians such as Gottlob Frege, Ernst Zermelo, Abraham Fraenkel, and
 > Thoralf Skolem put much effort into revising set theory to eliminate these
 > contradictions, resulting in the modern Zermelo–Fraenkel set theory.
-
-https://en.wikipedia.org/wiki/Principle_of_explosion
+> - https://en.wikipedia.org/wiki/Principle_of_explosion
 
 The Principle of Explosion explains the pernitious woke mind virus, of
 religious extremism present in all Abrahamic religions that go against its own
@@ -125,13 +126,13 @@ distinction between "early Wittgenstein" and "later Wittgetnstein".
 Diving into the first root-level propositional statement, Wittgenstein supports
 the parent node with a tree of more propositional statements.
 
-> 1     The world is everything that is the case.[1]
-> 1.1   The world is the totality of facts, not of things.
-> 1.11  The world is determined by the facts, and by these being all the facts.
-> 1.12  For the totality of facts determines both what is the case, and also all that is not the case.
-> 1.13  The facts in logical space are the world.
-> 1.2   The world divides into facts.
-> 1.21  Any one can either be the case or not be the case, and everything else remain the same.
+>  - 1     The world is everything that is the case.[1]
+>  - 1.1   The world is the totality of facts, not of things.
+>  - 1.11  The world is determined by the facts, and by these being all the facts.
+>  - 1.12  For the totality of facts determines both what is the case, and also all that is not the case.
+>  - 1.13  The facts in logical space are the world.
+>  - 1.2   The world divides into facts.
+>  - 1.21  Any one can either be the case or not be the case, and everything else remain the same.
 
 <img src="../images/Tractatus_Logico_Philosophicus_Text_Structure.png"/>
 
@@ -252,22 +253,27 @@ that the meaning behind the Word had been hidden successfully for centuries if
 not the entirety of two millenia since the first Latin translation by the Roman
 Empire.)
 
-> King James Version:
-> Luke 20:21: And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:
-> Luke 20:22: Is it lawful for us to give tribute [taxes] unto Caesar, or no?
-> Luke 20:23: But he perceived their craftiness, and said unto them, Why tempt ye me?
-> Luke 20:24: **Shew me a penny. Whose image and superscription hath it? They answered and said, Caesar's.**
-> Luke 20:25: **And he said unto them, Render therefore unto Caesar the things which be Caesar's, and unto God the things which be God's.**
-> Luke 20:26: And they could not take hold of his words before the people: **and they marvelled at his answer**, and held their peace.
+> King James Version (Luke 20):
+> 21: And they asked him, saying, Master, we know that thou sayest and teachest
+>     rightly, neither acceptest thou the person of any, but teachest the way of
+>     God truly:
+> 22: Is it lawful for us to give tribute [taxes] unto Caesar, or no?
+> 23: But he perceived their craftiness, and said unto them, Why tempt ye me?
+> 24: **Shew me a penny. Whose image and superscription hath it? They answered
+>     and said, Caesar's.**
+> 25: **And he said unto them, Render therefore unto Caesar the things which be
+>     Caesar's, and unto God the things which be God's.**
+> 26: And they could not take hold of his words before the people: **and they
+>     marvelled at his answer**, and held their peace.
 
 Each verse is identified by three values:
  * the author name
  * a page number
  * a line number
 
-Notice the difference in structure between Tractatus and the bible. XXX
-A tree vs a book. XXX
-Do we want a tree or are graphs ok? // or tree? XXX
+XXX Notice the difference in structure between Tractatus and the bible.
+XXX A tree vs a book.
+XXX Do we want a tree or are graphs ok? // or tree?
 XXX you want to avoid graphs, or ciruclarity, for efficiendy? completeness?
 XXX But with a graph you can do logical circuitry. 
 XXX Even with a tree you can do logical gates.
@@ -280,11 +286,15 @@ claimed that Jesus gave an astonishing answer because he agreed to pay due
 taxes to Caesar. This could not be further from the truth as can be seen later
 in Luke 23:
 
-> King James Version:
-> Luke 23:2: And they began to accuse him, saying, We found this fellow perverting the nation, **and forbidding to give tribute to Caesar**, saying that he himself is Christ a King.
+> King James Version (Luke 23):
+> 2: And they began to accuse him, saying, We found this fellow perverting the
+>    nation, **and forbidding to give tribute to Caesar**, saying that he himself
+>    is Christ a King.
 
-> Berean Literal bible:
-> Luke 23:2: And they began to accuse Him, saying, “We found this man subverting our nation, **forbidding payment of taxes to Caesar**, and proclaiming Himself to be Christ, a King.”
+> Berean Literal bible (Luke 23):
+> 2: And they began to accuse Him, saying, “We found this man subverting our
+>    nation, **forbidding payment of taxes to Caesar**, and proclaiming Himself to
+>    be Christ, a King.”
 
 There is a logical inconsistency, as it is written in Luke that Jesus was
 accused of forbidding to give tribute instead.
@@ -338,30 +348,77 @@ the following passage (Matthew 17) were for the Second Temple in Jerusalem.
 There in Matthew 17 there exists clear evidence of intentional mistranlation
 for the purpose of hiding Jesus' true intent of protesting taxes.
 
-> King James Version:
-> Matthew 17:24: And when they were come to Capernaum, **they that received tribute money** came to Peter, and said, Doth not your master pay **tribute**?
-> Matthew 17:25: He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take **custom or tribute**? of their own children, or of strangers?
-> Matthew 17:26: Peter saith unto him, Of strangers. Jesus saith unto him, **Then are the children free**.
-> Matthew 17:27: Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find **a piece of money**: that take, and give unto them **for me and thee**.
+> King James Version (Matthew 17):
+> 24: And when they were come to Capernaum, **they that received tribute
+>     money** came to Peter, and said, Doth not your master pay **tribute**?
+> 25: He saith, Yes. And when he was come into the house, Jesus prevented him,
+>     saying, What thinkest thou, Simon? of whom do the kings of the earth take
+>     **custom or tribute**? of their own children, or of strangers?
+> 26: Peter saith unto him, Of strangers. Jesus saith unto him, **Then are the
+>     children free**.
+> 27: Notwithstanding, lest we should offend them, go thou to the sea, and cast
+>     an hook, and take up the fish that first cometh up; and when thou hast opened
+>     his mouth, thou shalt find **a piece of money**: that take, and give unto
+>     them **for me and thee**.
 
-> New International Version:
-> Matthew 17:24: After Jesus and his disciples arrived in Capernaum, **the collectors of the two-drachma temple tax** came to Peter and asked, “Doesn’t your teacher pay the **temple tax**?”
-> Matthew 17:25: “Yes, he does,” he replied. When Peter came into the house, Jesus was the first to speak. “What do you think, Simon?” he asked. “From whom do the kings of the earth **collect duty and taxes**—from their own children or from others?”
-> Matthew 17:26: “From others,” Peter answered. **“Then the children are exempt,”** Jesus said to him.
-> Matthew 17:27: “But so that we may not cause offense, go to the lake and throw out your line. Take the first fish you catch; open its mouth and you will find **a four-drachma coin**. Take it and give it to them **for my tax and yours**.”
+> New International Version (Matthew 17):
+> 24: After Jesus and his disciples arrived in Capernaum, **the collectors of
+>     the two-drachma temple tax** came to Peter and asked, “Doesn’t your teacher
+>     pay the **temple tax**?”
+> 25: “Yes, he does,” he replied. When Peter came into the house, Jesus was the
+>     first to speak. “What do you think, Simon?” he asked. “From whom do the kings
+>     of the earth **collect duty and taxes**—from their own children or from
+>     others?”
+> 26: “From others,” Peter answered. **“Then the children are exempt,”** Jesus
+>     said to him.
+> 27: “But so that we may not cause offense, go to the lake and throw out your
+>     line. Take the first fish you catch; open its mouth and you will find **a
+>     four-drachma coin**. Take it and give it to them **for my tax and yours**.”
 
-> Berean Litereal Bible:
-> Matthew 17:24: And they having come to Capernaum, **those collecting the didrachmas** came to Peter and said, “Does your Teacher pay the **didrachmas**?”
-> Matthew 17:25: He says, “Yes.” And he having entered into the house, Jesus anticipated him, saying, “What do you think, Simon? From whom do the kings of the earth receive **custom or tribute**? From their sons, or from strangers?”
-> Matthew 17:26: And he having said, “From the strangers,” Jesus said to him, **“Then the sons are free"**.
-> Matthew 17:27: But that we might not offend them, having gone to the sea, cast a hook and take the first fish having come up, and having opened its mouth, you will find **a stater**. Having taken that, give it to them **for Me and yourself**.”
+> Berean Litereal Bible (Matthew 17):
+> 24: And they having come to Capernaum, **those collecting the didrachmas**
+>     came to Peter and said, “Does your Teacher pay the **didrachmas**?”
+> 25: He says, “Yes.” And he having entered into the house, Jesus anticipated
+>     him, saying, “What do you think, Simon? From whom do the kings of the earth
+>     receive **custom or tribute**? From their sons, or from strangers?”
+> 26: And he having said, “From the strangers,” Jesus said to him, **“Then the
+>     sons are free"**.
+> 27: But that we might not offend them, having gone to the sea, cast a hook
+>     and take the first fish having come up, and having opened its mouth, you will
+>     find **a stater**. Having taken that, give it to them **for Me and
+>     yourself**.”
+
+Jesus paid half of what the Second Temple tax collectors demanded not because
+He believed that that was God's due; on the contrary he said that the chidlren
+are free, and only paid so as to not offend them.
+
+**"Then the children are free"!**
+
+What is God's is to be rendered unto God, but the children/sons of God need not
+pay taxes to any temple, church, or state. ([A son of God is one in whom another
+son of God is
+resurrected](https://github.com/jaekwon/ephesus/blob/main/thoughts/son_of_god_son_of_man_and_marriage.md);
+as in Moses in whom Abraham, Isaac, and Jacob are resurrected, and in
+Christians in whom Jesus and the martyrs are resurrected.)
+
+Also, there are no coins that have an engraved image of God, as that is
+forbidden by the ten commandments. Even if the Old Testament has laws regarding
+tithing, the lesson from the bible is that there should not be a Third Temple
+except one of people; the bible says not to advertise for tithe giving; and
+finally, Jesus gives us the new covenant. Any son of God would naturally give
+more than 10% of their worth voluntarily to where it needs to go. **No person,
+temple, church, or state has the authority to nor should demand or request any
+taxes, tribute, or even tithing**. 
 
 It is apparent that the Berean Literal Bible does a better job at preserving
-context (the original coin denomination names) and this can be verified by comparing
-each transation to the original Koine Greek, which is left as a task to the reader.
+context (the original coin denomination names) and this can be verified by
+comparing each transation to the original Koine Greek, which is left as a task
+to the reader.
 
-> Berean Standard Bible:
-> Acts 17:11: “Now the Bereans were more noble-minded than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if these teachings were true.”
+> Berean Standard Bible (Acts 17):
+> 11: “Now the Bereans were more noble-minded than the Thessalonians, for they
+>     received the message with great eagerness and examined the Scriptures every
+>     day to see if these teachings were true.”
 
 (Even BibleHub has issues showing the original Koine Greek text in
 parallel with translations--often the Koine Greek is modified to suit the
@@ -1591,9 +1648,12 @@ Politics will be more honest.
 > THE MONEY HAS GONE TO PALENTIR TO FUCK YOU OVER MORE.
 > FUEL PRICES DOWN CUZ THERE IS NO MORE MONEY TO SPEND.
 
-> Berean Standard Bible:
-> Revelation 6:5: Then I looked and saw a black horse, and its rider held in his hand a pair of scales.
-> Revelation 6:6: And I heard what sounded like a voice from among the four living creatures, saying, “A quart of wheat for a denarius, a and three quarts of barley for a denarius, and do not harm the oil and wine.”
+> Berean Standard Bible (Revelation 6):
+> 5: Then I looked and saw a black horse, and its rider held in his hand a pair
+>    of scales.
+> 6: And I heard what sounded like a voice from among the four living
+>    creatures, saying, “A quart of wheat for a denarius, a and three quarts of
+>    barley for a denarius, and do not harm the oil and wine.”
 
 > "A quart of wheat for a denarius."
 
@@ -1630,18 +1690,17 @@ will upend any sense of order.
 
 --------
 
-> Berean Standard Bible:
-> Revelation 6:6: "And I heard something like a voice in the midst of the four living
-creatures, saying, "A **choenix of wheat for a denarius**, and three choenixes of
-barley for a denarius; and you should not injure the oil and the wine." -
-Berean Standard Bible
+> Berean Standard Bible (Revelation 6):
+> 6: "And I heard something like a voice in the midst of the four living
+>    creatures, saying, "A **choenix of wheat for a denarius**, and three choenixes
+>    of barley for a denarius; and you should not injure the oil and the wine." -
 
 And how even the KJV hides the true meaning of it.
 
-> King James Bible:
-> Revelation 6:6: "And I heard a voice in the midst of the four beasts say, **A
-> measure of wheat for a penny**, and three measures of barley for a penny; and
-> see thou hurt not the oil and the wine." - King James Bible
+> King James Bible (Revelation 6):
+> 6: "And I heard a voice in the midst of the four beasts say, **A
+>    measure of wheat for a penny**, and three measures of barley for a penny; and
+>    see thou hurt not the oil and the wine."
 
 Silver (denarius) will continue to rise in price, whereas a penny will continue
 to deflate in value.
