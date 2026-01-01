@@ -284,7 +284,7 @@ in Luke 23:
 > Luke 23:2: And they began to accuse him, saying, We found this fellow perverting the nation, **and forbidding to give tribute to Caesar**, saying that he himself is Christ a King.
 
 > Berean Literal bible:
-> Luke 23:2: And they began to accuse Him, saying, “We found this man subverting our nation, forbidding payment of taxes to Caesar, and proclaiming Himself to be Christ, a King.”
+> Luke 23:2: And they began to accuse Him, saying, “We found this man subverting our nation, **forbidding payment of taxes to Caesar**, and proclaiming Himself to be Christ, a King.”
 
 There is a logical inconsistency, as it is written in Luke that Jesus was
 accused of forbidding to give tribute instead.
@@ -298,7 +298,13 @@ What Jesus meant was that Caesar can have all the pennies, while the other
 silver coins of larger denominations should not be paid to Caesar. However this
 is still not the complete truth, as the King James Version substituted "penny"
 for what should be the "denarius", thus losing some of the required context for
-understanding this passage.
+understanding this passage.o
+
+A denarius was typically considered a day's wage for a common laborer in
+ancient Rome. Jesus was not a common laborer and didn't have many denarius
+coins. This is partially why he ask someone else for it. Also, a denarius is a
+smaller denomination than a didrachma or a stater which is for tax payments for
+the temple. In short, Jesus was rejecting Caesar's taxes.
 
 While the taxes mentioned previously in Luke 20 were for Caesar, the taxes in
 the following passage (Matthew 17) were for the Second Temple in Jerusalem.
@@ -1529,10 +1535,14 @@ Politics will be more honest.
 
  * **leptop (widow's mite)**: Mark 12:42, Luke 12:59, 21:2
  * **drachma**: Luke 15:8 - Cappadocian drachma
- * **denarius (day's wages)**: Matthew 18:28; 20:1–16; 22:19; Mark 6:37; 12:15; 14:5; Luke 7:41; 10:35; 20:24; John 6:7; 12:5; Rev. 6:6 - equivalent to the drachma; Caesar's head
+ * **denarius (day's wages)**: Matthew 18:28; 20:1–16; 22:19; Mark 6:37; 12:15;
+   14:5; Luke 7:41; 10:35; 20:24; John 6:7; 12:5; Rev. 6:6 - equivalent to the
+   drachma; Caesar's head; typical day's wage for a common laborer in ancient
+   Rome.
  * **didrachma**: Matthew 17:24 - mistranslated to "tribute coin"
  * **stater/statera (statēra)**: Matthew 17:27 - interchangeable w/ didrachma
- * **Tyre shekel (Temple tax)**: Exodus 30:13 (Money Changers), John 2:15, Matthew 21:12 (Peter's Fish), Matthew 17:27 (Judas' 30 coins) Matthew 26:15
+ * **Tyre shekel (Temple tax)**: Exodus 30:13 (Money Changers), John 2:15,
+   Matthew 21:12 (Peter's Fish), Matthew 17:27 (Judas' 30 coins) Matthew 26:15
 
 // shekel : denarius : talent :: Jewish : Greek : Roman
 
