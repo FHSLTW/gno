@@ -1429,13 +1429,6 @@ Politics will be more honest.
 1000 year plan.
 
 
-## Resources
-
-https://biblehub.com
-https://berean.bible/links.htm
-https://interlinearbible.com/bib.pdf
-https://berean.bible/downloads.htm
-
 ## Appendix
 
 ### The New Testament and Silver Coinage
@@ -1646,7 +1639,7 @@ other platforms; when I tried initially the result was misordered (who is to
 blame I do not know); when I tried a second time the result was properly
 oredered but still the links were not whole. This was an attempt to force me to
 share the content within the walled garden of Twitter/X. See more
-[here](../../misc/jaekwon/twitter_censorship/1_Grok_X_2025-12-26T13-04-06) and
+[here](../../misc/jaekwon/twitter_censorship/1_Grok_X_2025-12-26T13-04-06.png) and
 [here](../../misc/jaekwon/twitter_censorship/second_paste_attempt.txt).
 
 Note above that when I asked @supergrok to comment on the fact that I had
