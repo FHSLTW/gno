@@ -437,17 +437,7 @@ The construction of such a subtree is left as an exercise to the reader who may
 either work on improvements directly, or help construct the programs on
 Gno.land written in Gno for the people to collectively distill such a tree.
 
-### 95 Theses
-
-> Define "Thesis": (_The American Heritage® Dictionary of the English Language, 5th Edition_)
->  - A proposition that is maintained by argument.
->  - A dissertation advancing an original point of view as a result of research, especially as a requirement for an academic degree.
->  - A hypothetical proposition, especially one put forth without proof.
->  - The first stage of the Hegelian dialectic process.
->  - The long or accented part of a metrical foot, especially in quantitative verse.
->  - The unaccented or short part of a metrical foot, especially in accentual verse.
->  - The accented section of a measure.
->  - A position or proposition which a person advances and offers to maintain, or which is actually maintained by argument.
+### 95 Theses Redux
 
 Consider the following (singleton and compound) thought-statements:
 
@@ -465,8 +455,8 @@ Consider the following (singleton and compound) thought-statements:
    information from reaching public consciousness.
 
  * Google, Wikipedia, Meta, Reddit all participate in this censorship; and even
-   Twitter is complicit with the aforementioned censorship in subtle ways
-   albiet with an alibi of it being "for the advertisers".
+   Twitter is complicit with the aforementioned censorship in subtle ways that
+   are not detectable by existing shadow-ban detection tools.
 
  * The Federal Reserve was unconstitutionally ratified in order to debase the
    people's money from the underlying gold and silver.
@@ -505,10 +495,6 @@ Consider the following (singleton and compound) thought-statements:
  * In the long future most electric vehicles will use silver solid-state
    batteries.
 
- * The USA will begin bartering grain for silver with China.
-
- * The price of a quart of wheat will exceed $600 by 2030 if not much sooner.
-
  * The Grand Solar Minimum will create a deficit in global food production for
    decades and we are at risk of a global Holodomor; this is why Bill Gates has
    been buying farmland.
@@ -538,14 +524,15 @@ Consider the following (singleton and compound) thought-statements:
 
  * A hypothetical debris field trailing 3I/Atlas (and ejecta from its anti-tail
    around 8/25/25) may collide with Earth around 3/10/26 to darken the skies
-   and produce Cyanide, fulfilling the prophecy of Wormwood (see appendix).
+   and produce Cyanide, [fulfilling the prophecy of
+   Wormwood](https://github.com/jaekwon/ephesus/blob/main/thoughts/3iatlas_wormwood.md).
 
  * John 21:23 proves that the author of the Book of Revelation is John the
    apostle; and that the eschatology was designed for these years 2000 years
-   after. The key is understanding the role of the Vatican as the harlot of
+   after. _The key is understanding the role of the Vatican as the harlot of
    Babylon; as Peter was instructed to create, and John was allowed to hear,
    thereby completing the Book of Revelation according to [Jesus's 3000 year
-   plan](more on github.com/jaekwon/epehsus).
+   plan](github.com/jaekwon/epehsus)_.
 
 Most if not all of the thougths are true, but are not convincing unless the
 supporting evidence and discussions are also taken into account. Not only that,
@@ -553,6 +540,20 @@ but there are at least two sides to a story, so the reader must also take into
 account the opposing statement and their justifications to truly understand
 what is real.
 
+Like Martin Luther sparked the Protestant Reformation with a short piece of 95
+theses, what we need today is another set of 95 theses or thought-statements
+(with one pointing back to Martin Luther's original) that would not only spark
+the interest of any reader who recognizes the truth of a subset of the theses;
+but also host the underlying structure of dependent (and counter-)
+thought-statements that can help convince the reader of the truth; or help
+anyone to fork such a list with any modifications to create a better list.
+
+These new 95 theses for the end times can then even be printed in poster form
+linking back to gno.land and shared across the world; even customized for every
+region where the posters are put up (or they can be printed as a pamphlet and
+dropped from the air). The AI beast prison matrix may have a tight grip on the
+internet, but it does not yet control all of the physical world. To contribute,
+join the [Atom.One Telegram channel](https://t.me/youwillatone).
 
 ## Gno Language
 
@@ -609,12 +610,26 @@ entire memory state of the module. This requires a specialized virtual machine
 such as the Gno VM which keeps track of every object created, modified, and
 deleted.
 
+The automatic persistence of in-memory objects of the GnoVM is like a memristor
+simulator. The advent of AI has created a new market for memristor-based memory
+systems where the distinction between RAM volatile memory and persistent disk
+storage is removed. Urbit is similar but is not based on any general purpose
+programming language. With memristor-based memory the GnoVM can be further
+simplified and the performance of applications can be vastly improved without
+any changes to the Gno langauge specification.
+
 Third, **Solidity and other existing smart-contract languages/platforms
 do not support a shared heap memory space for objects to be referenced by
 external-user objects in a uniform manner by language rules**. Alice cannot
 simply declare a structure object that references the structure object
 persisted in Bob's application and trust the garbage collector to retain Bob's
 object for as long as Alice's object is retained.
+
+**The above differentiating factors of the Gno language allows for the most
+succinct expression of a single-user application or multi-user application
+composed of independent modules without the extra complexity from
+extra-language interop type-checking syntax or frameworks nor of the extra
+complexity from any database, ORM, or serialization logic.**
 
 Shared garbage-collection in a shared (multi-user) graph of object references
 makes it possible for one's object representing (say) a propositional statement
@@ -1065,6 +1080,20 @@ for both bob and alice.
 
 ### Interrealm Specfication Design Goals
 
+**Caveat: The interrealm specification does not secure applications against
+arbitrary code execution. It is important for realm logic (and even p package
+logic) to ensure that arbitrary (variable) functions (and similarly arbitrary
+interface methods) are not provided by malicious callers; such aribrary
+functions and methods whether crossing (or non-crossing) will inherit the
+previous realm (or both current and previous realms) and could abuse these
+realm-contexts.** It does not make sense for any realm user to cross-call an
+arbitrary function or method as it loses agency while being marked as the
+responsible caller by the callee's runtime previous realm. This problem is
+worse when calling a non-crossing function or method. It can be reasonable when
+such variable functions or interface values are restricted in other ways such
+as by whitelisting by a DAO upon careful inspection of every such variable
+function or interface value (both its type declaration as well as its state).
+
 P package code should behave the same even when copied verbatim in a realm
 package; and likewise non-crossing code should behave the same when copied
 verbatim from one realm to another. Otherwise there will be lots of security
@@ -1145,34 +1174,26 @@ unreal objects to the current realm-storage-context before being passed into
 function declared in an external realm package, or into a method of a real
 receiver residing in an exteral realm-context.
 
-### Transaction Model
+### `safely(cb func())`
 
-Automatic Merkle root derivation.
+In future releases of Gno the `safely(cb func())` function may be used to clear
+the current and previous realm-context as well as any realm-storage-context
+such that no matter what `cb func()` does the caller does not yield agency to
+the callee.
 
-### GnoVM Details
+For now this can be simulated by implementing an (immutable non-upgradeable)
+realm crossing-function that cross-calls into itself once more before calling
+the callback function.
 
-Object model.
-Memory model.
-Transaction model.
-AST preprocessing.
-AST interpretation.
-TypedValue.
-GnoVM is a memristor architecture simualtor.
+XXX Ensure that both `attach` and `safely` are reserved keywords for the
+preprocessor.
 
 ## Gno.land the Blockchain
 
-Gno.land is the first multi-user general purpose language-based operating system.
-Gno.land is a massive-multi-user general-purpose language-based operating
-system.
+**Gno.land is the first multi-user general-purpose language-based operating
+system**
 
-Gno.land is a blockchain that interprets the Gno (essentially Go) AST.
-Gno.land is different than any existing smart contract platform in that it
-inter-smart-contract (cross-realm) function calls are handled transparently.
-That is, importing and calling a function or method of another user's
-smart-contract application is no different than that of a library package
-(except that user (stateful) smart-contract applications have a path with
-prefix '/r/', while immutable (stateless) library packages have a path with
-prefix '/p/').  XXX
+Gno.land is a blockchain based on the GnoVM which is a Gno AST interpreter.
 
 ### Gno.land the Open Censorship-Resistant Programmable Knowledge Base
 
@@ -1292,105 +1313,112 @@ of the iavl tree in the tm2 Tendermint2 directory) can be used with some
 improvement to allow for splicing in new elements and deleting existing
 elements from the original tree.
 
-XXX Also talk a bit about automatic persistence -- or lack of need for
-db/orm/serialization.
-
 ### Other Use Cases
 
-Open knowledgebase of propositional logic.
+Gno.land can be used to host any other smart-contract application supported by
+Ethereum written in Solidity, such as Defi applications, name-resolution
+systems, DAOs and governance applications, etc.
 
-------------------
-
-XXX
-
-------------------
-
-// Open knowledgebase of propositional logic for AI safety.
-// Rich reference ability for premissionless iteration.
-// Open knowledgebase of propositional logic of political problems.
-
-Nuno Loureiro was assassinated yesterday.
-
-He was a professor + the director of MIT Plasma Science and Fusion Center
-
-> 47 years old
-> Studied nuclear fusion (= energy source of the Sun + stars) for 10 years at MIT
-> His award-winning work focused on creating a virtually limitless, clean energy source on Earth - one that doesn’t produce carbon or radioactive waste (usual biproduct of fission reactors)
-> His research was essentially a threat to companies in the energy sector (fossil fuels, wind, solar, etc)
-> Nuno was vital to the development of fusion nuclear power plants, without him the path ahead is less clear + his death will set back the entire field
-
-Nuno is not the first MIT fusion scientist to be brutally murdered, in 2004 Eugene Mallove was also shot in his home.
-
-I hope this opens eyes – there is an agenda at play.
-
-@eeelistar
-
-// Defi applications.
-// Name registry.
-// Open geneological database.
-// -- If we had an open geneological database, we would probably find that some
-of the key missing persons were turned into burger meat. Thus it is said, "No
-body, no crime".
+But only Gno.land is well suited and designed for permissionless innovation of
+information-based applications; such as social communication and coordination
+systems, the next generation information systems to replace biased Wikipedia;
+and as mentioned previously, open censorship-resistant knowledge-base systems
+based on structured graphs/trees of thought-statements.
 
 
-###############
 ## Gno.land Blockchain
 
 ### Governance
 
-GovDAO T1, T2, and T3.
+TODO: GovDAO T1, T2, and T3.
+TODO: GovDAO scope and limitations.
+TODO: Role of NewTendermint,LLC; temporary for Gno.land and permanent for Gno.
 
 ### Tokenomics
 
-$GNOT is a byte-storage deposit token.
-History of Cosmos.
-Integration with Atom.One simple-replicated ICS.
+Gno.land after launch will merge with Atom.One and be hosted as an Atom.One ICS
+chain that is secured by the same validator-set as Atom.One.
+
+Gno.land will initially launch as its own blockchain so the $GNOT token will
+function both as the spam-prevention gas-payment token as well as byte-storage
+deposit token. Once Gno.land migrates over to Atom.One after the Gno.land <>
+Atom.One IBC connection is complete and Atom.One Simple-Replicated ICS MVP is
+implemented, $ATONE will be the staking-token (but with limited voting rights
+for Gno.land itself), $PHOTON will be the CPU gas-token, and $GNOT the
+dedicated byte-storage deposit token.
+
+There will be many more chains hosted with Atom.One ICS that are powered by the
+GnoVM or compete with the Gno.land chain itself, but these chains will need to
+give Gno.land strong-attribution by the Gno Network GPL copyleft license (a
+fork of AGPL3.0 to allow for strong-attribution in a decentralized blockchain
+ecosystem with many independent actors), and Gno.land will be the first such
+Gno-based chain, so Gno.land and $GNOT will benefit from first-mover advantage
+and network effect even if other chains do not use the $GNOT token at all.
+
+Competing smart-contract platforms that are not based on the GnoVM, or those
+that are based on other languages will also be supported in Atom.One, as
+Atom.One will support quasi-permissionless hosting of many blockchain
+application platforms; but the scope of possible multi-user general-purpose
+langauges is restricted by the laws of logic; and Gno and GnoVM will serve as
+the foundation for future multi-user general-purpose language innovation.
 
 ### Gnoweb Browser
 
-Markdown instead of HTML for accessibility.
-Rendering on Gno.land.
-Restful discovery of library package and user realm code.
+TODO Markdown instead of HTML for accessibility.
+TODO Rendering on Gno.land.
+TODO Restful discovery of library package and user realm code.
 
 ### Strong Attribution License
 
-Anyone can fork Gno.land.
-Fork of GNU AGPL 3.0.
-Strong attribution clause terms.
-Trademark of Gno.
+TODO Anyone can fork Gno.land.
+TODO Fork of GNU AGPL 3.0.
+TODO Strong attribution clause terms.
+TODO Trademark of Gno.
+TODO When Gno.land should fork.
 
 ### Gno.land Separation of Church and State
 
-Gno.land should not censor speech, even if the speech is wrong.
-However, it should ban porn and 
-
-Jefferson 
+Madison separated church and state in the US Constitution albiet there is a
+hint of the Christian spirit by the way in which the constitution was signed:
+"... in the Year of the Lord...". All the founders were Christian including
+Jefferson and Madison, and in particular the primary author of the US
+Constitution James Madison explicitly separated church from the constitution so
+as to help promote the teachings of Jesus as evidenced in his other writings.
+Likewise Gno.land besides this whitepaper is independent of any religion by its
+constitution, which should only refer to this whitepaper sparingly.
 
 Gno.land will launch with a minimal (living) constitution written and
-maintained in English, but also it will also ultimately it will be supplemented
-by working Gno code, immutable, and created by awakened Gno developers.
+maintained in English, but also ultimately be supplemented by the completed
+GnoVM code and Tendermint2 and Gno.land implementation.  Future implementations
+of the GnoVM and Gno.land should adhere to the completed software mentioned
+above.
+
+Gno.land should not censor speech, even if the speech is wrong. However, it
+should ban all porn and try to limit external links to porn sites as porn is
+not speech and is dangerous to civilization. Whether hate-speech is tolerated
+shoud be determined by each realm but also by the living Gno.land constitution
+and by GovDAO vote to amend the constitution and laws of Gno.land.
 
 
-###############
 ## Future Work
 
-Name registry.
-Realm upgrading.
-Deterministic concurrency.
-Joeson parser.
-Gno2.
-Open hardware.
+TODO Name registry.
+TODO Realm upgrading.
+TODO Deterministic concurrency.
+TODO Joeson parser.
+TODO Gno2.
+TODO Open hardware.
 
-###############
+
 ## Summary
 
-Gno is the next multi-user C.
+TODO
 Gno.land is the next open Google.
 AI will be safer.
 Politics will be more honest.
 1000 year plan.
 
-##############
+
 ## Resources
 
 https://biblehub.com
@@ -1549,29 +1577,6 @@ minimum, is a government that does not care about its obsolescence.
 The monitoring and mass surveillance cannot handle the stochastic terror that
 will upend any sense of order.
 
-
-
-> Berean Literal Bible:
-> Matthew 22:15: Then the Pharisees having gone out, took counsel how they might trap Him in His words.
-> Matthew 22:16: And they send their disciples to Him, with the Herodians, saying, “Teacher, we know that You are true, and You teach the way of God in the truth, and to You there is care about no one, for You do not look on the appearance of men.
-> Matthew 22:17: Therefore tell us, what do You think? Is it lawful to give tribute to Caesar, or not?”
-> Matthew 22:18: But having known their malice, Jesus said, “Hypocrites, why do you test Me?
-> Matthew 22:19: Show Me the coin of the tribute.” And they presented to Him a denarius.
-> Matthew 22:20: And He says to them, “Whose likeness and whose inscription is this?”
-> Matthew 22:21: They say to Him, “Caesar’s.” Then He says to them, “Therefore give back to Caesar the things of Caesar, and to God the things of God.”
-> Matthew 22:22: And having heard, they marveled. And having left Him, they went away.
-
-> Berean Literal Bible:
-> Luke 20:19: When the scribes and chief priests realized that Jesus had spoken this parable against them, they sought to arrest Him that very hour. But they were afraid of the people.
-> Luke 20:20: So they watched Him closely and sent spies who pretended to be sincere. They were hoping to catch Him in His words in order to hand Him over to the rule and authority of the governor.
-> Luke 20:21: “Teacher,” they inquired, “we know that You speak and teach correctly. You show no partiality but teach the way of God in accordance with the truth.
-> Luke 20:22: Is it lawful for us to pay taxes to Caesar or not?”
-> Luke 20:23: But Jesus saw through their duplicity and said to them,
-> Luke 20:24: “Show Me a denarius. Whose image and inscription are on it?” “Caesar’s,” they answered.
-> Luke 20:25: So Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.”
-> Luke 20:26: And they were unable to trap Him in His words before the people. And amazed at His answer, they fell silent.
-
-
 --------
 
 > Berean Standard Bible:
@@ -1637,105 +1642,3 @@ share the content within the walled garden of Twitter/X. See more
 Note above that when I asked @supergrok to comment on the fact that I had
 personally experienced my Twitter posts not preserving integrity, it denied any
 response.
-
-### 3I/Atlas and Wormwood
-
-**A hypothetical debris field trailing 3I/Atlas (and ejecta from its anti-tail
-around 8/25/25) may collide with Earth around 3/10/26 to darken the skies and
-produce Cyanide, fulfilling the prophecy of Wormwood (see appendix).**
-
-There is much speculation about 3I/Atlas but there isn't enough certainty about
-what it is. That much is certain.
-
-First I will propose a new hypothetical model that explains 3I/Atlas.
-
- 1. V4200 is a Cyanide rich nearby star where the unidentified "WOW signal" originated.
- 2. Carbonatious ejecta from V4200 get pushed outward by its solar wind.
- 3. The disperse carbonatious material clumps together by gravitational forces.
- 4. 3I/Atlas is a clump of clumps of carbonatious material.
- 5. Before it arrives near our sun Sol the smaller clumps are pushed back.
- 6. 3I/Atlas is trailed by a field of carbonatious debris hidden by its dust tail.
- 7. 3I/Atlas is a periodic phenomena described as Wormwood that planted life on Earth.
-
- See [image](../../misc/jaekwon/wormwood/3i_atlas_debris_field.png).
-
-You can use a tool to visualize the trajectory of 3I/Atlas versus the sun and
-planets. See https://www.atlascomet.com/3d-interstellar-tracker.
-
-Most concerning is the hypothetical debris, but also any material ejected from
-3I/Atlas's anti-tail headed toward the Sun and Jupiter from around 8/25/25 and
-the many months before would have been slowed down (repelled) by solar wind and
-pulled by Mars to collide with the Earth around 3/10/26 as well.
-
-Professor Avi Loeb claims that 3I/Atlas is too far away for any of the larger
-particles of 3I/Atlas' anti-tail to reach Earth in any meaningful capacity,
-but it does not seem that Avi Loeb or anyone has considered the anti-tail 
-ejecta from 8/25/25 and long before being slowed/repelled by the Sun as
-well as pulled toward the Earth by Mars for a slingshot collision on Earth
-around 3/10/26.
-
-Furthermore noone observing 3I/Atlas is thinking about a trailing debris field;
-people are still trying to figure out what it is, without considering the seven
-points above. At this time any attempt of observation of a hypothetical debris
-field may fail because of the accumulated dust trail as seen from Clipper (see
-image https://imgur.com/a/is-3i-atlas-wormwood-84Iqs0M#JFyrPbC). The European
-Space Agency's Solar Orbiter which operates in solar polar orbit could be used
-to detect any debris field from above.
-
-The one circumstantial evidence we have for a debris field is the recent
-malfunctioning of the Mars orbital satellite Maven.
-
-Such a hypotheticl debris field trailing 3I/Atlas (or any field ejected from
-its anti-tail or tail) would not be interceptable by any man-made defense
-weapon. First there would be a hail of fireballs that may crash unto the Earth
-and begin the darken portions of the sky. Later, larger pieces would crash into
-the seas and oceans and create tsunami waves. Then, any following debris that
-lands under the darkened sky would do the same and in addition create Cyanide
-that is otherwise not prevented by photodissociation. Finally, the day and
-night sky would be darkened for a period of months. 
-
-This is what is described in Revelation 8:7-12.
-
-> Berean Standard Bible:
-> Revelation 8:7: Then the first angel sounded his trumpet, and hail and fire mixed with blood were hurled down upon the earth. A third of the earth was burned up, along with a third of the trees and all the green grass.
-> Revelation 8:8: Then the second angel sounded his trumpet, and something like a great mountain burning with fire was thrown into the sea. A third of the sea turned to blood,
-> Revelation 8:9: a third of the living creatures in the sea died, and a third of the ships were destroyed.
-> Revelation 8:10: Then the third angel sounded his trumpet, and a great star burning like a torch fell from heaven and landed on a third of the rivers and on the springs of water.
-> Revelation 8:11: The name of the star is Wormwood. A third of the waters turned bitter like wormwood oil, and many people died from the bitter waters.
-> Revelation 8:12: Then the fourth angel sounded his trumpet, and a third of the sun and moon and stars were struck. A third of the stars were darkened, a third of the day was without light, and a third of the night as well.
-
-NOTE: youtuber @DobsonianPower [asked this question independently
-too](https://www.youtube.com/watch?v=4R0YWlu99nY) but he takes Professor Avi
-Loeb's word for it that it won't impact the Earth in significant quantities.
-
-> NASA Flags 3I/Atlas for Losing 5B Tons Per Month—Interstellar Comet Defies
-> Natural Laws.
-
-Avi Loeb hypothesizes that 3I/Atlas is recently losing **5 billion tons per
-month** in order to account for its change in trajectory, assuming standard
-cometary dynamics. Even a tiny fraction of 5 billion tons is sufficient to
-fulfill the Wormwood prophecy.
-
-It is a bit concerning that we aren't sure whether such debris and gas has been
-emitted in the anti-tail, or whether it is due to sun-directed jets stronger
-than typical comets, but what is surely needed is better understanding of the
-components ejected by the anti-tail and any trailing debris by infrared and
-X-ray imagine also from the European Space Agency's Solar Orbiter.
-
-> 3I/Atlas is estimated to have a mass of over 33 billion tons, with some
-> calculations suggesting it may have lost around 16% of its mass through
-> outgassing.
-
-This is reminiscent of the "eye of the pyramid" where the eye sits above 33
-stones; the same symbol in back of the US dollar bill; like the hypothetical
-debris field trailing 3I/Atlas.
-
-Links:
- - https://imgur.com/a/is-3i-atlas-wormwood-84Iqs0M
- - https://economictimes.indiatimes.com/us/science-tech/3i/atlas-was-not-a-threat-to-earth-but-what-about-the-poisonous-cyanide-it-left-behind/articleshow/126156310.cms
- - https://www.ibtimes.com/3i-atlas-baffles-experts-harvard-scientist-raises-alarming-claim-about-cyanide-clouds-space-3793595
- - https://www.forbes.com/sites/jamiecartereurope/2025/12/18/alien-comet-3iatlas-is-getting-brighter-and-greener-scientists-say/
- - https://futurism.com/space/mysterious-interstellar-object-may-have-exploded
- - https://www.godlikeproductions.com/forum1/message6118344/pg1
- - https://www.msn.com/en-us/news/technology/nasa-flags-3i-atlas-for-losing-5b-tons-per-month-interstellar-comet-defies-natural-laws/ar-AA1RkStE
- - https://x.com/jaekwon/status/2004350346504949946?s=20 (conversations with Grok)
