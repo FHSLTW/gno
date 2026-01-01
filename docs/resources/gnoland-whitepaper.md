@@ -171,7 +171,7 @@ people or AI with followup questions; and in this way we can measure the
 effectiveness of the thought-statement graph in helping the reader make related
 decisions.
 
-----
+// A note on further improvements to Tractatus.
 
 Federico Faggin inventor of the microprocessor (CPU) says that consciousness is
 not an emergent property of the brain, but a fundamental aspect of reality
@@ -183,6 +183,12 @@ itself: quantum fields are conscious and have are will.
 >  1. Dynamic - never the same instant over instant
 >  2. Wholistic - is not made of separable parts
 >  3. One wants to know itself - requires consciousness & free-will
+
+This may be a more interesting and complete set of axiomatic theses to start
+from than Wittgenstein's original seven, which may better be fitted in the
+second thesis "Wholistic" as an exploration of the decomposition of language
+and thought, even under or after the later Wittgenstein's thoughts on the
+limitations of language as a dependency of the latter.
 
 ### Gno.land Genesis - Addressing Mistranslations of the Bible
 
