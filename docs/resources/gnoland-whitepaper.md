@@ -1817,6 +1817,37 @@ And how even the KJV hides the true meaning of it.
 Silver (denarius) will continue to rise in price, whereas a penny will continue
 to deflate in value.
 
+### Prophecy of Isiah 52:13-53:8
+
+Regarding the prophecy of Isiah:
+
+> 7: He was oppressed and afflicted,
+>      yet He did not open His mouth.
+>    He was led like a lamb to the slaughter,
+>      and as a sheep before her shearers is silent,
+>    so **He did not open His mouth**.
+
+This seems to go against the claim that Jesus protested taxes.
+But consider the earlier portion that complements the above:
+
+> 15: so He will sprinkleg many nations.
+>       **Kings will shut their mouths** because of Him.
+>     For **they will see what they have not been told**,
+>       and **they will understand what they have not heard**.
+
+What is it that Jesus did not open his mouth to speak that the kings will shut
+their mouths when they understand what they have not ever heard?
+
+Recall that the Sanhedrin chief priests also shut their mouths because they
+understood what was not said.
+
+> 25: So Jesus told them, “Give to Caesar what is Caesar’s, and to God what is
+>     God’s.”
+> 26: And they were unable to trap Him in His words before the people. And
+>     amazed at His answer, they fell silent.
+
+Jesus fulfilled Isiah with a protest that didn't sound like a protest.
+
 ### Persecution of Christians in China
 
 From a conversation with Twitter's @supergrok:
