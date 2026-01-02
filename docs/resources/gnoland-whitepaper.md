@@ -223,7 +223,7 @@ translations of the Old Testament and New Testament were wrong by design.
 
 For example, **the New Testament had been mistranslated to hide one of the
 primary reason why Jesus was crucified--it was because he protested taxes even
-while fulfilling [the prophecy of Isaiah](#prophecy-of-isiah) and was accused
+while fulfilling [the prophecy of Isaiah](#prophecy-of-isaiah) and was accused
 by Sanhedrin of inciting the people of Israel in Judea under Roman rule.**
 Despite all the sources online and the authorities at Church, this can be
 verified by inspecting the facts. Even the Babylonian Talmud in [Sanhedrin
@@ -1820,9 +1820,9 @@ to deflate in value.
 
 ### Prophecy of Isaiah
 
-Regarding the prophecy of Isiah 52:13-53:8:
+Regarding the prophecy of Isaiah 52:13-53:8:
 
-> Berean Standard Bible (Isiah 53):
+> Berean Standard Bible (Isaiah 53):
 > 7: He was oppressed and afflicted,
 >      yet He did not open His mouth.
 >    He was led like a lamb to the slaughter,
@@ -1832,7 +1832,7 @@ Regarding the prophecy of Isiah 52:13-53:8:
 This seems to go against the claim that Jesus protested taxes.
 But consider the earlier portion that complements the above:
 
-> Berean Standard Bible (Isiah 52):
+> Berean Standard Bible (Isaiah 52):
 > 15: so He will sprinkleg many nations.
 >       **Kings will shut their mouths** because of Him.
 >     For **they will see what they have not been told**,
@@ -1849,7 +1849,7 @@ understood what was not said.
 > 26: And they were unable to trap Him in His words before the people. And
 >     amazed at His answer, they fell silent.
 
-Jesus fulfilled Isiah with a protest that didn't sound like a protest.
+Jesus fulfilled Isaiah with a protest that didn't sound like a protest.
 
 ### Persecution of Christians in China
 
