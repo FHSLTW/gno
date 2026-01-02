@@ -248,33 +248,33 @@ study. Furthermore, even on BibleHub.com there still persist systemic
 mistranslations that have been carried on for millenia since the time of the
 Roman Empire.
 
-> King James Bible (Luke 2):
-> 1 And it came to pass in those days, that there went out a decree from Caesar
->   Augustus, that **all the world should be taxed**.
-> 2 (And this **taxing** was first made when Cyrenius was governor of Syria.)
-> 3 And all went to be **taxed**, every one into his own city.
-> 4 And Joseph also went up from Galilee, out of the city of Nazareth, into
->   Judaea, unto the city of David, which is called Bethlehem; (because he was of
->   the house and lineage of David:)
-> 5 To be **taxed** with Mary his espoused wife, being great with child.
+> King James Version (Luke 2):
+> 1: And it came to pass in those days, that there went out a decree from Caesar
+>    Augustus, that **all the world should be taxed**.
+> 2: (And this **taxing** was first made when Cyrenius was governor of Syria.)
+> 3: And all went to be **taxed**, every one into his own city.
+> 4: And Joseph also went up from Galilee, out of the city of Nazareth, into
+>    Judaea, unto the city of David, which is called Bethlehem; (because he was of
+>    the house and lineage of David:)
+> 5: To be **taxed** with Mary his espoused wife, being great with child.
 
 > Berean Standard Bible (Luke 2):
 > (The birth of Jesus)
-> 1 Now in those days a decree went out from Caesar Augustus that **a census
->   should be taken of the whole empire**.
-> 2 This was the first **census** to take place while Quirinius was governor of
->   Syria.
-> 3 And everyone went to his own town **to register**.
-> 4 So Joseph also went up from Nazareth in Galilee to Judea, to the city of
->   David called Bethlehem, since he was from the house and line of David.
-> 5 He went there to **register** with Mary, who was pledged to him in marriage and
->   was expecting a child.
-> 6 While they were there, the time came for her Child to be born.
-> 7 And she gave birth to her firstborn, a Son. She wrapped Him in swaddling
->   cloths and laid Him in a manger, because there was no room for them in the
->   inn.
+> 1: Now in those days a decree went out from Caesar Augustus that **a census
+>    should be taken of the whole empire**.
+> 2: This was the first **census** to take place while Quirinius was governor of
+>    Syria.
+> 3: And everyone went to his own town **to register**.
+> 4: So Joseph also went up from Nazareth in Galilee to Judea, to the city of
+>    David called Bethlehem, since he was from the house and line of David.
+> 5: He went there to **register** with Mary, who was pledged to him in marriage and
+>    was expecting a child.
+> 6: While they were there, the time came for her Child to be born.
+> 7: And she gave birth to her firstborn, a Son. She wrapped Him in swaddling
+>    cloths and laid Him in a manger, because there was no room for them in the
+>    inn.
 
-There is a clear discrepancy between the King James Bible and the Berean
+There is a clear discrepancy between the King James Version and the Berean
 Standard Bible. The former says that Joseph Jesus's parent went to Bethlehem to
 get taxed. The Berean Standard Bible says that he went to get registered for a
 census. What gives?
@@ -288,21 +288,24 @@ With tools like [openbible.com](https://openbible.com/text/luke/2-2.htm) and
 [biblehub.com](https://biblehub.com/p/kjv/heb/luke/2.shtml) you can compare the
 translations side by side to see whether or not the translation is true.
 Clearly there's a mistranslation here; and besides, "And all went to be taxed,
-every one into his own city" sounds a little strange if you ask me (for
-otherwise why would there be tax collectors who come to you?), whereas going to
-be registered makes more sense.
+every one into his own city" sounds unbelievale (for otherwise why would there
+be tax collectors who come to you?), whereas going to be registered makes more
+sense.
 
-So the birth of Jesus in Bethlehem got mistranslated by the King James Bible to
-get the subjects of the king to pay more taxes. It would be interesting to see
-what other translations have the same problem; whether it is also mistranslated
-in Martin Luther's version, and the original Latin version. My guess is that
-they all had this mistranslation, but the reader should do their own research.
+So the birth of Jesus in Bethlehem got mistranslated in the King James Version
+probably to get the subjects of the king to pay more taxes--this I derive
+because King James [did have access to copies of the original Koine Greek
+manuscripts](https://georgehguthrie.com/new-blog/manuscripts-behind-the-kjv)
+and "ἀπογράφω" is in Koine Greek [the 2550th most frequent
+word](https://logeion.uchicago.edu/morpho/is%20the%202550th%20most%20frequent%20word)
+which means "to write off, copy: to enter in a list, register"; and Martin
+Luther's translation error is not so egregious, and the Latin vulgate
+translation is much better; and King James had access to all of these.
 
-This tells us more about King James than anything else, because most other
-English translations correctly translate it as "registered", not "taxed". In
-the following I will show passages about Jesus' personal thoughts regarding
-taxes to the state and church (temple). First, the famous passage about "Render
-therefore unto Caesar what is Caesar's".
+This tells us more about the King James Version than anything else. What
+follows is about Jesus' personal thoughts regarding taxes to the state and
+church (temple). First, the famous passage about "Render therefore unto Caesar
+what is Caesar's":
 
 > King James Version (Luke 20):
 > 21: And they asked him, saying, Master, we know that thou sayest and teachest
@@ -1686,6 +1689,67 @@ Politics will be more honest.
 > drachma (a Greek coin). The “lost coin” in the parable that Jesus
 > tells in Luke 15:8–10 is a drachma**.
 
+### KJV, Luther, and Latin on Taxation
+
+> Martin Luther Bibel 1912 (Luke 2):
+> 1: Es begab sich aber zu der Zeit, dass ein Gebot von dem Kaiser Augustus
+>    ausging, dass alle Welt **geschätzt** würde.
+> 2: Und diese **Schätzung** war die allererste und geschah zu der Zeit, da
+>    Cyrenius Landpfleger von Syrien war.
+> 3: Und jedermann ging, dass er sich **schätzen** ließe, ein jeglicher in seine
+>    Stadt.
+> 4: Da machte sich auch auf Joseph aus Galiläa, aus der Stadt Nazareth, in das
+>    jüdische Land zur Stadt Davids, die da heißt Bethlehem, darum dass er von dem
+>    Hause und Geschlechte Davids war,
+> 5: auf dass er sich **schätzen** ließe mit Maria, seinem vertrauten Weibe, die
+>    ward schwanger.
+> 6: Und als sie daselbst waren, kam die Zeit, da sie gebären sollte.
+> 7: Und sie gebar ihren ersten Sohn und wickelte ihn in Windeln und legte ihn
+>    in eine Krippe; denn sie hatten sonst keinen Raum in der Herberge.
+
+Roughly translates to:
+
+> 1: And it came to pass at that time that a commandment went forth from Caesar
+>    Augustus, that all the world should be **esteemed (valued)**.
+> 2: And this **estimate** was the very first and happened at the time when
+>    Cyrenius was governor of Syria.
+> 3: And every one went to be **valued**, every one to his own city. 
+> 4: Then Joseph also went out of Galilee, out of the city of Nazareth, into
+>    the land of Judea, to the city of David, which is called Bethlehem, because
+>    he was of the house and lineage of David, 
+> 5: that he might be **valued** with Mary, his trusted wife, who became pregnant.
+> 6: And when they were there, the time came for her to give birth.
+> 7: And she gave birth to her first son, and wrapped him in
+>    swaddling clothes, and laid him in a manger; for they had no other room in the
+>    inn.
+
+The root of all four words in German are the same "schätz", and mean
+"estimation" or "value". This translation sort of makes sense for a census
+because a census cannot be perfect, but is very different in meaning than the
+original Koine Greek based on its roots: ἀπογράφω, to write off, copy: to enter
+in a list, register, which is a precise atomical thing.
+
+So Martin Luther first made the error of **estimating** the word "registration"
+to "estimate", or rather fudged it; not exactly to "taxation", but closer to
+it. And then King James completed the error of mistranslating it to "taxation".
+
+> [Latin Vulgate Bible](https://github.com/LukeSmithxyz/vul) (Luke 2):
+> 1: Factum est autem in diebus illis, exiit edictum a Caesare Augusto ut
+>    **describeretur** universus orbis.
+> 2: Haec **descriptio** prima facta est a praeside Syriae Cyrino :
+> 3: et ibant omnes ut **profiterentur** singuli in suam civitatem.
+> 4: Ascendit autem et Joseph a Galilaea de civitate Nazareth in Judaeam, in
+>    civitatem David, quae vocatur Bethlehem : eo quod esset de domo et familia
+>    David,
+> 5: ut **profiteretur** cum Maria desponsata sibi uxore praegnante.
+> 6: Factum est autem, cum essent ibi, impleti sunt dies ut pareret.
+> 7: Et peperit filium suum primogenitum, et pannis eum involvit, et reclinavit
+>    eum in praesepio : quia non erat eis locus in diversorio.
+
+In Latin "descriptio" means "description", while "profiterentur" means "they
+would register". This seems like a better translation than either Martin
+Luther's or King James'.
+
 ### The Book of Revelation, Collapse of the Dollar, and Food Insecurity
 
 // Silver Depositories and Grain Silos
@@ -1745,7 +1809,7 @@ will upend any sense of order.
 
 And how even the KJV hides the true meaning of it.
 
-> King James Bible (Revelation 6):
+> King James Version (Revelation 6):
 > 6: "And I heard a voice in the midst of the four beasts say, **A
 >    measure of wheat for a penny**, and three measures of barley for a penny; and
 >    see thou hurt not the oil and the wine."
