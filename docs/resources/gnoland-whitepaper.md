@@ -222,18 +222,19 @@ have the same underlying cause. During this time I also learned that many
 translations of the Old Testament and New Testament were wrong by design.
 
 For example, **the New Testament had been mistranslated to hide one of the
-primary reason why Jesus was crucified--it was because he was in protest of
-taxes and accused by Sanhedrin of inciting the people of Israel in Judea under
-Roman rule.** Despite all the sources online and the authorities at Church,
-this can be verified by inspecting the facts. Even the Babylonian Talmud in
-[Sanhedrin attests to the fact](../../misc/jaekwon/jesus_in_talmud) that the
-Sanhedrin supreme court condemned Jesus to death for "inciting" Israel,
-although curiously (or not surprisingly) the source at sefaria.org adds
-incorrect language in the English translation (in unbolded text) that the
-incitement was for idol worship. (Also of note is that Google Translate
-[intentionally mistranslates "excrement" to
-"water"](../../misc/jaekwon/jesus_in_talmud/google_translate_lies.png) among other
-portions of Gittin 56b)
+primary reason why Jesus was crucified--it was because he protested taxes even
+while fulfilling [the prophecy of Isaiah](#prophecy-of-isiah) and was accused
+by Sanhedrin of inciting the people of Israel in Judea under Roman rule.**
+Despite all the sources online and the authorities at Church, this can be
+verified by inspecting the facts. Even the Babylonian Talmud in [Sanhedrin
+attests to the fact](../../misc/jaekwon/jesus_in_talmud) that the Sanhedrin
+supreme court condemned Jesus to death for "inciting" Israel, although
+curiously (or not surprisingly) the source at sefaria.org adds incorrect
+language in the English translation (in unbolded text) that the incitement was
+for idol worship. (Also of note is that Google Translate [intentionally
+mistranslates "excrement" to
+"water"](../../misc/jaekwon/jesus_in_talmud/google_translate_lies.png) among
+other portions of Gittin 56b)
 
 (see more context
 [here](https://christiancourier.com/articles/the-jewish-talmud-and-the-death-of-christ))
@@ -336,9 +337,9 @@ in Luke 23:
 >    be Christ, a King.”
 
 (This detail is missing in the other books, especially Matthew, as Matthew was
-a tax collector and could not be associated with a tax protestor/evader.
-However Luke is a historian who studied the events post-facto and wisely
-decided to include this element in his book.)
+a tax collector and could not be associated with a tax protester. However Luke
+is a historian who studied the events post-facto and wisely decided to include
+this element in his book.)
 
 There is a logical inconsistency, as it is written in Luke that Jesus was
 accused of forbidding to give tribute instead. Of course Jesus is being accused
@@ -1817,10 +1818,11 @@ And how even the KJV hides the true meaning of it.
 Silver (denarius) will continue to rise in price, whereas a penny will continue
 to deflate in value.
 
-### Prophecy of Isiah 52:13-53:8
+### Prophecy of Isaiah
 
-Regarding the prophecy of Isiah:
+Regarding the prophecy of Isiah 52:13-53:8:
 
+> Berean Standard Bible (Isiah 53):
 > 7: He was oppressed and afflicted,
 >      yet He did not open His mouth.
 >    He was led like a lamb to the slaughter,
@@ -1830,6 +1832,7 @@ Regarding the prophecy of Isiah:
 This seems to go against the claim that Jesus protested taxes.
 But consider the earlier portion that complements the above:
 
+> Berean Standard Bible (Isiah 52):
 > 15: so He will sprinkleg many nations.
 >       **Kings will shut their mouths** because of Him.
 >     For **they will see what they have not been told**,
