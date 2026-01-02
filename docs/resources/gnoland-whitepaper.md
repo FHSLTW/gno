@@ -292,7 +292,7 @@ every one into his own city" sounds a little strange if you ask me (for
 otherwise why would there be tax collectors who come to you?), whereas going to
 be registered makes more sense.
 
-So the birth of Jesus in Bethleham got mistranslated by the King James Bible to
+So the birth of Jesus in Bethlehem got mistranslated by the King James Bible to
 get the subjects of the king to pay more taxes. It would be interesting to see
 what other translations have the same problem; whether it is also mistranslated
 in Martin Luther's version, and the original Latin version. My guess is that
@@ -302,7 +302,7 @@ This tells us more about King James than anything else, because most other
 English translations correctly translate it as "registered", not "taxed". In
 the following I will show passages about Jesus' personal thoughts regarding
 taxes to the state and church (temple). First, the famous passage about "Render
-therefore unto Ceasar what is Caesar's".
+therefore unto Caesar what is Caesar's".
 
 > King James Version (Luke 20):
 > 21: And they asked him, saying, Master, we know that thou sayest and teachest
