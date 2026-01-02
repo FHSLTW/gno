@@ -248,11 +248,61 @@ study. Furthermore, even on BibleHub.com there still persist systemic
 mistranslations that have been carried on for millenia since the time of the
 Roman Empire.
 
-(I am not advocating for tax avoidance here, but merely pointing out the truth
-that the meaning behind the Word had been hidden successfully for centuries if
-not the entirety of two millenia since the first Latin translation by the Roman
-Empire. It's generally not a good idea to offend authorities, even if they are
-illegitimate.)
+> King James Bible (Luke 2):
+> 1 And it came to pass in those days, that there went out a decree from Caesar
+>   Augustus, that **all the world should be taxed**.
+> 2 (And this **taxing** was first made when Cyrenius was governor of Syria.)
+> 3 And all went to be **taxed**, every one into his own city.
+> 4 And Joseph also went up from Galilee, out of the city of Nazareth, into
+>   Judaea, unto the city of David, which is called Bethlehem; (because he was of
+>   the house and lineage of David:)
+> 5 To be **taxed** with Mary his espoused wife, being great with child.
+
+> Berean Standard Bible (Luke 2):
+> (The birth of Jesus)
+> 1 Now in those days a decree went out from Caesar Augustus that **a census
+>   should be taken of the whole empire**.
+> 2 This was the first **census** to take place while Quirinius was governor of
+>   Syria.
+> 3 And everyone went to his own town **to register**.
+> 4 So Joseph also went up from Nazareth in Galilee to Judea, to the city of
+>   David called Bethlehem, since he was from the house and line of David.
+> 5 He went there to **register** with Mary, who was pledged to him in marriage and
+>   was expecting a child.
+> 6 While they were there, the time came for her Child to be born.
+> 7 And she gave birth to her firstborn, a Son. She wrapped Him in swaddling
+>   cloths and laid Him in a manger, because there was no room for them in the
+>   inn.
+
+There is a clear discrepancy between the King James Bible and the Berean
+Standard Bible. The former says that Joseph Jesus's parent went to Bethlehem to
+get taxed. The Berean Standard Bible says that he went to get registered for a
+census. What gives?
+
+<img src="../images/Birth_of_Jesus_mistranslation.png"/>
+
+The actual word in the original Koine Greek is "ἀπογράφεσθαι" which means
+"register(ed)", not "tax(ed)".
+
+With tools like [openbible.com](https://openbible.com/text/luke/2-2.htm) and
+[biblehub.com](https://biblehub.com/p/kjv/heb/luke/2.shtml) you can compare the
+translations side by side to see whether or not the translation is true.
+Clearly there's a mistranslation here; and besides, "And all went to be taxed,
+every one into his own city" sounds a little strange if you ask me (for
+otherwise why would there be tax collectors who come to you?), whereas going to
+be registered makes more sense.
+
+So the birth of Jesus in Bethleham got mistranslated by the King James Bible to
+get the subjects of the king to pay more taxes. It would be interesting to see
+what other translations have the same problem; whether it is also mistranslated
+in Martin Luther's version, and the original Latin version. My guess is that
+they all had this mistranslation, but the reader should do their own research.
+
+This tells us more about King James than anything else, because most other
+English translations correctly translate it as "registered", not "taxed". In
+the following I will show passages about Jesus' personal thoughts regarding
+taxes to the state and church (temple). First, the famous passage about "Render
+therefore unto Ceasar what is Caesar's".
 
 > King James Version (Luke 20):
 > 21: And they asked him, saying, Master, we know that thou sayest and teachest
@@ -266,21 +316,6 @@ illegitimate.)
 >     Caesar's, and unto God the things which be God's.**
 > 26: And they could not take hold of his words before the people: **and they
 >     marvelled at his answer**, and held their peace.
-
-Each verse is identified by three values:
- * the author name
- * a page number
- * a line number
-
-XXX Notice the difference in structure between Tractatus and the bible.
-XXX A tree vs a book.
-XXX Do we want a tree or are graphs ok? // or tree?
-XXX you want to avoid graphs, or ciruclarity, for efficiendy? completeness?
-XXX But with a graph you can do logical circuitry. 
-XXX Even with a tree you can do logical gates.
-XXX Dynamic evaluation ...
-XXX Map Reduce -> Tree Compute
-XXX leaves
 
 In the current interpretion, indeed all interpretations of Luke 20:25-26 it is
 claimed that Jesus gave an astonishing answer because he agreed to pay due
@@ -297,19 +332,21 @@ in Luke 23:
 >    nation, **forbidding payment of taxes to Caesar**, and proclaiming Himself to
 >    be Christ, a King.”
 
-There is a logical inconsistency, as it is written in Luke that Jesus was
-accused of forbidding to give tribute instead.
-
 (This detail is missing in the other books, especially Matthew, as Matthew was
 a tax collector and could not be associated with a tax protestor/evader.
 However Luke is a historian who studied the events post-facto and wisely
 decided to include this element in his book.)
 
+There is a logical inconsistency, as it is written in Luke that Jesus was
+accused of forbidding to give tribute instead. Of course Jesus is being accused
+by Sanhedrin who wanted to arrest him. But were they lying, or were they truly
+afraid?
+
 What Jesus meant was that Caesar can have all the pennies, while the other
 silver coins of larger denominations should not be paid to Caesar. However this
 is still not the complete truth, as the King James Version substituted "penny"
 for what should be the "denarius", thus losing some of the required context for
-understanding this passage.o
+understanding this passage.
 
 A denarius was typically considered a day's wage for a common laborer in
 ancient Rome. Jesus was not a common laborer and didn't have many denarius
@@ -348,6 +385,12 @@ While the taxes mentioned previously (Luke 20) were for Caesar, the taxes in
 the following passage (Matthew 17) were for the Second Temple in Jerusalem.
 There in Matthew 17 there exists clear evidence of intentional mistranlation
 for the purpose of hiding Jesus' true intent of protesting taxes.
+
+(I am not advocating for tax avoidance here, but merely pointing out the truth
+that the meaning behind the Word had been hidden successfully for centuries if
+not the entirety of two millenia since the first Latin translation by the Roman
+Empire. It's generally not a good idea to offend authorities, even if they are
+illegitimate.)
 
 > King James Version (Matthew 17):
 > 24: And when they were come to Capernaum, **they that received tribute
