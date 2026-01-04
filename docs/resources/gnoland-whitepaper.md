@@ -600,6 +600,13 @@ Gno.land written in Gno for the people to collectively distill such a tree.
 
 Consider the following (singleton and compound) thought-statements:
 
+ * The spirit of the US Constitution is Christian; all of the founders were
+   Christian; and James Madison separated church and state for the express
+   purpose of promoting the teachings of Jesus.
+
+ * The biblical locusts in the Book of Revelation refer to [an invasion of
+   foreigners](https://github.com/jaekwon/ephesus/blob/main/thoughts/locusts.md).
+
  * Nick Shirley exposed a massive Somali day care center scam in Minessota in a
    viral video which reached more views than all US network television
    combined, and yet NO mainstream media covered it (as of Dec 30th, 4 days
