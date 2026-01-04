@@ -30,6 +30,8 @@ XXX freedoms, privacy, limitations
 
 ### Role: GovDAO
 
+XXX When to enable GNOT token transfers
+
 ### Role: NewTendermint,LLC
 
 Rights to word mark "Gno", "Gno.land", and "Gno*".
