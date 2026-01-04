@@ -637,6 +637,14 @@ Consider the following (singleton and compound) thought-statements:
    internet affecting everyone; and also leveraging local AI malware to disrupt
    my research from my own computers across all operating systems.
 
+ * Elon Musk knows who I am since my days at Yelp (co-founded by two Paypal
+   mafia members) and knowingly participates in suppressing my existence in a
+   ritual sort of way; by memoryholing Dogecoin to which I contributed and
+   earned a nickname for; by copying Gno.land's old logo for Grok; by
+   participating in a collective effort to label me an anti-semite with the
+   certain Cosmos ecosystem members during "#TheNoticing" which occurred as
+   soon as he acquired Twitter and fired the existing censorship team.
+
  * The Federal Reserve was unconstitutionally ratified in order to debase the
    people's money from the underlying gold and silver.
 
