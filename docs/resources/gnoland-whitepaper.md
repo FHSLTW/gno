@@ -58,8 +58,8 @@ It should be noted that all these problems are fueled by the impetus to seek a
 return from (capital) investment, whether legitimate, whether bubble, or
 whether fraudulent in nature.
 
-Another problem is the establishment of the "AI beast matrix prison".  Palentir
-has partnered with the current US administration to create a vast mass
+Another problem is the establishment of the "Beast AI Prison Matrix" system.
+Palentir has partnered with the current US administration to create a vast mass
 surveillance system that intercepts your internet interactions and censors what
 you post, and what you see, using sophisticated AI. The uploading of files will
 grind to a halt depending on its content. The link you post will load
@@ -637,8 +637,8 @@ Consider the following (singleton and compound) thought-statements:
    internet affecting everyone; and also leveraging local AI malware to disrupt
    my research from my own computers across all operating systems.
 
- * Gno.land poses the biggest threat to the aforementioned "Beast AI prison
-   matrix" system.
+ * Gno.land poses the biggest threat to the aforementioned "Beast AI Prison
+   Matrix" system.
 
  * Elon Musk knows who I am since my days at Yelp (co-founded by two Paypal
    mafia members) and knowingly participates in suppressing my existence in a
@@ -745,9 +745,9 @@ anyone to fork such a list with any modifications to create a better list.
 These new 95 theses for the end times can then even be printed in poster form
 linking back to gno.land and shared across the world; even customized for every
 region where the posters are put up (or they can be printed as a pamphlet and
-dropped from the air). The AI beast prison matrix may have a tight grip on the
-internet, but it does not yet control all of the physical world. To contribute,
-join the [Atom.One Telegram channel](https://t.me/youwillatone).
+dropped from the air). The Beast AI Prison Matrix system may have a tight grip
+on the internet, but it does not yet control all of the physical world. To
+contribute, join the [Atom.One Telegram channel](https://t.me/youwillatone).
 
 ## Gno Language
 
