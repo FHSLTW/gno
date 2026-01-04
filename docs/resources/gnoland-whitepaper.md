@@ -120,7 +120,7 @@ distinction between "early Wittgenstein" and "later Wittgenstein".
 3. A logical picture of facts is a thought.
 4. A thought is a proposition with a sense.
 5. A proposition is a truth-function of elementary propositions. (An elementary proposition is a truth-function of itself.)
-6. The general form of a proposition is the general form of a truth function, which is: XXX This is the general form of a proposition.
+6. The general form of a proposition is the general form of a truth function, which is: [p, ξ,N(ξ)] This is the general form of a proposition.
 7. Whereof one cannot speak, thereof one must be silent.
 
 Diving into the first root-level propositional statement, Wittgenstein supports
@@ -224,11 +224,11 @@ translations of the Old Testament and New Testament were wrong by design.
 For example, **the New Testament had been mistranslated to hide one of the
 primary reason why Jesus was crucified--it was because he protested taxes even
 while fulfilling [the prophecy of Isaiah](#prophecy-of-isaiah) and was accused
-by Sanhedrin of inciting the people of Israel in Judea under Roman rule.**
+by Sanhedrin of inciting the people of biblical Israel in Judea under Roman rule.**
 Despite all the sources online and the authorities at Church, this can be
 verified by inspecting the facts. Even the Babylonian Talmud in [Sanhedrin
 attests to the fact](../../misc/jaekwon/jesus_in_talmud) that the Sanhedrin
-supreme court condemned Jesus to death for "inciting" Israel, although
+supreme court condemned Jesus to death for "inciting" biblical Israel, although
 curiously (or not surprisingly) the source at sefaria.org adds incorrect
 language in the English translation (in unbolded text) that the incitement was
 for idol worship. (Also of note is that Google Translate [intentionally
@@ -616,6 +616,10 @@ Consider the following (singleton and compound) thought-statements:
    president 2024, knew of the Somali day care scam; and Walz's own appointee
    murdered the only lawmaker who voted against the Somali day care scam.
 
+ * [The State of Israel's Mossad is behind the Somali inter-state day care
+   scams](https://www.youtube.com/watch?v=SSKn9bHEvOw); and this is why Israel
+   suddenly recognized the new "Somaliland".
+
  * There exists at this moment a US-based global surveillance system headed by
    Palentir which uses advanced AI to intercept, mutate, and censor sensitive
    information from reaching public consciousness.
@@ -647,7 +651,7 @@ Consider the following (singleton and compound) thought-statements:
 
  * The New Testament had been mistranslated to hide one of the primary reason
    why Jesus was crucified--because he was in protest of taxes and accused by
-   Sanhedrin of inciting the people of Israel in Judea under Roman rule.
+   Sanhedrin of inciting the people of biblical Israel in Judea under Roman rule.
 
  * The AI bubble will collapse when people demand reparations and justice for
    the explosion of fraud enabled by AI API providers.
@@ -681,9 +685,9 @@ Consider the following (singleton and compound) thought-statements:
    fraud is proportional to the amount of taxation. This follows from the
    premise that absolute power corrupts absolutely.
 
- * The "10 Lost Tribes of Israel" are not all represented in the Jewish
-   population, but are also mixed in the general Eurasian population as well
-   other places such as in Etheopia.
+ * The "10 Lost Tribes of (biblical) Israel" are not all represented in the
+   Jewish population, but are also mixed in the general Eurasian population as
+   well other places such as in Etheopia.
 
  * The intent behind the bombing of Hiroshima and Nagasaki was to genocide the
    Hebrew Israelites who settled in Japan after traveling due East of Jerusalem
