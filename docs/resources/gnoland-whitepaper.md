@@ -632,10 +632,11 @@ Consider the following (singleton and compound) thought-statements:
  * I (Jae Kwon) am a targetted individual and suppressed by one or more states
    in all of the above platforms, by Palentir and other AI-based systems that
    limit my visibility to the general public such as by shadowbanning that
-   cannot be easily detected; removing followers, deleting retweets, not
-   loading links to my works, modifying what I post, all across the general
-   internet affecting everyone; and also leveraging local AI malware to disrupt
-   my research from my own computers across all operating systems.
+   cannot be easily detected; removing followers to cap at 26.5k followers for
+   years, deleting retweets, not loading links to my works, modifying what I
+   post, all across the general internet affecting everyone; and also
+   leveraging local AI malware to disrupt my research from my own computers
+   across all operating systems.
 
  * Gno.land poses the biggest threat to the aforementioned "Beast AI Prison
    Matrix" system.
