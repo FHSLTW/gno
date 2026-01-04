@@ -17,7 +17,7 @@ everybody in the core team share my spiritual resonance; therefore this
 whitepaper is authored by myself so as to not speak on behalf of anyone else.
 
 That said, I alone could not have arrived at the final design of the Gno
-langauge without the help of the many developers who gave much time of their
+language without the help of the many developers who gave much time of their
 lives to contribute to this project and the design of the language;
 specifically Manfred, Morgan, Milos, Maxwell, Guilhem, Ray, and Omar.
 
@@ -31,9 +31,9 @@ specifically Manfred, Morgan, Milos, Maxwell, Guilhem, Ray, and Omar.
 
 ### Gno.land Genesis - The General Information Problem
 
-_The prefix "gno" in Koine Greek is derived from the verb "ginōskō," which
+_The prefix "gno" in Koine Greek is derived from the verb "ginōskō", which
 means "to know" or "to recognize." It is often associated with terms related to
-knowledge, such as "gnosis," which signifies knowledge or insight, particularly
+knowledge, such as "gnosis", which signifies knowledge or insight, particularly
 in a spiritual context._
 
 The world faces a serious problem of misinformation and too much information
@@ -56,7 +56,7 @@ generated content and programs that only serve to steal your tokens.
 
 It should be noted that all these problems are fueled by the impetus to seek a
 return from (capital) investment, whether legitimate, whether bubble, or
-whether fruadulent in nature.
+whether fraudulent in nature.
 
 Another problem is the establishment of the "AI beast matrix prison".  Palentir
 has partnered with the current US administration to create a vast mass
@@ -112,8 +112,8 @@ overview of Wittgenstein's "Tractatus Logico-Philosophicus" (treatise of
 logical-philosophy). This is not to say that Wittgenstein's Tractatus is 100%
 correct or incorrect. Wittgenstein himself in his later years criticized
 various aspects of his earlier work especially with regards to his propositions
-about propositions as it relates to written langauge--and for this there is a
-distinction between "early Wittgenstein" and "later Wittgetnstein".
+about propositions as it relates to written language--and for this there is a
+distinction between "early Wittgenstein" and "later Wittgenstein".
 
 1. The world is everything that is the case.
 2. What is the case (a fact) is the existence of states of affairs.
@@ -138,7 +138,7 @@ the parent node with a tree of more propositional statements.
 
 Notice the tree structure.
 
-// On Philosophical_Investigations
+// On Philosophical Investigations
 
 Wittgenstein later drafted a criticism of his previous work titled
 "Philosophical Investigations", 
@@ -205,7 +205,7 @@ the effects of the Principle of Explosion rooted in our general spiritual
 subversion and degeneration.
 
 Coding for Gno.land began during the Covid19 lockdowns when I was most
-frustarted at the censorship of information regarding the true laboratory
+frustrated at the censorship of information regarding the true laboratory
 origins of Covid19 and the conspiracy to forcibly medicate the population with
 a dangerous experimental gene therapy that did more harm to children and young
 adults than good. I was also frustrated over the years of dealing with the ICF
@@ -518,7 +518,7 @@ A separate page for the stater does mention the association but also confuses
 with additional language for a smaller drachma(e) unit in Corinth. At the same
 time it shows the Athenian four-drachma(e) as having twice the weight of the
 Athenian and Corinthian stater--it is clear that all translations of stater to
-"four-drachma(e) coin" is incorrect.
+"four-drachma(e) coin" are incorrect.
 
 ### Gno.land for AI Safety
 
@@ -529,7 +529,7 @@ to censor important speech on Web2.0 platforms like Twitter even as Elon Musk
 touts the importance of freedom of speech.
 
 The AI bubble will collapse as the macro economic and environmental and (geo)
-political and spriitual effects catch up to the current market exuberism. As in
+political and spiritual effects catch up to the current market exuberism. As in
 the Dot Com bubble, the systems that emerge only *after* the bubble has burst
 will become dominant. For now, the "machine" will continue to try to use AI to
 censor information to erect a techno-fascist totalitarian government.
@@ -603,7 +603,7 @@ Consider the following (singleton and compound) thought-statements:
  * Nick Shirley exposed a massive Somali day care center scam in Minessota in a
    viral video which reached more views than all US network television
    combined, and yet NO mainstream media covered it (as of Dec 30th, 4 days
-   after Nick Shirley's expose.
+   after Nick Shirley's expose).
 
  * Tim Walz, U.S. House of Representatives, and Democratic nominee for vice-
    president 2024, knew of the Somali day care scam; and Walz's own appointee
@@ -635,7 +635,7 @@ Consider the following (singleton and compound) thought-statements:
    Covid19 virus and lying to the US Congress about it under oath.
 
  * The Trump administration broke the law by redacting and selectively
-   pubishing the Epstein Files (and even deleted files after publishing this
+   publishing the Epstein Files (and even deleted files after publishing this
    Dec 2025).
 
  * The New Testament had been mistranslated to hide one of the primary reason
@@ -868,7 +868,7 @@ and permissions.
 // realm /r/alice/alice
 package alice
 
-var object
+var object any
 
 func SetObject(cur realm, obj any) {
     object = obj
@@ -1246,7 +1246,7 @@ for both bob and alice.
 **Caveat: The interrealm specification does not secure applications against
 arbitrary code execution. It is important for realm logic (and even p package
 logic) to ensure that arbitrary (variable) functions (and similarly arbitrary
-interface methods) are not provided by malicious callers; such aribrary
+interface methods) are not provided by malicious callers; such arbitrary
 functions and methods whether crossing (or non-crossing) will inherit the
 previous realm (or both current and previous realms) and could abuse these
 realm-contexts.** It does not make sense for any realm user to cross-call an
@@ -1285,7 +1285,7 @@ A method should be able to create new objects that reside in the same realm by
 association in order to maintain storage realm consistency and encapsulation
 and reduce fragmentation.
 
-It is difficult to migrate an object form one realm to another even when its
+It is difficult to migrate an object from one realm to another even when its
 ref-count is 1; such an object may be deep with many descendants of ref-count 1
 and so performance is unpredictable.
 
@@ -1427,7 +1427,7 @@ declared method. We can extend the Thought struct with additional fields for
 authorization or ownership and implement a method such as follows:
 
 ```go
-type Tought struct {
+type Thought struct {
     Owner        account
     Statement    string
     TypedSupport []*Thought
@@ -1450,7 +1450,7 @@ state indexer to separately index the reverse association of reference to the
 original *Thought when it finds a counter-argument *Thought that references in
 its struct field the original as a counter-argument. This reliance on an
 external indexer shifts trust from the blockchain itself to the indexer so is
-not always idea.
+not always ideal.
 
 Gno is intended for permissionless iteration and improvement so we will discuss
 another way (among many) to manage associations of competing
@@ -1462,7 +1462,7 @@ as a counter-argument.
 So far I have illustrated a way for multiple users to construct their
 thought-statement graphs independently while also allowing for
 counter-arguments to be registered/associated permissionlessly. More design and
-exploration is needed to create a fully functional permissionlessly extensibl
+exploration is needed to create a fully functional permissionlessly extensible
 thought-statement graph system. Only one more issue will be mentioned in this
 whitepaper, and the rest is left to the reader as an exercise.
 
@@ -1522,7 +1522,7 @@ Competing smart-contract platforms that are not based on the GnoVM, or those
 that are based on other languages will also be supported in Atom.One, as
 Atom.One will support quasi-permissionless hosting of many blockchain
 application platforms; but the scope of possible multi-user general-purpose
-langauges is restricted by the laws of logic; and Gno and GnoVM will serve as
+languages is restricted by the laws of logic; and Gno and GnoVM will serve as
 the foundation for future multi-user general-purpose language innovation.
 
 ### Gnoweb Browser
@@ -1552,7 +1552,7 @@ constitution, which should only refer to this whitepaper sparingly.
 
 Gno.land will launch with a minimal (living) constitution written and
 maintained in English, but also ultimately be supplemented by the completed
-GnoVM code and Tendermint2 and Gno.land implementation.  Future implementations
+GnoVM code and Tendermint2 and Gno.land implementation. Future implementations
 of the GnoVM and Gno.land should adhere to the completed software mentioned
 above.
 
@@ -1890,7 +1890,7 @@ From a conversation with Twitter's @supergrok:
 Of course Twitter/X/Supergrok does not make it easy to copy-paste its answer to
 other platforms; when I tried initially the result was misordered (who is to
 blame I do not know); when I tried a second time the result was properly
-oredered but still the links were not whole. This was an attempt to force me to
+ordered but still the links were not whole. This was an attempt to force me to
 share the content within the walled garden of Twitter/X. See more
 [here](../../misc/jaekwon/twitter_censorship/1_Grok_X_2025-12-26T13-04-06.png) and
 [here](../../misc/jaekwon/twitter_censorship/second_paste_attempt.txt).
