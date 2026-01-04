@@ -637,6 +637,9 @@ Consider the following (singleton and compound) thought-statements:
    internet affecting everyone; and also leveraging local AI malware to disrupt
    my research from my own computers across all operating systems.
 
+ * Gno.land poses the biggest threat to the aforementioned "Beast AI prison
+   matrix" system.
+
  * Elon Musk knows who I am since my days at Yelp (co-founded by two Paypal
    mafia members) and knowingly participates in suppressing my existence in a
    ritual sort of way; by memoryholing Dogecoin to which I contributed and
