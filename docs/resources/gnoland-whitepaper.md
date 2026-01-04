@@ -618,7 +618,8 @@ Consider the following (singleton and compound) thought-statements:
 
  * [The State of Israel's Mossad is behind the Somali inter-state day care
    scams](https://www.youtube.com/watch?v=SSKn9bHEvOw); and this is why Israel
-   suddenly recognized the new "Somaliland".
+   suddenly recognized the new "Somaliland". The Palestinians who survive the
+   genocide will likely be relocated there.
 
  * There exists at this moment a US-based global surveillance system headed by
    Palentir which uses advanced AI to intercept, mutate, and censor sensitive
