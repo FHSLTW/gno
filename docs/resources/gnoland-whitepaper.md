@@ -629,6 +629,14 @@ Consider the following (singleton and compound) thought-statements:
    Twitter is complicit with the aforementioned censorship in subtle ways that
    are not detectable by existing shadow-ban detection tools.
 
+ * I (Jae Kwon) am a targetted individual and suppressed by one or more states
+   in all of the above platforms, by Palentir and other AI-based systems that
+   limit my visibility to the general public such as by shadowbanning that
+   cannot be easily detected; removing followers, deleting retweets, not
+   loading links to my works, modifying what I post, all across the general
+   internet affecting everyone; and also leveraging local AI malware to disrupt
+   my research from my own computers across all operating systems.
+
  * The Federal Reserve was unconstitutionally ratified in order to debase the
    people's money from the underlying gold and silver.
 
