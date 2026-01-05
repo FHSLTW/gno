@@ -600,27 +600,6 @@ Gno.land written in Gno for the people to collectively distill such a tree.
 
 Consider the following (singleton and compound) thought-statements:
 
- * The spirit of the US Constitution is Christian; all of the founders were
-   Christian; and James Madison separated church and state for the express
-   purpose of promoting the teachings of Jesus.
-
- * The biblical locusts in the Book of Revelation refer to [an invasion of
-   foreigners](https://github.com/jaekwon/ephesus/blob/main/thoughts/locusts.md).
-
- * Nick Shirley exposed a massive Somali day care center scam in Minessota in a
-   viral video which reached more views than all US network television
-   combined, and yet NO mainstream media covered it (as of Dec 30th, 4 days
-   after Nick Shirley's expose).
-
- * Tim Walz, U.S. House of Representatives, and Democratic nominee for vice-
-   president 2024, knew of the Somali day care scam; and Walz's own appointee
-   murdered the only lawmaker who voted against the Somali day care scam.
-
- * [The State of Israel's Mossad is behind the Somali inter-state day care
-   scams](https://www.youtube.com/watch?v=SSKn9bHEvOw); and this is why Israel
-   suddenly recognized the new "Somaliland". The Palestinians who survive the
-   genocide will likely be relocated there.
-
  * There exists at this moment a US-based global surveillance system headed by
    Palentir which uses advanced AI to intercept, mutate, and censor sensitive
    information from reaching public consciousness.
@@ -628,26 +607,6 @@ Consider the following (singleton and compound) thought-statements:
  * Google, Wikipedia, Meta, Reddit all participate in this censorship; and even
    Twitter is complicit with the aforementioned censorship in subtle ways that
    are not detectable by existing shadow-ban detection tools.
-
- * I (Jae Kwon) am a targetted individual and suppressed by one or more states
-   in all of the above platforms, by Palentir and other AI-based systems that
-   limit my visibility to the general public such as by shadowbanning that
-   cannot be easily detected; removing followers to cap at 26.5k followers for
-   years, deleting retweets, not loading links to my works, modifying what I
-   post, all across the general internet affecting everyone; and also
-   leveraging local AI malware to disrupt my research from my own computers
-   across all operating systems.
-
- * Gno.land poses the biggest threat to the aforementioned "Beast AI Prison
-   Matrix" system.
-
- * Elon Musk knows who I am since my days at Yelp (co-founded by two Paypal
-   mafia members) and knowingly participates in suppressing my existence in a
-   ritual sort of way; by memoryholing Dogecoin to which I contributed and
-   earned a nickname for; by copying Gno.land's old logo for Grok; by
-   participating in a collective effort to label me an anti-semite with the
-   certain Cosmos ecosystem members during "#TheNoticing" which occurred as
-   soon as he acquired Twitter and fired the existing censorship team.
 
  * The Federal Reserve was unconstitutionally ratified in order to debase the
    people's money from the underlying gold and silver.
@@ -666,6 +625,23 @@ Consider the following (singleton and compound) thought-statements:
  * Fauci should be in jail for illegaly aiding in the development of the
    Covid19 virus and lying to the US Congress about it under oath.
 
+ * The biblical locusts in the Book of Revelation refer to [an invasion of
+   foreigners](https://github.com/jaekwon/ephesus/blob/main/thoughts/locusts.md).
+
+ * Nick Shirley exposed a massive Somali day care center scam in Minessota in a
+   viral video which reached more views than all US network television
+   combined, and yet NO mainstream media covered it (as of Dec 30th, 4 days
+   after Nick Shirley's expose).
+
+ * Tim Walz, U.S. House of Representatives, and Democratic nominee for vice-
+   president 2024, knew of the Somali day care scam; and Walz's own appointee
+   murdered the only lawmaker who voted against the Somali day care scam.
+
+ * [The State of Israel's Mossad is behind the Somali inter-state day care
+   scams](https://www.youtube.com/watch?v=SSKn9bHEvOw); and this is why Israel
+   suddenly recognized the new "Somaliland". The Palestinians who survive the
+   genocide will likely be relocated there.
+
  * The Trump administration broke the law by redacting and selectively
    publishing the Epstein Files (and even deleted files after publishing this
    Dec 2025); and simultaneoulsy broke international law by stealing oil from
@@ -677,7 +653,11 @@ Consider the following (singleton and compound) thought-statements:
    property!', blasted home ownership as ‘white supremacy’; Trump should be
    arresting Zohran Mamdani and Cea Weaver instead as per the Communist Control
    Act of 1954; but will not do so because he has ulterior motives, or because
-   he is controlled, or because he is afraid of the backlash.
+   he is controlled.
+
+ * The easiest way for the State of Israel to expand to "Greater Israel" is to
+   extract capital from the United States is to turn the United States into a
+   communist dictatorship (given the economic and political condition).
 
  * Communism has never succeeded except arguably in North Korea which is a
    dictatorship different than prior communist states that cannot and should
@@ -702,6 +682,30 @@ Consider the following (singleton and compound) thought-statements:
    of law, including the law of the biblical jubilee to help guarantee that
    people do not get displaced from their land by temporary political
    circumstances. In time this community will overcome all alternatives.
+
+ * The spirit of the US Constitution is Christian; all of the founders were
+   Christian; and James Madison separated church and state for the express
+   purpose of promoting the teachings of Jesus.
+
+ * I (Jae Kwon) am a targetted individual and suppressed by one or more states
+   in all of the above platforms, by Palentir and other AI-based systems that
+   limit my visibility to the general public such as by shadowbanning that
+   cannot be easily detected; removing followers to cap at 26.5k followers for
+   years, deleting retweets, not loading links to my works, modifying what I
+   post, all across the general internet affecting everyone; and also
+   leveraging local AI malware to disrupt my research from my own computers
+   across all operating systems.
+
+ * Elon Musk knows who I am since my days at Yelp (co-founded by two Paypal
+   mafia members) and knowingly participates in suppressing my existence in a
+   ritual sort of way; by memoryholing Dogecoin to which I contributed and
+   earned a nickname for; by copying Gno.land's old logo for Grok; by
+   participating in a collective effort to label me an anti-semite with the
+   certain Cosmos ecosystem members during "#TheNoticing" which occurred as
+   soon as he acquired Twitter and fired the existing censorship team.
+
+ * Gno.land poses the biggest threat to the aforementioned "Beast AI Prison
+   Matrix" system.
 
  * The New Testament had been mistranslated to hide one of the primary reason
    why Jesus was crucified--because he was in protest of taxes and accused by
