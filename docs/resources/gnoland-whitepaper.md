@@ -676,8 +676,8 @@ Consider the following (singleton and compound) thought-statements:
  * Zohran Mamdani’s new NYC tenant advocate called to 'Seize private
    property!', blasted home ownership as ‘white supremacy’; Trump should be
    arresting Zohran Mamdani and Cea Weaver instead as per the Communist Control
-   Act of 1954; but will not do so because he has ulterior motives or because
-   he is controlled.
+   Act of 1954; but will not do so because he has ulterior motives, or because
+   he is controlled, or because he is afraid of the backlash.
 
  * Communism has never succeeded except arguably in North Korea which is a
    dictatorship different than prior communist states that cannot and should
