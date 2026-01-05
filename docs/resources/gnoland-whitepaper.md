@@ -668,7 +668,33 @@ Consider the following (singleton and compound) thought-statements:
 
  * The Trump administration broke the law by redacting and selectively
    publishing the Epstein Files (and even deleted files after publishing this
-   Dec 2025).
+   Dec 2025); and simultaneoulsy broke international law by stealing oil from
+   Venezuela and murdering Venezuelan citizens to arrest Venezuelan president
+   on false pretenses of drug production/smuggling to distract from his own
+   connections to Epstein.
+
+ * Zohran Mamdani’s new NYC tenant advocate called to 'Seize private
+   property!', blasted home ownership as ‘white supremacy’; Trump should be
+   arresting Zohran Mamdani and Cea Weaver instead as per the Communist Control
+   Act of 1954; but will not do so because he has ulterior motives or because
+   he is controlled.
+
+ * Communism has never succeeded except arguably in North Korea which is a
+   dictatorship different than prior communist states that cannot and should
+   not be replicated. The Old Testament assumes private land ownership that
+   cannot even be sold (returned every 50 years in the jubilee); and since the
+   Roman times and throughout the Early Middle Ages where England came under
+   rule of post-Roman chieftains and Anglo-Saxon monarchs land was the dominant
+   source of personal wealth.
+
+ * The right way to solve the current crisis is not to abolish private property
+   rights, but to redistribute land and property from the federal treasury, and
+   NGOs and individuals guilty of creating the immigration, cultural, and
+   vaccination & lockdown crisis; and from the shareholders of TBTF banks
+   guilty of destroying the middle class; and to provide conditional UBI to
+   people in need while disincentivizing the birthing of an excess number of
+   children under poverty, and requiring some form of education or training if
+   able.
 
  * The New Testament had been mistranslated to hide one of the primary reason
    why Jesus was crucified--because he was in protest of taxes and accused by
