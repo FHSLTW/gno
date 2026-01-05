@@ -22,6 +22,9 @@ XXX freedoms, privacy, limitations
 
 ## Name Registration
 
+TODO See https://github.com/handshake-org/hsd/pull/819 
+TODO See https://github.com/handshake-org/hsd/issues/649
+
 ## Atom.One ICS Migration
 
 ## Peer-to-peer Network
