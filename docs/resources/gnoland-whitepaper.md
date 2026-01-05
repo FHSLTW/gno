@@ -656,8 +656,8 @@ Consider the following (singleton and compound) thought-statements:
    he is controlled.
 
  * The easiest way for the State of Israel to expand to "Greater Israel" is to
-   extract capital from the United States is to turn the United States into a
-   communist dictatorship (given the economic and political condition).
+   extract capital from the United States by turning it into a communist
+   dictatorship given current economic, political, and sociological condition.
 
  * Communism has never succeeded except arguably in North Korea which is a
    dictatorship different than prior communist states that cannot and should
