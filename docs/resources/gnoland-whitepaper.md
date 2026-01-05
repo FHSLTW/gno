@@ -687,7 +687,7 @@ Consider the following (singleton and compound) thought-statements:
    rule of post-Roman chieftains and Anglo-Saxon monarchs land was the dominant
    source of personal wealth.
 
- * The right way to solve the current crisis is not to abolish private property
+ * The best way to solve the current crisis is not to abolish private property
    rights, but to redistribute land and property from the federal treasury, and
    NGOs and individuals guilty of creating the immigration, cultural, and
    vaccination & lockdown crisis; and from the shareholders of TBTF banks
@@ -695,6 +695,13 @@ Consider the following (singleton and compound) thought-statements:
    people in need while disincentivizing the birthing of an excess number of
    children under poverty, and requiring some form of education or training if
    able.
+
+ * The above is unlikely to happen, so the next best option is to create a new
+   virtual asset that represents the community of *productive* people who wish
+   to form an alternative system that does respect private property, the rule
+   of law, including the law of the biblical jubilee to help guarantee that
+   people do not get displaced from their land by temporary political
+   circumstances. In time this community will overcome all alternatives.
 
  * The New Testament had been mistranslated to hide one of the primary reason
    why Jesus was crucified--because he was in protest of taxes and accused by
