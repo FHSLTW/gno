@@ -324,8 +324,9 @@ Consider the following (singleton and compound) thought-statements:
    information from reaching public consciousness.
 
  * Google, Wikipedia, Meta, Reddit all participate in this censorship; and even
-   Twitter is complicit with the aforementioned censorship in subtle ways that
-   are not detectable by existing shadow-ban detection tools.
+   [Twitter is complicit](../../misc/jaekwon/twitter_censorship) with the
+   aforementioned censorship in subtle ways that are not detectable by existing
+   shadow-ban detection tools.
 
  * The Federal Reserve was unconstitutionally ratified in order to debase the
    people's money from the underlying gold and silver.
