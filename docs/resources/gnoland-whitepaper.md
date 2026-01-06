@@ -341,6 +341,14 @@ Consider the following (singleton and compound) thought-statements:
  * The dynastic European banking elites wish for global depopulation; and
    Covid19 was engineered for this purpose.
 
+ * [The collective world-wide evidence from 2020– 2025 underscores a
+   biologically plausible connection between COVID-19 vaccination and
+   ("turnbo")
+   cancer](https://drive.google.com/file/d/1RH0f1BEqY9I7ruuPKQPU6bGNVJRyxZxc/view);
+   and this information was censored by a [cyberattack hitting a major cancer
+   journal on Jan 4th,
+   2025](https://x.com/NicHulscher/status/2007939234322174444?s=20).
+
  * Fauci should be in jail for illegaly aiding in the development of the
    Covid19 virus and lying to the US Congress about it under oath.
 
