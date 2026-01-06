@@ -356,10 +356,11 @@ Consider the following (singleton and compound) thought-statements:
  * The biblical locusts in the Book of Revelation refer to [an invasion of
    foreigners](https://github.com/jaekwon/ephesus/blob/main/thoughts/locusts.md).
 
- * Nick Shirley exposed a massive Somali day care center scam in Minessota in a
-   viral video which reached more views than all US network television
-   combined, and yet NO mainstream media covered it (as of Dec 30th, 4 days
-   after Nick Shirley's expose).
+ * After [Senator John Kennedy](https://www.youtube.com/watch?v=0Dk1ft7Vn9c)
+   and others spoke out about the Somali scams, Nick Shirley exposed a massive
+   Somali day care center scam in Minessota in a viral video which reached more
+   views than all US network television combined, and yet NO mainstream media
+   covered it (as of Dec 30th, 4 days after Nick Shirley's expose).
 
  * Tim Walz, U.S. House of Representatives, and Democratic nominee for vice-
    president 2024, knew of the Somali day care scam; and Walz's own appointee
