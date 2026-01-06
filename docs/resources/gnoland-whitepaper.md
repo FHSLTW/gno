@@ -3,7 +3,7 @@ for the latest revision of this whitepaper.
 
 To see the latest testnet in action, visit https://gno.land.
 
-# (Jae's) Gno.land Manifesto Whitepaper
+# Gno.land Manifesto Whitepaper
 
 @author: Jae Kwon - chief architect; chief founder/inventor of Tendermint and
 Cosmos; first to completely solve BFT proof-of-stake in 2013,2014.
@@ -234,291 +234,10 @@ language in the English translation (in unbolded text) that the incitement was
 for idol worship. (Also of note is that Google Translate [intentionally
 mistranslates "excrement" to
 "water"](../../misc/jaekwon/jesus_in_talmud/google_translate_lies.png) among
-other portions of Gittin 56b)
-
-(see more context
+other portions of Gittin 56b) (see more context
 [here](https://christiancourier.com/articles/the-jewish-talmud-and-the-death-of-christ))
 
-It is now well understood in some circles that certain translations of the
-bible were intentionally designed (or at least promoted) with the intent of
-deceiving its readers for mass manipulation. Online tools such as BibleHub.com
-can be used to help descern better the intended meaning and identify
-mistranslations, but readers cannot easily be convinced unless they take the
-initiative do the research themselves--but most have no time or energy for such
-study. Furthermore, even on BibleHub.com there still persist systemic
-mistranslations that have been carried on for millenia since the time of the
-Roman Empire.
-
-> King James Version (Luke 2):
-> 1: And it came to pass in those days, that there went out a decree from Caesar
->    Augustus, that **all the world should be taxed**.
-> 2: (And this **taxing** was first made when Cyrenius was governor of Syria.)
-> 3: And all went to be **taxed**, every one into his own city.
-> 4: And Joseph also went up from Galilee, out of the city of Nazareth, into
->    Judaea, unto the city of David, which is called Bethlehem; (because he was of
->    the house and lineage of David:)
-> 5: To be **taxed** with Mary his espoused wife, being great with child.
-
-> Berean Standard Bible (Luke 2):
-> (The birth of Jesus)
-> 1: Now in those days a decree went out from Caesar Augustus that **a census
->    should be taken of the whole empire**.
-> 2: This was the first **census** to take place while Quirinius was governor of
->    Syria.
-> 3: And everyone went to his own town **to register**.
-> 4: So Joseph also went up from Nazareth in Galilee to Judea, to the city of
->    David called Bethlehem, since he was from the house and line of David.
-> 5: He went there to **register** with Mary, who was pledged to him in marriage and
->    was expecting a child.
-> 6: While they were there, the time came for her Child to be born.
-> 7: And she gave birth to her firstborn, a Son. She wrapped Him in swaddling
->    cloths and laid Him in a manger, because there was no room for them in the
->    inn.
-
-There is a clear discrepancy between the King James Version and the Berean
-Standard Bible. The former says that Joseph Jesus's parent went to Bethlehem to
-get taxed. The Berean Standard Bible says that he went to get registered for a
-census. What gives?
-
-<img src="../images/Birth_of_Jesus_mistranslation.png"/>
-
-The actual word in the original Koine Greek is "ἀπογράφεσθαι" which means
-"register(ed)", not "tax(ed)".
-
-With tools like [openbible.com](https://openbible.com/text/luke/2-2.htm) and
-[biblehub.com](https://biblehub.com/p/kjv/heb/luke/2.shtml) you can compare the
-translations side by side to see whether or not the translation is true.
-Clearly there's a mistranslation here; and besides, "And all went to be taxed,
-every one into his own city" sounds unbelievale (for otherwise why would there
-be tax collectors who come to you?), whereas going to be registered makes more
-sense.
-
-So the birth of Jesus in Bethlehem got mistranslated in the King James Version
-probably to get the subjects of the king to pay more taxes--this I derive
-because King James [did have access to copies of the original Koine Greek
-manuscripts](https://georgehguthrie.com/new-blog/manuscripts-behind-the-kjv)
-and "ἀπογράφω" is in Koine Greek [the 2550th most frequent
-word](https://logeion.uchicago.edu/morpho/is%20the%202550th%20most%20frequent%20word)
-which means "to write off, copy: to enter in a list, register"; and Martin
-Luther's translation error is not so egregious, and the Latin vulgate
-translation is much better; and King James had access to all of these.
-
-This tells us more about the King James Version than anything else. What
-follows is about Jesus' personal thoughts regarding taxes to the state and
-church (temple). First, the famous passage about "Render therefore unto Caesar
-what is Caesar's":
-
-> King James Version (Luke 20):
-> 21: And they asked him, saying, Master, we know that thou sayest and teachest
->     rightly, neither acceptest thou the person of any, but teachest the way of
->     God truly:
-> 22: Is it lawful for us to give tribute [taxes] unto Caesar, or no?
-> 23: But he perceived their craftiness, and said unto them, Why tempt ye me?
-> 24: **Shew me a penny. Whose image and superscription hath it? They answered
->     and said, Caesar's.**
-> 25: **And he said unto them, Render therefore unto Caesar the things which be
->     Caesar's, and unto God the things which be God's.**
-> 26: And they could not take hold of his words before the people: **and they
->     marvelled at his answer**, and held their peace.
-
-In the current interpretion, indeed all interpretations of Luke 20:25-26 it is
-claimed that Jesus gave an astonishing answer because he agreed to pay due
-taxes to Caesar. This could not be further from the truth as can be seen later
-in Luke 23:
-
-> King James Version (Luke 23):
-> 2: And they began to accuse him, saying, We found this fellow perverting the
->    nation, **and forbidding to give tribute to Caesar**, saying that he himself
->    is Christ a King.
-
-> Berean Literal bible (Luke 23):
-> 2: And they began to accuse Him, saying, “We found this man subverting our
->    nation, **forbidding payment of taxes to Caesar**, and proclaiming Himself to
->    be Christ, a King.”
-
-(This detail is missing in the other books, especially Matthew, as Matthew was
-a tax collector and could not be associated with a tax protester. However Luke
-is a historian who studied the events post-facto and wisely decided to include
-this element in his book.)
-
-There is a logical inconsistency, as it is written in Luke that Jesus was
-accused of forbidding to give tribute instead. Of course Jesus is being accused
-by Sanhedrin who wanted to arrest him. But were they lying, or were they truly
-afraid?
-
-What Jesus meant was that Caesar can have all the pennies, while the other
-silver coins of larger denominations should not be paid to Caesar. However this
-is still not the complete truth, as the King James Version substituted "penny"
-for what should be the "denarius", thus losing some of the required context for
-understanding this passage.
-
-A denarius was typically considered a day's wage for a common laborer in
-ancient Rome. Jesus was not a common laborer and didn't have many denarius
-coins. This is likely why he ask someone else for to show one for
-demonstration--he didn't have any on him. Also, a denarius is a smaller
-denomination than a didrachma or a stater which is for tax payments for the
-temple. In short, Jesus was rejecting Caesar's taxes.
-
-> Berean Standard Bible (Luke 20):
-> 19: When the scribes and chief priests realized that Jesus had spoken this
->     parable against them, **they sought to arrest Him that very hour. But they were
->     afraid of the people (so they could not yet)**.
-> 20: So they watched Him closely and sent spies who pretended to be sincere.
->     They were hoping to catch Him in His words in order to hand Him over to the
->     rule and authority of the governor.
-> 21: “Teacher,” they inquired, “we know that You speak and teach correctly. You
->     show no partiality, but teach the way of God in accordance with the truth.
-> 22: Is it lawful for us to pay taxes to Caesar or not?”
-> 23: But Jesus saw through their duplicity and said to them,
-> 24: “**Show Me a denarius**. Whose image and inscription are on it?” “**Caesar’s**,”
->     they answered.
-> 25: So Jesus told them, “**Give to Caesar what is Caesar’s (denarius that have
->     Caesar's face), and to God what is God’s (didrachma for Temple tax)"
-> 26: And they were unable to trap Him in His words before the people; and
->     amazed at His answer, they fell silent.
-
-The Sanhedrein scribes and priests could not arrest him until Jesus gave this
-answer. Even when he gave this answer they could not immediately trap him, for
-to trap him one would have to prove assertions about the personal holdings of
-the denarius by Jesus and his followers; and "what is Caesar's" does not
-exactly mean "only what has Caesar's face inscribed", but is only implied; and
-besides to try to trap him on these points would only aid in "inciting" them to
-avoid taxes, such as by asking for wages to be paid in other denominations.
-
-While the taxes mentioned previously (Luke 20) were for Caesar, the taxes in
-the following passage (Matthew 17) were for the Second Temple in Jerusalem.
-There in Matthew 17 there exists clear evidence of intentional mistranlation
-for the purpose of hiding Jesus' true intent of protesting taxes.
-
-(I am not advocating for tax avoidance here, but merely pointing out the truth
-that the meaning behind the Word had been hidden successfully for centuries if
-not the entirety of two millenia since the first Latin translation by the Roman
-Empire. It's generally not a good idea to offend authorities, even if they are
-illegitimate.)
-
-> King James Version (Matthew 17):
-> 24: And when they were come to Capernaum, **they that received tribute
->     money** came to Peter, and said, Doth not your master pay **tribute**?
-> 25: He saith, Yes. And when he was come into the house, Jesus prevented him,
->     saying, What thinkest thou, Simon? of whom do the kings of the earth take
->     **custom or tribute**? of their own children, or of strangers?
-> 26: Peter saith unto him, Of strangers. Jesus saith unto him, **Then are the
->     children free**.
-> 27: Notwithstanding, lest we should offend them, go thou to the sea, and cast
->     an hook, and take up the fish that first cometh up; and when thou hast opened
->     his mouth, thou shalt find **a piece of money**: that take, and give unto
->     them **for me and thee**.
-
-> New International Version (Matthew 17):
-> 24: After Jesus and his disciples arrived in Capernaum, **the collectors of
->     the two-drachma temple tax** came to Peter and asked, “Doesn’t your teacher
->     pay the **temple tax**?”
-> 25: “Yes, he does,” he replied. When Peter came into the house, Jesus was the
->     first to speak. “What do you think, Simon?” he asked. “From whom do the kings
->     of the earth **collect duty and taxes**—from their own children or from
->     others?”
-> 26: “From others,” Peter answered. **“Then the children are exempt,”** Jesus
->     said to him.
-> 27: “But so that we may not cause offense, go to the lake and throw out your
->     line. Take the first fish you catch; open its mouth and you will find **a
->     four-drachma coin**. Take it and give it to them **for my tax and yours**.”
-
-> Berean Litereal Bible (Matthew 17):
-> 24: And they having come to Capernaum, **those collecting the didrachmas**
->     came to Peter and said, “Does your Teacher pay the **didrachmas**?”
-> 25: He says, “Yes.” And he having entered into the house, Jesus anticipated
->     him, saying, “What do you think, Simon? From whom do the kings of the earth
->     receive **custom or tribute**? From their sons, or from strangers?”
-> 26: And he having said, “From the strangers,” Jesus said to him, **“Then the
->     sons are free"**.
-> 27: But that we might not offend them, having gone to the sea, cast a hook
->     and take the first fish having come up, and having opened its mouth, you will
->     find **a stater**. Having taken that, give it to them **for Me and
->     yourself**.”
-
-Jesus paid half of what the Second Temple tax collectors demanded not because
-He believed that that was God's due; on the contrary he said that the chidlren
-are free, and only paid so as to not offend them.
-
-**"Then the children are free"!**
-
-What is God's is to be rendered unto God, but the children/sons of God need not
-pay taxes to any temple, church, or state. ([A son of God is one in whom another
-son of God is
-resurrected](https://github.com/jaekwon/ephesus/blob/main/thoughts/son_of_god_son_of_man_and_marriage.md);
-as in Moses in whom Abraham, Isaac, and Jacob are resurrected, and in
-Christians in whom Jesus and the martyrs are resurrected.)
-
-Also, there are no coins that have an engraved image of God, as that is
-forbidden by the ten commandments. Even if the Old Testament has laws regarding
-tithing, the lesson from the bible is that there should not be a Third Temple
-except one of people; the bible says not to advertise for tithe giving; and
-finally, Jesus gives us the new covenant. Any son of God would naturally give
-more than 10% of their worth voluntarily to where it needs to go. **No person,
-temple, church, or state has the authority to nor should demand or request any
-taxes, tribute, or even tithing**. 
-
-It is apparent that the Berean Literal Bible does a better job at preserving
-context (the original coin denomination names) and this can be verified by
-comparing each transation to the original Koine Greek, which is left as a task
-to the reader.
-
-> Berean Standard Bible (Acts 17):
-> 11: “Now the Bereans were more noble-minded than the Thessalonians, for they
->     received the message with great eagerness and examined the Scriptures every
->     day to see if these teachings were true.”
-
-(Even BibleHub has issues showing the original Koine Greek text in
-parallel with translations--often the Koine Greek is modified to suit the
-translation. On the other hand the Berean Standard Bible (also hosted on
-BibleHub) was designed to show the original Hebrew and Koine Greek and English;
-you can download a free copy here https://interlinearbible.com/bib.pdf and
-https://berean.bible/downloads.htm.  More links to bible sites and free
-software can be found at https://berean.bible/links.htm.)
-
-It is important to preserve the original coin denomination names because only
-the original names show the true intent of the Word. Jesus tells Peter to take
-"a stater" to pay for both Peter and himself, which would normally be for TWO
-didrachmas; but **ONE stater is equivalent to ONE didrachma**. This crucial
-context is possibly missing from the bible (although it may still be hidden
-somewhere in the original Hebrew or Koine Greek), and there likely exists today
-and has always been an effort to hide this detail from public consciousness for
-obvious reasons. For now it is known due to the decades of research by
-historians and numismatics researches and the open internet. Soon after this
-paper there will be effors to censor this information.
-
-Notice that Wikipedia doesn't explain the relationship between a stater and a
-didrachma directly. One place where stater and didrachm(a) is mentioned
-together is on one specific context of the Aeginetan stater:
-
-> https://en.wikipedia.org/wiki/Ancient_Greek_coinage:
-> The three most important standards of the ancient Greek monetary system were
-> the Attic standard, based on the Athenian drachma of 4.3 grams (2.8
-> pennyweights) of silver, the Corinthian standard based on the stater of 8.6 g
-> (5.5 dwt) of silver, that was subdivided into three silver drachmas of 2.9 g
-> (1.9 dwt), and the **Aeginetan stater or didrachm** of 12.2 g (7.8 dwt), based on
-> a drachma of 6.1 g (3.9 dwt).[1] The words drachm and drachma come from
-> Ancient Greek δραχμά (drachmā́), an older form of δραχμή (drachmḗ), meaning 'a
-> handful', or literally 'a grasp'.[2] Drachmae were divided into six obols
-> (from the Greek word for a spit[3]), and six spits made a "handful".
-
-However in the Wikipedia page for the drachma (which is half a didrachma) it is
-associated with the tetradrachm as if they are equivalent. This is the false
-association in many other translations of the bible that mistranslate a stater
-as a "four-drachma coin", implying that Jesus asked Peter to pay the full
-"didrachma/two-drachma" for each. No, Jesus asked Peter to half the required
-amount--of one stater(a)--which is equivalent to a "two-drachma coin/didrachma".
-
-> https://en.wikipedia.org/wiki/Ancient_drachma:
-> The tetradrachm ("four drachmae") coin was perhaps the most widely used coin
-> in the Greek world prior to the time of Alexander the Great (along with the
-> Corinthian stater).
-
-A separate page for the stater does mention the association but also confuses
-with additional language for a smaller drachma(e) unit in Corinth. At the same
-time it shows the Athenian four-drachma(e) as having twice the weight of the
-Athenian and Corinthian stater--it is clear that all translations of stater to
-"four-drachma(e) coin" are incorrect.
+See appendix for proof.
 
 ### Gno.land for AI Safety
 
@@ -724,8 +443,8 @@ Consider the following (singleton and compound) thought-statements:
    batteries.
 
  * The Grand Solar Minimum will create a deficit in global food production for
-   decades and we are at risk of a global Holodomor; this is why Bill Gates has
-   been buying farmland.
+   decades and we are at risk of a global Holodomor; this is one reason why
+   Bill Gates has been buying farmland.
 
  * Stocking up on organic grains and organic legumes and silver is the best way
    for a nation's people to defend against a tyrannical government and mitigate
@@ -1557,7 +1276,6 @@ systems, the next generation information systems to replace biased Wikipedia;
 and as mentioned previously, open censorship-resistant knowledge-base systems
 based on structured graphs/trees of thought-statements.
 
-
 ## Gno.land Blockchain
 
 ### Governance
@@ -1653,6 +1371,293 @@ Politics will be more honest.
 
 ## Appendix
 
+### Jesus Was a Tax Protester
+
+It is now well understood in some circles that certain translations of the
+bible were intentionally designed (or at least promoted) with the intent of
+deceiving its readers for mass manipulation. Online tools such as BibleHub.com
+can be used to help descern better the intended meaning and identify
+mistranslations, but readers cannot easily be convinced unless they take the
+initiative do the research themselves--but most have no time or energy for such
+study. Furthermore, even on BibleHub.com there still persist systemic
+mistranslations that have been carried on for millenia since the time of the
+Roman Empire.
+
+> King James Version (Luke 2):
+> 1: And it came to pass in those days, that there went out a decree from Caesar
+>    Augustus, that **all the world should be taxed**.
+> 2: (And this **taxing** was first made when Cyrenius was governor of Syria.)
+> 3: And all went to be **taxed**, every one into his own city.
+> 4: And Joseph also went up from Galilee, out of the city of Nazareth, into
+>    Judaea, unto the city of David, which is called Bethlehem; (because he was of
+>    the house and lineage of David:)
+> 5: To be **taxed** with Mary his espoused wife, being great with child.
+
+> Berean Standard Bible (Luke 2):
+> (The birth of Jesus)
+> 1: Now in those days a decree went out from Caesar Augustus that **a census
+>    should be taken of the whole empire**.
+> 2: This was the first **census** to take place while Quirinius was governor of
+>    Syria.
+> 3: And everyone went to his own town **to register**.
+> 4: So Joseph also went up from Nazareth in Galilee to Judea, to the city of
+>    David called Bethlehem, since he was from the house and line of David.
+> 5: He went there to **register** with Mary, who was pledged to him in marriage and
+>    was expecting a child.
+> 6: While they were there, the time came for her Child to be born.
+> 7: And she gave birth to her firstborn, a Son. She wrapped Him in swaddling
+>    cloths and laid Him in a manger, because there was no room for them in the
+>    inn.
+
+There is a clear discrepancy between the King James Version and the Berean
+Standard Bible. The former says that Joseph Jesus's parent went to Bethlehem to
+get taxed. The Berean Standard Bible says that he went to get registered for a
+census. What gives?
+
+<img src="../images/Birth_of_Jesus_mistranslation.png"/>
+
+The actual word in the original Koine Greek is "ἀπογράφεσθαι" which means
+"register(ed)", not "tax(ed)".
+
+With tools like [openbible.com](https://openbible.com/text/luke/2-2.htm) and
+[biblehub.com](https://biblehub.com/p/kjv/heb/luke/2.shtml) you can compare the
+translations side by side to see whether or not the translation is true.
+Clearly there's a mistranslation here; and besides, "And all went to be taxed,
+every one into his own city" sounds unbelievale (for otherwise why would there
+be tax collectors who come to you?), whereas going to be registered makes more
+sense.
+
+So the birth of Jesus in Bethlehem got mistranslated in the King James Version
+probably to get the subjects of the king to pay more taxes--this I derive
+because King James [did have access to copies of the original Koine Greek
+manuscripts](https://georgehguthrie.com/new-blog/manuscripts-behind-the-kjv)
+and "ἀπογράφω" is in Koine Greek [the 2550th most frequent
+word](https://logeion.uchicago.edu/morpho/is%20the%202550th%20most%20frequent%20word)
+which means "to write off, copy: to enter in a list, register"; and Martin
+Luther's translation error is not so egregious, and the Latin vulgate
+translation is much better; and King James had access to all of these.
+
+This tells us more about the King James Version than anything else. What
+follows is about Jesus' personal thoughts regarding taxes to the state and
+church (temple). First, the famous passage about "Render therefore unto Caesar
+what is Caesar's":
+
+> King James Version (Luke 20):
+> 21: And they asked him, saying, Master, we know that thou sayest and teachest
+>     rightly, neither acceptest thou the person of any, but teachest the way of
+>     God truly:
+> 22: Is it lawful for us to give tribute [taxes] unto Caesar, or no?
+> 23: But he perceived their craftiness, and said unto them, Why tempt ye me?
+> 24: **Shew me a penny. Whose image and superscription hath it? They answered
+>     and said, Caesar's.**
+> 25: **And he said unto them, Render therefore unto Caesar the things which be
+>     Caesar's, and unto God the things which be God's.**
+> 26: And they could not take hold of his words before the people: **and they
+>     marvelled at his answer**, and held their peace.
+
+In the current interpretion, indeed all interpretations of Luke 20:25-26 it is
+claimed that Jesus gave an astonishing answer because he agreed to pay due
+taxes to Caesar. This could not be further from the truth as can be seen later
+in Luke 23:
+
+> King James Version (Luke 23):
+> 2: And they began to accuse him, saying, We found this fellow perverting the
+>    nation, **and forbidding to give tribute to Caesar**, saying that he himself
+>    is Christ a King.
+
+> Berean Literal bible (Luke 23):
+> 2: And they began to accuse Him, saying, “We found this man subverting our
+>    nation, **forbidding payment of taxes to Caesar**, and proclaiming Himself to
+>    be Christ, a King.”
+
+(This detail is missing in the other books, especially Matthew, as Matthew was
+a tax collector and could not be associated with a tax protester. However Luke
+is a historian who studied the events post-facto and wisely decided to include
+this element in his book.)
+
+There is a logical inconsistency, as it is written in Luke that Jesus was
+accused of forbidding to give tribute instead. Of course Jesus is being accused
+by Sanhedrin who wanted to arrest him. But were they lying, or were they truly
+afraid?
+
+What Jesus meant was that Caesar can have all the pennies, while the other
+silver coins of larger denominations should not be paid to Caesar. However this
+is still not the complete truth, as the King James Version substituted "penny"
+for what should be the "denarius", thus losing some of the required context for
+understanding this passage.
+
+A denarius was typically considered a day's wage for a common laborer in
+ancient Rome. Jesus was not a common laborer and didn't have many denarius
+coins. This is likely why he ask someone else for to show one for
+demonstration--he didn't have any on him. Also, a denarius is a smaller
+denomination than a didrachma or a stater which is for tax payments for the
+temple. In short, Jesus was rejecting Caesar's taxes.
+
+> Berean Standard Bible (Luke 20):
+> 19: When the scribes and chief priests realized that Jesus had spoken this
+>     parable against them, **they sought to arrest Him that very hour. But they were
+>     afraid of the people (so they could not yet)**.
+> 20: So they watched Him closely and sent spies who pretended to be sincere.
+>     They were hoping to catch Him in His words in order to hand Him over to the
+>     rule and authority of the governor.
+> 21: “Teacher,” they inquired, “we know that You speak and teach correctly. You
+>     show no partiality, but teach the way of God in accordance with the truth.
+> 22: Is it lawful for us to pay taxes to Caesar or not?”
+> 23: But Jesus saw through their duplicity and said to them,
+> 24: “**Show Me a denarius**. Whose image and inscription are on it?” “**Caesar’s**,”
+>     they answered.
+> 25: So Jesus told them, “**Give to Caesar what is Caesar’s (denarius that have
+>     Caesar's face), and to God what is God’s (didrachma for Temple tax)"
+> 26: And they were unable to trap Him in His words before the people; and
+>     amazed at His answer, they fell silent.
+
+The Sanhedrein scribes and priests could not arrest him until Jesus gave this
+answer. Even when he gave this answer they could not immediately trap him, for
+to trap him one would have to prove assertions about the personal holdings of
+the denarius by Jesus and his followers; and "what is Caesar's" does not
+exactly mean "only what has Caesar's face inscribed", but is only implied; and
+besides to try to trap him on these points would only aid in "inciting" them to
+avoid taxes, such as by asking for wages to be paid in other denominations.
+
+While the taxes mentioned previously (Luke 20) were for Caesar, the taxes in
+the following passage (Matthew 17) were for the Second Temple in Jerusalem.
+There in Matthew 17 there exists clear evidence of intentional mistranlation
+for the purpose of hiding Jesus' true intent of protesting taxes.
+
+(I am not advocating for tax avoidance here, but merely pointing out the truth
+that the meaning behind the Word had been hidden successfully for centuries if
+not the entirety of two millenia since the first Latin translation by the Roman
+Empire. It's generally not a good idea to offend authorities, even if they are
+illegitimate.)
+
+> King James Version (Matthew 17):
+> 24: And when they were come to Capernaum, **they that received tribute
+>     money** came to Peter, and said, Doth not your master pay **tribute**?
+> 25: He saith, Yes. And when he was come into the house, Jesus prevented him,
+>     saying, What thinkest thou, Simon? of whom do the kings of the earth take
+>     **custom or tribute**? of their own children, or of strangers?
+> 26: Peter saith unto him, Of strangers. Jesus saith unto him, **Then are the
+>     children free**.
+> 27: Notwithstanding, lest we should offend them, go thou to the sea, and cast
+>     an hook, and take up the fish that first cometh up; and when thou hast opened
+>     his mouth, thou shalt find **a piece of money**: that take, and give unto
+>     them **for me and thee**.
+
+> New International Version (Matthew 17):
+> 24: After Jesus and his disciples arrived in Capernaum, **the collectors of
+>     the two-drachma temple tax** came to Peter and asked, “Doesn’t your teacher
+>     pay the **temple tax**?”
+> 25: “Yes, he does,” he replied. When Peter came into the house, Jesus was the
+>     first to speak. “What do you think, Simon?” he asked. “From whom do the kings
+>     of the earth **collect duty and taxes**—from their own children or from
+>     others?”
+> 26: “From others,” Peter answered. **“Then the children are exempt,”** Jesus
+>     said to him.
+> 27: “But so that we may not cause offense, go to the lake and throw out your
+>     line. Take the first fish you catch; open its mouth and you will find **a
+>     four-drachma coin**. Take it and give it to them **for my tax and yours**.”
+
+> Berean Litereal Bible (Matthew 17):
+> 24: And they having come to Capernaum, **those collecting the didrachmas**
+>     came to Peter and said, “Does your Teacher pay the **didrachmas**?”
+> 25: He says, “Yes.” And he having entered into the house, Jesus anticipated
+>     him, saying, “What do you think, Simon? From whom do the kings of the earth
+>     receive **custom or tribute**? From their sons, or from strangers?”
+> 26: And he having said, “From the strangers,” Jesus said to him, **“Then the
+>     sons are free"**.
+> 27: But that we might not offend them, having gone to the sea, cast a hook
+>     and take the first fish having come up, and having opened its mouth, you will
+>     find **a stater**. Having taken that, give it to them **for Me and
+>     yourself**.”
+
+Jesus paid half of what the Second Temple tax collectors demanded not because
+He believed that that was God's due; on the contrary he said that the chidlren
+are free, and only paid so as to not offend them.
+
+**"Then the children are free"!**
+
+Even if you disagree with everything else, it cannot be denied that this is by
+definition a protest of taxes from Jesus unto Peter, whether or not any taxes
+were paid.
+
+What is God's is to be rendered unto God, but the children/sons of God need not
+pay taxes to any temple, church, or state. ([A son of God is one in whom another
+son of God is
+resurrected](https://github.com/jaekwon/ephesus/blob/main/thoughts/son_of_god_son_of_man_and_marriage.md);
+as in Moses in whom Abraham, Isaac, and Jacob are resurrected, and in
+Christians in whom Jesus and the martyrs are resurrected.)
+
+Also, there are no coins that have an engraved image of God, as that is
+forbidden by the ten commandments. Even if the Old Testament has laws regarding
+tithing, the lesson from the bible is that there should not be a Third Temple
+except one of people; the bible says not to advertise for tithe giving; and
+finally, Jesus gives us the new covenant. Any son of God would naturally give
+more than 10% of their worth voluntarily to where it needs to go. **No person,
+temple, church, or state has the authority to nor should demand or request any
+taxes, tribute, or even tithing**. 
+
+It is apparent that the Berean Literal Bible does a better job at preserving
+context (the original coin denomination names) and this can be verified by
+comparing each transation to the original Koine Greek, which is left as a task
+to the reader.
+
+> Berean Standard Bible (Acts 17):
+> 11: “Now the Bereans were more noble-minded than the Thessalonians, for they
+>     received the message with great eagerness and examined the Scriptures every
+>     day to see if these teachings were true.”
+
+(Even BibleHub has issues showing the original Koine Greek text in
+parallel with translations--often the Koine Greek is modified to suit the
+translation. On the other hand the Berean Standard Bible (also hosted on
+BibleHub) was designed to show the original Hebrew and Koine Greek and English;
+you can download a free copy here https://interlinearbible.com/bib.pdf and
+https://berean.bible/downloads.htm.  More links to bible sites and free
+software can be found at https://berean.bible/links.htm.)
+
+It is important to preserve the original coin denomination names because only
+the original names show the true intent of the Word. Jesus tells Peter to take
+"a stater" to pay for both Peter and himself, which would normally be for TWO
+didrachmas; but **ONE stater is equivalent to ONE didrachma**. This crucial
+context is possibly missing from the bible (although it may still be hidden
+somewhere in the original Hebrew or Koine Greek), and there likely exists today
+and has always been an effort to hide this detail from public consciousness for
+obvious reasons. For now it is known due to the decades of research by
+historians and numismatics researches and the open internet. Soon after this
+paper there will be effors to censor this information.
+
+Notice that Wikipedia doesn't explain the relationship between a stater and a
+didrachma directly. One place where stater and didrachm(a) is mentioned
+together is on one specific context of the Aeginetan stater:
+
+> https://en.wikipedia.org/wiki/Ancient_Greek_coinage:
+> The three most important standards of the ancient Greek monetary system were
+> the Attic standard, based on the Athenian drachma of 4.3 grams (2.8
+> pennyweights) of silver, the Corinthian standard based on the stater of 8.6 g
+> (5.5 dwt) of silver, that was subdivided into three silver drachmas of 2.9 g
+> (1.9 dwt), and the **Aeginetan stater or didrachm** of 12.2 g (7.8 dwt), based on
+> a drachma of 6.1 g (3.9 dwt).[1] The words drachm and drachma come from
+> Ancient Greek δραχμά (drachmā́), an older form of δραχμή (drachmḗ), meaning 'a
+> handful', or literally 'a grasp'.[2] Drachmae were divided into six obols
+> (from the Greek word for a spit[3]), and six spits made a "handful".
+
+However in the Wikipedia page for the drachma (which is half a didrachma) it is
+associated with the tetradrachm as if they are equivalent. This is the false
+association in many other translations of the bible that mistranslate a stater
+as a "four-drachma coin", implying that Jesus asked Peter to pay the full
+"didrachma/two-drachma" for each. No, Jesus asked Peter to half the required
+amount--of one stater(a)--which is equivalent to a "two-drachma coin/didrachma".
+
+> https://en.wikipedia.org/wiki/Ancient_drachma:
+> The tetradrachm ("four drachmae") coin was perhaps the most widely used coin
+> in the Greek world prior to the time of Alexander the Great (along with the
+> Corinthian stater).
+
+A separate page for the stater does mention the association but also confuses
+with additional language for a smaller drachma(e) unit in Corinth. At the same
+time it shows the Athenian four-drachma(e) as having twice the weight of the
+Athenian and Corinthian stater--it is clear that all translations of stater to
+"four-drachma(e) coin" are incorrect.
+
 ### The New Testament and Silver Coinage
 
 > https://en.wikipedia.org/wiki/Stater:
@@ -1736,7 +1741,6 @@ Politics will be more honest.
 > |Ptolemaic|14.3|7.15|3.55|-|
 > |Rhodian|13.6 - 13.4|6.8 - 6.7|3.4|-|
 > |Cistophoric|12.6|6.3|3.15|-|
-
 
  * **leptop (widow's mite)**: Mark 12:42, Luke 12:59, 21:2
  * **drachma**: Luke 15:8 - Cappadocian drachma
@@ -1824,11 +1828,22 @@ Luther's or King James'.
 
 // Silver Depositories and Grain Silos
 
-> FOOD PRICES ARE CLIMBING EVEN HIGHER.
-> IT MAY DIP AT TIMES BUT IT WILL FULFILL REV6:6.
-> THE TARIFFS IS WHAT IS FUCKING YOU OVER.
-> THE MONEY HAS GONE TO PALENTIR TO FUCK YOU OVER MORE.
-> FUEL PRICES DOWN CUZ THERE IS NO MORE MONEY TO SPEND.
+The price of food will necessarily keep rising; by design from those who
+ultimately desire global depopulation (and have the means to make it so).  The
+US tariffs are an example that raised food import prices. The logic here is
+partially to incentivize local food production; as long as the food is good and
+free of harmful chemicals like glyphosate, and the crops do not collapse one
+day from monoculture; and aren't otherwise genetically designed to cause
+systemic harm--but this we cannot know because Bill Gates is a key player of
+the global eugenics plan, and he is the largest private owner of farmland in
+the United States, with approximately 275,000 acres across multiple states. 
+
+Given that the powers that be have caused the Book of Revelation to [play out
+like clockwork](https://github.com/jaekwon/epehsus) it is worth reading the
+text to help predict what may happen--just as the verses related to the "mark
+of the beast" helped the population reject the mandatory gene therapy
+mal-labeled as Covid19 "vaccines". In particular what seems relevant today is
+the following verse:
 
 > Berean Standard Bible (Revelation 6):
 > 5: Then I looked and saw a black horse, and its rider held in his hand a pair
@@ -1846,46 +1861,51 @@ Luther's or King James'.
  * A quart of wheat weighs ~1.1 pounds.
  * On Amazon a quart of wheat costs $9 ~ $14 today.
  * So already a quart of wheat costs about a denarius.
- * But you know the fucked up part?
- * Silver is going to $600+ before you agree there is dollar hyperinflation.
 
-_You WILL be buying wheat in silver coins.
-And at the farmers market you will hear,
+And assuming steady growth of the electronic vehicle industry,
 
-**"A quart of wheat for a denarius"**_
+ * The steady price of silver given the Samsung silver battery patent is ~$600.
 
-next year, or the year after that, or certainly by 2028 end.
+In the event that the banking system fails it would not be surprising for the
+monetary system to revert to its norm--of transactions of physical silver and
+gold coinage. Given the recent [relentless rise of the price of physical
+silver](https://tradingeconomics.com/commodity/silver); the superior
+performance of the silver-based battery patented by Samsung; and the systemic
+existential threat that it poses to the banking system which has long been
+suppressing the price of silver, it would not be surprising if we soon did
+start hearing **"a quart of wheat for a denarius"** at the local farmers
+markets.
 
-We should be buying WHEAT and storing it in silos for the coming years.
-Instead we're putting tarrifs on it and giving the proceeds to Palentir.
-If we're not going to investigate Bill Gates and the assassination of the
-person who was going to take him to court earlier this January 2025,
+In the optimistic scenario we have significantly increased industrial usage of
+silver; and in the pessimistic scenario we have the collapse of the US dollar
+financial system and the return of silver coin money.
 
-We best start preparing for the coming holodomor.
+ * The Grand Solar Minimum will create a deficit in global food production for
+   decades and we are at risk of a global Holodomor; this is why Bill Gates has
+   been buying farmland.
 
-A government that is not preparing by storing grain right now for the coming 4
-years, and starting to prepare for the next 40+ years of the coming solar
-minimum, is a government that does not care about its obsolescence.
+ * Stocking up on organic grains and organic legumes and silver is the best way
+   for a nation's people to defend against a tyrannical government and mitigate
+   excess immigration, and to survive the Grand Solar Minimum.
 
-The monitoring and mass surveillance cannot handle the stochastic terror that
-will upend any sense of order.
+And 
 
---------
+ * The dynastic European banking elites wish for global depopulation; and
+   Covid19 was engineered for this purpose.
 
-> Berean Standard Bible (Revelation 6):
-> 6: "And I heard something like a voice in the midst of the four living
->    creatures, saying, "A **choenix of wheat for a denarius**, and three choenixes
->    of barley for a denarius; and you should not injure the oil and the wine." -
+Fauci nor Gates is in jail so we can assume that the global depopulation plan
+is still in the works for so called "Agenda 2030". So the government is not
+going to help; rather it is giving a kick-back to Bill Gates' farming
+operations. Ergo the way to prepare for the coming Holodomor is to create a
+decentralized collective of local regional depositories that can hold metals,
+grains, and legumes.
 
-And how even the KJV hides the true meaning of it.
-
-> King James Version (Revelation 6):
-> 6: "And I heard a voice in the midst of the four beasts say, **A
->    measure of wheat for a penny**, and three measures of barley for a penny; and
->    see thou hurt not the oil and the wine."
-
-Silver (denarius) will continue to rise in price, whereas a penny will continue
-to deflate in value.
+Given the increasing risk to centralized cloud datacenter providers and the the
+security requirements in the business of server co-location it may make sense
+to combine both the business of metals depositories and server co-location into
+a new kind of "digital+physical banking" franchise where Gno.land serves as the
+transparent accountability/publishing substrate and a repository of protocols
+and libraries for these new banks of the information age.
 
 ### Prophecy of Isaiah
 
