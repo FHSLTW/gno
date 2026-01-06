@@ -364,17 +364,18 @@ Consider the following (singleton and compound) thought-statements:
    president 2024, knew of the Somali day care scam; and Walz's own appointee
    murdered the only lawmaker who voted against the Somali day care scam.
 
- * [The State of Israel's Mossad is behind the Somali inter-state day care
-   scams](https://www.youtube.com/watch?v=SSKn9bHEvOw); and this is why Israel
-   suddenly recognized the new "Somaliland". The Palestinians who survive the
-   genocide will likely be relocated there.
-
  * The Trump administration broke the law by redacting and selectively
    publishing the Epstein Files (and even deleted files after publishing this
    Dec 2025); and simultaneoulsy broke international law by stealing oil from
    Venezuela and murdering Venezuelan citizens to arrest Venezuelan president
    on false pretenses of drug production/smuggling to distract from his own
-   connections to Epstein.
+   connections to Epstein and the exposure of the Somali day care scam given
+   their concurrent timing).
+
+ * [The State of Israel's Mossad is behind the Somali inter-state day care
+   scams](https://www.youtube.com/watch?v=SSKn9bHEvOw); and this is why Israel
+   suddenly recognized the new "Somaliland". The Palestinians who survive the
+   genocide will likely be relocated there.
 
  * Zohran Mamdani’s new NYC tenant advocate called to 'Seize private
    property!', blasted home ownership as ‘white supremacy’; Trump should be
