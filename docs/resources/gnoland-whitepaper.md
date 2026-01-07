@@ -232,10 +232,8 @@ supreme court condemned Jesus to death for "inciting" biblical Israel, although
 curiously (or not surprisingly) the source at sefaria.org adds incorrect
 language in the English translation (in unbolded text) that the incitement was
 for idol worship. (Also of note is that Google Translate [intentionally
-mistranslates "excrement" to
-"water"](../../misc/jaekwon/jesus_in_talmud/google_translate_lies.png) among
-other portions of Gittin 56b) (see more context
-[here](https://christiancourier.com/articles/the-jewish-talmud-and-the-death-of-christ))
+mistranslates "excrement" to "water"](../../misc/jaekwon/jesus_in_talmud/google_translate_lies.png) among
+other portions of Gittin 56b) (see more context [here](https://christiancourier.com/articles/the-jewish-talmud-and-the-death-of-christ))
 
 See appendix for proof.
 
@@ -344,11 +342,9 @@ Consider the following (singleton and compound) thought-statements:
 
  * [The collective world-wide evidence from 2020– 2025 underscores a
    biologically plausible connection between COVID-19 vaccination and
-   ("turnbo")
-   cancer](https://drive.google.com/file/d/1RH0f1BEqY9I7ruuPKQPU6bGNVJRyxZxc/view);
-   and this information was censored by a [cyberattack hitting a major cancer
-   journal on Jan 4th,
-   2025](https://x.com/NicHulscher/status/2007939234322174444?s=20).
+   ("turnbo") cancer](https://drive.google.com/file/d/1RH0f1BEqY9I7ruuPKQPU6bGNVJRyxZxc/view);
+   and this information was censored by a
+   [cyberattack hitting a major cancer journal on Jan 4th, 2025](https://x.com/NicHulscher/status/2007939234322174444?s=20).
 
  * Fauci should be in jail for illegaly aiding in the development of the
    Covid19 virus and lying to the US Congress about it under oath.
@@ -375,13 +371,11 @@ Consider the following (singleton and compound) thought-statements:
    connections to Epstein and the exposure of the Somali day care scam given
    their concurrent timing).
 
- * [Epstein was
-   murdered](https://github.com/jaekwon/ephesus/blob/main/epstein/homicide/README.md)
+ * [Epstein was murdered](https://github.com/jaekwon/ephesus/blob/main/epstein/homicide/README.md)
    and there exists a vast conspiracy to "poison the well" with theories that
    Epstein is still alive.
 
- * [The State of Israel's Mossad is behind the Somali inter-state day care
-   scams](https://www.youtube.com/watch?v=SSKn9bHEvOw); and this is why Israel
+ * [The State of Israel's Mossad is behind the Somali inter-state day care scams](https://www.youtube.com/watch?v=SSKn9bHEvOw); and this is why Israel
    suddenly recognized the new "Somaliland". The Palestinians who survive the
    genocide will likely be relocated there.
 
@@ -492,8 +486,7 @@ Consider the following (singleton and compound) thought-statements:
 
  * A hypothetical debris field trailing 3I/Atlas (and ejecta from its anti-tail
    around 8/25/25) may collide with Earth around 3/10/26 to darken the skies
-   and produce Cyanide, [fulfilling the prophecy of
-   Wormwood](https://github.com/jaekwon/ephesus/blob/main/thoughts/3iatlas_wormwood.md).
+   and produce Cyanide, [fulfilling the prophecy of Wormwood](https://github.com/jaekwon/ephesus/blob/main/thoughts/3iatlas_wormwood.md).
 
  * John 21:23 proves that the author of the Book of Revelation is John the
    apostle; and that the eschatology was designed for these years 2000 years
@@ -1106,10 +1099,10 @@ syntax in future Gno versions.
 ### `panic()` and `revive(fn)`
 
 `panic()` behaves the same within the same realm boundary, but when a panic
-crosses a realm boundary (as defined in [Realm
-Boundries](#realm-boundaries)) the Machine aborts the program. This is
-because in a multi-user environment it isn't safe to let the caller recover from
-realm panics that often leave the state in an invalid state.
+crosses a realm boundary (as defined in [Realm Boundries](#realm-boundaries))
+the Machine aborts the program. This is because in a multi-user environment it
+isn't safe to let the caller recover from realm panics that often leave the
+state in an invalid state.
 
 This would be sufficient, but we also want to write our tests to be able
 to detect such aborts and make assertions. For this reason Gno provides
