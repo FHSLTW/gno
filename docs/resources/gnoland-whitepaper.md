@@ -375,6 +375,11 @@ Consider the following (singleton and compound) thought-statements:
    connections to Epstein and the exposure of the Somali day care scam given
    their concurrent timing).
 
+ * [Epstein was
+   murdered](https://github.com/jaekwon/ephesus/blob/main/epstein/homicide/README.md)
+   and there exists a vast conspiracy to "poison the well" with theories that
+   Epstein is still alive.
+
  * [The State of Israel's Mossad is behind the Somali inter-state day care
    scams](https://www.youtube.com/watch?v=SSKn9bHEvOw); and this is why Israel
    suddenly recognized the new "Somaliland". The Palestinians who survive the
