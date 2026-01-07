@@ -3,6 +3,9 @@ for the latest revision of this whitepaper.
 
 To see the latest testnet in action, visit https://gno.land.
 
+XXX Write about personal VM. Email.
+XXX https://x.com/eevblog/status/1991293066175492297?s=20
+
 # Gno.land Manifesto Whitepaper
 
 @author: Jae Kwon - chief architect; chief founder/inventor of Tendermint and
