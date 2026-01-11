@@ -8,15 +8,18 @@ XXX https://x.com/eevblog/status/1991293066175492297?s=20
 
 # Gno.land Manifesto Whitepaper
 
-@author: Jae Kwon - chief architect; chief founder/inventor of Tendermint and
-Cosmos; first to completely solve BFT proof-of-stake in 2013,2014.
+_@author: Gnobody Smartsilver - chief architect of Gno.land and the GnoVM; chief
+founder/inventor of Tendermint and Cosmos; first to completely solve BFT
+proof-of-stake in 2014. Maintainer of the Tendermint brand. A co-founder among
+many for Atom.One the fork of Cosmos that preserves and improves the original
+tokenomics design of Cosmos._
 
-I wrote this whitepaper to include a manifesto for why the project exists in
-the first place, including many details and ideas specifically for its original
-intended design to serve as an open censorship-resistant knowledge base of
-structured information. The genesis motivation as well as primary motivation
-for me is deeply spiritual though not everybody who contributed and not
-everybody in the core team share my spiritual resonance; therefore this
+I wrote this whitepaper to include a manifesto for why the project exists
+in the first place, including many details and ideas specifically for its
+original intended design to serve as an open censorship-resistant knowledge
+base of structured information. The genesis motivation as well as primary
+motivation for me is deeply spiritual though not everybody who contributed and
+not everybody in the core team share my spiritual resonance; therefore this
 whitepaper is authored by myself so as to not speak on behalf of anyone else.
 
 That said, I alone could not have arrived at the final design of the Gno
@@ -316,25 +319,143 @@ The construction of such a subtree is left as an exercise to the reader who may
 either work on improvements directly, or help construct the programs on
 Gno.land written in Gno for the people to collectively distill such a tree.
 
-### 95 Theses Redux
+### 95 Theses Part 2: 95 Fulcrums
 
-Consider the following (singleton and compound) thought-statements:
+Consider the following thought-statement tree/graph: 
+
+ * The Federal Reserve is unconstitional and the fiat dollar is illegitimate.
+   * The US Constitution Article 1, Section 8, Clause 5 explicitly states that
+     "The Congress shall have Power... To coin Money, regulate the Value
+     thereof, and of foreign Coin, and fix the Standard of Weights and
+     Measures."
+   * The US Constitution Article 1, Section 10, Clause 1 explicitly states that
+     "No state shall ... coin Money; emit Bills of Credit; make any Thing but
+     gold and silver Coin a Tender in Payment of Debts."
+     * The first "greenback" paper dollar issued in 1862 was a bill of credit
+       backed by the federal government's promise to pay the bearer gold or
+       silver.
+   * Neither Article 1, Section 8, Clase 5 nor Article 1, section 10, Clause 1
+     of the US Constitution give the federal government the authority to stray
+     from the "bimetalic" spirit of the U.S. Constitution.
+   * Paper fiat dollar bills are not coins.
+     * Paper fiat dollars started off as bills of credit for deposited gold
+   * The Federal Reserve was unconstitutionally ratified in order to debase the
+     people's money from the underlying gold and silver.
+     * The Coinage Act of 1873 also known as the "Crime of 1873" eliminated the
+       standard dollar from the list of coins that the U.S. Mint could issue,
+       beginning the demonetization of silver in favor of gold with the new
+       "trade dollar", and later the introduction of the gold dollar coin.
+     * The U.S. fiat paper dollar became gold-backed with the passage of the
+       Gold Standard Act on March 14, 1900, which established gold as the
+       exclusive backing for the country’s paper currency. This meant that each
+       dollar bill was convertible into a specific amount of gold.
+     * The Bretton Woods system was an international monetary system established
+       in 1944 that set rules for commercial and financial relations among the
+       major industrial states pegging the dollar to gold.
+       * It created created a system of fixed exchange rates,
+         with the U.S. dollar pegged to gold and other currencies pegged to the
+         dollar, and established the International Monetary Fund (IMF) and the
+         World Bank to promote economic stability and growth.
+       * The system ended in 1971 when the U.S. abandoned the gold standard,
+         leading to a shift to floating exchange rates.
+       * The Bretton Woods system ended in 1971 primarily because the U.S. could no
+         longer maintain the dollar's convertibility to gold due to rising
+         inflation and a growing balance of payments deficit, leading to a loss of
+         confidence in the dollar. President Nixon's decision to suspend gold
+         convertibility on August 15, 1971, effectively marked the collapse of the
+         system, transitioning the world to floating exchange rates.
+     * The Coinage Act of 1963 removed silver from dimes and quarters and
+       reduced the silver content of of half-dollars to 40%, more or less
+       completing the destruction silver coin as money and ending bimetalism.
+       * [Wikpedia incorrectly
+         states](https://en.wikipedia.org/wiki/Coinage_Act_of_1873) that
+         bimetalism ended with the Coinage Act of 1873, and
+         [prevents](https://en.wikipedia.org/wiki/Talk:Coinage_Act_of_1873) users
+         from correcting the record, even employing IP rangebans to deniably
+         prevent edits in the first place.
+       * By 1973, the U.S. dollar was fully decoupled from gold, transitioning to
+         a fiat currency not backed by physical commodities.
+     * JP Morgan intentionally sank the Titanic to murder opposition such as
+       Straus and Astor, specifically to debase the dollar and to steal the works
+       of Nikolas Tesla.
+       * JP Morgan sank the Titanic to debase the dollar.
+         * John Jacob Astor IV was the world's richest man; he opposed the
+           Treasury and WWI.
+         * Isidor Straus was the elected Treasurer of the New York branch of the
+           National Citizen's League for the promotion of a Sound Banking System
+           who corresponded with the editor of the New York Times and [made a call
+           to action in and around 10/16/1911](./files/isador_straus.jpeg) of the
+           public for open discussion to prevent the adoption of an unaccountable
+           federal reserve act.
+         * Less than one year after Isador Straus declared the call to action to
+           the public, the Titanic sunk in April 15, 1912 after boarding members
+           invited by JP Morgan who himself dipped out of the party at the last
+           minute--knowing that there was an engine room fire as logged by logs.
+           * The Titanic sunk when the engine room exploded as intended; rescue
+             ships that trailed the Titanic did not come to rescue upon seeing
+             emergency SOS flairs allegedly because the red flares were swapped out
+             for white flares that looked like fireworks.
+             * The recent 3D scan of the sunken Titanic reveals an outward blowing
+               out of the ship's hull where the engine room was, exactly where
+               photographs of the Titanic showed fire damange during boarding.
+               * The OceanGate submersible that later imploded on the way to view
+                 the Titanic had in its board of directors a Rothschild.
+         * The year following the sinking of the Titanic saw the unconstitutional
+           passage of the Federal Reserve act in December 23, 1913.
+             * The Federal Reserve Act was drafted in secret in Jeckyll Island and
+               overseen by banking elites including the Rothschilds.
+         * Less than one year after the passage of the Federal Reserve Act began
+           World War I in July 28, 1914; and thus began the signficant dillution
+           of the dollar via the sale of government war bonds.
+       * JPMorgan sank the Titanic to steal the works of Nikolas Tesla.
+         * John Jacob Astor IV was Tesla's primary patron.
+         * Tesla died on 7 January 1943, at the age of 86, penniless.
+         * Two days later his death the FBI ordered the Alien Property
+           Custodian to seize Tesla’s belongings, even though Tesla was an
+           American citizen.
+         * Tesla’s entire estate from the Hotel New Yorker and other New York
+           City hotels was transported to the Manhattan Storage and Warehouse
+           Company under the Office of Alien Property (OAP) seal.
+         * John G. Trump, a professor at M.I.T. and a well-known electrical
+           engineer serving as a technical aide to the National Defense
+           Research Committee, was called in to analyze the Tesla items in OAP
+           custody.
+           * John G. Trump was the uncle of Donald J. Trump.
+         * After a three-day investigation, Trump’s report concluded that there
+           was nothing which would constitute a hazard in unfriendly hands,
+           stating: “[Tesla’s] thoughts and efforts during at least the past 15
+           years were primarily of a speculative, philosophical, and somewhat
+           promotional character often concerned with the production and
+           wireless transmission of power; but did not include new, sound,
+           workable principles or methods for realizing such results”.
+   * Since the U.S. federal government requires payment of taxes in the form of
+     fiat dollars that are unconstitutional, the U.S. federal taxation system
+     (as well as state taxation systems) are illegitimate and unconstitutional.
+
+_See the appendix on [[#The History of U.S. Silver Coins]] for more history of
+U.S. Silver Coins_.
+
+That's just one thought-statement that needed so many dependencies to prove;
+there are so many similar statements to describe all that is wrong with this
+world and all that has been hidden from the world; each that need to be
+similarly fleshed out into their own subtrees or branches; and some of these
+nodes even being grafted unto other trees, thus creating a "graft" of trees
+(which by my definition is a type of "graph").
 
  * There exists at this moment a US-based global surveillance system headed by
    Palentir which uses advanced AI to intercept, mutate, and censor sensitive
    information from reaching public consciousness.
+   * Google, Wikipedia, Meta, Reddit, Twitter, etc all participate in the above
+     mentioned censorship.
+     * [Twitter is complicit](../../misc/jaekwon/twitter_censorship) with
+       the aforementioned censorship in subtle ways that are not detectable
+       by existing shadow-ban detection tools.
+   * ...
 
  * Google, Wikipedia, Meta, Reddit all participate in this censorship; and even
    [Twitter is complicit](../../misc/jaekwon/twitter_censorship) with the
    aforementioned censorship in subtle ways that are not detectable by existing
    shadow-ban detection tools.
-
- * The Federal Reserve was unconstitutionally ratified in order to debase the
-   people's money from the underlying gold and silver.
-
- * JP Morgan intentionally sank the Titanic to murder opposition such as Straus
-   and Astor, specifically to debase the dollar and to steal the works of
-   Nikolas Tesla.
 
  * At least some of the Rothschilds are quite litereally satanic; and in
    Germany there has taken root satanism that includes elements of ritual child
@@ -361,6 +482,9 @@ Consider the following (singleton and compound) thought-statements:
    reached more views than all US network television combined, and yet NO
    mainstream media covered it (as of Dec 30th, 4 days after Nick Shirley's
    expose).
+
+ * Somali House of Representatives Rep. Ilham Omar [was caught participating
+   in the fraud](https://x.com/EricLDaugh/status/2009405199991853210?s=20). 
 
  * Tim Walz, U.S. House of Representatives, and Democratic nominee for vice-
    president 2024, knew of the Somali day care scam; and Walz's own appointee
@@ -420,49 +544,45 @@ Consider the following (singleton and compound) thought-statements:
    Christian; and James Madison separated church and state for the express
    purpose of promoting the teachings of Jesus.
 
- * I (Jae Kwon) am a targetted individual and suppressed by one or more states
-   in all of the above platforms, by Palentir and other AI-based systems that
-   limit my visibility to the general public such as by shadowbanning that
-   cannot be easily detected; removing followers to cap at 26.5k followers for
-   years, deleting retweets, not loading links to my works, modifying what I
-   post, all across the general internet affecting everyone; and also
-   leveraging local AI malware to disrupt my research from my own computers
-   across all operating systems.
-
- * Elon Musk knows who I am since my days at Yelp (co-founded by two Paypal
-   mafia members) and knowingly participates in suppressing my existence in a
-   ritual sort of way; by memoryholing Dogecoin to which I contributed and
-   earned a nickname for; by copying Gno.land's old logo for Grok; by
-   participating in a collective effort to label me an anti-semite with the
-   certain Cosmos ecosystem members during "#TheNoticing" which occurred as
-   soon as he acquired Twitter and fired the existing censorship team.
+ * Gnobody Smartsilver is a targetted individual and suppressed by one or more
+   states in all of the above platforms, by Palentir and other AI-based systems
+   that limit his visibility to the general public such as by shadowbanning
+   that cannot be easily detected; removing followers to cap at 26.5k followers
+   for years, deleting retweets, not loading links to my works, modifying what
+   he posts, the general internet affecting everyone; and also leveraging local
+   AI malware to disrupt his research from his own computers across all
+   operating systems.
+   * Elon Musk knows who Gnobody Smartsilver is; moreover he suppresses his
+     existence by leveraging censorship on Twitter in partership with Palentir,
+     and by his actions that mock Gnobody in a sort of Satanic ritualistic
+     mocking way.
 
  * Gno.land poses the biggest threat to the aforementioned "Beast AI Prison
    Matrix" system.
 
  * The New Testament had been mistranslated to hide one of the primary reason
-   why Jesus was crucified--because he was in protest of taxes and accused by
-   Sanhedrin of inciting the people of biblical Israel in Judea under Roman rule.
+   why Jesus was crucified--he was in a "silent protest" of taxes.
 
- * The AI bubble will collapse when people demand reparations and justice for
-   the explosion of fraud enabled by AI API providers.
+ * The AI bubble will collapse.
 
- * The dollar and most fiat currencies will hyperinflate by end of 2027.
+ * The dollar and most fiat currencies will begin hyperinflating by end of
+   2027.
 
- * Silver will temporarily replace gold and the dollar as the primary store of
-   value and become once again the primary means of exchange; local crypto
-   currencies will follow.
+ * Silver will replace gold and the dollar as the primary store of value and
+   become once again the primary means of exchange; local crypto currencies
+   will follow.
 
  * In the long future most electric vehicles will use silver solid-state
    batteries.
 
  * The Grand Solar Minimum will create a deficit in global food production for
-   decades and we are at risk of a global Holodomor; this is one reason why
-   Bill Gates has been buying farmland.
+   decades and we are at risk of a global Holodomor. (and this is one of the
+   reasons why Bill Gates has been buying farmland).
 
- * Stocking up on organic grains and organic legumes and silver is the best way
-   for a nation's people to defend against a tyrannical government and mitigate
-   excess immigration, and to survive the Grand Solar Minimum.
+ * Stocking up on organic grains and organic legumes and oil and silver is the
+   best way for a nation's people to defend against a tyrannical government and
+   mitigate excess immigration, and to survive the recently announced Grand
+   Solar Minimum.
 
  * Glyphosate in grains is a significant contributor to cancer; farmers may be
    pressured by weather and financial reasons to use glyphosate against the
@@ -470,7 +590,7 @@ Consider the following (singleton and compound) thought-statements:
 
  * Chlorination (e.g. with chlorine dioxide) or ozonation of water soaked
    grains with application of UV light of certain frequencies may neutralize
-   the glyphosate; studies are needed.
+   the glyphosate in harvested food.
 
  * The primary cause of fraud is taxation. In the long run the magnitude of the
    fraud is proportional to the amount of taxation. This follows from the
@@ -498,26 +618,33 @@ Consider the following (singleton and compound) thought-statements:
    thereby completing the Book of Revelation according to 
    [Jesus's 3000 year plan](https://github.com/jaekwon/ephesus/blob/main/README.md))
 
-Most if not all of the thougths are true, but are not convincing unless the
-supporting evidence and discussions are also taken into account. Not only that,
-but there are at least two sides to a story, so the reader must also take into
-account the opposing statement and their justifications to truly understand
-what is real.
+Most (if not possibly all) of the thougths are true, but are not convincing
+unless the supporting evidence and discussions are also taken into account. Not
+only that, but there are at least two sides to a story, so the reader must also
+take into account the opposing statement and their justifications to truly
+understand what is real.
 
-Like Martin Luther sparked the Protestant Reformation with a short piece of 95
-theses, what we need today is another set of 95 theses or thought-statements
+Just as Martin Luther sparked the Protestant Reformation with a short piece of
+95 theses, what we need today is another set of 95 theses or thought-statements
 (with one pointing back to Martin Luther's original) that would not only spark
 the interest of any reader who recognizes the truth of a subset of the theses;
 but also host the underlying structure of dependent (and counter-)
 thought-statements that can help convince the reader of the truth; or help
-anyone to fork such a list with any modifications to create a better list.
+anyone to fork such a list or _graft_ with any modifications to create a better
+lists or _grafts_.
 
-These new 95 theses for the end times can then even be printed in poster form
-linking back to gno.land and shared across the world; even customized for every
-region where the posters are put up (or they can be printed as a pamphlet and
-dropped from the air). The Beast AI Prison Matrix system may have a tight grip
-on the internet, but it does not yet control all of the physical world. To
-contribute, join the [Atom.One Telegram channel](https://t.me/youwillatone).
+The top-level thought-statement *Thought object nodes are part of a _graft_ (as
+previously defined, a graph composed of intersecting or disjoint tree
+structures), and as such could be called _graft fulcrums_.
+
+A selection of _95 fulcrums_ can then even be printed in poster form linking
+back to the associations in the greater _graft_ by QR-codes; and they could be
+customized for every region where the posters are put up (or they can be
+printed as a pamphlet and dropped from the air). The Beast AI Prison Matrix
+system may have a tight grip on the internet, but it does not yet control all
+of the physical world.
+
+To contribute, join the [Atom.One Telegram channel](https://t.me/youwillatone).
 
 ## Gno Language
 
@@ -1837,6 +1964,155 @@ In Latin "descriptio" means "description", while "profiterentur" means "they
 would register". This seems like a better translation than either Martin
 Luther's or King James'.
 
+### The History of U.S. Silver Coins
+
+_from Duck.ai_
+
+Overview of U.S. Silver Coins
+
+The history of U.S. silver coins began with the establishment of the U.S. Mint
+in 1792. Before this, various foreign and domestic coins circulated in America.
+The Coinage Act of 1792 set the U.S. dollar based on a fixed weight of silver,
+leading to the minting of silver coins.
+
+#### Early Silver Coins
+
+Initial Minting
+ * 1794: The first U.S. silver coin, the Flowing Hair dollar, was minted.
+ * 1795: The Draped Bust dollar followed, featuring Lady Liberty.
+ * 1836-1839: The Gobrecht dollar was introduced, showcasing a seated Liberty design.
+
+Popular Designs
+ * Morgan Dollar (1878-1904): Designed by George T. Morgan, this coin became
+   iconic, featuring Lady Liberty on the obverse and an eagle on the reverse.
+ * Peace Dollar (1921-1935): Created to symbolize peace after World War I, it
+   featured a new design of Liberty.
+
+Changes in Composition
+ * 90% Silver Coins
+ * Prior to 1965, U.S. dimes, quarters, and half dollars contained 90% silver.
+ * The Coinage Act of 1965 eliminated silver from dimes and quarters and reduced the silver content in half dollars to 40%.
+
+Junk Silver
+ * Coins minted before 1965 are often referred to as "junk silver" due to their
+   higher intrinsic silver value compared to their face value. These include
+   pre-1965 dimes, quarters, and half dollars.
+
+Modern Silver Coins
+ * Today, the U.S. Mint produces silver bullion coins, such as the American
+   Silver Eagle, which contains one troy ounce of .999 fine silver. Silver
+   coins remain popular among collectors and investors for their historical
+   significance and intrinsic value.
+ * _(Jae:) However, these are still technically US dollars and new laws may be
+   introduced at any time to prevent the melting of these dollars; so it is in
+   some safe safer to acquire "silver rounds" that are not minted by the U.S.
+   Mint. For example, the "Morgan Dollar Design" silver rounds sold at
+   Apmex.com are 99.9% silver and have no mention of the term "dollar"_.
+
+### The History of the One Dollar Bill
+
+_Originally from http://www.onedollarbill.org/history.html with my words in
+italics._
+
+_This omits the original Continental Currency dollar of the Continental
+Congress which adopted the Declaration of Independence on July 4th, 1776; and
+dissolved on March 1, 1781, when the Articles of Confederation came into force,
+establishing a new national government for the United States._
+
+Although experiments with paper money did occur throughout the early history of
+the country, they were largely unsuccessful. People, for good reason, didn't
+trust the notes and preferred gold and silver coin. In 1861, needing money to
+finance the Civil War, Congress authorized the issuance of Demand notes in $5,
+$10 and $20 denominations. The Demand notes were so named because they were
+redeemable in coin "on demand." The notes were nicknamed Greenbacks, a name
+which is still in use today to refer to United States currency.
+
+The first $1 bill was issued in 1862 as a Legal Tender Note with a portrait of
+Salmon P. Chase, the Treasury Secretary under President Abraham Lincoln.
+
+<img src="./files/dollar-original-1862.jpeg" />
+
+_Jae: You can see "will pay the bearer" on the original, and "one dollar".
+In 1862 it was assumed It is assumed that the dollar 
+
+A silver dollar, specifically the Morgan and Peace silver dollars, weighs 26.73
+grams. They contain approximately 0.77344 troy ounces of silver. Modern "silver
+dollar design" rounds are sometimes made with 99.9% silver; these will say .999
+and may have no year marked on them. Such are minted by 9Fine Mint and sold by
+its parent company, Apmex. 
+
+Even until 1935: XXX
+
+<img src="./files/dollar-1935.jpeg" />
+
+XXX_
+
+The National Banking Act of 1863 established a national banking system and a
+uniform national currency. Banks were required to purchase U.S. government
+securities as backing for their National Bank Notes. Although United States
+Notes were still widely accepted, most paper currency circulating between the
+Civil War and World War I were National Bank Notes. They were issued from 1863
+through 1932. From 1863 to 1877 National Bank Notes were printed by private
+bank note companies under contract to the Federal government. The Federal
+government took over printing them in 1877.
+
+Gold certificates, were first issued in 1863 and put into general circulation
+in 1865. The severe economic crisis of the 1930s - better known as the Great
+Depression - resulted in runs on the banks and demands by the public for gold.
+In 1934 all Gold Certificates were called in from the Federal Reserve Banks and
+between the years 1934 and 1974 it was illegal for US Citizens to hold gold
+bullion or certificates.
+
+Silver certificates were first issued in exchange for silver dollars in 1878.
+For many years silver certificates were the major type of currency in
+circulation. However, in the early 1960s when rising silver prices threatened
+to undermine the currency system, Congress eliminated silver certificates and
+also discontinued the use of silver in circulating coinage such as dimes and
+quarters.
+
+The current design of the United States one dollar bill ($1) technically dates
+to 1963 when the bill became a Federal Reserve Note as opposed to a Silver
+Certificate. However, many of the design elements that we associate with the
+bill were established in 1929 when all of the country's currency was changed to
+its current size. Collectors call today's notes "small size notes" to
+distinguish them from the older, larger formats. The most notable and
+recognizable element of the modern one dollar bill is the portrait the first
+president, George Washington, painted by Gilbert Stuart.
+
+The one dollar bill issued in 1929 (under Series of 1928) was a silver
+certificate. The treasury seal and serial numbers on it were dark blue. The
+reverse had a large ornate ONE superimposed by ONE DOLLAR. These $1 Silver
+Certificates were issued until 1934.
+
+In 1933, $1 United States Notes were issued to supplement the supply of $1
+Silver Certificates. Its treasury seal and serial numbers were red. Only a
+small number of these $1 bills entered circulation and the rest were kept in
+treasury vaults until 1949 when they were issued in Puerto Rico.
+
+In 1934, under Washington's portrait, the words ONE SILVER DOLLAR were changed
+to ONE DOLLAR due to the fact that Silver Certificates could be redeemed for
+silver bullion. The treasury seal was moved to the right and superimposed over
+ONE, and a blue numeral 1 was added to the left.
+
+In 1935, design changes included changing the blue numeral 1 to gray, the
+treasury seal was made smaller and superimposed by WASHINGTON D.C., and a
+stylized ONE DOLLAR was added over the treasury seal. The reverse was also
+changed to its current design, except for the absence of IN GOD WE TRUST.
+
+The World War II years featured several special printings including the Hawaii
+overprints. The Government was concerned that Hawaii might be lost to the
+Japanese and wanted to be able to devalue the money should this invasion occur.
+
+In 1957 the $1 bill became the first U.S. currency to bear the motto IN GOD WE
+TRUST.
+
+In 1963 production of one dollar Federal Reserve Notes began to replace the $1
+Silver Certificate. The border design on the front was completely redesigned
+and the serial numbers and treasury seal were printed in green ink.
+
+In 1969 the $1 bill began using the new treasury seal with wording in English
+instead of Latin.
+
 ### The Book of Revelation, Collapse of the Dollar, and Food Insecurity
 
 // Silver Depositories and Grain Silos
@@ -2000,3 +2276,33 @@ share the content within the walled garden of Twitter/X. See more
 Note above that when I asked @supergrok to comment on the fact that I had
 personally experienced my Twitter posts not preserving integrity, it denied any
 response.
+
+### Manufactured Discontent
+
+> "At the heart of the story are Sigmund Freud's daughter Anna and his nephew Edward Bernays
+> who had invented the profession of public relations. Their ideas were **used by the US
+> government, big business and the CIA to develop techniques to manage and control the minds of
+> the American people**. Those in power believed that the only way to make democracy work and
+> create a stable society was to repress the savage barbarism that lurked just under the surface of
+> normal American life." - Adam Curtis, BBC Four, 2002. ([transcript](https://github.com/jaekwon/ephesus/blob/main/files/century-of-the-self-transcript.pdf), [youtube](https://www.youtube.com/watch?v=caicn3VpHTo))
+
+It is the same CIA that is manufacturing a divide within the USA. 
+
+For example: Renee Nicole Good was an ICE protestor who was shot by ICE in an
+altercation. She didn’t deserve to die. She wasn't trying to run over anyone,
+she was trying to flee from a masked ICE agent. ICE is untrained and created a
+deadly situation for itself. And in no case is it OK to expect citizens to
+stand still while being approached by masked men.
+
+This is a manufactured divide; To be anti-Trump is to be
+pro-illegal-immigration and lawless.
+
+Why is ICE going to schools, or those in line to get docs?
+
+Why are we giving money to Palantir if it can't find out where illegal
+immigrants reside? All it does is censor the voice of reason.
+
+Trump should have focused on dismantling the Somali-welfare-fraud -\>
+Somaliland -\> GreaterIsrael and CommunistNYCMayor -\>
+CommunistNYCTenantDirector -\> CommunistUSA -\> GreaterIsrael connection but of
+course he won't; he's too busy running away from the Epstein files.
