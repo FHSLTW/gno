@@ -1,1 +1,1 @@
-[moved to /docs/resources/MANIFESTO.md](../MANFESTO.md)
+[moved to /docs/resources/MANIFESTO.md](../MANIFESTO.md)
