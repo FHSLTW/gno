@@ -8,7 +8,7 @@ XXX https://x.com/eevblog/status/1991293066175492297?s=20
 
 # Gno.land Manifesto (and Whitepaper)
 
-_@author: Gnobody Smartsilver - chief architect of Gno.land and the GnoVM;
+_@author: Jae Kwon - chief architect of Gno.land and the GnoVM;
 chief founder/inventor of Tendermint and Cosmos; first to completely solve BFT
 proof-of-stake in 2014. Maintainer of the Tendermint brand. A co-founder among
 many for Atom.One the fork of Cosmos that preserves and improves the original
@@ -543,19 +543,6 @@ nodes even being grafted unto other trees, thus creating a "graft" of trees
  * The spirit of the US Constitution is Christian; all of the founders were
    Christian; and James Madison separated church and state for the express
    purpose of promoting the teachings of Jesus.
-
- * Gnobody Smartsilver is a targetted individual and suppressed by one or more
-   states in all of the above platforms, by Palentir and other AI-based systems
-   that limit his visibility to the general public such as by shadowbanning
-   that cannot be easily detected; removing followers to cap at 26.5k followers
-   for years, deleting retweets, not loading links to my works, modifying what
-   he posts, the general internet affecting everyone; and also leveraging local
-   AI malware to disrupt his research from his own computers across all
-   operating systems.
-   * Elon Musk knows who Gnobody Smartsilver is; moreover he suppresses his
-     existence by leveraging censorship on Twitter in partership with Palentir,
-     and by his actions that mock Gnobody in a sort of Satanic ritualistic
-     mocking way.
 
  * Gno.land poses the biggest threat to the aforementioned "Beast AI Prison
    Matrix" system.
