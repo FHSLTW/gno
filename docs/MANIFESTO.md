@@ -321,9 +321,16 @@ Gno.land written in Gno for the people to collectively distill such a tree.
 
 ### 95 Theses Part 2: 95 Fulcrums
 
+> By the time of Trajan in 117 AD, the denarius was only about 85 percent
+> silver, down from Augustus’s 95 percent. ... But the real crisis came after
+> Caracalla, between 258 and 275, in a period of intense civil war and foreign
+> invasions. The emperors simply abandoned, for all practical purposes, a
+> silver coinage. By 268 there was only 0.5 percent silver in the denarius.
+> - Joseph R. Peden, "Inflation and the Fall of the Roman Empire" ([link](https://mises.org/mises-daily/inflation-and-fall-roman-empire))
+
 Consider the following thought-statement tree/graph: 
 
- * The Federal Reserve is unconstitional and the fiat dollar is illegitimate.
+ * The Federal Reserve and the fiat dollar is unconstitional and illegitimate.
    * The US Constitution Article 1, Section 8, Clause 5 explicitly states that
      "The Congress shall have Power... To coin Money, regulate the Value
      thereof, and of foreign Coin, and fix the Standard of Weights and
@@ -338,7 +345,8 @@ Consider the following thought-statement tree/graph:
      of the US Constitution give the federal government the authority to stray
      from the "bimetalic" spirit of the U.S. Constitution.
    * Paper fiat dollar bills are not coins.
-     * Paper fiat dollars started off as bills of credit for deposited gold
+     * Paper fiat dollars started off as bills of credit for deposited gold.
+     * Paper fiat dollars today are neither bills of credit nor gold/silver coins.
    * The Federal Reserve was unconstitutionally ratified in order to debase the
      people's money from the underlying gold and silver.
      * The Coinage Act of 1873 also known as the "Crime of 1873" eliminated the
@@ -352,10 +360,10 @@ Consider the following thought-statement tree/graph:
      * The Bretton Woods system was an international monetary system established
        in 1944 that set rules for commercial and financial relations among the
        major industrial states pegging the dollar to gold.
-       * It created created a system of fixed exchange rates,
-         with the U.S. dollar pegged to gold and other currencies pegged to the
-         dollar, and established the International Monetary Fund (IMF) and the
-         World Bank to promote economic stability and growth.
+       * It created created a system of fixed exchange rates, with the U.S.
+         dollar pegged to gold and other currencies pegged to the dollar, and
+         established the International Monetary Fund (IMF) and the
+         World Bank "to promote economic stability and growth".
        * The system ended in 1971 when the U.S. abandoned the gold standard,
          leading to a shift to floating exchange rates.
        * The Bretton Woods system ended in 1971 primarily because the U.S. could no
@@ -371,8 +379,7 @@ Consider the following thought-statement tree/graph:
          states](https://en.wikipedia.org/wiki/Coinage_Act_of_1873) that
          bimetalism ended with the Coinage Act of 1873, and
          [prevents](https://en.wikipedia.org/wiki/Talk:Coinage_Act_of_1873) users
-         from correcting the record, even employing IP rangebans to deniably
-         prevent edits in the first place.
+         from correcting the record.
        * By 1973, the U.S. dollar was fully decoupled from gold, transitioning to
          a fiat currency not backed by physical commodities.
      * JP Morgan intentionally sank the Titanic to murder opposition such as
@@ -428,12 +435,31 @@ Consider the following thought-statement tree/graph:
            promotional character often concerned with the production and
            wireless transmission of power; but did not include new, sound,
            workable principles or methods for realizing such results”.
-   * Since the U.S. federal government requires payment of taxes in the form of
-     fiat dollars that are unconstitutional, the U.S. federal taxation system
-     (as well as state taxation systems) are illegitimate and unconstitutional.
+     * The silver dollar used to have 0.7734 troy ounces of silver.
+       At the price of silver today at $84 per troy ounce, a silver dollar
+       today would be worth $64, roughly representing about 6 halvings
+       of the purchasing power of the dollar, or 1.56%.
+     * The gold dollar used to weigh 1.672 grams of which 90% was silver.
+       At the price of gold today at $4,590 per troy ounce, a gold dollar 
+       today would be worth $244, roughly representing about 8 halvings
+       of the purchasing power of the dollar, or 0.41%.
+     * Given 0.7734 troy ounces for a silver dollar and 0.053 troy ounces
+       for a gold dollar the ratio of the value of silver to gold
+       used to be around 1:14.6. Today the ratio is 1:54.6.
+     * If the dollar were to be backed by gold and silver as it should,
+       the price of gold and silver would be significantly higher.
+     * With the adoption of silver solid-state battery technology and the
+       greater need for silver in industry the ratio of the value of silver to
+       gold will revert to the historical norm or even higher.
 
-_See the appendix on [[#The History of U.S. Silver Coins]] for more history of
-U.S. Silver Coins_.
+_All empires fall after debasing its currency. The Roman Empire took centuries
+to debase their currency to 0.5%. The United States has achieved the same in
+about half a century--it has only been 55 years since President Nixon ended the
+convertibility of the dollar to gold. For a modern comparison, the British
+Empire ended soon after WWI after debasing the silver shilling starting from
+the 1920's until 1947 when silver content was completely eliminated. See the
+appendix on [[#The History of U.S. Silver Coins]] for more history of U.S.
+Silver Coins_.
 
 That's just one thought-statement that needed so many dependencies to prove;
 there are so many similar statements to describe all that is wrong with this
@@ -472,9 +498,6 @@ nodes even being grafted unto other trees, thus creating a "graft" of trees
 
  * Fauci should be in jail for illegaly aiding in the development of the
    Covid19 virus and lying to the US Congress about it under oath.
-
- * The biblical locusts in the Book of Revelation refer to [an invasion of
-   foreigners](https://github.com/jaekwon/ephesus/blob/main/thoughts/locusts.md).
 
  * After [Senator John Kennedy](https://www.youtube.com/watch?v=0Dk1ft7Vn9c)
    and others spoke out about the Somali wellfare scams, Nick Shirley exposed a
@@ -594,9 +617,8 @@ nodes even being grafted unto other trees, thus creating a "graft" of trees
  * Dolmen are related to the Ark of the Covenant, the two tablets of Moses, and
    originate from Mt Ebal in the Old Testament.
 
- * A hypothetical debris field trailing 3I/Atlas (and ejecta from its anti-tail
-   around 8/25/25) may collide with Earth around 3/10/26 to darken the skies
-   and produce Cyanide, [fulfilling the prophecy of Wormwood](https://github.com/jaekwon/ephesus/blob/main/thoughts/3iatlas_wormwood.md).
+ * The biblical locusts in the Book of Revelation refer to [an invasion of
+   foreigners](https://github.com/jaekwon/ephesus/blob/main/thoughts/locusts.md).
 
  * John 21:23 proves that the author of the Book of Revelation is John the
    apostle; and that the eschatology was designed for these years 2000 years
@@ -605,33 +627,34 @@ nodes even being grafted unto other trees, thus creating a "graft" of trees
    thereby completing the Book of Revelation according to 
    [Jesus's 3000 year plan](https://github.com/jaekwon/ephesus/blob/main/README.md))
 
-Most (if not possibly all) of the thougths are true, but are not convincing
-unless the supporting evidence and discussions are also taken into account. Not
-only that, but there are at least two sides to a story, so the reader must also
-take into account the opposing statement and their justifications to truly
-understand what is real.
+ * A hypothetical debris field trailing 3I/Atlas (and ejecta from its anti-tail
+   around 8/25/25) may collide with Earth around 3/10/26 to darken the skies
+   and produce Cyanide, [fulfilling the prophecy of Wormwood](https://github.com/jaekwon/ephesus/blob/main/thoughts/3iatlas_wormwood.md).
+
+Most of the above thougth-statements are true, yet none are convincing unless
+the supporting evidence and discussions are also taken into account.  Also,
+there are at least two sides to a story, so the reader must also take into
+account the opposing statement and their justifications to understand what is
+true.
 
 Just as Martin Luther sparked the Protestant Reformation with a short piece of
 95 theses, what we need today is another set of 95 theses or thought-statements
-(with one pointing back to Martin Luther's original) that would not only spark
-the interest of any reader who recognizes the truth of a subset of the theses;
-but also host the underlying structure of dependent (and counter-)
-thought-statements that can help convince the reader of the truth; or help
-anyone to fork such a list or _graft_ with any modifications to create a better
-lists or _grafts_.
+that would not only spark the interest of any reader who recognizes the truth
+of a subset of the theses; but also host the underlying web of dependent (and
+counter-) thought-statements that can help convince the reader of the truth; or
+help anyone to fork such a list or graph with any modifications to create a
+better lists or graphs.
 
-The top-level thought-statement *Thought object nodes are part of a _graft_ (as
-previously defined, a graph composed of intersecting or disjoint tree
-structures), and as such could be called _graft fulcrums_.
+The top-level thought-statement *Thought object nodes are part of a graph, and
+as such could be called _fulcrums_.
 
 A selection of _95 fulcrums_ can then even be printed in poster form linking
-back to the associations in the greater _graft_ by QR-codes; and they could be
+back to the associations in the greater graph by QR-codes; and they could be
 customized for every region where the posters are put up (or they can be
 printed as a pamphlet and dropped from the air). The Beast AI Prison Matrix
 system may have a tight grip on the internet, but it does not yet control all
-of the physical world.
-
-To contribute, join the [Atom.One Telegram channel](https://t.me/youwillatone).
+of the physical world. (To contribute, join the [Atom.One Telegram
+channel](https://t.me/youwillatone)).
 
 ## Gno Language
 
