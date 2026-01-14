@@ -16,6 +16,8 @@ XXX freedoms, privacy, limitations
 
 ### Regulation: Native and Application Tokens
 
+### Regulation: Tokens and Memcoins
+
 ## Realm Upgrading
 
 ## Tokenomics
@@ -41,3 +43,7 @@ Rights to word mark "Gno", "Gno.land", and "Gno*".
 Limitations of aforementioned rights.
 
 ### Role: Conflict of Interest Disclosure
+
+ * required to declare membership “past or present” of any organisation that is
+   “hierarchical, has confidential membership and requires members to support
+   and protect each other”.

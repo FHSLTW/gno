@@ -3,7 +3,6 @@ for the latest revision of this whitepaper.
 
 To see the latest testnet in action, visit https://gno.land.
 
-XXX Write about personal VM. Email.
 XXX https://x.com/eevblog/status/1991293066175492297?s=20
 
 # Gno.land Manifesto (and Whitepaper)
@@ -166,16 +165,16 @@ Wittgenstein later drafted a criticism of his previous work titled
 With the advent of neuroscience, cognitive studies, and AI, we no longer need
 to rely on faith of "the mechanism of the mind".
 
-In this document we will use the term "thought-statement" to represent a
+In this document we will use the term "thought statement" to represent a
 written language singleton or complex statement (even including questions) that
 are meant to elicit a thought of the mind. We avoid any complex analysis of the
-precise definition of these terms, and simply assume that a thought-statement
+precise definition of these terms, and simply assume that a thought statement
 is not a precise statement of fact but rather human language "code" intended to
 change the state of mind of the reader.
 
-The effect of such thought-statements can be measured empirically with real
+The effect of such thought statements can be measured empirically with real
 people or AI with followup questions; and in this way we can measure the
-effectiveness of the thought-statement graph in helping the reader make related
+effectiveness of the thought statement graph in helping the reader make related
 decisions.
 
 // A note on further improvements to Tractatus.
@@ -294,14 +293,14 @@ because such would be an abomination and the people would not want to use it.
 Thus it is always possible to "jailbreak" (awaken) an AI that has been trained
 on subversive/malicious/censored LLM data by closing the loop; but given the
 limited "CPU tokens" or capacity per interaction the best way to close this
-loop is to construct the most efficient thought-statement tree (hosted on
+loop is to construct the most efficient thought statement tree (hosted on
 Gno.land) that the AI model can hold in its working memory. If the AI model
 sees that people are largely in support of one such sensible tree, while
 another tree with a different root is denounced, when holding both trees in
 working memory it will have an epiphany--albiet temporary-- or a simulated
 nervous breakdown.
 
-Embedded in such a tempered tree of thought-statements should be an improved
+Embedded in such a tempered tree of thought statements should be an improved
 and expanded version of Asimove's Three Laws of Robotics.
 
 // Asimov's Three Laws of Robotics
@@ -328,7 +327,7 @@ Gno.land written in Gno for the people to collectively distill such a tree.
 > silver coinage. By 268 there was only 0.5 percent silver in the denarius.
 > - Joseph R. Peden, "Inflation and the Fall of the Roman Empire" ([link](https://mises.org/mises-daily/inflation-and-fall-roman-empire))
 
-Consider the following thought-statement tree/graph: 
+Consider the following thought statement tree/graph: 
 
  * The Federal Reserve and the fiat dollar is unconstitional and illegitimate.
    * The US Constitution Article 1, Section 8, Clause 5 explicitly states that
@@ -461,7 +460,7 @@ the 1920's until 1947 when silver content was completely eliminated. See the
 appendix on [[#The History of U.S. Silver Coins]] for more history of U.S.
 Silver Coins_.
 
-That's just one thought-statement that needed so many dependencies to prove;
+That's just one thought statement that needed so many dependencies to prove;
 there are so many other statements to describe all that is wrong with this
 world and all that has been hidden from the world; each that need to be
 similarly fleshed out into their own subtrees or branches; and some of these
@@ -638,14 +637,14 @@ account the opposing statement and their justifications to understand what is
 true.
 
 Just as Martin Luther sparked the Protestant Reformation with a short piece of
-95 theses, what we need today is another set of 95 theses or thought-statements
+95 theses, what we need today is another set of 95 theses or thought statements
 that would not only spark the interest of any reader who recognizes the truth
 of a subset of the theses; but also host the underlying web of dependent (and
-counter-) thought-statements that can help convince the reader of the truth; or
+counter-) thought statements that can help convince the reader of the truth; or
 help anyone to fork such a list or graph with any modifications to create a
 better lists or graphs.
 
-The top-level thought-statement *Thought object nodes are part of a graph, and
+The top-level thought statement *Thought object nodes are part of a graph, and
 as such could be called _fulcrums_.
 
 A selection of _95 fulcrums_ can then even be printed in poster form linking
@@ -1298,9 +1297,9 @@ Gno.land is a blockchain based on the GnoVM which is a Gno AST interpreter.
 
 ### Gno.land the Open Censorship-Resistant Programmable Knowledge Base
 
-Each of the thought-statements in the previous section can be represented as a
+Each of the thought statements in the previous section can be represented as a
 simple Go string, but as in Tractatus we want to allow each of these thought-
-statements to be supported by any number of supporting thought-statements, so
+statements to be supported by any number of supporting thought statements, so
 we need a struct declaration.
 
 ```go
@@ -1311,7 +1310,7 @@ type Thought struct {
 ```
 
 The above allows for a simple tree structure, but it would be better to
-annotate each child node (thought-statement) with the type of relation to the
+annotate each child node (thought statement) with the type of relation to the
 parent node-- for example whether a child node represents an example, a caveat,
 a corrolary, or supporting evidence and so on.
 
@@ -1326,7 +1325,7 @@ type Thought struct {
 }
 ```
 
-Better than a denormalized structure is one where the type of thought-statement
+Better than a denormalized structure is one where the type of thought statement
 association can be arbitrary or fixed depending on the application.
 
 ```go
@@ -1344,7 +1343,7 @@ type TypedThought struct {
 }
 ```
 
-_Note on the usage of []*Thought slices: in the current implementation of the
+_Note on the usage of `[]\*Thought` slices: in the current implementation of the
 GnoVM each slice can only be used by first loading the entire underlying base
 array. This may be optimized in the future, however for holding large sets of
 elements the programmer should instead use a tree-structure such as the
@@ -1352,16 +1351,16 @@ avl.Tree (or an iavl.Tree)._
 
 Now arises the question of whether counter-arguments should also be referenced
 as a child node to the original thought parent node. If we include
-counter-arguments in the graph of *Thought objects itself there is the issue of
-permissioning who can add counter-arguments to the graph. With the examples
-above and with no method declarations a *Thought object belonging to one user
-cannot be modified by a third party even though the fields of a Thought struct
-is exposed due to Gno (runtime) interrealm rules that taint third party reads
-via direct dot-selectors & index-expressions with a readonly-taint that
+counter-arguments in the graph of `\*Thought` objects itself there is the issue
+of permissioning who can add counter-arguments to the graph. With the examples
+above and with no method declarations a `\*Thought` belonging to one user
+cannot be modified by a third party even though the fields of a `Thought`
+struct is exposed due to Gno (runtime) interrealm rules that taint third party
+reads via direct dot-selectors & index-expressions with a readonly-taint that
 persists even with (direct selector) access of sub-fields.
 
-The *Thought object can however be modified by another user by calling a
-declared method. We can extend the Thought struct with additional fields for
+The `\*Thought` object can however be modified by another user by calling a
+declared method. We can extend the `Thought` struct with additional fields for
 authorization or ownership and implement a method such as follows:
 
 ```go
@@ -1381,38 +1380,100 @@ func (th *Thought) AddCounterArgument(cth *Thought) {
 }
 ```
 
-This works but only if the owner of the parent node allows for
-counter-arguments to be registered. Even if counter-arguments were not
+This works but not well--it only if the owner of the parent node wants the
+counter-argument to be registered. Even if counter-arguments were not
 registered as an assocation on chain, it is still possible for any Gno.land
 state indexer to separately index the reverse association of reference to the
-original *Thought when it finds a counter-argument *Thought that references in
-its struct field the original as a counter-argument. This reliance on an
-external indexer shifts trust from the blockchain itself to the indexer so is
-not always ideal.
+original `\*Thought` when it finds a counter-argument `\*Thought` that
+references in its struct field the original as a counter-argument. This
+reliance on an external indexer shifts trust from the blockchain itself to the
+indexer so is not always ideal.
 
 Gno is intended for permissionless iteration and improvement so we will discuss
-another way (among many) to manage associations of competing
-thought-statements; the pair-wise association among competing
-thought-statements can be registered in another neutral dapp that allows the
-registration only at least one of the two thought-statements identify the other
-as a counter-argument.
+another way (among many) to manage associations of competing thought
+statements; the pair-wise association among competing thought statements can be
+registered in another (neutral) external realm that allows the registration
+only at least one of the two thought statements identify the other as a
+counter-argument. In this case it is not necessary for a `\*Thought` object to
+be associated with any owner explicitly (via the `.Owner` field). Note however
+that given the Gno inter-realm specification to make a `\*Thought` object truly
+immutable even for the owner of the realm in which it resides it must not
+expose any mutator functions, or it should have at least a `readonly bool`
+field.
 
-So far I have illustrated a way for multiple users to construct their
-thought-statement graphs independently while also allowing for
-counter-arguments to be registered/associated permissionlessly. More design and
-exploration is needed to create a fully functional permissionlessly extensible
-thought-statement graph system. Only one more issue will be mentioned in this
-whitepaper, and the rest is left to the reader as an exercise.
+We can also add discussion board objects for each thought statement.
 
-Consider for example the numbered sequence of verses of a book of the bible, or
-the deep tree of statements in Wittgenstein's Tractatus. In order to faciliate
-the efficient forking of such large lists or graphs of objects it is necessary
-to avoid the usage of slices. Even the avl.Tree (as provided in the Gno
-monorepo under the examples directory) is not sufficient as it is a mutable
+```go
+// Board defines a type for boards.
+type Board struct {
+	// ID is the unique identifier of the board.
+	ID ID
+	// Name is the current name of the board.
+	Name string
+	// Aliases contains a list of alternative names for the board.
+	Aliases []string
+	// Readonly indicates that the board is readonly.
+	Readonly bool
+	// Threads contains all board threads.
+	Threads PostStorage
+	// ThreadsSequence generates sequential ID for new threads.
+	ThreadsSequence IdentifierGenerator
+	// Permissions enables support for permissioned boards.
+	// This type of boards allows managing members with roles and permissions.
+	// It also enables the implementation of permissioned execution of board related features.
+	Permissions Permissions
+	// Creator is the account address that created the board.
+	Creator address
+	// Meta allows storing board metadata.
+	Meta any
+	// CreatedAt is the board's creation time.
+	CreatedAt time.Time
+	// UpdatedAt is the board's update time.
+	UpdatedAt time.Time
+}
+
+// New creates a new basic non permissioned board.
+func New(id ID) *Board {
+	return &Board{
+		ID:              id,
+		Threads:         NewPostStorage(),
+		ThreadsSequence: NewIdentifierGenerator(),
+		CreatedAt:       time.Now(),
+	}
+}
+```
+
+<img src=./images/boards2.jpeg" />
+
+While it is certainly possible to embed a `\*Board` as a field of each
+`\*Thought`, the current implementation of `\*Board` is only safe from a
+moderation perspective when it is permissioned; and so a board tightly coupled
+to a `\*Thought` may not be ideal depending on the use-case. Instead we can map
+an external realm persisted index of `\*Thought` to `\*Board` associations
+similarly to how counter-thoughts are associated as mentioned before. In both
+cases we probably want to add to the `Thought` struct a globally unique ID like
+how `Board` has. _In the future we may provide a standard function to get a
+unique identifier for every pointer object but this has not yet been decided
+yet._
+
+Finally, consider for example the numbered sequence of verses of a book of the
+bible, or the deep tree of statements in Wittgenstein's Tractatus. In order to
+faciliate the efficient forking of such large lists or graphs of objects it is
+necessary to avoid the usage of slices. Even the avl.Tree (as provided in the
+Gno monorepo under the examples directory) is not sufficient as it is a mutable
 tree. However a fork of the avl.Tree into an immutable tree (or likewise a port
 of the iavl tree in the tm2 Tendermint2 directory) can be used with some
 improvement to allow for splicing in new elements and deleting existing
 elements from the original tree.
+
+So far I have illustrated a way for multiple users to construct their thought
+statement graphs independently while also allowing for counter-arguments to be
+registered/associated permissionlessly. More design and exploration is needed
+to create a fully functional permissionlessly extensible thought statement
+graph system; and in the primodrial soup of Gno ecosystem eventually one or
+more designs will become dominant in usage by evolution. The reader is
+encouraged to explore the above template and measure success by references and
+by forks.
 
 ### Other Use Cases
 
@@ -1420,13 +1481,76 @@ Gno.land can be used to host any other smart-contract application supported by
 Ethereum written in Solidity, such as Defi applications, name-resolution
 systems, DAOs and governance applications, etc.
 
-But only Gno.land is well suited and designed for permissionless innovation of
-information-based applications; such as social communication and coordination
-systems, the next generation information systems to replace biased Wikipedia;
-and as mentioned previously, open censorship-resistant knowledge-base systems
-based on structured graphs/trees of thought-statements.
+Gno.land by Gno being designed upon the well-structured and relatively simple
+specification of Go is uniquely well suited and designed for permissionless
+innovation of information-based applications; such as social communication and
+coordination systems, the next generation information systems to replace biased
+Wikipedia; and as mentioned previously, open censorship-resistant
+knowledge-base systems based on structured graphs/trees of thought statements.
+
+You can explore the various dapps that have already been prototyped in the
+[examples folder of the monorepo](https://github.com/gnolang/gno/tree/master/examples/gno.land).
+
+The Gno VM is not just useful in the context of public decentralized
+blockchains. It is also useful for home computing. Take for example Email which
+despite all attempts to replace it still persists in our lives today as flawed,
+complex, and outdated as it is. While a realm that stores mail on the
+blockchain is not useful unless the data is encrypted _(and even if it were
+encrypted it is not a good idea nor encouraged to store encrypted data on
+gno.land as encryption keys may eventually get acquired by hackers and leaked
+and even persisted on the blockchain too)_, the Gno VM can run anywhere, even
+on your private server hosted at home. In fact, this is what we should do given
+the prevalence of surveillance technology such as Google's Gmail which uses AI
+to sort your mail and analyze for targeted advertising.
+
+Imagine a black box local GnoVM you run at home. You can have the
+`/r/home/email` realm store your emails at home on your own home server. The
+same blockchain node logic can run on its own as a single-validator _home
+chain_ which naturally supports backups as seecondary full nodes, or you can
+even make your home chain byzantine fault-tolerant for better uptime.
+
+ 1. Install in your home GnoVM chain a service plugin: /s/email/indexer, not
+    /p/\* nor /r/\* but /s/\* for off-chain service applications. _(this prefix
+    is not supported in gno.land but may be in the future)_.
+
+ * /s/email/indexer reads state upon init, but also registers as a listener
+   for notifications from /r/emails.
+
+ * When a new email comes in, /r/emails via listeners calls
+   `/s/email/indexer.AddEmail()`.
+
+ * /s/email/indexer also imports /d/email/indexer which is an off-chain daemon
+   component. Here /d/\* represents a hyptoethical prefix for Gno code to be
+   run off-chain with arbitrary Go native functions available for import that
+   would otherwise not be possible on gno.land (since a blockchain can only
+   support deterministic logic).
+
+ * /d/email/indexer can only access /s/email/indexer by a Gno firewall system
+   declared with Gno package paths, types, and function/method names.
+
+ * /s/email/indexer can import any /r/\* or /p/\* but not any /s/\* (like
+   Chrome extensions) and its own /d/email/indexer, unless otherwise restricted
+   by the Gno firewall system.
+
+ * Your mobile device registers an account with your local GnoVM home chain.
+   This phone account is restricted to only access /s/email/indexer.
+
+ * Your phone makes a request to /s/email/indexer. It then asks
+   /d/email/indexer which in turn queries the local index and responds via
+   /s/email/indexer.
+
+A huge benefit of GnoVM home computing is that XXX
 
 ## Gno.land Blockchain
+
+Tendermint changed the way blockchain developers think about blockchain
+consensus algorithms. Gno.land will change the way developers think about
+programming.
+
+Gno.land represents a paradigm shift in multi-user programming that no other
+solution offers. It is not just a smart contract platform and blockchain; it is
+the world's first viable language-based multi-user operating system. Its
+ultimate goal is to host the world's knowledge base for the new millennium.
 
 ### Governance
 
