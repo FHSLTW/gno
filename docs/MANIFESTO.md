@@ -8,7 +8,7 @@ XXX https://x.com/eevblog/status/1991293066175492297?s=20
 
 # Gno.land Manifesto (and Whitepaper)
 
-_@author: Jae Kwon - chief architect of Gno.land and the GnoVM;
+_@author: Gnobody Smartsilver - chief architect of Gno.land and the GnoVM;
 chief founder/inventor of Tendermint and Cosmos; first to completely solve BFT
 proof-of-stake in 2014. Maintainer of the Tendermint brand. A co-founder among
 many for Atom.One the fork of Cosmos that preserves and improves the original
@@ -462,11 +462,11 @@ appendix on [[#The History of U.S. Silver Coins]] for more history of U.S.
 Silver Coins_.
 
 That's just one thought-statement that needed so many dependencies to prove;
-there are so many similar statements to describe all that is wrong with this
+there are so many other statements to describe all that is wrong with this
 world and all that has been hidden from the world; each that need to be
 similarly fleshed out into their own subtrees or branches; and some of these
-nodes even being grafted unto other trees, thus creating a "graft" of trees
-(which by my definition is a type of "graph").
+nodes/branches even being grafted unto other trees, thus creating a "graft" of
+trees.
 
  * There exists at this moment a US-based global surveillance system headed by
    Palentir which uses advanced AI to intercept, mutate, and censor sensitive
@@ -517,9 +517,9 @@ nodes even being grafted unto other trees, thus creating a "graft" of trees
    publishing the Epstein Files (and even deleted files after publishing this
    Dec 2025); and simultaneoulsy broke international law by stealing oil from
    Venezuela and murdering Venezuelan citizens to arrest Venezuelan president
-   on false pretenses of drug production/smuggling to distract from his own
-   connections to Epstein and the exposure of the Somali day care scam given
-   their concurrent timing).
+   on false pretenses of drug production/smuggling; partially to distract from
+   his own connections to Epstein and the exposure of the Somali day care scam
+   given their concurrent timing).
 
  * [Epstein was murdered](https://github.com/jaekwon/ephesus/blob/main/epstein/homicide/README.md)
    and there exists a vast conspiracy to "poison the well" with theories that
@@ -1628,7 +1628,7 @@ this element in his book.)
 There is a logical inconsistency, as it is written in Luke that Jesus was
 accused of forbidding to give tribute instead. Of course Jesus is being accused
 by Sanhedrin who wanted to arrest him. But were they lying, or were they truly
-afraid?
+afraid? I believe they were.
 
 What Jesus meant was that Caesar can have all the pennies, while the other
 silver coins of larger denominations should not be paid to Caesar. However this
@@ -2013,7 +2013,7 @@ Modern Silver Coins
    Silver Eagle, which contains one troy ounce of .999 fine silver. Silver
    coins remain popular among collectors and investors for their historical
    significance and intrinsic value.
- * _(Jae:) However, these are still technically US dollars and new laws may be
+ * _(Gnobody:) However, these are still technically US dollars and new laws may be
    introduced at any time to prevent the melting of these dollars; so it is in
    some safe safer to acquire "silver rounds" that are not minted by the U.S.
    Mint. For example, the "Morgan Dollar Design" silver rounds sold at
@@ -2042,7 +2042,7 @@ Salmon P. Chase, the Treasury Secretary under President Abraham Lincoln.
 
 <img src="./images/manifesto/dollar-original-1862.jpeg" />
 
-_Jae: You can see "will pay the bearer" on the original, and "one dollar".
+_Gnobody: You can see "will pay the bearer" on the original, and "one dollar".
 In 1862 it was assumed It is assumed that the dollar 
 
 A silver dollar, specifically the Morgan and Peace silver dollars, weighs 26.73
