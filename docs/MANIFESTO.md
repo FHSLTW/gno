@@ -1351,15 +1351,15 @@ avl.Tree (or an iavl.Tree)._
 
 Now arises the question of whether counter-arguments should also be referenced
 as a child node to the original thought parent node. If we include
-counter-arguments in the graph of `\*Thought` objects itself there is the issue
+counter-arguments in the graph of `*Thought` objects itself there is the issue
 of permissioning who can add counter-arguments to the graph. With the examples
-above and with no method declarations a `\*Thought` belonging to one user
+above and with no method declarations a `*Thought` belonging to one user
 cannot be modified by a third party even though the fields of a `Thought`
 struct is exposed due to Gno (runtime) interrealm rules that taint third party
 reads via direct dot-selectors & index-expressions with a readonly-taint that
 persists even with (direct selector) access of sub-fields.
 
-The `\*Thought` object can however be modified by another user by calling a
+The `*Thought` object can however be modified by another user by calling a
 declared method. We can extend the `Thought` struct with additional fields for
 authorization or ownership and implement a method such as follows:
 
@@ -1384,7 +1384,7 @@ This works but not well--it only if the owner of the parent node wants the
 counter-argument to be registered. Even if counter-arguments were not
 registered as an assocation on chain, it is still possible for any Gno.land
 state indexer to separately index the reverse association of reference to the
-original `\*Thought` when it finds a counter-argument `\*Thought` that
+original `*Thought` when it finds a counter-argument `*Thought` that
 references in its struct field the original as a counter-argument. This
 reliance on an external indexer shifts trust from the blockchain itself to the
 indexer so is not always ideal.
@@ -1394,9 +1394,9 @@ another way (among many) to manage associations of competing thought
 statements; the pair-wise association among competing thought statements can be
 registered in another (neutral) external realm that allows the registration
 only at least one of the two thought statements identify the other as a
-counter-argument. In this case it is not necessary for a `\*Thought` object to
+counter-argument. In this case it is not necessary for a `*Thought` object to
 be associated with any owner explicitly (via the `.Owner` field). Note however
-that given the Gno inter-realm specification to make a `\*Thought` object truly
+that given the Gno inter-realm specification to make a `*Thought` object truly
 immutable even for the owner of the realm in which it resides it must not
 expose any mutator functions, or it should have at least a `readonly bool`
 field.
@@ -1445,11 +1445,11 @@ func New(id ID) *Board {
 
 <img src="./images/boards2.jpeg" />
 
-While it is certainly possible to embed a `\*Board` as a field of each
-`\*Thought`, the current implementation of `\*Board` is only safe from a
+While it is certainly possible to embed a `*Board` as a field of each
+`*Thought`, the current implementation of `*Board` is only safe from a
 moderation perspective when it is permissioned; and so a board tightly coupled
-to a `\*Thought` may not be ideal depending on the use-case. Instead we can map
-an external realm persisted index of `\*Thought` to `\*Board` associations
+to a `*Thought` may not be ideal depending on the use-case. Instead we can map
+an external realm persisted index of `*Thought` to `*Board` associations
 similarly to how counter-thoughts are associated as mentioned before. In both
 cases we probably want to add to the `Thought` struct a globally unique ID like
 how `Board` has. _In the future we may provide a standard function to get a
