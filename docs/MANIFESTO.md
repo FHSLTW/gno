@@ -13,18 +13,13 @@ proof-of-stake in 2014. Maintainer of the Tendermint brand. A co-founder among
 many for Atom.One the fork of Cosmos that preserves and improves the original
 tokenomics design of Cosmos._
 
-I wrote this whitepaper to include a manifesto for why the project exists
-in the first place, including many details and ideas specifically for its
-original intended design to serve as an open censorship-resistant knowledge
-base of structured information. The genesis motivation as well as primary
-motivation for me is deeply spiritual though not everybody who contributed and
-not everybody in the core team share my spiritual resonance; therefore this
-whitepaper is authored by myself so as to not speak on behalf of anyone else.
-
-That said, I alone could not have arrived at the final design of the Gno
-language without the help of the many developers who gave much time of their
-lives to contribute to this project and the design of the language;
-specifically Manfred, Morgan, Milos, Maxwell, Guilhem, Ray, and Omar.
+_I wrote this whitepaper to include a manifesto for why the project exists in
+the first place, including many details and ideas specifically for its original
+intended design to serve as an open censorship-resistant knowledge base of
+structured information. The genesis motivation as well as primary motivation
+for me is deeply spiritual though not everybody who contributed and not
+everybody in the core team share my spiritual resonance; therefore this
+whitepaper is authored by myself so as to not speak on behalf of anyone else._
 
 ## Introduction
 
@@ -482,21 +477,27 @@ trees.
    aforementioned censorship in subtle ways that are not detectable by existing
    shadow-ban detection tools.
 
- * At least some of the Rothschilds are quite litereally satanic; and in
-   Germany there has taken root satanism that includes elements of ritual child
-   sacrifice.
+ * At least some of the Rothschilds are litereally satanic; and in some parts
+   of Germany there has taken root satanism that includes elements of ritual
+   child sacrifice.
+   * The Pergamom Altar, one of the seven Wonders of the Ancient World was
+     moved to Berlin, Germany since 1886.
+     * The Pergamom Altar is the "Seat of Satan" mentioned by John the Apostle in
+       the Book of Revelation.
 
- * The dynastic European banking elites wish for global depopulation; and
-   Covid19 was engineered for this purpose.
-
- * [The collective world-wide evidence from 2020– 2025 underscores a
-   biologically plausible connection between COVID-19 vaccination and
-   ("turnbo") cancer](https://drive.google.com/file/d/1RH0f1BEqY9I7ruuPKQPU6bGNVJRyxZxc/view);
-   and this information was censored by a
-   [cyberattack hitting a major cancer journal on Jan 4th, 2025](https://x.com/NicHulscher/status/2007939234322174444?s=20).
+ * The dynastic European banking elites wish for global depopulation.
+   * Prince Phillip,  Duke of Edinburgh, husband of Queen Elizabeth II said:
+     "If I were reincarnated, I would wish to be returned to Earth as a killer
+     virus to lower human population levels." in 1988.
+     * Prince Phillip passed away on April 9, 2021, at the age of 99.
 
  * Fauci should be in jail for illegaly aiding in the development of the
    Covid19 virus and lying to the US Congress about it under oath.
+   * Covid19 was engineered in the Wuhan lab for global depopulation.
+   * [The collective world-wide evidence from 2020– 2025 underscores a
+     biologically plausible connection between COVID-19 vaccination and
+     ("turnbo") cancer](https://drive.google.com/file/d/1RH0f1BEqY9I7ruuPKQPU6bGNVJRyxZxc/view).
+     * This information was censored by a [cyberattack hitting a major cancer journal on Jan 4th, 2025](https://x.com/NicHulscher/status/2007939234322174444?s=20).
 
  * After [Senator John Kennedy](https://www.youtube.com/watch?v=0Dk1ft7Vn9c)
    and others spoke out about the Somali wellfare scams, Nick Shirley exposed a
@@ -509,8 +510,9 @@ trees.
    in the fraud](https://x.com/EricLDaugh/status/2009405199991853210?s=20). 
 
  * Tim Walz, U.S. House of Representatives, and Democratic nominee for vice-
-   president 2024, knew of the Somali day care scam; and Walz's own appointee
-   murdered the only lawmaker who voted against the Somali day care scam.
+   president 2024, knew of the Somali day care scam.
+   * Walz's own appointee murdered the only lawmaker who voted against the
+     Somali day care scam.
 
  * The Trump administration broke the law by redacting and selectively
    publishing the Epstein Files (and even deleted files after publishing this
@@ -525,14 +527,14 @@ trees.
    Epstein is still alive.
 
  * [The State of Israel's Mossad is behind the Somali inter-state day care scams](https://www.youtube.com/watch?v=SSKn9bHEvOw); and this is why Israel
-   suddenly recognized the new "Somaliland". The Palestinians who survive the
+   suddenly recognized the new "Somaliland"; the Palestinians who survive the
    genocide will likely be relocated there.
 
  * Zohran Mamdani’s new NYC tenant advocate called to 'Seize private
-   property!', blasted home ownership as ‘white supremacy’; Trump should be
-   arresting Zohran Mamdani and Cea Weaver instead as per the Communist Control
-   Act of 1954; but will not do so because he has ulterior motives, or because
-   he is controlled.
+   property!', blasted home ownership as ‘white supremacy’.
+   * Trump should be arresting Zohran Mamdani and Cea Weaver instead as per the
+     Communist Control Act of 1954.
+     * Nothing will happen.
 
  * The easiest way for the State of Israel to expand to "Greater Israel" is to
    extract capital from the United States by turning it into a communist
@@ -541,69 +543,61 @@ trees.
  * Communism has never succeeded except arguably in North Korea which is a
    dictatorship different than prior communist states that cannot and should
    not be replicated. The Old Testament assumes private land ownership that
-   cannot even be sold (returned every 50 years in the jubilee); and since the
-   Roman times and throughout the Early Middle Ages where England came under
-   rule of post-Roman chieftains and Anglo-Saxon monarchs land was the dominant
-   source of personal wealth.
+   cannot even be sold (returned every 50 years in the jubilee).
+   * Since the Roman times and throughout the Early Middle Ages where England
+     came under rule of post-Roman chieftains and Anglo-Saxon monarchs land was
+     the dominant source of personal wealth.
 
- * The best way to solve the current crisis is not to abolish private property
-   rights, but to redistribute land and property from the federal treasury, and
-   NGOs and individuals guilty of creating the immigration, cultural, and
-   vaccination & lockdown crisis; and from the shareholders of TBTF banks
-   guilty of destroying the middle class; and to provide conditional UBI to
-   people in need while disincentivizing the birthing of an excess number of
-   children under poverty, and requiring some form of education or training if
-   able.
+ * We need to create a new system that represents the community of *productive*
+   people who wish to form an alternative system that does respect private
+   property, the rule of law, including the law of the biblical jubilee to help
+   guarantee that people do not get displaced from their land by temporary
+   political circumstances.
+   * In time this community will overcome all other alternatives.
 
- * The above is unlikely to happen, so the next best option is to create a new
-   virtual asset that represents the community of *productive* people who wish
-   to form an alternative system that does respect private property, the rule
-   of law, including the law of the biblical jubilee to help guarantee that
-   people do not get displaced from their land by temporary political
-   circumstances. In time this community will overcome all alternatives.
+ * The spirit of the US Constitution is Christian.
+   * All of the founders were Christian.
+   * James Madison separated church and state for the express purpose of
+     promoting the teachings of Jesus.
 
- * The spirit of the US Constitution is Christian; all of the founders were
-   Christian; and James Madison separated church and state for the express
-   purpose of promoting the teachings of Jesus.
-
- * Gno.land poses the biggest threat to the aforementioned "Beast AI Prison
-   Matrix" system.
+ * Gno.land poses the greatest threat to the aforementioned "Beast AI Prison
+   Matrix" system which seeks to censor the truth.
 
  * The New Testament had been mistranslated to hide one of the primary reason
    why Jesus was crucified--he was in a "silent protest" of taxes.
 
- * The AI bubble will collapse.
-
- * The dollar and most fiat currencies will begin hyperinflating by end of
-   2027.
+ * The dollar and most fiat currencies will hyperinflate before 2030.
 
  * Silver will replace gold and the dollar as the primary store of value and
    become once again the primary means of exchange; local crypto currencies
-   will follow.
+   will follow; and interoperate by IBC.
 
  * In the long future most electric vehicles will use silver solid-state
    batteries.
 
  * The Grand Solar Minimum will create a deficit in global food production for
-   decades and we are at risk of a global Holodomor. (and this is one of the
-   reasons why Bill Gates has been buying farmland).
+   decades and we are at risk of a global Holodomor.
+   * Bill Gates is the largest private farmland owner with over 260,000 acres.
 
  * Stocking up on organic grains and organic legumes and oil and silver is the
    best way for a nation's people to defend against a tyrannical government and
-   mitigate excess immigration, and to survive the recently announced Grand
-   Solar Minimum.
+   mitigate excess immigration, and to survive [the coming Grand Solar Minimum](https://www.sott.net/article/440781-NOAA-confirms-a-full-blown-Grand-Solar-Minimum).
+   * The Maunder Minimum (1645-1715) brought plummeting temperatures, crop
+     loss, famine, and the deaths of hundreds of millions of people ACROSS the
+     planet.
+   * The Dalton Minimum (1790-1830) coincided with significant agricultural
+     distress, particularly during the Year Without a Summer in 1816. This year
+     saw severe weather anomalies, including frosts and snow in summer months,
+     leading to widespread crop failures and food shortages across the Northern
+     Hemisphere.
+   * Grains and legumes can be stored for up to 30 years.
 
  * Glyphosate in grains is a significant contributor to cancer; farmers may be
    pressured by weather and financial reasons to use glyphosate against the
    recommended directions to force an hearly harvest before cold weather.
-
- * Chlorination (e.g. with chlorine dioxide) or ozonation of water soaked
-   grains with application of UV light of certain frequencies may neutralize
-   the glyphosate in harvested food.
-
- * The primary cause of fraud is taxation. In the long run the magnitude of the
-   fraud is proportional to the amount of taxation. This follows from the
-   premise that absolute power corrupts absolutely.
+   * Chlorination (e.g. with chlorine dioxide) or ozonation of water soaked
+     grains with application of UV light of certain frequencies may neutralize
+     the glyphosate in harvested food.
 
  * The "10 Lost Tribes of (biblical) Israel" are not all represented in the
    Jewish population, but are also mixed in the general Eurasian population as
@@ -621,15 +615,13 @@ trees.
 
  * John 21:23 proves that the author of the Book of Revelation is John the
    apostle; and that the eschatology was designed for these years 2000 years
-   after. (The key is understanding the role of the Vatican as the harlot of
-   Babylon; as Peter was instructed to create, and John was allowed to hear,
-   thereby completing the Book of Revelation according to 
-   [Jesus's 3000 year plan](https://github.com/jaekwon/ephesus/blob/main/README.md))
-
- * A hypothetical debris field trailing 3I/Atlas (and ejecta from its anti-tail
-   around 8/25/25) may collide with Earth around 3/10/26 to darken the skies
-   and produce Cyanide, [fulfilling the prophecy of Wormwood](https://github.com/jaekwon/ephesus/blob/main/thoughts/3iatlas_wormwood.md).
-
+   after.
+   * Peter was instructed by Jesus to create a church to become the Harlot of
+     Babylon in the end times.
+     * This was alluded to by [John in 21:20-24](https://openbible.com/par/john/21-20.htm).
+       * John the Apostle wrote the Book of Revelation according to 
+         [Jesus's 3000 year plan](https://github.com/jaekwon/ephesus/blob/main/README.md).
+         
 Most of the above thougth-statements are true, yet none are convincing unless
 the supporting evidence and discussions are also taken into account.  Also,
 there are at least two sides to a story, so the reader must also take into
@@ -651,9 +643,9 @@ A selection of _95 fulcrums_ can then even be printed in poster form linking
 back to the associations in the greater graph by QR-codes; and they could be
 customized for every region where the posters are put up (or they can be
 printed as a pamphlet and dropped from the air). The Beast AI Prison Matrix
-system may have a tight grip on the internet, but it does not yet control all
-of the physical world. (To contribute, join the [Atom.One Telegram
-channel](https://t.me/youwillatone)).
+system may have a tight grip on our devices and the internet, but it does not
+yet control all of the physical world. _To contribute, join the [Atom.One
+Telegram channel](https://t.me/youwillatone)_.
 
 ## Gno Language
 
@@ -681,6 +673,12 @@ of in-memory object references.
 
 For the latest Gno interrealm spec see /docs/resources/gno-interrealm.md in
 the [Gno monorepo](https://github.com/gnolang/gno).
+
+_I could not have arrived at the final design of the Gno language without the
+help of the many developers who gave much time of their lives to contribute to
+this project and the design of the language; specifically the NewTendermint Gno
+team and Gno community, and especially Manfred, Morgan, Milos, Maxwell,
+Guilhem, Ray, and Omar._
 
 ### Gno vs Existing Smart Contract Platforms
 
@@ -1539,7 +1537,17 @@ even make your home chain byzantine fault-tolerant for better uptime.
    /d/email/indexer which in turn queries the local index and responds via
    /s/email/indexer.
 
-A huge benefit of GnoVM home computing is that XXX
+Here are some benefits of GnoVM home computing:
+ * Gno.land can be leveraged to ensure that all software is properly audited.
+ * Software is expected to become finished and immutable.
+ * All software benefits from Go/Gno's type-safety and memory-safety.
+ * A unified IPC system drastically reduces surface area for penetration.
+ * Plugin services and daemons such as the aforementioned email indexer can be
+   containerized and restricted from unauthorized access.
+ * Fine-grained security/firewall rules at the function invocation level.
+ * Byzantine fault-tolerance comes out of the box for zero downtime.
+ * Inversion of control with public key cryptography for everything: no more
+   password management.
 
 ## Gno.land Blockchain
 
@@ -1550,7 +1558,8 @@ programming.
 Gno.land represents a paradigm shift in multi-user programming that no other
 solution offers. It is not just a smart contract platform and blockchain; it is
 the world's first viable language-based multi-user operating system. Its
-ultimate goal is to host the world's knowledge base for the new millennium.
+ultimate goal is to host the world's knowledge base for the next thousand
+years.
 
 ### Governance
 
