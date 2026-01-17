@@ -1607,14 +1607,17 @@ constitutional amendments:
  * The $GNOT inflation schedule will never change.
    * Thus the total created $GNOT will never exceed 1.333~ billion $GNOT.
  * The $GNOT storage deposit rate (per byte) will never increase.
- * The $GNOT storage deposit rate will be such that the total unburned $GNOT
+ * The $GNOT storage deposit rate will be such that the total remaining $GNOT.
    and all future inflationary $GNOT never exceeds 20TB of state (double the
    original 10TB). This is to keep the blockchain state at an accessible level
    especailly accounting for any future potential economic collapses.
- * $GNOT is only considered "burned" according to approved burn transactions;
-   such as the automatic burning of $GNOT in Storage Deposit Discount Accounts,
-   but the Gno.land Constitution may also approve of other official burn
-   mechanisms=
+ * $GNOT is only considered "loosened" and according to approved "loosening"
+   mechanisms or transactions (like $ATONE "burn" lossening a knot does not
+   yield any new tokens, at least on Gno.land); such as the automatic loosening
+   of $GNOT in a every Realms' SDDCAs (Storage Deposit Discoungt Credit
+   Accounts), but the Gno.land Constitution may also approve of other official
+   burn mechanisms that are reasonable but VOLUNTARY and EXPLICIT. The one and
+   only exception is the aforementioned automatic loosening of $GNOT in SDDCAs.
 
 
 Gno.land is obligated to migrate to be hosted/secured by Atom.One VaaS
@@ -1797,19 +1800,20 @@ excess $GNOT deposits per realm. This is not considered part of Revenue.
 When the $GNOT storage deposit rate decreases (not automatically by the $GNOT
 burn mechanism described below, but by the decision of GovDAO to lower the
 rate) 50% of the excess $GNOT goes into the RecompenseTreasury (unless it
-already has 20% of total outstanding $GNOT), and the remainer goes to a
-segregated virtual account per realm ($GNOT Storage Deposit Discount Account)
-to be used only for future discounts on transactions for that specific realm.
-These $GNOT Storage Deposit Discount Account tokens may be transferred to other
-$GNOT Storage Deposit Discount Accounts by rules defined by the Governing
-Documents but their $GNOT may never be withdrawn even upon freeing storage, and
-transfers must be initiated by the present authority of the realm or containing
-organization. $GNOT Storage Deposit Discount Account tokens may be burned
-automatically by a rate set by an amendment to the Gno.land Constitution not to
-exceed 10% a year. This is to prevent stagnant $GNOT from limiting the
-allocated storage capacity of Gno.land and thereby reducing its utility. $GNOT
-burned in this way will also reduce the $GNOT storage deposit rate
-automatically but not trigger any of the the mechanisms described here.
+already has 20% of total outstanding $GNOT), and the remainer goes to the
+seggregated virtual account per realm ($GNOT of the realm's SDDCA) to be used
+only for future discounts on transactions for that specific realm. These SDDCA
+$GNOT tokens may be transferred to other SDDCAs by rules defined in the
+Governing Documents but their $GNOT may never be withdrawn even upon freeing
+storage, and transfers must be initiated by the present authority of the realm
+or containing organization. 
+
+SDDCA $GNOTs may be burned automatically by a rate set by an amendment to the
+Gno.land Constitution not to exceed 10% a year.  _(This is to prevent stagnant
+$GNOT from limiting the allocated storage capacity of Gno.land and thereby
+reducing its utility. $GNOT burned in this way will also reduce the $GNOT
+storage deposit rate automatically but not trigger any of the the mechanisms
+described here.)_
 
 The RecompenseTreasury may only be used to recompense victims of exploits and
 fraud. They may be disbursed only if approved by GovDAO with a proposal by
