@@ -1619,7 +1619,6 @@ constitutional amendments:
    burn mechanisms that are reasonable but VOLUNTARY and EXPLICIT. The one and
    only exception is the aforementioned automatic loosening of $GNOT in SDDCAs.
 
-
 Gno.land is obligated to migrate to be hosted/secured by Atom.One VaaS
 ("Validator-as-a-Service") when it is deemed ready by the Atom.One chain as
 determined by on-chain goverance in accordance with the Atom.One and Gno.land
@@ -1717,8 +1716,9 @@ token similar to Bitcoin.
 
 The inflated tokens will be distributed as follows:
 
- * One third will go to NewTendermint,LLC -- the majority must go toward
-   Gno.land or Gno software and ecosystem development.
+ * One third will go to NewTendermint,LLC -- all if it will go toward Gno.land,
+   Gno, and Tendermint ecosystem development and maintenance.  and be held to
+   account on chain.
  * One third will go to GovDAO -- all of which must go toward external
    ecosystem contributors according the Gno.land Constitution, its Laws, and
    any applicable Mandates and Bylaws (altogether Governing Documents).
@@ -1808,7 +1808,7 @@ Governing Documents but their $GNOT may never be withdrawn even upon freeing
 storage, and transfers must be initiated by the present authority of the realm
 or containing organization. 
 
-SDDCA $GNOTs may be burned automatically by a rate set by an amendment to the
+DDCA $GNOTs may be burned automatically by a rate set by an amendment to the
 Gno.land Constitution not to exceed 10% a year.  _(This is to prevent stagnant
 $GNOT from limiting the allocated storage capacity of Gno.land and thereby
 reducing its utility. $GNOT burned in this way will also reduce the $GNOT
@@ -2145,16 +2145,17 @@ not speech and is dangerous to civilization. Whether hate-speech is tolerated
 shoud be determined by each realm but also by the living Gno.land constitution
 and by GovDAO vote to amend the constitution and laws of Gno.land.
 
-
 ## Future Work
 
-TODO Name registry.
+TODO Name registry 
+ * Immutable names.
+ =
+
 TODO Realm upgrading.
 TODO Deterministic concurrency.
 TODO Joeson parser.
 TODO Gno2.
 TODO Open hardware.
-
 
 ## Summary
 
@@ -2163,7 +2164,6 @@ Gno.land is the next open Google.
 AI will be safer.
 Politics will be more honest.
 1000 year plan.
-
 
 ## Appendix
 

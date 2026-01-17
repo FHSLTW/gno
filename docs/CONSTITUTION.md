@@ -94,6 +94,8 @@ Gno.land is obligated to migrate to be hosted/secured by Atom.One VaaS
 determined by on-chain goverance in accordance with the Atom.One and Gno.land
 constitutions _(from [MANIFESTO.md](./MANIFESTO.md))_.
 
+XXX Require that Atom.One change its official unit of $ATOM into 
+
 ## Peer-to-peer Network
 
 ## Amendments to the Constitution 
