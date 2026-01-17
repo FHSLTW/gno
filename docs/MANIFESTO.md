@@ -11,13 +11,17 @@ proof-of-stake in 2014. Maintainer of the Tendermint brand. A co-founder among
 many for Atom.One the fork of Cosmos that preserves and improves the original
 tokenomics design of Cosmos._
 
-_I wrote this whitepaper to include a manifesto for why the project exists in
+I wrote this whitepaper to include a manifesto for why the project exists in
 the first place, including many details and ideas specifically for its original
 intended design to serve as an open censorship-resistant knowledge base of
 structured information. The genesis motivation as well as primary motivation
 for me is deeply spiritual though not everybody who contributed and not
 everybody in the core team share my spiritual resonance; therefore this
-whitepaper is authored by myself so as to not speak on behalf of anyone else._
+whitepaper is authored by myself so as to not speak on behalf of anyone else.
+
+To jump to the technical portions:
+ * [Gno Language](#Gno_Language)
+ * [Gno.land Blockchain](#Gno_land_Blockchain) 
 
 ## Introduction
 
