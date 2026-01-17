@@ -20,8 +20,8 @@ everybody in the core team share my spiritual resonance; therefore this
 whitepaper is authored by myself so as to not speak on behalf of anyone else.
 
 To jump to the technical portions:
- * [Gno Language](./MANIFESTO.md#gno-language)
- * [Gno.land Blockchain](./MANIFESTO.md#gnoland-blockchain
+ * [Gno Language](#gno-language)
+ * [Gno.land Blockchain](#gnoland-blockchain)
 
 ## Introduction
 
