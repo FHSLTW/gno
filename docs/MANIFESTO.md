@@ -228,12 +228,12 @@ while fulfilling [the prophecy of Isaiah](#prophecy-of-isaiah) and was accused
 by Sanhedrin of inciting the people of biblical Israel in Judea under Roman rule.**
 Despite all the sources online and the authorities at Church, this can be
 verified by inspecting the facts. Even the Babylonian Talmud in [Sanhedrin
-attests to the fact](../misc/jaekwon/jesus_in_talmud) that the Sanhedrin
+attests to the fact](./images/manifesto/jesus_in_talmud) that the Sanhedrin
 supreme court condemned Jesus to death for "inciting" biblical Israel, although
 curiously (or not surprisingly) the source at sefaria.org adds incorrect
 language in the English translation (in unbolded text) that the incitement was
 for idol worship. (Also of note is that Google Translate [intentionally
-mistranslates "excrement" to "water"](../misc/jaekwon/jesus_in_talmud/google_translate_lies.png) among
+mistranslates "excrement" to "water"](./images/manifesto/google_translate_gittin_64b.png) among
 other portions of Gittin 56b) (see more context [here](https://christiancourier.com/articles/the-jewish-talmud-and-the-death-of-christ))
 
 See appendix for proof.
@@ -468,15 +468,10 @@ trees.
    information from reaching public consciousness.
    * Google, Wikipedia, Meta, Reddit, Twitter, etc all participate in the above
      mentioned censorship.
-     * [Twitter is complicit](../misc/jaekwon/twitter_censorship) with
-       the aforementioned censorship in subtle ways that are not detectable
-       by existing shadow-ban detection tools.
+     * Twitter's Community Notes system is fair in writing but in practice top
+       contributors routinely publish write biased notes; and [you get banned
+       for pointing it out](#twitter-censorship).
    * ...
-
- * Google, Wikipedia, Meta, Reddit all participate in this censorship; and even
-   [Twitter is complicit](../misc/jaekwon/twitter_censorship) with the
-   aforementioned censorship in subtle ways that are not detectable by existing
-   shadow-ban detection tools.
 
  * At least some of the Rothschilds are litereally satanic; and in some parts
    of Germany there has taken root satanism that includes elements of ritual
@@ -2700,6 +2695,10 @@ its parent company, Apmex.
 
 Even until 1935: XXX
 
+XXX See present day censorship such as by "oldcurrencyvalues.com" which 
+appears to intentionally show the wrong bill for 1878 (when it is in fact
+a 1917(?) bill), in order to XXX github.com/jaekwon/ephesus/ dollar_censorship
+
 <img src="./images/manifesto/dollar-1935.jpeg" />
 
 XXX_
@@ -2923,16 +2922,10 @@ From a conversation with Twitter's @supergrok:
  - https://kslegislature.gov/li_2024/b2023_24/committees/ctte_spc_2023_adversary_purchases_1/documents/testimony/20230926_04.pdf
 
 Of course Twitter/X/Supergrok does not make it easy to copy-paste its answer to
-other platforms; when I tried initially the result was misordered (who is to
-blame I do not know); when I tried a second time the result was properly
-ordered but still the links were not whole. This was an attempt to force me to
-share the content within the walled garden of Twitter/X. See more
-[here](../misc/jaekwon/twitter_censorship/1_Grok_X_2025-12-26T13-04-06.png) and
-[here](../misc/jaekwon/twitter_censorship/second_paste_attempt.txt).
-
-Note above that when I asked @supergrok to comment on the fact that I had
-personally experienced my Twitter posts not preserving integrity, it denied any
-response.
+other platforms. You can find information through Twitter/Grok, but you will be
+tracked. When I asked @supergrok to comment on the fact that I
+had personally experienced my Twitter posts not preserving integrity, it denied
+any response ([view](./images/manifesto/twitter_grok_knows.png); [more on Twitter censorship](#twitter-censorship)).
 
 ### Manufactured Discontent
 
@@ -2963,3 +2956,90 @@ Trump should have focused on dismantling the Somali-welfare-fraud -\>
 Somaliland -\> GreaterIsrael and CommunistNYCMayor -\>
 CommunistNYCTenantDirector -\> CommunistUSA -\> GreaterIsrael connection but of
 course he won't; he's too busy running away from the Epstein files.
+
+### Twitter Censorship
+
+Much can be said about all platforms such as Google, Reddit, Meta/Instagram,
+Wikipedia and so on but I will only comment here about Twitter, also known as
+"X". _Interesting note: the actual name change happened on Tisha B'av, as I was
+there when it happened and I remember thinking it was an ominous date for Elon
+with the "beast armor" profile to rename Twitter to the letter of a "mark"
+(since Tisha B'av is a commemoration of a number of disasters in Jewish
+history, primarily the destruction of both Solomon's Temple by the
+Neo-Babylonian Empire and the Second Temple by the Roman Empire in Jerusalem);
+but furthermore news reports retroactively have tried to change history by
+claiming that it happened on another date._
+
+By some reason I got to participate in Twitter's Community Notes program so I
+tried it. The first note I was obligated to rate was of a community note that
+claimed Elon Musk's wealth did not come from tax payers. Fair enough, but a
+little suspicious that this is the first one shown.
+
+A few weeks later after I got used to the mechanics of the system I noticed a
+community note by the alias of "Hilarious Wind Sandgrouse" (everyone is given a
+pen name to preserve privacy--mine is "Charitable Star Piculet") that seemed
+interesting by DerrickEvans4WV about [Senator Machaela Cavanaugh who the
+original poster said "vandalized" a Declaration of Independence exhibit at the
+state capital building](https://x.com/i/communitynotes/t/2009097879106015609).
+The community note by "Hillarious Wind Sandgrouse" only expressed her point of 
+view and that she said the object was prohibited; but when I read the [article
+referenced by Sandgrouse himself](https://nebraskaexaminer.com/2026/01/07/nebraska-state-lawmaker-removes-part-of-conservative-pragerus-founders-museum/) it was made clear that the objects were never 
+prohibited, so therefore she was "vandalizing". So I looked further into his
+account and discovered that (a) Sandgrouse is a prolific note contributor, and
+(b) Sandgrouse had been [spamming biased community notes](./images/manifesto/twitter_hws_example.png) with absurd notes
+regarding a recent anti-ICE incident where he claimed that there is no evidence
+of race motive or anti-immigration sentiment even though he also wrote that a
+bullet round had "Anti-ICE" written on it! So did what any responsible person
+would do--I went over to each of those tweets to comment (only for community
+note contributors to see) [that Sandgrouse is wildly biased with citations](./images/manifesto/twitter_hws_callout.png)
+and while I wasn't sure what would happen, I didn't expect Twitter to [suspend
+by community note writing privileges](./images/manifesto/twitter_cm1.png) claiming that my recent
+notes have been rated "unhelpful" even though [it isn't the case](./images/manifesto/twitter_cm2.png).
+
+So there you have it, Twitter/X censors, and the "Community Notes" won't save
+us either. For one, it doesn't make it easy to point out obvious bias from
+people as I did because instead of displaying a discussion tree as in Reddit
+you are limited to writing more community notes (that won't get shown) just to
+express a concern to the other community notes contributors (who not only write
+but also must rank notes); and besides, Twitter controls when community note
+contributors get to vote on notes and by the time a correction is displayed the
+tweet may have already peaked in virality. At this point one can almost assume
+that Twitter does exactly that.
+
+Besides the above, there's a lot more to be said about Twitter but I'll leave a
+few highlights.
+
+ * I have experienced URL links posted on Twitter (which become shortened and
+   compressed with "..." so that you cannot even copy the original URL) magically
+   get replaced with another URL in the future; and when I asked Grok about it
+   [it refused to comment](./images/manifesto/twitter_grok_knows.png).
+
+ * I have experienced seeing my tweet go viral, with 13 retweets within a few
+   minutes, only to see the retweet count drop down to 2 within seconds.
+
+ * My account used to show time and time again "shadowban" status as detected
+   by shadowban detection services; but it is clear that my account is now
+   suppressed via means that are not so easily detectable.
+
+ * This is why I created a new account in the first place, and my [old account](https://x.com/jaesustein)
+   I can no longer access, and my email address is no longer associated with it.
+
+ * My followers count has been stuck at around ~26.5K users for years, whereas
+   it used to grow exponentially. This occurred around the time that I started
+   getting vocal about Covid19 vaccines and mandates (and it was revealed that
+   miliary agencies like DARPA was involved in suppressing accounts), or that
+   time when I was suddenly canceled and labeled an "anti-semite" by Jacob
+   Gadikian even though I am not (and provided proof in the very repo he was
+   sharing to defame me which he ignored willfully), which occurred precisely
+   at the same time that Elon Musk completed the acquisition of Twitter and
+   fired the censorship team to invoke "#TheNoticing"; and then Ethan Buchman
+   followed through with a tweet about anti-semitism. How did Jacob Gadikian
+   know to sit on some conspiracy memes I shared with him over 2 years ago,
+   that that was the right moment to start defaming me, even before Elon Musk
+   had completed his acquisition of Twitter? Jacob Gadikian claims that it was
+   just a coincidence but I do not believe him. At least he seems sorry for
+   what he did. I forgive him.
+
+
+
+Twitter's [Grok probably knows](./images/manifesto/twitter_grok_knows.png) but cannot comment on its censorship system.
