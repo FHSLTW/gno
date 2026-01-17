@@ -1,5 +1,9 @@
 # Gno.land Constitution
 
+XXX builds upon MANIFESTO.md at date of launch.
+XXX the constitution will be updated solely by NewTendermint,LLC until $GNOT is
+tranferrable; thereafter it will be governed by the rest of this document.
+
 ## User Rights
 
 XXX freedoms, privacy, limitations
@@ -72,7 +76,7 @@ of funds, control, or value by users of the code whether calling functions in a
 realm or importing a package library; and furthermore no known exploits have
 been reported in the standard _VulnerabilityReportRealm_ decided by GovDAO.
 
-## Realm Upgrading
+G## Realm Upgrading
 
 ## Tokenomics
 
@@ -83,9 +87,27 @@ TODO See https://github.com/handshake-org/hsd/issues/649
 
 ## Atom.One ICS Migration
 
+Gno.land is initially separate from the pre-existing Atom.One. Gno.land
+initialy has its own transaction fee token ($GNOT instead of $PHOTON).
+Gno.land is obligated to migrate to be hosted/secured by Atom.One VaaS
+("Validator-as-a-Service") when it is deemed ready by the Atom.One chain as
+determined by on-chain goverance in accordance with the Atom.One and Gno.land
+constitutions _(from [MANIFESTO.md](./MANIFESTO.md))_.
+
 ## Peer-to-peer Network
 
+## Amendments to the Constitution 
+
+XXX limitations and precedure and thresholds.
+
+No constitutional amendment that limits the authority or rights of
+NewTendermint,LLC may be proposed or passed without the express prior approval
+of NewTendermint,LLC.
+
 ## Role of GovDAO and NewTendermint,LLC
+
+Amending this Gno.land Constitution requries a 90% vote of GovDAO unless
+otherwise stated in this Gno.land Constitution.
 
 ### Role: GovDAO
 
@@ -94,7 +116,18 @@ XXX When to enable GNOT token transfers
  * New members of GovDAO T1 and T2 must be a US citizen or former
    U.S. citizen who was born in the US
 
+XXX Spending of funds may be performed by a delegated DAO but GovDAO must have
+oversight control as per the current Atom.One "CommonDAO Spec" implemented in
+Gno, and follow the relevant portions of the Atom.One constitution regarding
+the application of this constitution, and laws for Gno.land passed by GovDAO,
+and must define the mandate and any bylaws for the subdao prior to funding.
+GovDAO is ultimately responsible for the activity of any descendant subdaos.
+
 ### Role: NewTendermint,LLC
+
+XXX NewTendermint,LLC functions as the sole Oversight DAO as defined in the
+current Atom.One Constitution unless more Oversight DAOs are agreed upon by
+both GovDAO and NewTendermint,LLC by mutual agreement--where GovDAO 
 
 TODO Rights to word mark "Gno", "Gno.land", and "Gno\*".
 TODO Limitations of aforementioned rights.
@@ -121,8 +154,17 @@ TODO Limitations of aforementioned rights.
 
 
 
-### Role: Conflict of Interest Disclosure
+### GovDAO Conflict of Interest Disclosure
 
  * required to declare membership “past or present” of any organisation that is
-   “hierarchical, has confidential membership and requires members to support
-   and protect each other”.
+   hierarchical, or requires members to support and protect each other; and
+   must disclose within a week of acquiring such membership.
+
+ XXX
+
+### GovDAO Membership Requirements
+
+ * cannot join if member "past or present" of any organization that has
+   confidential membership and requires members to support and protect each
+   other; and MUST declare a "general spiritual conflict of interest" and
+   resign within three days of acquiring such membership.

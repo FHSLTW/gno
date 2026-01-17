@@ -485,9 +485,9 @@ trees.
      * The Pergamom Altar is the "Seat of Satan" mentioned by John the Apostle in
        the Book of Revelation.
 
- * The dynastic European banking elites wish for global depopulation.
-   * Prince Phillip,  Duke of Edinburgh, husband of Queen Elizabeth II said:
-     "If I were reincarnated, I would wish to be returned to Earth as a killer
+ * The elites wish for global depopulation.
+   * Prince Phillip, Duke of Edinburgh, husband of Queen Elizabeth II said: "If
+     I were reincarnated, I would wish to be returned to Earth as a killer
      virus to lower human population levels." in 1988.
      * Prince Phillip passed away on April 9, 2021, at the age of 99.
 
@@ -641,11 +641,10 @@ as such could be called _fulcrums_.
 
 A selection of _95 fulcrums_ can then even be printed in poster form linking
 back to the associations in the greater graph by QR-codes; and they could be
-customized for every region where the posters are put up (or they can be
+customized for every region where the [posters are put up](https://t.me/youwillatone). (or they can be
 printed as a pamphlet and dropped from the air). The Beast AI Prison Matrix
 system may have a tight grip on our devices and the internet, but it does not
-yet control all of the physical world. _To contribute, join the [Atom.One
-Telegram channel](https://t.me/youwillatone)_.
+yet control all of the physical world.
 
 ## Gno Language
 
@@ -1551,24 +1550,92 @@ Here are some benefits of GnoVM home computing:
 
 ## Gno.land Blockchain
 
-Tendermint changed the way blockchain developers think about blockchain
-consensus algorithms. Gno.land will change the way developers think about
-programming.
+Tendermint solved proof-of-stake by innovating upon classical Byzantine
+fault-tolerant consensus algorithms originally funded by Darpa for missile
+defense systems in the context of transaction ordering by blocks. It opened the
+way for the first proof-of-stake IBC hub and Cosmos the internet of
+blockchains=
 
-Gno.land represents a paradigm shift in multi-user programming that no other
-solution offers. It is not just a smart contract platform and blockchain; it is
-the world's first viable language-based multi-user operating system. Its
-ultimate goal is to host the world's knowledge base for the next thousand
-years.
+for a new the way blockchain developers think about blockchain
+consensus algorithms. Gno.land represents a paradigm shift in multi-user
+programming that no other solution offers. It is not just a smart contract
+platform and blockchain; it is the world's first viable language-based
+multi-user operating system. Its ultimate goal is to host the world's knowledge
+base for the next thousand years.
 
-### Governance
+### Gno.land Tokenomics
 
-TODO: GovDAO T1, T2, and T3.
-TODO: GovDAO scope and limitations.
-TODO: Role of NewTendermint,LLC; temporary for Gno.land and permanent for Gno.
+> $ATONE  : like a Bitcoin miner
+> $PHOTON : like a BTC token
+> $GNOT   : storage deposit token
 
-### Tokenomics
+First a primer on Atom.One tokenomics. $ATONE and $PHOTON are tightly coupled:
 
+ * $ATONE is an inflationary staking token capped at 20% inflation.
+ * $PHOTON is a deflationary transaction gas-fee (spam-prevention) token.
+ * If all $ATONE burned there would be one billion $PHOTON.
+ * Burning is one way; $PHOTON cannot be burned back to $ATONE.
+ * $ATONE targets 2/3 to be staked, thus inflationary staking "rewards" are not
+   income.
+   * Any tax authority that says otherwise is robbing you.
+
+While $PHOTON has no voting rights and cannot be used for staking on Atom.One,
+it nevertheless has unique advantages enforced by the Atom.One constitution:
+
+ * All transaction fee payments on Atom.One must be paid with $PHOTON.
+ * Atom.One VaaS chains (aka ICS shards) including Gno.land after migration
+   must accept $PHOTON as the gas-fee token.
+   * Each may also accept other gas-fee tokens but ultimately the chain must
+     pay $PHOTON to Atom.One for security.
+ * Atom.One VaaS sovereign (consumer) chains may exit (change validator-sets)
+   Atom.One and become self-validating or become hosted by another VaaS hub.
+
+Gno.land is launch independently of Atom.One so Gno.land
+will initialy require $GNOT for transaction fee payment.
+Before and after Gno.land migrates to be hosted by Atom.One VaaS
+$GNOT will function as a byte storage deposit token.
+
+ * Every transaction that ends up increasing the amount of persistent state
+   will require a bond deposit of $GNOT.
+ * Every transaction that ends up freeing up persistent state space
+   will receive a refund of $GNOT.
+ * One billion $GNOT corresponds to 10TB of persistent state space.
+
+The following portions are immutable and may never be changed even with any
+constitutional amendments:
+
+ * The $GNOT inflation schedule will never change.
+   * Thus the total created $GNOT will never exceed 1.333~ billion $GNOT.
+ * The $GNOT storage deposit rate (per byte) will never increase.
+ * The $GNOT storage deposit rate will be such that the total unburned $GNOT
+   and all future inflationary $GNOT never exceeds 20TB of state (double the
+   original 10TB). This is to keep the blockchain state at an accessible level
+   especailly accounting for any future potential economic collapses.
+ * $GNOT is only considered "burned" according to approved burn transactions;
+   such as the automatic burning of $GNOT in Storage Deposit Discount Accounts,
+   but the Gno.land Constitution may also approve of other official burn
+   mechanisms=
+
+
+Gno.land is obligated to migrate to be hosted/secured by Atom.One VaaS
+("Validator-as-a-Service") when it is deemed ready by the Atom.One chain as
+determined by on-chain goverance in accordance with the Atom.One and Gno.land
+constitutions.
+
+After migratiion to Atom.One VaaS hosting Gno.land should pay the Atom.One
+chain in $PHOTONs underneath the hood as the Atom.One constitution requires; an
+automated-market-maker exchange module should exist on the Gno.land
+shard/instance to facilitate the internal exchange of collected $GNOT to
+$PHOTON needed to pay Atom.One for its VaaS services.
+
+$GNOT will become a key VaaS hosted application on Atom.One, but other VaaS
+chains hosted by Atom.One may not offer the Gno VM or Gno programmability; and
+even if they were a simple fork of Gno.land they may operate independently of
+the $GNOT token. The $GNOT token should not be used as a storage deposit token
+or for any other chain except the original Gno.land chain, or even be used as a
+staking token, as this limits the utility of Gno.land itself.
+
+XXX
 Gno.land after launch will merge with Atom.One and be hosted as an Atom.One ICS
 chain that is secured by the same validator-set as Atom.One.
 
@@ -1594,6 +1661,448 @@ Atom.One will support quasi-permissionless hosting of many blockchain
 application platforms; but the scope of possible multi-user general-purpose
 languages is restricted by the laws of logic; and Gno and GnoVM will serve as
 the foundation for future multi-user general-purpose language innovation.
+
+#### Genesis Allocation
+
+At Gno.land Genesis there will be one billion $GNOT tokens.
+
+ * Airdrop1:    35.0% - from partial Cosmos governance snapshot 3 years ago
+ * Airdrop2:    23.1% - from recent AtomOne snapshot prior to launch
+ * GovDAO:      11.9% - for prior and future Gno.land ecosystem contributors
+ * Investors:    7.0% - reserved for current and future investments
+ * NT,LLC:      23.0% - of which ~40% allocated for prior loans
+
+$GNOT will not be transferrable initially except for whitelisted addresses.
+Whitelisted addresses include "GovDAO" and "Investors" funds and any additional
+addresses dedicated for faucets.
+
+The 7% (qualfied, private) investors allocation will be held by NT,LLC in a
+segregated account. Proceeds of sales of these tokens will go to NT,LLC the
+majarity for ongoing and future operations for Gno.land and Gno software and
+ecosystem development.
+
+GovDAO is responsible for distributing $GNOT to prior and future Gno.land
+ecosystem contributors (as well as those contributing to the blockchain stack,
+including Tendermint2, GnoVM, Gno.land server and tooling, GnoWeb). No more
+than one-third of the 11.9% genesis allocation wil be distributed to prior
+contributors. Prior and current NT,LLC and AIB,Inc employees may be rewarded
+with the approval of NT,LLC, but the significant owners of NT,LLC (namely Jae
+Kwon and AIB,Inc itself) will not receive any, and the amount assigned to such
+prior and existing employees of AIB,Inc and NT,LLC will not exceed 50% of the
+top tier of external ecosystem contributors.
+
+NT,LLC owes around $20M worth of $GNOT to All in Bits,Inc at the "fair market
+value" of $GNOT at a 25% discount for a "fair market value" which is yet to be
+determined as of the date of this writing.
+
+#### $GNOT (Deflationary) Inflation
+
+From the date of launch every year 33.33*(0.9^Y) million $GNOT 3.333% of the
+Gno.land Genesis $GNOT supply will be inflated continuously as follows (where Y
+is the year from launch starting from 0). Any inflationary $GNOT not
+transferred will accrue until the Gno.land software is updated to transfer such
+funds.
+
+ * After   3 years this represents  90.32 million $GNOT.
+ * After  10 years this represents 217.09 million $GNOT.
+ * After 100 years this represents 333.29 million $GNOT.
+
+At most there will be 1.333... billion $GNOT, representing a total inflation of
+one third of the genesis $GNOT distribution. This amount cannot change even
+with amendments to the Gno.land Constitution. This makes $GNOT a deflationary
+token similar to Bitcoin.
+
+The inflated tokens will be distributed as follows:
+
+ * One third will go to NewTendermint,LLC -- the majority must go toward
+   Gno.land or Gno software and ecosystem development.
+ * One third will go to GovDAO -- all of which must go toward external
+   ecosystem contributors according the Gno.land Constitution, its Laws, and
+   any applicable Mandates and Bylaws (altogether Governing Documents).
+ * One third will go to PayTreasury, ValTreasury, ServicesTreasury, and
+   RecompenseTreasury as determined by GovDAO and NewTendermint,LLC. In the
+   absence of any existing agreement they will be split equally among these
+   treasuries.
+
+The Gno.land treasuries are as follows:
+
+ * GovDAOTreasury is the treasury for GovDAO.
+ * PayTreasury can only be used to pay GovDAO members.
+ * ValTreasury can only be used to pay validators or Atom.One VaaS hosting fees
+   after conversion to $PHOTON.
+ * ServicesTreasury can only be used to pay for the creation and
+   maintenance of services for Gno.land such as blockchain explorers, indexers,
+   wallets, relayers, full nodes, and file hosting servers.
+ * RecompenseTreasury can only be used to recompense victims.
+
+Each of the above treasuries are dictated by the Gno.land Governing Documents.
+GovDAOTreasury must be managed algorithmically by code that adheres to the
+aforementioned documents and be approved by both GovDAO and NewTendermint,LLC.
+The other treasuries are not intiially managed by any DAO or committee unless
+specified in the Governing Documents.
+
+Each of the above treasuries may accrue unspent inflated $GNOT. Each of these
+treasuries may adopt a diversification strategy as approved by the Governing
+Documents (some of which is described later).
+
+Funds that are assigned to any of these treasuries may not be clawed back or
+transferred to any other DAO or treasury without a constitutional amendment.
+
+#### Gno.land Revenue
+
+Transaction fees collected in $GNOT or $PHOTON on Gno.land are called Revenue.
+The Revenue is distributed according to the following rules in order:
+
+ 1. ValTreasury is funded with 75% of Revenue if ValTreasury has less than 1 year of runway, or
+ 2. ValTreasury is funded with 50% of Revenue if ValTreasury has less than 4 years of runway, or
+ 3. ValTreasury is funded with 25% of Revenue if ValTreasury has less than 7 years of runway, or
+ 4. ValTreasury is funded with 10% of Revenue if ValTreasury has more than 7 years of runway.
+
+The portion of Revenue that is not allocated to ValTreasury is called Remaining Revenue 1.
+
+ 5. PayTreasury is funded with 75% of Remaining Revenue 1 if PayTreasury has less than 1 year of runway, or
+ 6. PayTreasury is funded with 50% of Remaining Revenue 1 if PayTreasury has less than 4 years of runway, or
+ 7. PayTreasury is funded with 25% of Remaining Revenue 1 if PayTreasury has less than 7 years of runway, or
+ 8. PayTreasury is funded with 10% of Remaining Revenue 1 if PayTreasury has more than 7 years of runway.
+
+PayTreasury has strictly lower priority than ValTreasury because GovDAO
+members can theoretically still function without pay, whereas the blockchain
+cannot function securely without validators. The PayTreasury runway must take
+into account future projected growth of the paid T1 and T2 members.
+
+The portion of Remaining Revenue 1 that is not allocated to PayTreasury is
+called Remaining Revenue 2.
+
+ 9. ServicesTreasury is funded with min(Remaining Revenue 2, 25% of Revenue).
+ 10. ReserveTreasury is funded with the remainder from above.
+
+ServicesTreasury has strictly lower priority than ValTreasury or PayTreasury
+because there is some elasticity to the variety of services that can be
+offered, much of which should become mature and finalized; and some of the
+essential services could be migrated to be offered by all of the validators
+instead (especially with the help of GovDAO members); and services should
+generally pay for themselves with micropayments or subscriptions or by other
+means.
+
+The ReserveTreasury has no governing body of its own, and any transfer of funds
+from the ReserveTreasury requires a new constitutional amendment and must go
+toward a specialized DAO with its own mandate and bylaws, and may or may not be
+controlled by GovDAO.
+
+#### Excess $GNOT Deposits
+
+When the $GNOT storage deposit rate per byte is decreased this results in
+excess $GNOT deposits per realm. This is not considered part of Revenue.
+
+When the $GNOT storage deposit rate decreases (not automatically by the $GNOT
+burn mechanism described below, but by the decision of GovDAO to lower the
+rate) 50% of the excess $GNOT goes into the RecompenseTreasury (unless it
+already has 20% of total outstanding $GNOT), and the remainer goes to a
+segregated virtual account per realm ($GNOT Storage Deposit Discount Account)
+to be used only for future discounts on transactions for that specific realm.
+These $GNOT Storage Deposit Discount Account tokens may be transferred to other
+$GNOT Storage Deposit Discount Accounts by rules defined by the Governing
+Documents but their $GNOT may never be withdrawn even upon freeing storage, and
+transfers must be initiated by the present authority of the realm or containing
+organization. $GNOT Storage Deposit Discount Account tokens may be burned
+automatically by a rate set by an amendment to the Gno.land Constitution not to
+exceed 10% a year. This is to prevent stagnant $GNOT from limiting the
+allocated storage capacity of Gno.land and thereby reducing its utility. $GNOT
+burned in this way will also reduce the $GNOT storage deposit rate
+automatically but not trigger any of the the mechanisms described here.
+
+The RecompenseTreasury may only be used to recompense victims of exploits and
+fraud. They may be disbursed only if approved by GovDAO with a proposal by
+members without a conflict of interest in accordance to the Governing Documents
+AND either one of Atom.One governance by supermajority or an official court of
+one of 50 states of the US as of 2025 except California, New York, Texas, and
+Minessota; however this does not constitute an obligation to do so. Recompense
+transfer decisions must be preceded by a thorough analysis of the problem and
+tasking of a task-force to recover any ill-gotten gains and at least two weeks
+for all relevant parties to review the analysis and task-force for approval. To
+prevent abuse of these funds no Constitutional amendment or Laws may make any
+changes to this clause except to remove the condition for a US state but only
+after there is a change to the US member states; or to replace Atom.One with a
+fork thereof in the spirit of the genesis of Atom.One approved by
+NewTendermint,LLC.
+
+#### Treasury diversification
+
+Each of the above mentioned treasuries may be separately diversified by
+supermajority vote of one proposal per treasury by GovDAO in accordance with
+any relevant Governing Documents--but all GovDAO members with ANY conflicts of
+tokens (except $GNOT) above the value of 30 troy ounces of silver MUST abstain
+from voting. If a quorum cannot be reached due to conflicts and GovDAO approves
+by a supermajority vote, NewTendermint,LLC may waive the quorum requirement
+given that specific proposal already voted on.
+
+Diversification for each treasury must adhere to an Treasury Diversification
+Template listed explicitly in the Gno.land Constitution that is defined by the
+desired target ratio of Approved Treasury Diversification Tokens, and the
+following:
+
+ * Besides $GNOT or the top two dominant Bitcoin fork tokens (presently $BTC
+   and $BCH but may change in the future) which shall always be approved, all
+   other tokens of the Approved Treasury Diversifiction Tokens must be
+   stablecoins FULLY backed by collateral.
+   * Coins that are FULLY backed by silver via decentralized and publicly
+     auditable depositories approved by GovDAO AND NewTendermint,LLC are also
+     considered stablecoins.
+   * Tether and all stablecoins backed by any amount of Tether are never
+     permitted.
+   * Tokens that lose their approved status must be replaced (sold) for
+     approved tokens as soon as reasonable.
+   * These subclauses and the parent clause cannot be removed by any
+     constitutional amendment.
+
+ * In no case shall the amount of $GNOT sold per treasury per month for
+   diversification purposes exceed 1% of $GNOT of that treasury as measured at
+   the beginning of each month.
+
+ * In no case shall the total amount of $GNOT sold for all treasuries per month
+   for diversification purposes exceed 50% of the average of ($GNOT inflation
+   rate, and the past month's transaction fee revenue), with priority given to
+   ValTreasury, then to PayTreasury, then to ServicesTreasury.
+
+ * All trades for diversification purposes must be performed by audited and
+   approved Gno logic for smart AMM contracts running on Gno.land. No person or
+   council may directly manage the diversification of treasury tokens except
+   that GovDAO may delegate an oversight DAO to halt any diversification
+   exchange transactions.
+
+### Gno.land Governance
+
+There are two entities that together steward Gno.land.
+
+ 1. GovDAO - decentralized (mostly) self-governing body for Gno.land.
+ 2. NewTendermint,LLC - limited oversight for Gno.land, and forever guardian of
+    the _Tendermint_ and _Gno_ wordmarks.
+
+NewTendermint,LLC grants Gno.land the right to use "Gno.land" for as long as it
+exclusively runs Gno smart contracts as determined by NewTendermint,LLC. This
+is to separate the concerns of the langauge from the blockchain.
+
+#### Forking Gno.land
+
+These are the procedures to create a Qualified Fork of Gno.land.
+
+First, a fork proposal is voted on by all GovDAO members. The fork proposal
+must be voted YES by more than 1/3 of the total voting power of GovDAO
+(abstains do not count) by the end of the voting period of three weeks. There
+is no commitment yet for voting YES on this initial fork proposal.
+
+If such a fork proposal reaches 1/3 of voting power, a second fork commitment
+proposal must be initiated with the same terms as the original within a week
+after the first fork proposal's voting period has ended. Again all GovDAO
+members vote on this second proposal. The second fork proposal must also be
+voted YES by more than 1/3 of all the total voting power of GovDAO by the end
+of the voting period of three weeks. Abstaining is equivalent to voting NO.
+Those who vote YES here are committing to join the others who voted YES and
+split from those who voted NO or abstained if it also reaches 1/3 of voting
+power--members may only serve on one chain.
+
+If the second fork commitment proposal also reaches 1/3 of voting power, two
+concurrent proposals must be proposed to determine which fork retains the
+original Gno.land identity: one for the current chain, and another for the
+proposed fork. Only T1 members may vote on these proposals; and they may vote
+YES or NO on one or both proposals.
+
+ * If the current chain wins a 2/3 supermajority of votes of the original T1
+   members (but not the proposed fork), everyone who voted YES on the fork
+   commitment proposal are ejected from the GovDAO membership set, and the
+   proposed fork is called a Qualified Fork.
+
+ * If the proposed fork wins a 2/3 supermajority of votes of the original T1
+   members but not the current chain, everyone who did not vote YES on the fork
+   commitment proposal are ejected from the GovDAO membership set to join
+   their Qualified Fork, and the proposed fork retains the identity of the
+   Gno.land chain.
+
+ * If both proposals win a 2/3 supermajority, NewTendermint,LLC decides which
+   gets to retain the identity of the chain (and the other is ejected from the
+   GovDAO membership set to join their Qualified Fork).
+
+ * If neither fork wins a 2/3 supermajority of votes, NewTendermint,LLC decides
+   which fork gets to keep the identity of the chain, and whether the existing
+   chain can retain the "Gno.land" name.
+   * If neither can keep the "Gno.land" name, the "Gno.land" name is deprecated
+     and cannot be used by any chain ever again; and the exiting chain may be
+     required to change its chain ID; and the Gno.land domain will be managed
+     by NewTendermint,LLC to point to both chains; and both chains shall be
+     deemed to be Qualified Forks. Any royalty payments due to the original
+     chain may be directed to either fork or split between the two forks as
+     determined by NewTendermint,LLC; or even nullified but only if
+     NewTendermint,LLC does not have any conflict of interest.
+
+In all cases any new forks that include "Gno" in the name or chain ID must get
+approved by NewTendermint,LLC.
+
+All Qualified Forks may copy and use all of the state (including transaction
+data) and code as from before the fork.
+
+Non-qualified forks are not hereby probited from copying the state or code of
+realms and packages of all forks of Gno.land. That is, everyone who submits
+code or transactions to Gno.land or any of its forks are agreeing to allow (and
+attesting to having the unencumbered rightsto allow) the code and resulting
+blockchain state to be used freely as per the Gno Network GPL license (a
+copyleft license fork of the AGPL3.0 but with modifications to allow for
+"strong attribution"). However this is necessarily complicated when users
+submit Gno code that is not owned by them, so no rights are explicitly granted
+here by Gno.land or NewTendermint,LLC.
+
+As with most of the software for the Gno.land stack including the GnoVM (except
+for Tendermint2 which is Apache2.0) and derived works, all users of the Gno
+code and blockchain state derived from Gno.land must abide by the same strong
+attribution terms as for the Gno.land and GnoVM software at the time the code
+is submitted--for example a non-qualified fork of Gno.land must give strong
+attribution to all of its users to Gno.land or another Qualified Fork as
+determined by the policy set forth by NewTendermint,LLC. NewTendermint,LLC may
+determine that giving attribution to a Qualified Fork is sufficient (as opposed
+to giving attribution to Gno.land), but a non-qualified fork will never benefit
+from strong attribution in this way. The policies may be updated by
+NewTendermint,LLC from time to time; and the goal is to finalize portions of
+the policy such that they may be embedded into the Gno.land Constitution.
+
+XXX Make the above clear in gnoweb and gnocli for anyone submitting code
+or any transaction.
+
+#### GovDAO Structure
+
+// Tiers T1, T2, and T3.
+
+T1 is the highest tier, T3 the lowest.
+
+T1: self-selecting "core" with supermajority vote from T1.
+T2: selected by GovDAO w/ T3 abstaining, with simple majority vote.
+T3: permissionless invitation from T1 and T2.
+
+The maximum age for any member is 70; after is automatically withdrawn.
+
+T1 membership can only be withdrawn by supermajority vote WITH CAUSE.
+T2, T3 membership can be withdrawn for any reason.
+
+#### Voting Power.
+
+In general,
+ * a T1 member gets 3 votes.
+ * a T2 member gets 2 votes.
+ * a T3 member gets 1 vote.
+
+However,
+ * T2 class is capped at 2/3 the voting power of T1 class.
+ * T3 class is capped at 1/3 the voting power of T1 class.
+ * --> T1 1/2, T2 1/3, T3 1/6 (unless...)
+
+Example 1:
+ * T1 100 members --> 300 VP, 3 votes per member
+ * T2 100 members --> 200 VP, 2 votes per member
+ * T3 100 members --> 100 VP, 1 votes per member
+
+Example 2:
+ * T1 100 members --> 300 VP, 3 votes per member
+ * T2  50 members --> 100 VP, 2 votes per member *
+ * T3  10 members -->  10 VP, 1 votes per member *
+
+Example 3:
+ * T1 100 members --> 300 VP, 3 votes per member
+ * T2 200 members --> 200 VP, 1 votes per member *
+ * T3 100 members --> 100 VP, 1 votes per member
+
+Example 4:
+ * T1 100 members  --> 300 VP,   3 votes per member
+ * T2 200 members  --> 200 VP,   1 votes per member *
+ * T3 1000 members --> 100 VP, 0.1 votes per member *
+
+#### Basic Membership Requirements
+
+ * All members must be publicly identifiable identities.
+ * T1 members must meet T1,T2,T3 criteria.
+ * T2 members must meet T2,T3 criteria.
+ * T3 members must meet T3 criteria.
+
+ * T1 criteria includes expertise in categories, significant contributions,
+   and demonstration of value alignment.
+ * T2 criteria includes expertise in categories,  continuing contributions.
+ * T3 criteria includes expertise in categories,  continuing contributions.
+
+ * T1 and T2 members are added via individual proposals,
+   each with a markdown resume/portfolio application document.
+
+See [CONSTITUTION.md](./CONSTITUTION.md) for rules regarding conflict of
+interest disclosure and membership requirements.
+
+#### T1 Membership Size
+
+Target is minimum 70 members after 7 years.
+
+If the minimum is not reached,
+  2 members SHOULD be added every quarter,
+  but 1 new member is tolerated.
+
+If the minimum is not reached,
+  AND 2 years has passed,
+  AND no members are added for the quarter,
+  AND there are Qualified Candidates,
+  1 Qualified Candidate may be elected by GovDAO, but with T1 abstaining.
+
+If the minimum is not reached,
+  AND 2 years has passed,
+  AND no members are added for the quarter STILL,
+  AND there are Qualified Candidates,
+  AND GNOT-DAO exists and is approved by GovDAO,
+  1 Qualified Candidate may be elected from GNOTDao.
+
+#### T2 Membership Size
+
+The T2 membership maximum target is 2 x size(T1).
+
+While size(T2) can be greater than 2 x size(T1),
+  no more members can be added to T2.
+
+There is no minimum size of T2,
+  but the desired minimum size is at least floor(size(T1)/4).
+
+#### T3 Membership Size
+
+T1 members get 3 invitation points.
+T2 members get 2 invitation points.
+T3 members get 1 invitation points.
+
+2 invitation points from 2 members must be delegated for T3 membership.
+Delegation/invitation can be withdrawn at any time.
+
+#### Payment
+
+T1 and T2 members may get paid equally, if they are actively working, unless
+they are already employed by another company.
+
+Payment not exceed 90th percentile of senior software architect roles in the
+highest paid city globally. Members already employed by another company will
+not receive any compensation unless they disclose their compensation; then they
+may be compensated up to 50% of the usual amount to top up their net payment to
+the usual limit.
+
+The number of members who get paid T1T2PaySize is min(70, T1T2PayCapacity).
+
+T1T2PayCapacity is determined by the size of the PayTreasury.
+
+T1T2PayCapacity is the number of members who can be paid for 7 years.
+
+If PayTreasury shrinks, T1T2PaySize may also shrink. Seniority is used to
+determine pay priority regardless of T1 or T2 membership.
+
+All T1 and T2 members must quarterly sign and circulate among each other a
+conflict of interest disclosure document with NewTendermint,LLC on behalf of
+Gno.land.
+
+#### Validators
+
+The GovDAO effective voting power (e.g. 3 points, 2- points, and 1- points)
+is also used for delegating to at least 70 validators.
+
+The number of validators is determined by GovDAO until Atom.One VaaS/ICS is
+deemed to be ready; after which Gno.land must migrate to Atom.One after
+determination by either GovDAO majority vote or NewTendermint,LLC.
 
 ### Gnoweb Browser
 
