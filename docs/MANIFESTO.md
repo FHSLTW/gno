@@ -3,8 +3,6 @@ for the latest revision of this whitepaper.
 
 To see the latest testnet in action, visit https://gno.land.
 
-XXX https://x.com/eevblog/status/1991293066175492297?s=20
-
 # Gno.land Manifesto (and Whitepaper)
 
 _@author: Gnobody Smartsilver - chief architect of Gno.land and the GnoVM;
@@ -74,7 +72,6 @@ storming out in frustration.
 What we need is a censorship resistant alternative platform that can make the
 merit of key ideas be apparent to the observer who has limited time and focus
 to distil truth from fiction in a sea of fabricated information webs--for the
-more dangerous falsehoods are those that are built upon layers of reason yet
 are fundamentally based on one or more false primitives; and even those ideas
 that are true (or worse, unprovable) can be spread to occlude the truths that
 actually matter most.
