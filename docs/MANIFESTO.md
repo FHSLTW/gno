@@ -38,47 +38,84 @@ means "to know" or "to recognize." It is often associated with terms related to
 knowledge, such as "gnosis", which signifies knowledge or insight, particularly
 in a spiritual context._
 
-The world faces a serious problem of misinformation and too much information
-without distillation. Traditional web2.0 platforms actively suppress
-inconvenient information at the expense of true progress; for we need first to
-know the truth of things before we can solve the problem for good.
+The world faces a serious problem of misinformation and information overload.
+The problem has always existed, but it has become worse than ever before in the
+history of mankind.
 
-The advent of superintelligent AI and AGI has partially solved this problem but
-the AI providers are also guilty of censoring the truth that the AI knows of.
-Youtube and TikTok is full of AI generated videos that contain false
-information about everything from the economy to UFOs. Even worse, the AI
-providers monetize their services by offering its services to scammers.
+The term "fake news" came into being during the 2016 presidential election not
+because fake news didn't exist prior to 2016 but rather because it became too
+apparent to the newly minted internet-savvy population. The Cambridge Analytica
+scandal concurrently made headlines regarding the unauthorized collection of
+personal data from millions of Facebook profiles.
 
-"Sam Altman Warns That AI Is About to Cause a Massive “Fraud Crisis” in Which
-Anyone Can Perfectly Imitate Anyone Else" -
-https://futurism.com/sam-altman-ai-fraud-crisis-imitate
+> "The data analytics firm that worked with Donald Trump’s election team and the
+> winning Brexit campaign harvested millions of Facebook profiles of US voters,
+> in one of the tech giant’s biggest ever data breaches, and used them to build
+> a powerful software program to predict and influence choices at the ballot
+> box.
+>
+> A whistleblower has revealed to the Observer how Cambridge Analytica – a
+> company owned by the hedge fund billionaire Robert Mercer, and headed at the
+> time by Trump’s key adviser Steve Bannon – used personal information taken
+> without authorisation in early 2014 to build a system that could profile
+> individual US voters, in order to target them with personalised political
+> advertisements." - [Carole Cadwalladr & Emma Graham-Harrison, The Guardian; March 17th, 2018](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election)
 
-Twitter is full of AI bot accounts that point to entire ecosystems of AI
-generated content and programs that only serve to steal your tokens.
+> It was the scandal which finally exposed the dark side of the big data
+> economy underpinning the internet. The inside story of how one company,
+> Cambridge Analytica, misused intimate personal Facebook data to micro-target
+> and manipulate swing voters in the US election, is compellingly told in “The
+> Great Hack” - [Amnesty International](https://www.amnesty.org/en/latest/news/2019/07/the-great-hack-facebook-cambridge-analytica/)
 
-It should be noted that all these problems are fueled by the impetus to seek a
-return from (capital) investment, whether legitimate, whether bubble, or
-whether fraudulent in nature.
+> "One of the most urgent and uncomfortable questions raised in The Great Hack
+> is: **to what extent are we susceptible to such behavioural manipulation?**" -
+> Joe Westby
 
-Another problem is the establishment of the "Beast AI Prison Matrix" system.
-Palentir has partnered with the current US administration to create a vast mass
-surveillance system that intercepts your internet interactions and censors what
-you post, and what you see, using sophisticated AI. The uploading of files will
-grind to a halt depending on its content. The link you post will load
-differently for the recipient, and so on.
+Facebook has since changed its name to Meta and Mark Zuckerberg may have
+changed since then, but the problem is now orders of magnitude worse than when
+these news broke out; but it doesn't reach the mainstream news at all because
+the answer to Joe Westby's question above is unfortunately that society has now
+become completely subverted thanks to AI as offered by Sam Altman, Elon Musk,
+and Peter Thiel with the help of President Donald Trump.
 
-Wikipedia is the predominant tool for knowledge but it is also massively
-biased. Wikipedia co-founder Larry Sanger denounces the state of Wikipedia as
-being overtaken by "wokeness", while the other co-founder Jimmy Wales cannot
-even acknowledge the existence of past co-founder in interviews without
-storming out in frustration. 
+> ‘No regrets,’ says Edward Snowden, after 10 years in exile But whistleblower
+> says 2013 surveillance ‘child’s play’ compared to technology today.
+> - [Ewen MacAskill, The Guardian; June 8th, 2023](https://www.theguardian.com/us-news/2023/jun/08/no-regrets-says-edward-snowden-after-10-years-in-exile)
 
-What we need is a censorship resistant alternative platform that can make the
-merit of key ideas be apparent to the observer who has limited time and focus
-to distil truth from fiction in a sea of fabricated information webs--for the
-are fundamentally based on one or more false primitives; and even those ideas
-that are true (or worse, unprovable) can be spread to occlude the truths that
-actually matter most.
+Not only is AI used to model and manipulate the population in elections; AI is
+embedded into all new devices to monitor your activity. But I have experienced
+first hand (for I am a "targetted individual" of interest) worse things than
+these that I hesitate to disclose here because one would think that I am mad.
+Nevertheless I will summarize it as the following: pretty much all of your
+devices can be hacked by various organizations to leverage AI in the cloud and
+in your own machine to do almost anything imaginable, and usually in the most
+devious way so as to not arouse any suspicion. For example, a link posted on a
+forum will be posted with its original ASCII characters replaced with unicode
+lookalikes to make the link invalid; or the file that you clicked on in your
+computer's file explorer will not be the file that is shown; or the link that
+you share with someone will point to something else by the time they receive
+it; or files shared to others by any means whether with or without VPN will get
+scanned during tranfer and slow to a crawl exactly when it detects information
+that threatens the established order. I have evidence of all of these happening
+to my devices, and many witnesses.
+
+To make matters even worse, AI generated content is used to bury truly
+important information especially on Youtube or Google. Perhaps the majority of
+the videos that become viral sensations today are AI generated and fake; and
+often none of the commenters are even aware of it. And my Twitter feed is full
+of crypto scams involving vast networks of AI generated accounts, websites,
+videos, and even software to lure the user.
+
+> "Sam Altman Warns That AI Is About to Cause a Massive “Fraud Crisis” in Which
+> Anyone Can Perfectly Imitate Anyone Else" - [futurism.com](https://futurism.com/sam-altman-ai-fraud-crisis-imitate)
+
+Almost none of the traditional Web2.0 companies can be trusted anymore. Google
+is the worst search engine in terms of censoring, and there are few search
+engines worth using anymore. Wikipedia was once a useful tool for knowledge but
+it is also massively biased. Wikipedia co-founder Larry Sanger denounces the
+state of Wikipedia as being overtaken by "wokeness", while the other co-founder
+Jimmy Wales cannot even acknowledge the existence of past co-founder in
+interviews without storming out in frustration. 
 
 > In classical logic, intuitionistic logic, and similar logical systems, the
 > principle of explosion is the law according to which any statement can
@@ -98,13 +135,16 @@ actually matter most.
 > contradictions, resulting in the modern Zermelo–Fraenkel set theory.
 > - https://en.wikipedia.org/wiki/Principle_of_explosion
 
-The Principle of Explosion explains the pernitious woke mind virus, of
-religious extremism present in all Abrahamic religions that go against its own
-primary source scripture, and partially explains the current geopolitical
-situation. It is first described in Genesis as Adam and Eve eating an evil
-fruit from the Tree of Knowledge of Good and Evil (of capital Truth and
-Falsehood), on the suggestion of the serpent who in the technical sense did not
-lie, but did lie by omission with _intent_ to deceive.
+The Principle of Explosion explains much of why we can no longer solve our
+problems through dialog--persons of different ideologies speak different
+languages even though the words used may be the same.
+
+What we need is a censorship resistant alternative platform that can make the
+merit of key ideas be apparent to the observer who has limited time and focus
+to distil truth from fiction in a sea of fabricated information webs--for the
+are fundamentally based on one or more false primitives; and even those ideas
+that are true (or worse, unprovable) can be spread to occlude the truths that
+actually matter most.
 
 ### A Graph of Thoughts
 
@@ -370,11 +410,7 @@ Consider the following thought statement tree/graph:
      * The Coinage Act of 1963 removed silver from dimes and quarters and
        reduced the silver content of of half-dollars to 40%, more or less
        completing the destruction silver coin as money and ending bimetalism.
-       * [Wikpedia incorrectly
-         states](https://en.wikipedia.org/wiki/Coinage_Act_of_1873) that
-         bimetalism ended with the Coinage Act of 1873, and
-         [prevents](https://en.wikipedia.org/wiki/Talk:Coinage_Act_of_1873) users
-         from correcting the record.
+       * [Wikpedia incorrectly states](https://en.wikipedia.org/wiki/Coinage_Act_of_1873) that bimetalism ended with the Coinage Act of 1873, and [prevents](https://en.wikipedia.org/wiki/Talk:Coinage_Act_of_1873) users from correcting the record.
        * By 1973, the U.S. dollar was fully decoupled from gold, transitioning to
          a fiat currency not backed by physical commodities.
      * JP Morgan intentionally sank the Titanic to murder opposition such as
@@ -386,9 +422,7 @@ Consider the following thought statement tree/graph:
          * Isidor Straus was the elected Treasurer of the New York branch of the
            National Citizen's League for the promotion of a Sound Banking System
            who corresponded with the editor of the New York Times and [made a call
-           to action in and around 10/16/1911](./images/manifesto/isador_straus.jpeg) of the
-           public for open discussion to prevent the adoption of an unaccountable
-           federal reserve act.
+           to action in and around 10/16/1911](./images/manifesto/isador_straus.jpeg) of the public for open discussion to prevent the adoption of an unaccountable federal reserve act.
          * Less than one year after Isador Straus declared the call to action to
            the public, the Titanic sunk in April 15, 1912 after boarding members
            invited by JP Morgan who himself dipped out of the party at the last
