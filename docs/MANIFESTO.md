@@ -680,7 +680,7 @@ yet control all of the physical world.
 
 ## Gno Language
 
-**Gno is the first multi-user general-purpose programming language.**
+**Gno is the first _multi-user_ programming language.**
 
 Gno is a minimal extension of the Go language for multi-user programming. Gno
 allows a massive number of programmers to iteratively and interactively develop
@@ -702,8 +702,16 @@ exploits, additional compute complexity, and do not benefit directly from the
 language's native rules and type-checker--especially for inter-process passing
 of in-memory object references.
 
-For the latest Gno interrealm spec see /docs/resources/gno-interrealm.md in
-the [Gno monorepo](https://github.com/gnolang/gno).
+The GnoVM is implemented purely in Go and is a Gno AST interpreter. It is
+implemented to serve as an reference implementation suitable for production and
+tinkering. The GnoVM opcodes are expected to change over time to balance
+simplicity, efficiency, and transpilation targets--perhaps even to hardware.
+Just as Ethereum was originally implemented in Python we expect future software
+to be optimized, whether implemented in other languages, or possibly transpiled
+from the existing GnoVM implementation. 
+
+For the latest Gno specs including the inter-realm spec refer to the [Gno
+docs/resources directory](https://github.com/gnolang/gno/tree/master/docs/resources).
 
 _I could not have arrived at the final design of the Gno language without the
 help of the many developers who gave much time of their lives to contribute to
@@ -1317,14 +1325,22 @@ the callback function.
 XXX Ensure that both `attach` and `safely` are reserved keywords for the
 preprocessor.
 
-## Gno.land the Blockchain
+## Gno.land Blockchain
 
-**Gno.land is the first multi-user general-purpose language-based operating
-system**
+Tendermint solved proof-of-stake by innovating upon classical Byzantine
+fault-tolerant consensus algorithms published by Dword, Lynch, and Stockmeyer
+in 1988 (originally funded by Darpa for missile defense systems) for
+blockchains. It paved the way for the Cosmos Hub, the first proof-of-stake IBC
+hub, and Cosmos the internet of blockchains. Also of note, when Binance first
+launched they used the CosmosSDK and Tendermint.
 
-Gno.land is a blockchain based on the GnoVM which is a Gno AST interpreter.
+Gno.land builds upon Tendermint2 and aims to shift the paradigm of programming
+languages in general: Gno is the first _multi-user_ programming language, making
+it a superior smart contracting language as compared to any existing solution.
+Thus **Gno.land is the first multi-user langauge-based operating system**. Its
+ultimate goal is to be the world's open knowledge base for the next millenium.
 
-### Gno.land the Open Censorship-Resistant Programmable Knowledge Base
+### Use Case: Open Programmable Knowledge Base
 
 Each of the thought statements in the previous section can be represented as a
 simple Go string, but as in Tractatus we want to allow each of these thought-
@@ -1580,20 +1596,6 @@ Here are some benefits of GnoVM home computing:
  * Inversion of control with public key cryptography for everything: no more
    password management.
 
-## Gno.land Blockchain
-
-Tendermint solved proof-of-stake by innovating upon classical Byzantine
-fault-tolerant consensus algorithms originally funded by Darpa for missile
-defense systems in the context of transaction ordering by blocks. It opened the
-way for the first proof-of-stake IBC hub and Cosmos the internet of
-blockchains=
-
-for a new the way blockchain developers think about blockchain
-consensus algorithms. Gno.land represents a paradigm shift in multi-user
-programming that no other solution offers. It is not just a smart contract
-platform and blockchain; it is the world's first viable language-based
-multi-user operating system. Its ultimate goal is to host the world's knowledge
-base for the next thousand years.
 
 ### Gno.land Tokenomics
 
@@ -2179,10 +2181,7 @@ and by GovDAO vote to amend the constitution and laws of Gno.land.
 
 ## Future Work
 
-TODO Name registry 
- * Immutable names.
- =
-
+TODO Name registry; Immutable names.
 TODO Realm upgrading.
 TODO Deterministic concurrency.
 TODO Joeson parser.
