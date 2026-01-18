@@ -2716,7 +2716,7 @@ which is still in use today to refer to United States currency.
 The first $1 bill was issued in 1862 as a Legal Tender Note with a portrait of
 Salmon P. Chase, the Treasury Secretary under President Abraham Lincoln.
 
-<img src="./images/manifesto/dollar-1862.jpeg" alt="US Dollar 1862"/>
+<img src="./images/manifesto/dollar-1862.jpeg" title="US Dollar 1862"/>
 
 The National Banking Act of 1863 established a national banking system and a
 uniform national currency. Banks were required to purchase U.S. government
@@ -2727,7 +2727,7 @@ through 1932. From 1863 to 1877 National Bank Notes were printed by private
 bank note companies under contract to the Federal government. The Federal
 government took over printing them in 1877.
 
-<img src="./images/manifesto/dollar-1878.jpeg" alt="US Dollar 1878"/>
+<img src="./images/manifesto/dollar-1878.jpeg" title="US Dollar 1878"/>
 
 Gold certificates, were first issued in 1863 and put into general circulation
 in 1865. The severe economic crisis of the 1930s - better known as the Great
@@ -2743,8 +2743,8 @@ to undermine the currency system, Congress eliminated silver certificates and
 also discontinued the use of silver in circulating coinage such as dimes and
 quarters.
 
-<img src="./images/manifesto/dollar-1878-silver-certificate-ten.jpeg" alt="US Ten Dollar Silver Certificate 1878"/>
-<img src="./images/manifesto/dollar-1886-silver-certificate.jpeg" alt="US Dollar Silver Certificate 1886"/>
+<img src="./images/manifesto/dollar-1878-silver-certificate-ten.jpeg" title="US Ten Dollar Silver Certificate 1878"/>
+<img src="./images/manifesto/dollar-1886-silver-certificate.jpeg" title="US Dollar Silver Certificate 1886"/>
 
 **The current design of the United States one dollar bill ($1) technically
 dates to 1963 when the bill became a Federal Reserve Note as opposed to a
@@ -2760,8 +2760,8 @@ certificate. The treasury seal and serial numbers on it were dark blue. The
 reverse had a large ornate ONE superimposed by ONE DOLLAR. These $1 Silver
 Certificates were issued until 1934.
 
-<img src="./images/manifesto/dollar-1914.jpeg" alt="US Dollar 1914"/>
-<img src="./images/manifesto/dollar-1928.jpeg" alt="US Dollar 1928"/>
+<img src="./images/manifesto/dollar-1914.jpeg" title="US Dollar 1914"/>
+<img src="./images/manifesto/dollar-1928.jpeg" title="US Dollar 1928"/>
 
 In 1933, $1 United States Notes were issued to supplement the supply of $1
 Silver Certificates. Its treasury seal and serial numbers were red. Only a
@@ -2773,7 +2773,7 @@ to ONE DOLLAR due to the fact that Silver Certificates could be redeemed for
 silver bullion. The treasury seal was moved to the right and superimposed over
 ONE, and a blue numeral 1 was added to the left.
 
-<img src="./images/manifesto/dollar-1934.jpeg" alt="US Dollar 1934"/>
+<img src="./images/manifesto/dollar-1934.jpeg" title="US Dollar 1934"/>
 
 In 1935, design changes included changing the blue numeral 1 to gray, the
 treasury seal was made smaller and superimposed by WASHINGTON D.C., and a
@@ -2787,17 +2787,17 @@ Japanese and wanted to be able to devalue the money should this invasion occur.
 In 1957 the $1 bill became the first U.S. currency to bear the motto IN GOD WE
 TRUST.
 
-<img src="./images/manifesto/dollar-1957.jpeg" alt="US Dollar 1957"/>
+<img src="./images/manifesto/dollar-1957-back.jpeg" title="US Dollar 1957 back"/>
 
 In 1963 production of one dollar Federal Reserve Notes began to replace the $1
 Silver Certificate. The border design on the front was completely redesigned
 and the serial numbers and treasury seal were printed in green ink.
 
-<img src="./images/manifesto/dollar-1962.jpeg" alt="US Dollar 1962"/>
+<img src="./images/manifesto/dollar-1962.jpeg" title="US Dollar 1962"/>
 
 _1962 was a transition year when "will pay to the bearer on demand" was no longer printed._
 
-<img src="./images/manifesto/dollar-1963.jpeg" alt="US Dollar 1963"/>
+<img src="./images/manifesto/dollar-1963.jpeg" title="US Dollar 1963"/>
 
 In 1969 the $1 bill began using the new treasury seal with wording in English
 instead of Latin.
