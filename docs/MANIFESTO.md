@@ -23,6 +23,8 @@ To jump to the technical portions:
  * [Gno Language](#gno-language)
  * [Gno.land Blockchain](#gnoland-blockchain)
 
+## Table of Contents
+
 ## Introduction
 
 > Berean Standard Bible (Matthew 10):
