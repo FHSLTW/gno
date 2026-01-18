@@ -23,6 +23,8 @@ To jump to the technical portions:
  * [Gno Language](#gno-language)
  * [Gno.land Blockchain](#gnoland-blockchain)
 
+## Table of Contents
+
 ## Introduction
 
 > Berean Standard Bible (Matthew 10):
@@ -2744,7 +2746,6 @@ also discontinued the use of silver in circulating coinage such as dimes and
 quarters.
 
 <img src="./images/manifesto/dollar-1878-silver-certificate-ten.jpeg" alt="US Ten Dollar Silver Certificate 1878"/>
-<img src="./images/manifesto/dollar-1886-silver-certificate.jpeg" alt="US Dollar Silver Certificate 1886"/>
 <img src="./images/manifesto/dollar-1886-silver-certificate.jpeg" alt="US Dollar Silver Certificate 1886"/>
 
 **The current design of the United States one dollar bill ($1) technically
