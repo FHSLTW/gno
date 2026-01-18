@@ -175,7 +175,7 @@ the parent node with a tree of more propositional statements.
 >  - 1.2   The world divides into facts.
 >  - 1.21  Any one can either be the case or not be the case, and everything else remain the same.
 
-<img src="./images/manifesto/Tractatus_Logico_Philosophicus_Text_Structure.png"/>
+<img src="./images/manifesto/Tractatus_Logico_Philosophicus_Text_Structure.jpeg"/>
 
 Notice the tree structure.
 
@@ -273,7 +273,7 @@ supreme court condemned Jesus to death for "inciting" biblical Israel, although
 curiously (or not surprisingly) the source at sefaria.org adds incorrect
 language in the English translation (in unbolded text) that the incitement was
 for idol worship. (Also of note is that Google Translate [intentionally
-mistranslates "excrement" to "water"](./images/manifesto/google_translate_gittin_64b.png) among
+mistranslates "excrement" to "water"](./images/manifesto/jesus_in_talmud/google_translate_gittin_64b_lies.jpeg) among
 other portions of Gittin 56b) (see more context [here](https://christiancourier.com/articles/the-jewish-talmud-and-the-death-of-christ))
 
 See appendix for proof.
@@ -2698,7 +2698,7 @@ Modern Silver Coins
 ### The History of the One Dollar Bill
 
 _Originally from http://www.onedollarbill.org/history.html with my words in
-italics._
+italics, and images included from my own research._
 
 _This omits the original Continental Currency dollar of the Continental
 Congress which adopted the Declaration of Independence on July 4th, 1776; and
@@ -2716,26 +2716,7 @@ which is still in use today to refer to United States currency.
 The first $1 bill was issued in 1862 as a Legal Tender Note with a portrait of
 Salmon P. Chase, the Treasury Secretary under President Abraham Lincoln.
 
-<img src="./images/manifesto/dollar-original-1862.jpeg" />
-
-_Gnobody: You can see "will pay the bearer" on the original, and "one dollar".
-In 1862 it was assumed It is assumed that the dollar 
-
-A silver dollar, specifically the Morgan and Peace silver dollars, weighs 26.73
-grams. They contain approximately 0.77344 troy ounces of silver. Modern "silver
-dollar design" rounds are sometimes made with 99.9% silver; these will say .999
-and may have no year marked on them. Such are minted by 9Fine Mint and sold by
-its parent company, Apmex. 
-
-Even until 1935: XXX
-
-XXX See present day censorship such as by "oldcurrencyvalues.com" which 
-appears to intentionally show the wrong bill for 1878 (when it is in fact
-a 1917(?) bill), in order to XXX github.com/jaekwon/ephesus/ dollar_censorship
-
-<img src="./images/manifesto/dollar-1935.jpeg" />
-
-XXX_
+<img src="./images/manifesto/dollar-1862.jpeg" alt="US Dollar 1862"/>
 
 The National Banking Act of 1863 established a national banking system and a
 uniform national currency. Banks were required to purchase U.S. government
@@ -2745,6 +2726,8 @@ Civil War and World War I were National Bank Notes. They were issued from 1863
 through 1932. From 1863 to 1877 National Bank Notes were printed by private
 bank note companies under contract to the Federal government. The Federal
 government took over printing them in 1877.
+
+<img src="./images/manifesto/dollar-1878.jpeg" alt="US Dollar 1878"/>
 
 Gold certificates, were first issued in 1863 and put into general circulation
 in 1865. The severe economic crisis of the 1930s - better known as the Great
@@ -2760,12 +2743,16 @@ to undermine the currency system, Congress eliminated silver certificates and
 also discontinued the use of silver in circulating coinage such as dimes and
 quarters.
 
-The current design of the United States one dollar bill ($1) technically dates
-to 1963 when the bill became a Federal Reserve Note as opposed to a Silver
-Certificate. However, many of the design elements that we associate with the
-bill were established in 1929 when all of the country's currency was changed to
-its current size. Collectors call today's notes "small size notes" to
-distinguish them from the older, larger formats. The most notable and
+<img src="./images/manifesto/dollar-1878-silver-certificate-ten.jpeg" alt="US Ten Dollar Silver Certificate 1878"/>
+<img src="./images/manifesto/dollar-1886-silver-certificate.jpeg" alt="US Dollar Silver Certificate 1886"/>
+<img src="./images/manifesto/dollar-1886-silver-certificate.jpeg" alt="US Dollar Silver Certificate 1886"/>
+
+**The current design of the United States one dollar bill ($1) technically
+dates to 1963 when the bill became a Federal Reserve Note as opposed to a
+Silver Certificate**. However, many of the design elements that we associate
+with the bill were established in 1929 when all of the country's currency was
+changed to its current size. Collectors call today's notes "small size notes"
+to distinguish them from the older, larger formats. The most notable and
 recognizable element of the modern one dollar bill is the portrait the first
 president, George Washington, painted by Gilbert Stuart.
 
@@ -2773,6 +2760,9 @@ The one dollar bill issued in 1929 (under Series of 1928) was a silver
 certificate. The treasury seal and serial numbers on it were dark blue. The
 reverse had a large ornate ONE superimposed by ONE DOLLAR. These $1 Silver
 Certificates were issued until 1934.
+
+<img src="./images/manifesto/dollar-1914.jpeg" alt="US Dollar 1914"/>
+<img src="./images/manifesto/dollar-1928.jpeg" alt="US Dollar 1928"/>
 
 In 1933, $1 United States Notes were issued to supplement the supply of $1
 Silver Certificates. Its treasury seal and serial numbers were red. Only a
@@ -2789,6 +2779,8 @@ treasury seal was made smaller and superimposed by WASHINGTON D.C., and a
 stylized ONE DOLLAR was added over the treasury seal. The reverse was also
 changed to its current design, except for the absence of IN GOD WE TRUST.
 
+<img src="./images/manifesto/dollar-1935.jpeg" alt="US Dollar 1935"/>
+
 The World War II years featured several special printings including the Hawaii
 overprints. The Government was concerned that Hawaii might be lost to the
 Japanese and wanted to be able to devalue the money should this invasion occur.
@@ -2796,9 +2788,17 @@ Japanese and wanted to be able to devalue the money should this invasion occur.
 In 1957 the $1 bill became the first U.S. currency to bear the motto IN GOD WE
 TRUST.
 
+<img src="./images/manifesto/dollar-1957.jpeg" alt="US Dollar 1957"/>
+
 In 1963 production of one dollar Federal Reserve Notes began to replace the $1
 Silver Certificate. The border design on the front was completely redesigned
 and the serial numbers and treasury seal were printed in green ink.
+
+<img src="./images/manifesto/dollar-1962.jpeg" alt="US Dollar 1962"/>
+
+_1962 was a transition year when "will pay to the bearer on demand" was no longer printed._
+
+<img src="./images/manifesto/dollar-1963.jpeg" alt="US Dollar 1963"/>
 
 In 1969 the $1 bill began using the new treasury seal with wording in English
 instead of Latin.
@@ -2959,7 +2959,7 @@ Of course Twitter/X/Supergrok does not make it easy to copy-paste its answer to
 other platforms. You can find information through Twitter/Grok, but you will be
 tracked. When I asked @supergrok to comment on the fact that I
 had personally experienced my Twitter posts not preserving integrity, it denied
-any response ([view](./images/manifesto/twitter_grok_knows.png); [more on Twitter censorship](#twitter-censorship)).
+any response ([view](./images/manifesto/twitter_grok_knows.jpeg); [more on Twitter censorship](#twitter-censorship)).
 
 ### Manufactured Discontent
 
@@ -3019,16 +3019,16 @@ The community note by "Hillarious Wind Sandgrouse" only expressed her point of
 view and that she said the object was prohibited; but when I read the [article
 referenced by Sandgrouse himself](https://nebraskaexaminer.com/2026/01/07/nebraska-state-lawmaker-removes-part-of-conservative-pragerus-founders-museum/) it was made clear that the objects were never 
 prohibited, so therefore she was "vandalizing". So I looked further into his
-account and discovered that (a) Sandgrouse is a prolific note contributor, and
-(b) Sandgrouse had been [spamming biased community notes](./images/manifesto/twitter_hws_example.png) with absurd notes
+account and discovered that (a) Sandgrouse is a [prolific note contributor](./images/manifesto/twitter_jws_profile.png), and
+(b) Sandgrouse had been [spamming biased community notes](./images/manifesto/twitter_hws_example.jpeg) with absurd notes
 regarding a recent anti-ICE incident where he claimed that there is no evidence
 of race motive or anti-immigration sentiment even though he also wrote that a
 bullet round had "Anti-ICE" written on it! So did what any responsible person
 would do--I went over to each of those tweets to comment (only for community
-note contributors to see) [that Sandgrouse is wildly biased with citations](./images/manifesto/twitter_hws_callout.png)
+note contributors to see) [that Sandgrouse is wildly biased with citations](./images/manifesto/twitter_hws_callout.jpeg)
 and while I wasn't sure what would happen, I didn't expect Twitter to [suspend
-by community note writing privileges](./images/manifesto/twitter_cm1.png) claiming that my recent
-notes have been rated "unhelpful" even though [it isn't the case](./images/manifesto/twitter_cm2.png).
+by community note writing privileges](./images/manifesto/twitter_cm1.jpeg) claiming that my recent
+notes have been rated "unhelpful" even though [it isn't the case](./images/manifesto/twitter_cm2.jpeg).
 
 So there you have it, Twitter/X censors, and the "Community Notes" won't save
 us either. For one, it doesn't make it easy to point out obvious bias from
@@ -3046,7 +3046,7 @@ few highlights.
  * I have experienced URL links posted on Twitter (which become shortened and
    compressed with "..." so that you cannot even copy the original URL) magically
    get replaced with another URL in the future; and when I asked Grok about it
-   [it refused to comment](./images/manifesto/twitter_grok_knows.png).
+   [it refused to comment](./images/manifesto/twitter_grok_knows.jpeg).
 
  * I have experienced seeing my tweet go viral, with 13 retweets within a few
    minutes, only to see the retweet count drop down to 2 within seconds.
@@ -3076,4 +3076,4 @@ few highlights.
 
 
 
-Twitter's [Grok probably knows](./images/manifesto/twitter_grok_knows.png) but cannot comment on its censorship system.
+Twitter's [Grok probably knows](./images/manifesto/twitter_grok_knows.jpeg) but cannot comment on its censorship system.
