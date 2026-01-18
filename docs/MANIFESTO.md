@@ -23,8 +23,6 @@ To jump to the technical portions:
  * [Gno Language](#gno-language)
  * [Gno.land Blockchain](#gnoland-blockchain)
 
-## Table of Contents
-
 ## Introduction
 
 > Berean Standard Bible (Matthew 10):
@@ -2775,12 +2773,12 @@ to ONE DOLLAR due to the fact that Silver Certificates could be redeemed for
 silver bullion. The treasury seal was moved to the right and superimposed over
 ONE, and a blue numeral 1 was added to the left.
 
+<img src="./images/manifesto/dollar-1934.jpeg" alt="US Dollar 1934"/>
+
 In 1935, design changes included changing the blue numeral 1 to gray, the
 treasury seal was made smaller and superimposed by WASHINGTON D.C., and a
 stylized ONE DOLLAR was added over the treasury seal. The reverse was also
 changed to its current design, except for the absence of IN GOD WE TRUST.
-
-<img src="./images/manifesto/dollar-1935.jpeg" alt="US Dollar 1935"/>
 
 The World War II years featured several special printings including the Hawaii
 overprints. The Government was concerned that Hawaii might be lost to the
