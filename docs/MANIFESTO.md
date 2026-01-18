@@ -2743,7 +2743,6 @@ to undermine the currency system, Congress eliminated silver certificates and
 also discontinued the use of silver in circulating coinage such as dimes and
 quarters.
 
-<img src="./images/manifesto/dollar-1878-silver-certificate-ten.jpeg" title="US Ten Dollar Silver Certificate 1878"/>
 <img src="./images/manifesto/dollar-1886-silver-certificate.jpeg" title="US Dollar Silver Certificate 1886"/>
 
 **The current design of the United States one dollar bill ($1) technically
@@ -2755,12 +2754,13 @@ to distinguish them from the older, larger formats. The most notable and
 recognizable element of the modern one dollar bill is the portrait the first
 president, George Washington, painted by Gilbert Stuart.
 
+<img src="./images/manifesto/dollar-1914.jpeg" title="US Dollar 1914 large format"/>
+
 The one dollar bill issued in 1929 (under Series of 1928) was a silver
 certificate. The treasury seal and serial numbers on it were dark blue. The
 reverse had a large ornate ONE superimposed by ONE DOLLAR. These $1 Silver
 Certificates were issued until 1934.
 
-<img src="./images/manifesto/dollar-1914.jpeg" title="US Dollar 1914"/>
 <img src="./images/manifesto/dollar-1928.jpeg" title="US Dollar 1928"/>
 
 In 1933, $1 United States Notes were issued to supplement the supply of $1
