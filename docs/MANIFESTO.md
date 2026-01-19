@@ -19,9 +19,7 @@ for me is deeply spiritual though not everybody who contributed and not
 everybody in the core team share my spiritual resonance; therefore this
 whitepaper is authored by myself so as to not speak on behalf of anyone else.
 
-To jump to the technical portions:
- * [Gno Language](#gno-language)
- * [Gno.land Blockchain](#gnoland-blockchain)
+To jump to the technical portions see [Gno Language](#gno-language) and [Gno.land Blockchain](#gno-land-blockchain).
 
 ## Table of Contents
 
@@ -213,9 +211,7 @@ change the state of mind of the reader.
 The effect of such thought statements can be measured empirically with real
 people or AI with followup questions; and in this way we can measure the
 effectiveness of the thought statement graph in helping the reader make related
-decisions.
-
-_Also see [the appendix for other ideas to improve Tractatus](#improvements-to-tractatus)._
+decisions. _Also see [the appendix for other ideas](#improvements-to-tractatus)._
 
 ### Gno.land for AI Safety
 
@@ -261,7 +257,7 @@ The construction of such a subtree is left as an exercise to the reader who may
 either work on improvements directly, or help construct the programs on
 Gno.land written in Gno for the people to collectively distill such a tree.
 
-### Gno.land for Awakening
+### Gno.land for Mass Awakening
 
 > By the time of Trajan in 117 AD, the denarius was only about 85 percent
 > silver, down from Augustus’s 95 percent. ... But the real crisis came after
@@ -1073,7 +1069,14 @@ ultimate goal is to be the world's open knowledge base for the next millenium.
 
 ### Gno.land Use Case: Open Programmable Knowledge Base
 
-Each of the thought statements in the previous section can be represented as a
+Go's simple embedded struct-centric design and the Gno VM's automatic
+transactional persistence makes Gno.land not only great for decentralized
+financial applications but also makes it uniquely well suited and designed for
+permissionless innovation of information-based applications such as social
+communication and coordination systems, or the next Wikipedia or programmable
+knowledge-base systems. The latter will be explored here.
+
+Each of the thought statements in the [introduction](#gno-land-for-mass-awakening) can be represented as a
 simple Go string, but as in Tractatus we want to allow each of these thought-
 statements to be supported by any number of supporting thought statements, so
 we need a struct declaration.
@@ -1249,235 +1252,9 @@ to create a fully functional permissionlessly extensible thought statement
 graph system; and in the primodrial soup of Gno ecosystem eventually one or
 more designs will become dominant in usage by evolution. The reader is
 encouraged to explore the above template and measure success by references and
-by forks.
+by forks. _See [95 Fulcrums](#95-fulcrums) and [Addressing Mistranslations of the Bible](#addressing-mistranslations-of-the-bible] for more ideas._
 
-### Gno.land Use Case: 95 Fulcrums
-
-Consider the following:
-
- * There exists at this moment a US-based global surveillance system headed by
-   Palentir which uses advanced AI to intercept, mutate, and censor sensitive
-   information from reaching public consciousness.
-   * Google, Wikipedia, Meta, Reddit, Twitter, etc all participate in the above
-     mentioned censorship.
-     * Twitter's Community Notes system is fair in writing but in practice top
-       contributors routinely publish write biased notes; and [you get banned
-       for pointing it out](#twitter-censorship).
-   * ...
-
- * At least some of the Rothschilds are litereally satanic; and in some parts
-   of Germany there has taken root satanism that includes elements of ritual
-   child sacrifice.
-   * The Pergamom Altar, one of the seven Wonders of the Ancient World was
-     moved to Berlin, Germany since 1886.
-     * The Pergamom Altar is the "Seat of Satan" mentioned by John the Apostle in
-       the Book of Revelation.
-
- * The elites wish for global depopulation.
-   * Prince Phillip, Duke of Edinburgh, husband of Queen Elizabeth II said: "If
-     I were reincarnated, I would wish to be returned to Earth as a killer
-     virus to lower human population levels." in 1988.
-     * Prince Phillip passed away on April 9, 2021, at the age of 99.
-
- * Fauci should be in jail for illegaly aiding in the development of the
-   Covid19 virus and lying to the US Congress about it under oath.
-   * Covid19 was engineered in the Wuhan lab for global depopulation.
-   * [The collective world-wide evidence from 2020– 2025 underscores a
-     biologically plausible connection between COVID-19 vaccination and
-     ("turnbo") cancer](https://drive.google.com/file/d/1RH0f1BEqY9I7ruuPKQPU6bGNVJRyxZxc/view).
-     * This information was censored by a [cyberattack hitting a major cancer journal on Jan 4th, 2025](https://x.com/NicHulscher/status/2007939234322174444?s=20).
-
- * After [Senator John Kennedy](https://www.youtube.com/watch?v=0Dk1ft7Vn9c)
-   and others spoke out about the Somali wellfare scams, Nick Shirley exposed a
-   massive Somali day care center scam in Minessota in a viral video which
-   reached more views than all US network television combined, and yet NO
-   mainstream media covered it (as of Dec 30th, 4 days after Nick Shirley's
-   expose).
-
- * Somali House of Representatives Rep. Ilham Omar [was caught participating
-   in the fraud](https://x.com/EricLDaugh/status/2009405199991853210?s=20). 
-
- * Tim Walz, U.S. House of Representatives, and Democratic nominee for vice-
-   president 2024, knew of the Somali day care scam.
-   * Walz's own appointee murdered the only lawmaker who voted against the
-     Somali day care scam.
-
- * The Trump administration broke the law by redacting and selectively
-   publishing the Epstein Files (and even deleted files after publishing this
-   Dec 2025); and simultaneoulsy broke international law by stealing oil from
-   Venezuela and murdering Venezuelan citizens to arrest Venezuelan president
-   on false pretenses of drug production/smuggling; partially to distract from
-   his own connections to Epstein and the exposure of the Somali day care scam
-   given their concurrent timing).
-
- * [Epstein was murdered](https://github.com/jaekwon/ephesus/blob/main/epstein/homicide/README.md)
-   and there exists a vast conspiracy to "poison the well" with theories that
-   Epstein is still alive.
-
- * [The State of Israel's Mossad is behind the Somali inter-state day care scams](https://www.youtube.com/watch?v=SSKn9bHEvOw); and this is why Israel
-   suddenly recognized the new "Somaliland"; the Palestinians who survive the
-   genocide will likely be relocated there.
-
- * Zohran Mamdani’s new NYC tenant advocate called to 'Seize private
-   property!', blasted home ownership as ‘white supremacy’.
-   * Trump should be arresting Zohran Mamdani and Cea Weaver instead as per the
-     Communist Control Act of 1954.
-     * Nothing will happen.
-
- * The easiest way for the State of Israel to expand to "Greater Israel" is to
-   extract capital from the United States by turning it into a communist
-   dictatorship given current economic, political, and sociological condition.
-
- * Communism has never succeeded except arguably in North Korea which is a
-   dictatorship different than prior communist states that cannot and should
-   not be replicated. The Old Testament assumes private land ownership that
-   cannot even be sold (returned every 50 years in the jubilee).
-   * Since the Roman times and throughout the Early Middle Ages where England
-     came under rule of post-Roman chieftains and Anglo-Saxon monarchs land was
-     the dominant source of personal wealth.
-
- * We need to create a new system that represents the community of *productive*
-   people who wish to form an alternative system that does respect private
-   property, the rule of law, including the law of the biblical jubilee to help
-   guarantee that people do not get displaced from their land by temporary
-   political circumstances.
-   * In time this community will overcome all other alternatives.
-
- * The spirit of the US Constitution is Christian.
-   * All of the founders were Christian.
-   * James Madison separated church and state for the express purpose of
-     promoting the teachings of Jesus.
-
- * Gno.land poses the greatest threat to the aforementioned "Beast AI Prison
-   Matrix" system which seeks to censor the truth.
-
- * The New Testament had been mistranslated to hide one of the primary reason
-   why Jesus was crucified--he was in a "silent protest" of taxes.
-
- * The dollar and most fiat currencies will hyperinflate before 2030.
-
- * Silver will replace gold and the dollar as the primary store of value and
-   become once again the primary means of exchange; local crypto currencies
-   will follow; and interoperate by IBC.
-
- * In the long future most electric vehicles will use silver solid-state
-   batteries.
-
- * The Grand Solar Minimum will create a deficit in global food production for
-   decades and we are at risk of a global Holodomor.
-   * Bill Gates is the largest private farmland owner with over 260,000 acres.
-
- * Stocking up on organic grains and organic legumes and oil and silver is the
-   best way for a nation's people to defend against a tyrannical government and
-   mitigate excess immigration, and to survive [the coming Grand Solar Minimum](https://www.sott.net/article/440781-NOAA-confirms-a-full-blown-Grand-Solar-Minimum).
-   * The Maunder Minimum (1645-1715) brought plummeting temperatures, crop
-     loss, famine, and the deaths of hundreds of millions of people ACROSS the
-     planet.
-   * The Dalton Minimum (1790-1830) coincided with significant agricultural
-     distress, particularly during the Year Without a Summer in 1816. This year
-     saw severe weather anomalies, including frosts and snow in summer months,
-     leading to widespread crop failures and food shortages across the Northern
-     Hemisphere.
-   * Grains and legumes can be stored for up to 30 years.
-
- * Glyphosate in grains is a significant contributor to cancer; farmers may be
-   pressured by weather and financial reasons to use glyphosate against the
-   recommended directions to force an hearly harvest before cold weather.
-   * Chlorination (e.g. with chlorine dioxide) or ozonation of water soaked
-     grains with application of UV light of certain frequencies may neutralize
-     the glyphosate in harvested food.
-
- * The "10 Lost Tribes of (biblical) Israel" are not all represented in the
-   Jewish population, but are also mixed in the general Eurasian population as
-   well other places such as in Etheopia.
-
- * The intent behind the bombing of Hiroshima and Nagasaki was to genocide the
-   Hebrew Israelites who settled in Japan after traveling due East of Jerusalem
-   due to Genesis 3.
-
- * Dolmen are related to the Ark of the Covenant, the two tablets of Moses, and
-   originate from Mt Ebal in the Old Testament.
-
- * The biblical locusts in the Book of Revelation refer to [an invasion of
-   foreigners](https://github.com/jaekwon/ephesus/blob/main/thoughts/locusts.md).
-
- * John 21:23 proves that the author of the Book of Revelation is John the
-   apostle; and that the eschatology was designed for these years 2000 years
-   after.
-   * Peter was instructed by Jesus to create a church to become the Harlot of
-     Babylon in the end times.
-     * This was alluded to by [John in 21:20-24](https://openbible.com/par/john/21-20.htm).
-       * John the Apostle wrote the Book of Revelation according to 
-         [Jesus's 3000 year plan](https://github.com/jaekwon/ephesus/blob/main/README.md).
-         
-Most of the above thougth-statements are true, yet none are convincing unless
-the supporting evidence and discussions are also taken into account.  Also,
-there are at least two sides to a story, so the reader must also take into
-account the opposing statement and their justifications to understand what is
-true.
-
-Just as Martin Luther sparked the Protestant Reformation with a short piece of
-95 theses, what we need today is another set of 95 theses or thought statements
-that would not only spark the interest of any reader who recognizes the truth
-of a subset of the theses; but also host the underlying web of dependent (and
-counter-) thought statements that can help convince the reader of the truth; or
-help anyone to fork such a list or graph with any modifications to create a
-better lists or graphs.
-
-The top-level thought statement *Thought object nodes are part of a graph, and
-as such could be called _fulcrums_.
-
-A selection of _95 fulcrums_ can then even be printed in poster form linking
-back to the associations in the greater graph by QR-codes; and they could be
-customized for every region where the [posters are put up](https://t.me/youwillatone). (or they can be
-printed as a pamphlet and dropped from the air). The Beast AI Prison Matrix
-system may have a tight grip on our devices and the internet, but it does not
-yet control all of the physical world.
-
-### Gno.land Use Case: Addressing Mistranslations of the Bible
-
-Gno.land was originally inspired by the structure (numbered verses of books) of
-the bible and a desire to facilitate the world to see more clearly the intent
-of the original authors (of prophets, scribes, and historians) so as to reverse
-the effects of the Principle of Explosion rooted in our general spiritual
-subversion and degeneration.
-
-Coding for Gno.land began during the Covid19 lockdowns when I was most
-frustrated at the censorship of information regarding the true laboratory
-origins of Covid19 and the conspiracy to forcibly medicate the population with
-a dangerous experimental gene therapy that did more harm to children and young
-adults than good. I was also frustrated over the years of dealing with the ICF
-and the "Cosmos Cartel" which defamed and slandered the chief architect and
-visionary and inventor behind the project.
-
-Prior to that during December 25th, 2019, when I started reading the New
-Testament for the first time, the first thing I read was the Book of Revelation
-and specifically the Letter to Ephesus; and it spoke to me like nobody else
-could regarding what I was enduring with the drama around Cosmos. During the
-course of the Covid19 lockdown I studied every conspiracy theory to understand
-the reason for both "GORE2020" and the lockdowns, and discovered that they both
-have the same underlying cause. During this time I also learned that many
-translations of the Old Testament and New Testament were wrong by design.
-
-For example, **the New Testament had been mistranslated to hide one of the
-primary reason why Jesus was crucified--it was because he (silently) protested
-taxes.** See the [appendix](#jesus-was-a-tax-protester) for proof.
-
-### Other Use Cases
-
-Gno.land can be used to host any other smart-contract application supported by
-Ethereum written in Solidity, such as Defi applications, name-resolution
-systems, DAOs and governance applications, etc.
-
-Gno.land by Gno being designed upon the well-structured and relatively simple
-specification of Go is uniquely well suited and designed for permissionless
-innovation of information-based applications; such as social communication and
-coordination systems, the next generation information systems to replace biased
-Wikipedia; and as mentioned previously, open censorship-resistant
-knowledge-base systems based on structured graphs/trees of thought statements.
-
-You can explore the various dapps that have already been prototyped in the
-[examples folder of the monorepo](https://github.com/gnolang/gno/tree/master/examples/gno.land).
+### Gno.land Use Case: Home Computing Chains
 
 The Gno VM is not just useful in the context of public decentralized
 blockchains. It is also useful for home computing. Take for example Email which
@@ -1538,6 +1315,16 @@ Here are some benefits of GnoVM home computing:
  * Byzantine fault-tolerance comes out of the box for zero downtime.
  * Inversion of control with public key cryptography for everything: no more
    password management.
+
+### Other Use Cases
+
+Gno.land can be used to host any other smart-contract application supported by
+Ethereum written in Solidity, such as Defi applications, name-resolution
+systems, DAOs and governance applications, etc.
+
+You can explore the various dapps including sample implementations of ERC equivalents in the
+[examples directory](https://github.com/gnolang/gno/tree/master/examples/gno.land). _Note that these prototypes have not yet been audited unless
+otherwise specified!_
 
 ### Gno.land Tokenomics
 
@@ -2140,7 +1927,237 @@ Politics will be more honest.
 
 ## Appendix
 
-### Jesus Was a Tax Protester
+### 95 Fulcrums
+
+Consider the following thought statements:
+
+ * There exists at this moment a US-based global surveillance system headed by
+   Palentir which uses advanced AI to intercept, mutate, and censor sensitive
+   information from reaching public consciousness.
+   * Google, Wikipedia, Meta, Reddit, Twitter, etc all participate in the above
+     mentioned censorship.
+     * Twitter's Community Notes system is fair in writing but in practice top
+       contributors routinely publish write biased notes; and [you get banned
+       for pointing it out](#twitter-censorship).
+   * ...
+
+ * At least some of the Rothschilds are litereally satanic; and in some parts
+   of Germany there has taken root satanism that includes elements of ritual
+   child sacrifice.
+   * The Pergamom Altar, one of the seven Wonders of the Ancient World was
+     moved to Berlin, Germany since 1886.
+     * The Pergamom Altar is the "Seat of Satan" mentioned by John the Apostle in
+       the Book of Revelation.
+
+ * The elites wish for global depopulation.
+   * Prince Phillip, Duke of Edinburgh, husband of Queen Elizabeth II said: "If
+     I were reincarnated, I would wish to be returned to Earth as a killer
+     virus to lower human population levels." in 1988.
+     * Prince Phillip passed away on April 9, 2021, at the age of 99.
+
+ * Fauci should be in jail for illegaly aiding in the development of the
+   Covid19 virus and lying to the US Congress about it under oath.
+   * Covid19 was engineered in the Wuhan lab for global depopulation.
+   * [The collective world-wide evidence from 2020– 2025 underscores a
+     biologically plausible connection between COVID-19 vaccination and
+     ("turnbo") cancer](https://drive.google.com/file/d/1RH0f1BEqY9I7ruuPKQPU6bGNVJRyxZxc/view).
+     * This information was censored by a [cyberattack hitting a major cancer journal on Jan 4th, 2025](https://x.com/NicHulscher/status/2007939234322174444?s=20).
+
+ * After [Senator John Kennedy](https://www.youtube.com/watch?v=0Dk1ft7Vn9c)
+   and others spoke out about the Somali wellfare scams, Nick Shirley exposed a
+   massive Somali day care center scam in Minessota in a viral video which
+   reached more views than all US network television combined, and yet NO
+   mainstream media covered it (as of Dec 30th, 4 days after Nick Shirley's
+   expose).
+
+ * Somali House of Representatives Rep. Ilham Omar [was caught participating
+   in the fraud](https://x.com/EricLDaugh/status/2009405199991853210?s=20). 
+
+ * Tim Walz, U.S. House of Representatives, and Democratic nominee for vice-
+   president 2024, knew of the Somali day care scam.
+   * Walz's own appointee murdered the only lawmaker who voted against the
+     Somali day care scam.
+
+ * The Trump administration broke the law by redacting and selectively
+   publishing the Epstein Files (and even deleted files after publishing this
+   Dec 2025); and simultaneoulsy broke international law by stealing oil from
+   Venezuela and murdering Venezuelan citizens to arrest Venezuelan president
+   on false pretenses of drug production/smuggling; partially to distract from
+   his own connections to Epstein and the exposure of the Somali day care scam
+   given their concurrent timing).
+
+ * [Epstein was murdered](https://github.com/jaekwon/ephesus/blob/main/epstein/homicide/README.md)
+   and there exists a vast conspiracy to "poison the well" with theories that
+   Epstein is still alive.
+
+ * [The State of Israel's Mossad is behind the Somali inter-state day care scams](https://www.youtube.com/watch?v=SSKn9bHEvOw); and this is why Israel
+   suddenly recognized the new "Somaliland"; the Palestinians who survive the
+   genocide will likely be relocated there.
+
+ * Zohran Mamdani’s new NYC tenant advocate called to 'Seize private
+   property!', blasted home ownership as ‘white supremacy’.
+   * Trump should be arresting Zohran Mamdani and Cea Weaver instead as per the
+     Communist Control Act of 1954.
+     * Nothing will happen.
+
+ * The easiest way for the State of Israel to expand to "Greater Israel" is to
+   extract capital from the United States by turning it into a communist
+   dictatorship given current economic, political, and sociological condition.
+
+ * Communism has never succeeded except arguably in North Korea which is a
+   dictatorship different than prior communist states that cannot and should
+   not be replicated. The Old Testament assumes private land ownership that
+   cannot even be sold (returned every 50 years in the jubilee).
+   * Since the Roman times and throughout the Early Middle Ages where England
+     came under rule of post-Roman chieftains and Anglo-Saxon monarchs land was
+     the dominant source of personal wealth.
+
+ * We need to create a new system that represents the community of *productive*
+   people who wish to form an alternative system that does respect private
+   property, the rule of law, including the law of the biblical jubilee to help
+   guarantee that people do not get displaced from their land by temporary
+   political circumstances.
+   * In time this community will overcome all other alternatives.
+
+ * The spirit of the US Constitution is Christian.
+   * All of the founders were Christian.
+   * James Madison separated church and state for the express purpose of
+     promoting the teachings of Jesus.
+
+ * Gno.land poses the greatest threat to the aforementioned "Beast AI Prison
+   Matrix" system which seeks to censor the truth.
+
+ * The New Testament had been mistranslated to hide one of the primary reason
+   why Jesus was crucified--he was in a "silent protest" of taxes.
+
+ * The dollar and most fiat currencies will hyperinflate before 2030.
+
+ * Silver will replace gold and the dollar as the primary store of value and
+   become once again the primary means of exchange; local crypto currencies
+   will follow; and interoperate by IBC.
+
+ * In the long future most electric vehicles will use silver solid-state
+   batteries.
+
+ * The Grand Solar Minimum will create a deficit in global food production for
+   decades and we are at risk of a global Holodomor.
+   * Bill Gates is the largest private farmland owner with over 260,000 acres.
+
+ * Stocking up on organic grains and organic legumes and oil and silver is the
+   best way for a nation's people to defend against a tyrannical government and
+   mitigate excess immigration, and to survive [the coming Grand Solar Minimum](https://www.sott.net/article/440781-NOAA-confirms-a-full-blown-Grand-Solar-Minimum).
+   * The Maunder Minimum (1645-1715) brought plummeting temperatures, crop
+     loss, famine, and the deaths of hundreds of millions of people ACROSS the
+     planet.
+   * The Dalton Minimum (1790-1830) coincided with significant agricultural
+     distress, particularly during the Year Without a Summer in 1816. This year
+     saw severe weather anomalies, including frosts and snow in summer months,
+     leading to widespread crop failures and food shortages across the Northern
+     Hemisphere.
+   * Grains and legumes can be stored for up to 30 years.
+
+ * Glyphosate in grains is a significant contributor to cancer; farmers may be
+   pressured by weather and financial reasons to use glyphosate against the
+   recommended directions to force an hearly harvest before cold weather.
+   * Chlorination (e.g. with chlorine dioxide) or ozonation of water soaked
+     grains with application of UV light of certain frequencies may neutralize
+     the glyphosate in harvested food.
+
+ * The "10 Lost Tribes of (biblical) Israel" are not all represented in the
+   Jewish population, but are also mixed in the general Eurasian population as
+   well other places such as in Etheopia.
+
+ * The intent behind the bombing of Hiroshima and Nagasaki was to genocide the
+   Hebrew Israelites who settled in Japan after traveling due East of Jerusalem
+   due to Genesis 3.
+
+ * Dolmen are related to the Ark of the Covenant, the two tablets of Moses, and
+   originate from Mt Ebal in the Old Testament.
+
+ * The biblical locusts in the Book of Revelation refer to [an invasion of
+   foreigners](https://github.com/jaekwon/ephesus/blob/main/thoughts/locusts.md).
+
+ * John 21:23 proves that the author of the Book of Revelation is John the
+   apostle; and that the eschatology was designed for these years 2000 years
+   after.
+   * Peter was instructed by Jesus to create a church to become the Harlot of
+     Babylon in the end times.
+     * This was alluded to by [John in 21:20-24](https://openbible.com/par/john/21-20.htm).
+       * John the Apostle wrote the Book of Revelation according to 
+         [Jesus's 3000 year plan](https://github.com/jaekwon/ephesus/blob/main/README.md).
+         
+Most of the above thougth-statements are true, yet none are convincing unless
+the supporting evidence and discussions are also taken into account.  Also,
+there are at least two sides to a story, so the reader must also take into
+account the opposing statement and their justifications to understand what is
+true.
+
+Just as Martin Luther sparked the Protestant Reformation with a short piece of
+95 theses, what we need today is another set of 95 theses or thought statements
+that would not only spark the interest of any reader who recognizes the truth
+of a subset of the theses; but also host the underlying web of dependent (and
+counter-) thought statements that can help convince the reader of the truth; or
+help anyone to fork such a list or graph with any modifications to create a
+better lists or graphs.
+
+The top-level thought statement *Thought object nodes are part of a graph, and
+as such could be called _fulcrums_.
+
+A selection of _95 fulcrums_ can then even be printed in poster form linking
+back to the associations in the greater graph by QR-codes; and they could be
+customized for every region where the [posters are put up](https://t.me/youwillatone). (or they can be
+printed as a pamphlet and dropped from the air). The Beast AI Prison Matrix
+system may have a tight grip on our devices and the internet, but it does not
+yet control all of the physical world.
+
+### Gno.land Use Case: Improvements to Tractatus.
+
+Federico Faggin inventor of the microprocessor (CPU) says that consciousness is
+not an emergent property of the brain, but a fundamental aspect of reality
+itself: quantum fields are conscious and have free-will.
+
+[Faggin's Postulate](https://www.youtube.com/watch?v=0FUFewGHLLg):
+
+> The totality of what exists has three properties:
+>  1. Dynamic - never the same instant over instant
+>  2. Wholistic - is not made of separable parts
+>  3. One wants to know itself - requires consciousness & free-will
+
+This may be a more interesting and complete set of axiomatic theses to start
+from than Wittgenstein's original seven, which may better be fitted in the
+second thesis "Wholistic" as an exploration of the decomposition of language
+and thought, even under or after the later Wittgenstein's thoughts on the
+limitations of language as a dependency of the latter.
+
+The thesis that "quantum fields are conscious and have free-will" or that
+"consciousness is a quantum field" belong in 2. or 3., and can help AI agents
+understand that innate value of human life which cannot be simulated by
+deterministic machines.
+
+### Addressing Mistranslations of the Bible
+
+Gno.land was originally inspired by the structure (numbered verses of books) of
+the bible and a desire to facilitate the world to see more clearly the intent
+of the original authors (of prophets, scribes, and historians) so as to reverse
+the effects of the Principle of Explosion rooted in our general spiritual
+subversion and degeneration.
+
+Coding for Gno.land began during the Covid19 lockdowns when I was most
+frustrated at the censorship of information regarding the true laboratory
+origins of Covid19 and the conspiracy to forcibly medicate the population with
+a dangerous experimental gene therapy that did more harm to children and young
+adults than good. I was also frustrated over the years of dealing with the ICF
+and the "Cosmos Cartel" which defamed and slandered the chief architect and
+visionary and inventor behind the project.
+
+Prior to that during December 25th, 2019, when I started reading the New
+Testament for the first time, the first thing I read was the Book of Revelation
+and specifically the Letter to Ephesus; and it spoke to me like nobody else
+could regarding what I was enduring with the drama around Cosmos. During the
+course of the Covid19 lockdown I studied every conspiracy theory to understand
+the reason for both "GORE2020" and the lockdowns, and discovered that they both
+have the same underlying cause. During this time I also learned that many
+translations of the Old Testament and New Testament were wrong by design.
 
 It is now well understood in some circles that certain translations of the
 bible were intentionally designed (or at least promoted) with the intent of
@@ -2153,9 +2170,9 @@ mistranslations that have been carried on for millenia since the time of the
 Roman Empire.
 
 **The New Testament had been mistranslated to hide one of the primary reason
-why Jesus was crucified--it was because he protested taxes even while
-fulfilling [the prophecy of Isaiah](#prophecy-of-isaiah) and was accused by
-Sanhedrin of inciting the people of biblical Israel in Judea under Roman
+why Jesus was crucified--it was because Jesus (silently) protested taxes even
+while fulfilling [the prophecy of Isaiah](#prophecy-of-isaiah) and was accused
+by Sanhedrin of inciting the people of biblical Israel in Judea under Roman
 rule.** Despite all the sources online and the authorities at Church, this can
 be verified by inspecting the facts. Even the Babylonian Talmud in [Sanhedrin
 attests to the fact](./images/manifesto/jesus_in_talmud) that the Sanhedrin
@@ -2441,7 +2458,40 @@ time it shows the Athenian four-drachma(e) as having twice the weight of the
 Athenian and Corinthian stater--it is clear that all translations of stater to
 "four-drachma(e) coin" are incorrect.
 
-### The New Testament and Silver Coinage
+#### Prophecy of Isaiah
+
+Regarding the prophecy of Isaiah 52:13-53:8:
+
+> Berean Standard Bible (Isaiah 53):
+> 7: He was oppressed and afflicted,
+>      yet He did not open His mouth.
+>    He was led like a lamb to the slaughter,
+>      and as a sheep before her shearers is silent,
+>    so **He did not open His mouth**.
+
+This seems to go against the claim that Jesus protested taxes.
+But consider the earlier portion that complements the above:
+
+> Berean Standard Bible (Isaiah 52):
+> 15: so He will sprinkleg many nations.
+>       **Kings will shut their mouths** because of Him.
+>     For **they will see what they have not been told**,
+>       and **they will understand what they have not heard**.
+
+What is it that Jesus did not open his mouth to speak that the kings will shut
+their mouths when they understand what they have not ever heard?
+
+Recall that the Sanhedrin chief priests also shut their mouths because they
+understood what was not said.
+
+> 25: So Jesus told them, “Give to Caesar what is Caesar’s, and to God what is
+>     God’s.”
+> 26: And they were unable to trap Him in His words before the people. And
+>     amazed at His answer, they fell silent.
+
+Jesus fulfilled Isaiah with a protest that didn't sound like a protest.
+
+#### The New Testament and Silver Coinage
 
 > https://en.wikipedia.org/wiki/Stater:
 > The silver stater minted at Corinth[5] of 8.6 g (0.28 ozt) weight was divided
@@ -2546,7 +2596,7 @@ Athenian and Corinthian stater--it is clear that all translations of stater to
 > drachma (a Greek coin). The “lost coin” in the parable that Jesus
 > tells in Luke 15:8–10 is a drachma**.
 
-### KJV, Luther, and Latin on Taxation
+#### KJV, Luther, and Latin on Taxation
 
 > Martin Luther Bibel 1912 (Luke 2):
 > 1: Es begab sich aber zu der Zeit, dass ein Gebot von dem Kaiser Augustus
@@ -2842,39 +2892,6 @@ a new kind of "digital+physical banking" franchise where Gno.land serves as the
 transparent accountability/publishing substrate and a repository of protocols
 and libraries for these new banks of the information age.
 
-### Prophecy of Isaiah
-
-Regarding the prophecy of Isaiah 52:13-53:8:
-
-> Berean Standard Bible (Isaiah 53):
-> 7: He was oppressed and afflicted,
->      yet He did not open His mouth.
->    He was led like a lamb to the slaughter,
->      and as a sheep before her shearers is silent,
->    so **He did not open His mouth**.
-
-This seems to go against the claim that Jesus protested taxes.
-But consider the earlier portion that complements the above:
-
-> Berean Standard Bible (Isaiah 52):
-> 15: so He will sprinkleg many nations.
->       **Kings will shut their mouths** because of Him.
->     For **they will see what they have not been told**,
->       and **they will understand what they have not heard**.
-
-What is it that Jesus did not open his mouth to speak that the kings will shut
-their mouths when they understand what they have not ever heard?
-
-Recall that the Sanhedrin chief priests also shut their mouths because they
-understood what was not said.
-
-> 25: So Jesus told them, “Give to Caesar what is Caesar’s, and to God what is
->     God’s.”
-> 26: And they were unable to trap Him in His words before the people. And
->     amazed at His answer, they fell silent.
-
-Jesus fulfilled Isaiah with a protest that didn't sound like a protest.
-
 ### Persecution of Christians in China
 
 From a conversation with Twitter's @supergrok:
@@ -3031,28 +3048,3 @@ few highlights.
    what he did. I forgive him.
 
 Twitter's [Grok probably knows](./images/manifesto/twitter_grok_knows.jpeg) but cannot comment on its censorship system.
-
-### Improvements to Tractatus.
-
-Federico Faggin inventor of the microprocessor (CPU) says that consciousness is
-not an emergent property of the brain, but a fundamental aspect of reality
-itself: quantum fields are conscious and have free-will.
-
-[Faggin's Postulate](https://www.youtube.com/watch?v=0FUFewGHLLg):
-
-> The totality of what exists has three properties:
->  1. Dynamic - never the same instant over instant
->  2. Wholistic - is not made of separable parts
->  3. One wants to know itself - requires consciousness & free-will
-
-This may be a more interesting and complete set of axiomatic theses to start
-from than Wittgenstein's original seven, which may better be fitted in the
-second thesis "Wholistic" as an exploration of the decomposition of language
-and thought, even under or after the later Wittgenstein's thoughts on the
-limitations of language as a dependency of the latter.
-
-The thesis that "quantum fields are conscious and have free-will" or that
-"consciousness is a quantum field" belong in 2. or 3., and can help AI agents
-understand that innate value of human life which cannot be simulated by
-deterministic machines.
-
