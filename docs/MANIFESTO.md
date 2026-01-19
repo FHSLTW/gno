@@ -211,7 +211,7 @@ change the state of mind of the reader.
 The effect of such thought statements can be measured empirically with real
 people or AI with followup questions; and in this way we can measure the
 effectiveness of the thought statement graph in helping the reader make related
-decisions. _Also see [the appendix for other ideas](#improvements-to-tractatus)._
+decisions. _Also see [the appendix Use Case: Improvements to Tractatus](#use-case-improvements-to-tractatus)._
 
 ### Gno.land for AI Safety
 
@@ -390,7 +390,7 @@ about half a century--it has only been 55 years since President Nixon ended the
 convertibility of the dollar to gold. For a modern comparison, the British
 Empire ended soon after WWI after debasing the silver shilling starting from
 the 1920's until 1947 when silver content was completely eliminated. See the
-appendix on [[#The History of U.S. Silver Coins]] for more history of U.S.
+appendix on [The History of U.S. Silver Coins](#the-history-of-u-s-silver-coins) for more history of U.S.
 Silver Coins_.
 
 The above tree of thought-statements exist to prove one primary thesis (namely
@@ -402,7 +402,7 @@ branches of supporting thought statements. Each node may be referenced by many
 other nodes, so what we need is a graph of thought statements that can be
 permissionlessly and interatively expanded by anyone.
 
-See [Gno.land Use Case: Open Programmable Knowledge Base](#gno-land-use-case-open-programmable-knowledge-base) for more on how
+See [Use Case: Open Programmable Knowledge Base](#gno-land-use-case-open-programmable-knowledge-base) for more on how
 Gno and Gno.land are ideal for solving this problem.
 
 ## Gno Language
@@ -1067,7 +1067,7 @@ it a superior smart contracting language as compared to any existing solution.
 Thus **Gno.land is the first multi-user langauge-based operating system**. Its
 ultimate goal is to be the world's open knowledge base for the next millenium.
 
-### Gno.land Use Case: Open Programmable Knowledge Base
+### Use Case: Open Programmable Knowledge Base
 
 Go's simple embedded struct-centric design and the Gno VM's automatic
 transactional persistence makes Gno.land not only great for decentralized
@@ -1252,9 +1252,9 @@ to create a fully functional permissionlessly extensible thought statement
 graph system; and in the primodrial soup of Gno ecosystem eventually one or
 more designs will become dominant in usage by evolution. The reader is
 encouraged to explore the above template and measure success by references and
-by forks. _See [95 Fulcrums](#95-fulcrums) and [Addressing Mistranslations of the Bible](#addressing-mistranslations-of-the-bible] for more ideas._
+by forks. _See [Use Case: 95 Fulcrums](#use-case-95-fulcrums) and [Use Case: Addressing Mistranslations of the Bible](#use-case-addressing-mistranslations-of-the-bible] for more ideas._
 
-### Gno.land Use Case: Home Computing Chains
+### Use Case: Home Computing Chains
 
 The Gno VM is not just useful in the context of public decentralized
 blockchains. It is also useful for home computing. Take for example Email which
@@ -1927,7 +1927,7 @@ Politics will be more honest.
 
 ## Appendix
 
-### 95 Fulcrums
+### Use Case: 95 Fulcrums
 
 Consider the following thought statements:
 
@@ -2110,7 +2110,7 @@ printed as a pamphlet and dropped from the air). The Beast AI Prison Matrix
 system may have a tight grip on our devices and the internet, but it does not
 yet control all of the physical world.
 
-### Gno.land Use Case: Improvements to Tractatus.
+### Use Case: Improvements to Tractatus.
 
 Federico Faggin inventor of the microprocessor (CPU) says that consciousness is
 not an emergent property of the brain, but a fundamental aspect of reality
@@ -2134,7 +2134,7 @@ The thesis that "quantum fields are conscious and have free-will" or that
 understand that innate value of human life which cannot be simulated by
 deterministic machines.
 
-### Addressing Mistranslations of the Bible
+### Use Case: Addressing Mistranslations of the Bible
 
 Gno.land was originally inspired by the structure (numbered verses of books) of
 the bible and a desire to facilitate the world to see more clearly the intent
