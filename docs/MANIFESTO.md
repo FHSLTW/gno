@@ -402,7 +402,7 @@ branches of supporting thought statements. Each node may be referenced by many
 other nodes, so what we need is a graph of thought statements that can be
 permissionlessly and interatively expanded by anyone.
 
-See [Use Case: Open Programmable Knowledge Base](#gno-land-use-case-open-programmable-knowledge-base) for more on how
+See [Use Case: Open Programmable Knowledge Base](#use-case-open-programmable-knowledge-base) for more on how
 Gno and Gno.land are ideal for solving this problem.
 
 ## Gno Language
@@ -2110,7 +2110,7 @@ printed as a pamphlet and dropped from the air). The Beast AI Prison Matrix
 system may have a tight grip on our devices and the internet, but it does not
 yet control all of the physical world.
 
-### Use Case: Improvements to Tractatus.
+### Use Case: Improvements to Tractatus
 
 Federico Faggin inventor of the microprocessor (CPU) says that consciousness is
 not an emergent property of the brain, but a fundamental aspect of reality
