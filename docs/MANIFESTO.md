@@ -1393,24 +1393,26 @@ automated-market-maker exchange module should exist on the Gno.land
 shard/instance to facilitate the internal exchange of collected $GNOT to
 $PHOTON needed to pay Atom.One for its VaaS services.
 
-$GNOT will become a key VaaS hosted application on Atom.One, but other VaaS
-chains hosted by Atom.One may not offer the Gno VM or Gno programmability; and
-even if they were a simple fork of Gno.land they may operate independently of
-the $GNOT token. The $GNOT token should not be used as a storage deposit token
-or for any other chain except the original Gno.land chain, or even be used as a
-staking token, as this limits the utility of Gno.land itself.
-
-XXX
-Gno.land after launch will merge with Atom.One and be hosted as an Atom.One ICS
-chain that is secured by the same validator-set as Atom.One.
-
 Gno.land will initially launch as its own blockchain so the $GNOT token will
 function both as the spam-prevention gas-payment token as well as byte-storage
-deposit token. Once Gno.land migrates over to Atom.One after the Gno.land <>
-Atom.One IBC connection is complete and Atom.One Simple-Replicated ICS MVP is
-implemented, $ATONE will be the staking-token (but with limited voting rights
-for Gno.land itself), $PHOTON will be the CPU gas-token, and $GNOT the
-dedicated byte-storage deposit token.
+deposit token. Gno.land after launch will merge with Atom.One and be hosted as
+an Atom.One ICS chain that is secured by the same validator-set as Atom.One.
+
+Once Gno.land migrates over to Atom.One after the Gno.land <> Atom.One IBC
+connection is complete and Atom.One Simple-Replicated ICS MVP is implemented,
+$ATONE will be the staking-token (but with limited voting rights for Gno.land
+itself), $PHOTON will be the CPU gas-token, and $GNOT the dedicated
+byte-storage deposit token. Thus Gno.land will become a key VaaS hosted
+application on Atom.One, but other VaaS chains hosted by Atom.One may not offer
+the Gno VM or Gno programmability; and even if such chains were a simple fork
+of Gno.land they may operate independently of the $GNOT token. 
+
+The $GNOT token should not be used as a storage deposit token or for any other
+chain except the original Gno.land chain, nor be used as a staking/bonding
+token as this limits the utility (accessible storage capacity) of Gno.land
+itself. It may make sense to burn $GNOT via approved burn mechisms to acquire
+secondary tokens that can be used for storage deposit on other GnoVM (and
+non-Gno) chains hosted on Atom.One.
 
 There will be many more chains hosted with Atom.One ICS that are powered by the
 GnoVM or compete with the Gno.land chain itself, but these chains will need to
@@ -1423,9 +1425,8 @@ and network effect even if other chains do not use the $GNOT token at all.
 Competing smart-contract platforms that are not based on the GnoVM, or those
 that are based on other languages will also be supported in Atom.One, as
 Atom.One will support quasi-permissionless hosting of many blockchain
-application platforms; but the scope of possible multi-user general-purpose
-languages is restricted by the laws of logic; and Gno and GnoVM will serve as
-the foundation for future multi-user general-purpose language innovation.
+application platforms; but Gno and GnoVM will serve as a foundation for future
+multi-user general-purpose language innovation.
 
 #### Genesis Allocation
 
@@ -1871,21 +1872,7 @@ The number of validators is determined by GovDAO until Atom.One VaaS/ICS is
 deemed to be ready; after which Gno.land must migrate to Atom.One after
 determination by either GovDAO majority vote or NewTendermint,LLC.
 
-### Gnoweb Browser
-
-TODO Markdown instead of HTML for accessibility.
-TODO Rendering on Gno.land.
-TODO Restful discovery of library package and user realm code.
-
-### Strong Attribution License
-
-TODO Anyone can fork Gno.land.
-TODO Fork of GNU AGPL 3.0.
-TODO Strong attribution clause terms.
-TODO Trademark of Gno.
-TODO When Gno.land should fork.
-
-### Gno.land Separation of Church and State
+#### Separation of Church and State
 
 Madison separated church and state in the US Constitution albiet there is a
 hint of the Christian spirit by the way in which the constitution was signed:
@@ -1908,22 +1895,53 @@ not speech and is dangerous to civilization. Whether hate-speech is tolerated
 shoud be determined by each realm but also by the living Gno.land constitution
 and by GovDAO vote to amend the constitution and laws of Gno.land.
 
+### GnoWeb Browser
+
+GnoWeb is the server software for Gno.land, a browser within a browser for
+viewing realm data.
+
+Instead of requiring realm applications to return HTML, the convention is to
+implement a Render() function that returns Markdown. This is to allow the
+transition away from the bloated HTML standards and browser software and realm
+data to be browsed even from the console. Note that we don't need HTML XML
+elements to denote objects: everything in Gno is already an object. This makes
+Gno.land more like the original World Wide Web that conforms to the *Document
+Object* model (DOM).
+
+GnoWeb does support some custom XML elements for improved layout and
+functionality, such as column layout and form submissions that integrate with
+browser extensions for transaction signing.
+
+Note that GnoWeb is not yet a general blockchain explorer (e.g. for
+transactions) nor a general purpose Gno.land state explorer. A Gno.land
+specific blockchain explorer already exists. GnoWeb can only render markdown
+returned from Render() functions, and a general purpose state explorer is still
+desired.
+
+Realm code is not precluded from returning HTML or even JSON for custom browser
+applications. In the near future the Gno.land node software will support
+returning JSON encodings of Gno objects. Thus future alternative browser
+applications may provide more interactive rich user experiences for viewing and
+mutating Gno.land state without any Markdown intermediary representation; and
+perhaps leveraging AI for intelligent layout and styling for rich
+interactivity.
+
 ## Future Work
 
-TODO Name registry; Immutable names.
-TODO Realm upgrading.
-TODO Deterministic concurrency.
-TODO Joeson parser.
-TODO Gno2.
-TODO Open hardware.
+ * Name registry; Immutable names.
+ * Realm upgrading.
+ * Realm data browser.
+ * Deterministic concurrency.
+ * Joeson parser.
+ * Gno2.
+ * Open hardware.
 
 ## Summary
 
-TODO
-Gno.land is the next open Google.
+Gno is the next C.
+Gno.land is the next Ethereum and Wikipedia.
 AI will be safer.
 Politics will be more honest.
-1000 year plan.
 
 ## Appendix
 
