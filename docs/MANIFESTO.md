@@ -3034,6 +3034,10 @@ that Twitter does exactly that.
 Besides the above, there's a lot more to be said about Twitter but I'll leave a
 few highlights.
 
+ * One tweet by @unusual_whales regarding FTX and tokenized shares from Jan
+   15th, 2023 has [many community notes](./images/manifesto/twitter_ftx.jpeg) that claim that Twitter had been
+   suppressing the votes by removing likes and retweets.
+
  * I have experienced URL links posted on Twitter (which become shortened and
    compressed with "..." so that you cannot even copy the original URL) magically
    get replaced with another URL in the future; and when I asked Grok about it
@@ -3066,3 +3070,5 @@ few highlights.
    what he did. I forgive him.
 
 Twitter's [Grok probably knows](./images/manifesto/twitter_grok_knows.jpeg) but cannot comment on its censorship system.
+
+It's a wonder why Twitter hasn't faced a class action lawsuit yet.
