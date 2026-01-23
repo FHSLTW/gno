@@ -2049,6 +2049,8 @@ Consider the following thought statements:
    why Jesus was crucified--he was in a "silent protest" of taxes.
 
  * The dollar and most fiat currencies will hyperinflate before 2030.
+ 
+ * The gold
 
  * Silver will replace gold and the dollar as the primary store of value and
    become once again the primary means of exchange; local crypto currencies
@@ -3072,3 +3074,64 @@ few highlights.
 Twitter's [Grok probably knows](./images/manifesto/twitter_grok_knows.jpeg) but cannot comment on its censorship system.
 
 It's a wonder why Twitter hasn't faced a class action lawsuit yet.
+
+### Where is Fort Knox Gold?
+
+_By [twitter.com/@WallStreetApes Feb 16, 2026](https://x.com/WallStreetApes/status/1891237363222761557)_
+
+Biggest story of the day: Senator Rand Paul is calling for an audit on Fort
+Knox to ensure the 4,580 tons US gold is still there.
+
+Here’s what you were NEVER TOLD about the gold at Fort Knox.
+
+America’s Wealth, The largest fortune in the history of the world, was stolen.
+The Fort Knox Gold Robbery:
+
+An article was written connecting Rockefeller Family and The Federal Reserve.
+
+3 days later the source was thrown out of a window to her death.
+
+“So just how did the story of the Fort Knox gold robbery get out? It all
+started with an article in a New York periodical in 1974. The article charged
+that the Rockefeller family was manipulating the federal reserve to sell off
+Fort Knox Gold at bargain basement prices to anonymous European speculators. 3
+days later, the anonymous source of the story, Louise Auchincloss Boyer,
+mysteriously fell to her death from the window of her 10th floor apartment in
+New York. How would missus Boyer have known of the Rockefeller connection to
+the Fort Knox Gold Heist?
+
+She was the long time secretary of Nelson Rockefeller. For the next 14 years,
+this man, Ed Durell, a wealthy Ohio industrialist, devoted himself to a quest
+for the truth concerning the Fort Knox gold. He wrote thousands of letters to
+over 1,000 government and banking officials trying to find out how much gold
+was really left and where the rest of it had gone.
+
+Edith Roosevelt, the granddaughter of president Teddy Roosevelt, questioned the
+actions of the government in a March 1975 edition of the New Hampshire Sunday
+news.
+
+— Unfortunately, Ed Durell never did accomplish his primary goal, a full audit
+of the gold reserves in Fort Knox. It's incredible that the world's greatest
+treasure has had little accounting or auditing. This goal belonged to the
+American people, not the Federal Reserve and their foreign owners.
+
+One thing is certain, the government could blow all of this speculation away in
+a few days with a well publicized audit under the searing lights of media
+cameras. It has chosen not to do so. One must conclude that they are afraid of
+the truth such an audit would reveal. What is the government so afraid of?
+Here's the answer:
+
+When president Ronald Reagan took office in 1981, his conservative friends
+urged him to study the feasibility of returning to a gold standard as the only
+way to curb government spending. It sounded like a reasonable alternative, so
+President Reagan appointed a group of men called the Gold Commission to study
+the situation and report back to Congress. What Reagan's Gold Commission
+reported back to Congress in 1982 was the following shocking revelation
+concerning gold. The US Treasury owned no gold at all.
+
+All the gold that was left in Fort Knox was now owned by the Federal Reserve, a
+group of private bankers, as collateral against the national debt.
+
+The truth of the matter is that never before has so much money been stolen from
+the hands of the general public and put into the hands of a small group of
+private investors, the money changers”
