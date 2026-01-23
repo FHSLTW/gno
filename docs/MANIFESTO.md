@@ -2050,7 +2050,7 @@ Consider the following thought statements:
 
  * The dollar and most fiat currencies will hyperinflate before 2030.
  
- * The gold
+ * The [Federal Reserve appropriated America's gold in Fort Knox](#fort-knox-gold).
 
  * Silver will replace gold and the dollar as the primary store of value and
    become once again the primary means of exchange; local crypto currencies
@@ -3075,7 +3075,7 @@ Twitter's [Grok probably knows](./images/manifesto/twitter_grok_knows.jpeg) but 
 
 It's a wonder why Twitter hasn't faced a class action lawsuit yet.
 
-### Where is Fort Knox Gold?
+### Fort Knox Gold
 
 _By [twitter.com/@WallStreetApes Feb 16, 2026](https://x.com/WallStreetApes/status/1891237363222761557)_
 
