@@ -1,5 +1,13 @@
 # Gno.land Constitution
 
+This Constitution is still a draft and until $GNOT is transferrable any
+Constitutional Amendments shall require the pre-approval of NT,LLC.
+
+When there are any ambiguities or conflicts within this document NT,LLC
+reserves the right to clarify until $GNOT launch; thereafter ambiguities can
+only be resolved by Supermajority Decision of GovDAO followed by a
+Constitutional Amendment.
+
 ## Terms
 
  * AIB,Inc: All in Bits, Inc.
@@ -20,10 +28,6 @@
 
  * Oversight Body: Initially NT,LLC as represented by a multisig account, but
    eventually represented by the Oversight DAO on Gno.land.
-
- * Chosen VaaS/ICS Provider: Initially the Atom.One chain, but may be
-   substituted by another proof-of-stake constitutional chain forked from
-   Atom.One by a Constitutional Amendment.
 
  * Core DAO: GovDAO, or any subDAO created by GovDAO or Core DAOs, The
    Oversight Body (DAO) and its subDAOs are not Core DAOs as they are meant to
@@ -63,6 +67,149 @@ of NT,LLC or AIB,Inc.
 NT,LLC owes around $20M worth of $GNOT to All in Bits,Inc at the "fair market
 value" of $GNOT at a 25% discount for a "fair market value" which is yet to be
 determined as of the date of this writing.
+
+## Gno.land Tokenomics
+
+> $ATONE  : like a Bitcoin miner\
+> $PHOTON : like a BTC token\
+> $GNOT   : storage deposit token
+
+First a primer on Atom.One tokenomics. $ATONE and $PHOTON are tightly coupled:
+
+ * $ATONE is an inflationary staking token capped at 20% inflation.
+ * $PHOTON is a deflationary transaction gas-fee (spam-prevention) token.
+ * If all $ATONE burned there would be one billion $PHOTON.
+ * Burning is one way; $PHOTON cannot be burned back to $ATONE.
+ * $ATONE targets 2/3 to be staked, thus inflationary staking "rewards" are not
+   income.
+   * Any tax authority that says otherwise is robbing you.
+
+While $PHOTON has no voting rights and cannot be used for staking on Atom.One,
+it nevertheless has unique advantages enforced by the Atom.One constitution:
+
+ * All transaction fee payments on Atom.One must be paid with $PHOTON.
+ * Atom.One VaaS chains (aka ICS shards) including Gno.land after migration
+   must accept $PHOTON as the gas-fee token.
+   * Each may also accept other gas-fee tokens but ultimately the chain must
+     pay $PHOTON to Atom.One for security.
+ * Atom.One VaaS sovereign (consumer) chains may exit (change validator-sets)
+   Atom.One and become self-validating or become hosted by another VaaS hub.
+
+Gno.land will launch independently of Atom.One so Gno.land will initialy
+require $GNOT for transaction fee payment. Before and after Gno.land migrates
+to be hosted by Atom.One VaaS $GNOT will function as a byte storage deposit
+token.
+
+ * Every transaction that ends up increasing the amount of persistent state
+   will require a bond deposit of $GNOT.
+ * Every transaction that ends up freeing up persistent state space will
+   receive a refund of $GNOT.
+ * One billion $GNOT corresponds to 10TB of persistent state space.
+ * The $GNOT inflation schedule will never change, thus the total created $GNOT
+   will never exceed 1.333~ billion $GNOT.
+ * The $GNOT storage deposit rate (per byte) will never increase.
+ * The $GNOT storage deposit rate will be such that the total remaining $GNOT.
+   and all future inflationary $GNOT never exceeds 20TB of state (double the
+   original 10TB). This is to keep the blockchain state at an accessible level
+   especailly accounting for any future potential economic collapses.
+ * $GNOT is only considered "burned" and according to approved burn mechanisms
+   or transactions (like $ATONE "burn" to $PHOTON except $GNOT burning does not
+   yield any new tokens or rights on Gno.land). The automatic burning of $GNOT
+   in a every Realms' SDDCAs (Storage Deposit Discoungt Credit Accounts) are
+   the only automatic burn mechanism of $GNOT but the Gno.land Constitution may
+   also approve of other official burn mechanisms that are reasonable,
+   VOLUNTARY, and EXPLICIT. Such burning mechanisms may be used to yield
+   storage deposit tokens on other chains.
+
+Gno.land is obligated to migrate to be hosted/secured by Atom.One VaaS
+("Validator-as-a-Service") when it is deemed ready by both Atom.One and GovDAO
+by Supermajority Decision.
+
+After migratiion to Atom.One VaaS hosting Gno.land should pay the Atom.One
+chain in $PHOTONs underneath the hood as the Atom.One constitution requires; an
+automated-market-maker exchange module should exist on the Gno.land
+shard/instance to facilitate the internal exchange of collected $GNOT to
+$PHOTON needed to pay Atom.One for its VaaS services.
+
+Gno.land will initially launch as its own blockchain so the $GNOT token will
+function both as the spam-prevention gas-payment token as well as byte-storage
+deposit token. Gno.land after launch will merge with Atom.One and be hosted as
+an Atom.One ICS chain that is secured by the same validator-set as Atom.One.
+
+Once Gno.land migrates over to Atom.One after the Gno.land <> Atom.One IBC
+connection is complete and Atom.One Simple-Replicated ICS MVP is implemented,
+$ATONE will be the staking-token (but with limited voting rights for Gno.land
+itself), $PHOTON will be the CPU gas-token, and $GNOT the dedicated
+byte-storage deposit token. Thus Gno.land will become a key VaaS hosted
+application on Atom.One, but other VaaS chains hosted by Atom.One may not offer
+the Gno VM or Gno programmability; and even if such chains were a simple fork
+of Gno.land they may operate independently of the $GNOT token. 
+
+The $GNOT token should not be used as a storage deposit token or for any other
+chain except the original Gno.land chain, nor be used as a staking/bonding
+token as this limits the utility (accessible storage capacity) of Gno.land
+itself. It may make sense to burn $GNOT via approved burn mechisms to acquire
+secondary tokens that can be used for storage deposit on other GnoVM (and
+non-Gno) chains hosted on Atom.One.
+
+There will be many more chains hosted with Atom.One ICS that are powered by the
+GnoVM or compete with the Gno.land chain itself, but these chains will need to
+give Gno.land strong-attribution by the Gno Network GPL copyleft license (a
+fork of AGPL3.0 to allow for strong-attribution in a decentralized blockchain
+ecosystem with many independent actors), and Gno.land will be the first such
+Gno-based chain, so Gno.land and $GNOT will benefit from first-mover advantage
+and network effect even if other chains do not use the $GNOT token at all.
+
+Competing smart-contract platforms that are not based on the GnoVM, or those
+that are based on other languages will also be supported in Atom.One, as
+Atom.One will support quasi-permissionless hosting of many blockchain
+application platforms; but Gno and GnoVM will serve as a foundation for future
+multi-user general-purpose language innovation.
+
+## Pre-Atom.One Migration Validators
+
+Until Atom.One VaaS/ICS is ready Gno.land the validator selection mechanism is
+determined by GovDAO Supermajority Decision.
+
+Priority should be given to Atom.One validators and Gno.land core developers.
+
+The number of validators prior to migration shall not exceed 50.
+
+No validators may operate on any cloud hosting provider, but must run their own
+hardware where they have physical access to the server at all times (such as in
+a co-location provider with 24/hour access).
+
+Atom.One migration is not contingent on all of its validators running their
+their own hardware as above, but GovDAO may impose a requirement by Majority
+Decision for Atom.One to have a completed roadmap specified to get there.
+
+Atom.One VaaS/ICS shall not be deemed suitable unless the Gno.land chain
+remains whole (not part of any "mega-block" system where the consensus engine
+process is shared with other applications) and Gno.land may migrate away from
+Atom.One by on-chain transactions.
+
+If Atom.One validators do not largely (> 90% by voting power) run on their own
+hardware where validators have physical access to their server at all times 2
+years after migration or 4 years after Gno.land launch whichever is sooner,
+GovDAO with a Supermajority Decision may choose to fund the development of a
+fork Atom.One in the likeness of the Cosmos -> Atom.One fork with a relevant
+governance proposal on Atom.One (with preference to the class of voters who
+voted in favor of this requirement); provided that GovDAO first submits
+reasonable proposals to Atom.One that get rejected by Atom.One.
+
+Likewise if the Atom.One staking incentive system is not such that the top
+validator has at most three times the voting power of the lowest validator 2
+years after migration or 4 years after Gno.land launch whichever is sooner,
+GovDAO with a Supermajority Decision may choose to fund the development of a
+fork Atom.One in the likeness of the Cosmos -> Atom.One fork with a relevant
+governance proposal on Atom.One (with preference to the class of voters who
+voted in favor of this requirement); provided that GovDAO first submits
+reasonabe proposals to Atom.One that get rejected by Atom.One.
+
+In the case of an Atom.One fork initiated by GovDAO by the above, the fork need
+not run any chain except those that run Gno. The constitution of the fork shall
+be determined by Supermajority Decision of GovDAO and respect the rights of
+NT,LLC with respect to the "Gno" word mark.
 
 ## $GNOT (Deflationary) Inflation
 
@@ -166,8 +313,8 @@ excess $GNOT deposits per realm. This is not considered part of Revenue.
 
 When the $GNOT storage deposit rate decreases (not automatically by the $GNOT
 burn mechanism described below, but by the decision of GovDAO to lower the
-rate) 50% of the excess $GNOT goes into the RecompenseTreasury (unless it
-already has 20% of total outstanding $GNOT), and the remainer goes to the
+rate) 25% of the excess $GNOT goes into the AuditTreasury, 25% of the excess
+$GNOT goes into the RecompenseTreasury, and the remainer goes to the
 seggregated virtual account per realm ($GNOT of the realm's SDDCA) to be used
 only for future discounts on transactions for that specific realm. These SDDCA
 $GNOT tokens may be transferred to other SDDCAs by rules defined in the
@@ -176,26 +323,27 @@ storage, and transfers must be initiated by the present authority of the realm
 or containing organization. 
 
 DDCA $GNOTs may be burned automatically by a rate set by an amendment to the
-Gno.land Constitution not to exceed 10% a year.  _(This is to prevent stagnant
+Gno.land Constitution not to exceed 10% a year. This is to prevent stagnant
 $GNOT from limiting the allocated storage capacity of Gno.land and thereby
 reducing its utility. $GNOT burned in this way will also reduce the $GNOT
 storage deposit rate automatically but not trigger any of the the mechanisms
-described here.)_
+described here.
+
+The AuditTreasury may only be used to fund of the auditing of code deployed to
+Gno.land by Qualified Auditors, or to assess and reward Bonded Auditors who
+submit valid Bonded Vulnerability Reports.
 
 The RecompenseTreasury may only be used to recompense victims of exploits and
-fraud. They may be disbursed only if approved by GovDAO with a proposal by
-members without a conflict of interest in accordance to the Governing Documents
-AND either one of Atom.One governance by supermajority or an official court of
-one of 50 states of the US as of 2025 except California, New York, Texas, and
-Minessota; however this does not constitute an obligation to do so. Recompense
-transfer decisions must be preceded by a thorough analysis of the problem and
-tasking of a task-force to recover any ill-gotten gains and at least two weeks
-for all relevant parties to review the analysis and task-force for approval. To
-prevent abuse of these funds no Constitutional amendment or Laws may make any
-changes to this clause except to remove the condition for a US state but only
-after there is a change to the US member states; or to replace Atom.One with a
-fork thereof in the spirit of the genesis of Atom.One approved by
-NewTendermint,LLC.
+fraud. They may be disbursed only if approved by GovDAO by Supermajority
+Decision with members with any conflict of interests abstaining. There is no
+obligation to compensate anyone. Recompensation decisions must be preceded by a
+thorough analysis of the problem and tasking of a task-force to recover any
+ill-gotten gains and at least two weeks for all relevant parties to review the
+analysis and task-force for approval.
+
+To prevent abuse of these non-GovDAO treasury funds no Constitutional Amendment
+may be passed to use them except to burn tokens from the AuditTreasury or
+RecompenseTreasury at a rate not exceeding 10% a year.
 
 ## GovDAO Structure
 
@@ -568,8 +716,7 @@ or spend any funds already assigned to a treasury defined in the Constitution
 except by a Constitutional Amendment.
 
 No Constitutional Amendments may inflate the $GNOT supply above what is already
-declared without the Supermajority Decision post-approval of GnotDAO following
-a Constitutional Majority of GovDAO.
+declared even with Constitutional Amendments.
 
 ## Role and Rights of NT,LLC
 
@@ -922,20 +1069,18 @@ The name registration system shall satisfy the following:
 
 ## Atom.One ICS Migration
 
-The Current VaaS/ICS Provider is defined initially to be the Atom.One chain.
-
 Gno.land is initially separate from the pre-existing Atom.One. Gno.land
 initially has its own transaction fee token ($GNOT instead of $PHOTON).
-Gno.land is obligated to migrate to the Current VaaS/ICS Provider when declared
-ready by GovDAO simple majority decision.
+Gno.land is obligated to migrate to Atom.One when declared ready by GovDAO
+simple majority decision.
 
-In the case of a fork of Atom.One the Current VaaS/ICS Provider may be changed
-by a Constitutional Amendment and pre-approval by the Oversight Body to be one
-of the forks of Atom.One. Any GovDAO members who are involved in such a fork or
-have any additional relative ownership of staking tokens or fee tokens of the
-fork are considered to have a conflict of interest and must disclose so and
-abstain from voting. If a quorum cannot be reached the quorum requirement may
-be waived by NT,LLC or the Oversight Body.
+In the case of a fork of Atom.One the target chain may be changed by a
+Constitutional Amendment and pre-approval by the Oversight Body to be one of
+the forks of Atom.One. Any GovDAO members who are involved in the creation or
+development of such a fork or have any additional relative ownership of staking
+tokens or fee tokens of the fork are considered to have a conflict of interest
+and must disclose so and abstain from voting. If a quorum cannot be reached the
+quorum requirement may be waived by NT,LLC or the Oversight Body.
 
 ## Treasury diversification
 
@@ -964,6 +1109,10 @@ and the following:
      approved tokens as soon as reasonable.
    * These subclauses and the parent clause cannot be removed by any
      constitutional amendment.
+
+ * $PHOTON is not a stablecoin but it may be allowed by up to 20%.
+
+ * $ATONE tokens or any other staking tokens are not allowed.
 
  * In no case shall the amount of $GNOT sold per treasury per month for
    diversification purposes exceed 1% of $GNOT of that treasury as measured at
@@ -1074,6 +1223,7 @@ The following are defined as Core Software:
  * GnoWeb+Alts.
  * Tendermint2.
  * GnoVM.
+ * Atom.One IBC and ICS.
  * Official webg wallet software.
  * Primary hardware wallet software.
 
@@ -1083,30 +1233,33 @@ software, except for Tendermint2 which may remain Apache2.0 or as determined by
 NT,LLC. All new Core Software must have its strong attribution clause approved
 by GovDAO Supermajority Decision.
 
-All Core Software must be fully audited before any release.
+All Core Software funded by Gno.land must be fully audited before any release
+when funded by Gno.land.
+
+GovDAO must contribute to Atom.One until Atom.One IBC and ICS are complete.
+
+Concurrently GovDAO must contribute to Atom.One such that the validators are
+incentivized and over time required to run on their own dedicated machines.
+
+### Software Finalization
 
 All funding for Core Software must be toward the finalization of the software
 for the major version number of that software.
 
-Funding for Core Software must include an estimate for the future time of
-finalization of the software which may be any number of years into the future.
+ * Funding for Core Software must include an estimate for the future time of
+   finalization of the software which may be any number of years into the
+   future.
 
-Software development that exceeds 7 years of development without finalization
-for the software for the major version number may be halted by the Oversight
-Body unless an extension of up to 2 years is granted by a Supermajority
-Decision of GovDAO. Extensions may be granted at any time, and may be to
-another development party.
+ * Software development that exceeds 7 years of development without
+   finalization for the software for the major version number may be halted by
+   the Oversight Body unless an extension of up to 2 years is granted by a
+   Supermajority Decision of GovDAO. Extensions may be granted at any time, and
+   may be to another development party.
 
-After the finalization of the software the only funding allowed is for the
-maintenance of that software 
+ * After the finalization of the software the only funding allowed is for the
+   maintenance of that software 
 
-GovDAO must pass a Constitutional Amendment to include provisions for the
-formal verification of Go or Gno programs with the approval of a reputable
-researcher with publications about formal verification using open source tools
-already used by industry for formal verification of programs.
-
-If meaningful progress of such cannot be made during any 2 years of funding
-another qualfiied researcher must be consulted for development with a new team.
+### Private Key Security
 
 At no point shall a GovDAO or Gno.land fund for the development of any software
 or team or anything else that allows or encourages the user to enter their
@@ -1241,6 +1394,17 @@ have well-cited publications in the field of cryptography and at least a
 doctorates degree in cryptography or relevant fields in mathematics, and at
 least 1 T1 or T2 members who are equally expert in the field of quantum
 computing.
+
+### Formal Verification of Go/Gno.
+
+Once the market cap of $GNOT exceeds $5B GovDAO must pass a Constitutional
+Amendment to include provisions for the formal verification of Go or Gno
+programs with the approval of a reputable researcher with publications about
+formal verification using open source tools already used by industry for formal
+verification of programs.
+
+If meaningful progress of such cannot be made during any 2 years of funding
+another qualfiied researcher must be consulted for development with a new team.
 
 ## Hardware Security
 
