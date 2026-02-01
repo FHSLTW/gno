@@ -1,12 +1,19 @@
-# Gno.land Constitution
+# GNO.LAND CONSTITUTION
 
-This Constitution is still a draft and until $GNOT is transferrable any
-Constitutional Amendments shall require the pre-approval of NT,LLC.
+_This Constitution is still a draft and until $GNOT is transferrable any
+Constitutional Amendments shall require the pre-approval of NT,LLC, or an
+amendment shall be approved with a Majority Decision by GovDAO if proposed by
+NT,LLC. When there are any ambiguities or conflicts within this document NT,LLC
+reserves the right to clarify them until $GNOT is transferrable. After $GNOT is
+made transferrable the normal mechanism of Constitutional Amendments will
+apply._
 
-When there are any ambiguities or conflicts within this document NT,LLC
-reserves the right to clarify until $GNOT launch; thereafter ambiguities can
-only be resolved by Supermajority Decision of GovDAO followed by a
-Constitutional Amendment.
+## Declaration of Intent
+
+We the gnomes of Gno.land, to bring to life a virtual world of structured
+information and logic expressed in a mutiuser language based system, for
+bringing light to darkness by hosting all that will be known, hereby establish
+this Constitution for Gno.land.
 
 ## Terms
 
@@ -15,23 +22,39 @@ Constitutional Amendment.
  * NT,LLC: NewTendermint, LLC.
 
  * Constitution: This Gno.land constitution document including modifications by
-   a Constitutional Amendments. This Constitution is considered independent of
+   Constitutional Amendments. This Constitution is considered independent of
    the Atom.One Constitution although some portions of the Atom.One
-   Constitution may be referenced here for clarity.
+   Constitution may be referenced here for clarity or context.
 
- * Constitutional Amendment: A modification to this Constitution by a
+ * Constitutional Amendment: A modification to this living Constitution by a
    Constitutional Majority Decision of GovDAO and any other requirements as
-   defined in this Constitution.
+   defined in this Constitution; composed of diffs.
 
  * Majority, Supermajority, and Constitutional Majority Decision: See "GovDAO
-   Decisions"
+   Decisions" and "Common DAO Spec" // XXX also link to committees
 
  * Oversight Body: Initially NT,LLC as represented by a multisig account, but
-   eventually represented by the Oversight DAO on Gno.land.
+   eventually represented by an Oversight DAO on Gno.land.
+
+ * GovDAO.*: GovDAO and its subDAOs 
 
  * Core DAO: GovDAO, or any subDAO created by GovDAO or Core DAOs, The
    Oversight Body (DAO) and its subDAOs are not Core DAOs as they are meant to
    be somewhat independent of GovDAO.
+
+ * GovDAO: GovDAO, or any subDAO created by GovDAO or Core DAOs, The
+   Oversight Body (DAO) and its subDAOs are not Core DAOs as they are meant to
+   be somewhat independent of GovDAO.
+
+ * ICS: Inter-Chain-Security, or the general service of validating a chain with
+   the validator set of another chain, or a subset thereof.
+
+ * Simple Replicated ICS: ICS but where the same validator set of the original (hub) 
+   is used to secure the other (consumer) chain.
+
+ * SDDCAs (Storage Deposit Discoungt Credit Accounts): Excess $GNOT deposits
+   from the redution in price of $GNOT/byte deposit. See "Excess $GNOT
+   Deposits".
 
  * XXX
 
@@ -39,30 +62,29 @@ Constitutional Amendment.
 
 At Gno.land Genesis there will be one billion $GNOT tokens.
 
- * Airdrop1:    35.0% - from partial Cosmos governance snapshot 3 years ago
- * Airdrop2:    23.1% - from recent AtomOne snapshot prior to launch
- * GovDAO:      11.9% - for prior and future Gno.land ecosystem contributors
- * Investors:    7.0% - reserved for current and future investments
- * NT,LLC:      23.0% - of which a significant portion is allocated for prior loans
+ * Airdrop1:      35.0% - from partial Cosmos governance snapshot 3 years ago
+ * Airdrop2:      23.1% - from recent AtomOne snapshot prior to launch
+ * Contributors:  11.9% - for prior and future Gno.land ecosystem contributors
+ * Investors:      7.0% - reserved for current and future investments
+ * NT,LLC:        23.0% - of which a significant portion is allocated for prior loans
 
 $GNOT will not be transferrable initially except for whitelisted addresses.
 Whitelisted addresses include "GovDAO" and "Investors" funds and any additional
 addresses dedicated for faucets.
 
 The 7% (qualfied, private) investors allocation will be held by NT,LLC in a
-segregated account. Proceeds of sales of these tokens will go to NT,LLC for
+segregated account. Proceeds of sales of these tokens will go toward NT,LLC for
 past or future development of Gno.land, Gno, Tendermin2, other Core Software,
 and ecosystem development.
 
-GovDAO is responsible for distributing $GNOT to prior and future Gno.land
-ecosystem contributors (as well as those contributing to the blockchain stack,
-including external contributors to Tendermint2, GnoVM, Gno.land server and
-tooling, GnoWeb) with the exclusion of any current GovDAO members.
-
-Up to one-third of the 11.9% genesis allocation wil be distributed to prior
-contributors. Prior and current NT,LLC and AIB,Inc employees may be rewarded
-with the approval of NT,LLC and GovDAO except the primary owners and executives
-of NT,LLC or AIB,Inc.
+GovDAO is responsible for distributing the $GNOT of the Contributors allocation
+to prior and future Gno.land ecosystem contributors (as well as those
+contributing to the blockchain stack, including external contributors to
+Tendermint2, GnoVM, Gno.land server and tooling, GnoWeb) with the exclusion of
+any current GovDAO members. At least one-quarter and up to one-third of the
+GovDAO 11.9% genesis allocation will be distributed to prior contributors by
+GovDAO Supermajority Decision. Present GovDAO members are not eligible for any
+allocation from the Contributors genesis allocation.
 
 NT,LLC owes around $20M worth of $GNOT to All in Bits,Inc at the "fair market
 value" of $GNOT at a 25% discount for a "fair market value" which is yet to be
@@ -88,16 +110,16 @@ While $PHOTON has no voting rights and cannot be used for staking on Atom.One,
 it nevertheless has unique advantages enforced by the Atom.One constitution:
 
  * All transaction fee payments on Atom.One must be paid with $PHOTON.
- * Atom.One VaaS chains (aka ICS shards) including Gno.land after migration
-   must accept $PHOTON as the gas-fee token.
+ * Atom.One ICS Consumer Chains (aka ICS shards)
+   including Gno.land after migration must accept $PHOTON as the gas-fee token.
    * Each may also accept other gas-fee tokens but ultimately the chain must
      pay $PHOTON to Atom.One for security.
- * Atom.One VaaS sovereign (consumer) chains may exit (change validator-sets)
-   Atom.One and become self-validating or become hosted by another VaaS hub.
+ * Atom.One ICS sovereign (consumer) chains may exit (change validator-sets)
+   Atom.One and become self-validating or become hosted by another ICS hub.
 
 Gno.land will launch independently of Atom.One so Gno.land will initialy
 require $GNOT for transaction fee payment. Before and after Gno.land migrates
-to be hosted by Atom.One VaaS $GNOT will function as a byte storage deposit
+to be hosted by Atom.One ICS $GNOT will function as a byte storage deposit
 token.
 
  * Every transaction that ends up increasing the amount of persistent state
@@ -112,104 +134,31 @@ token.
    and all future inflationary $GNOT never exceeds 20TB of state (double the
    original 10TB). This is to keep the blockchain state at an accessible level
    especailly accounting for any future potential economic collapses.
- * $GNOT is only considered "burned" and according to approved burn mechanisms
-   or transactions (like $ATONE "burn" to $PHOTON except $GNOT burning does not
-   yield any new tokens or rights on Gno.land). The automatic burning of $GNOT
-   in a every Realms' SDDCAs (Storage Deposit Discoungt Credit Accounts) are
-   the only automatic burn mechanism of $GNOT but the Gno.land Constitution may
-   also approve of other official burn mechanisms that are reasonable,
-   VOLUNTARY, and EXPLICIT. Such burning mechanisms may be used to yield
-   storage deposit tokens on other chains.
 
-Gno.land is obligated to migrate to be hosted/secured by Atom.One VaaS
-("Validator-as-a-Service") when it is deemed ready by both Atom.One and GovDAO
-by Supermajority Decision.
+Gno.land is obligated to migrate to be hosted/secured by Atom.One ICS when it
+is deemed ready according to this Constitution by GovDAO by Supermajority
+Decision.
 
-After migratiion to Atom.One VaaS hosting Gno.land should pay the Atom.One
-chain in $PHOTONs underneath the hood as the Atom.One constitution requires; an
-automated-market-maker exchange module should exist on the Gno.land
-shard/instance to facilitate the internal exchange of collected $GNOT to
-$PHOTON needed to pay Atom.One for its VaaS services.
-
-Gno.land will initially launch as its own blockchain so the $GNOT token will
-function both as the spam-prevention gas-payment token as well as byte-storage
-deposit token. Gno.land after launch will merge with Atom.One and be hosted as
-an Atom.One ICS chain that is secured by the same validator-set as Atom.One.
+After migration to Atom.One ICS hosting Gno.land should pay the Atom.One chain
+in $PHOTONs underneath the hood as the Atom.One constitution requires; an AMM
+exchange module should exist on the Gno.land shard/instance to facilitate the
+internal exchange of collected $GNOT to $PHOTON needed to pay Atom.One for its
+ICS services.
 
 Once Gno.land migrates over to Atom.One after the Gno.land <> Atom.One IBC
-connection is complete and Atom.One Simple-Replicated ICS MVP is implemented,
-$ATONE will be the staking-token (but with limited voting rights for Gno.land
-itself), $PHOTON will be the CPU gas-token, and $GNOT the dedicated
-byte-storage deposit token. Thus Gno.land will become a key VaaS hosted
-application on Atom.One, but other VaaS chains hosted by Atom.One may not offer
-the Gno VM or Gno programmability; and even if such chains were a simple fork
-of Gno.land they may operate independently of the $GNOT token. 
+connection is complete and Atom.One ICS MVP is implemented $ATONE will be the
+staking-token (but with no voting rights for Gno.land itself) and limited
+voting rights for Gno.land itself, and $PHOTON will be the (CPU-time)
+gas-token, and $GNOT the dedicated byte-storage deposit token. Thus Gno.land
+will become a key ICS consumer chain on Atom.One; but other ICS chains hosted
+by Atom.One may not offer the Gno VM or Gno programmability; and even if such
+chains were a simple fork of Gno.land they may operate independently of the
+$GNOT token. 
 
 The $GNOT token should not be used as a storage deposit token or for any other
 chain except the original Gno.land chain, nor be used as a staking/bonding
 token as this limits the utility (accessible storage capacity) of Gno.land
-itself. It may make sense to burn $GNOT via approved burn mechisms to acquire
-secondary tokens that can be used for storage deposit on other GnoVM (and
-non-Gno) chains hosted on Atom.One.
-
-There will be many more chains hosted with Atom.One ICS that are powered by the
-GnoVM or compete with the Gno.land chain itself, but these chains will need to
-give Gno.land strong-attribution by the Gno Network GPL copyleft license (a
-fork of AGPL3.0 to allow for strong-attribution in a decentralized blockchain
-ecosystem with many independent actors), and Gno.land will be the first such
-Gno-based chain, so Gno.land and $GNOT will benefit from first-mover advantage
-and network effect even if other chains do not use the $GNOT token at all.
-
-Competing smart-contract platforms that are not based on the GnoVM, or those
-that are based on other languages will also be supported in Atom.One, as
-Atom.One will support quasi-permissionless hosting of many blockchain
-application platforms; but Gno and GnoVM will serve as a foundation for future
-multi-user general-purpose language innovation.
-
-## Pre-Atom.One Migration Validators
-
-Until Atom.One VaaS/ICS is ready Gno.land the validator selection mechanism is
-determined by GovDAO Supermajority Decision.
-
-Priority should be given to Atom.One validators and Gno.land core developers.
-
-The number of validators prior to migration shall not exceed 50.
-
-No validators may operate on any cloud hosting provider, but must run their own
-hardware where they have physical access to the server at all times (such as in
-a co-location provider with 24/hour access).
-
-Atom.One migration is not contingent on all of its validators running their
-their own hardware as above, but GovDAO may impose a requirement by Majority
-Decision for Atom.One to have a completed roadmap specified to get there.
-
-Atom.One VaaS/ICS shall not be deemed suitable unless the Gno.land chain
-remains whole (not part of any "mega-block" system where the consensus engine
-process is shared with other applications) and Gno.land may migrate away from
-Atom.One by on-chain transactions.
-
-If Atom.One validators do not largely (> 90% by voting power) run on their own
-hardware where validators have physical access to their server at all times 2
-years after migration or 4 years after Gno.land launch whichever is sooner,
-GovDAO with a Supermajority Decision may choose to fund the development of a
-fork Atom.One in the likeness of the Cosmos -> Atom.One fork with a relevant
-governance proposal on Atom.One (with preference to the class of voters who
-voted in favor of this requirement); provided that GovDAO first submits
-reasonable proposals to Atom.One that get rejected by Atom.One.
-
-Likewise if the Atom.One staking incentive system is not such that the top
-validator has at most three times the voting power of the lowest validator 2
-years after migration or 4 years after Gno.land launch whichever is sooner,
-GovDAO with a Supermajority Decision may choose to fund the development of a
-fork Atom.One in the likeness of the Cosmos -> Atom.One fork with a relevant
-governance proposal on Atom.One (with preference to the class of voters who
-voted in favor of this requirement); provided that GovDAO first submits
-reasonabe proposals to Atom.One that get rejected by Atom.One.
-
-In the case of an Atom.One fork initiated by GovDAO by the above, the fork need
-not run any chain except those that run Gno. The constitution of the fork shall
-be determined by Supermajority Decision of GovDAO and respect the rights of
-NT,LLC with respect to the "Gno" word mark.
+itself. See also "$GNOT Burn Mechanisms".
 
 ## $GNOT (Deflationary) Inflation
 
@@ -241,11 +190,15 @@ The inflated tokens will be distributed as follows:
    absence of any existing agreement they will be split equally among these
    treasuries.
 
+## Gno.land Treasuries
+
+XXX
+
 The Gno.land treasuries are as follows:
 
  * GovDAOTreasury is the treasury for GovDAO.
  * PayTreasury can only be used to pay GovDAO members.
- * ValTreasury can only be used to pay validators or Atom.One VaaS hosting fees
+ * ValTreasury can only be used to pay validators or Atom.One ICS hosting fees
    after conversion to $PHOTON.
  * ServicesTreasury can only be used to pay for the creation and
    maintenance of services for Gno.land such as blockchain explorers, indexers,
@@ -306,6 +259,24 @@ from the ReserveTreasury requires a new Constitutional Amendment and must go
 toward a specialized DAO with its own mandate and bylaws, and may or may not be
 controlled by GovDAO.
 
+## $GNOT Burn Mechanisms
+
+$GNOT is only considered "burned" and according to approved burn mechanisms or
+transactions (like $ATONE "burn" to $PHOTON except $GNOT burning does not yield
+any new tokens or rights on Gno.land). The automatic burning of $GNOT in a
+every Realms' SDDCAs (Storage Deposit Discoungt Credit Accounts) are the only
+automatic burn mechanism of $GNOT but the Gno.land Constitution may also
+approve of other official burn mechanisms that are reasonable, VOLUNTARY, and
+EXPLICIT. Such burning mechanisms may be used to yield storage deposit tokens
+on other chains.
+
+The $GNOT token should not be used as a storage deposit token or for any other
+chain except the original Gno.land chain, nor be used as a staking/bonding
+token as this limits the utility (accessible storage capacity) of Gno.land
+itself. It may make sense to burn $GNOT via approved burn mechisms to acquire
+secondary tokens that can be used for storage deposit on other GnoVM (and
+non-Gno) chains hosted on Atom.One. See "$GNOT Burn Mechanisms".
+
 ## Excess $GNOT Deposits
 
 When the $GNOT storage deposit rate per byte is decreased this results in
@@ -344,6 +315,51 @@ analysis and task-force for approval.
 To prevent abuse of these non-GovDAO treasury funds no Constitutional Amendment
 may be passed to use them except to burn tokens from the AuditTreasury or
 RecompenseTreasury at a rate not exceeding 10% a year.
+
+## Gno.land Pre-Migration Validators 
+
+Until Atom.One ICS is ready Gno.land the validator selection mechanism is
+determined by GovDAO Supermajority Decision.
+
+Priority should be given to Atom.One validators and Gno.land core developers.
+
+The number of validators prior to migration shall not exceed 50.
+
+No validators may operate on any cloud hosting provider, but must run their own
+hardware where they have physical access to the server at all times (such as in
+a co-location provider with 24/hour access).
+
+Atom.One migration is not contingent on all of its validators running their
+their own hardware as above, but GovDAO may impose a requirement by Majority
+Decision for Atom.One to have a completed roadmap specified to get there.
+
+Atom.One ICS shall not be deemed suitable unless the Gno.land chain
+remains whole (not part of any "mega-block" system where the consensus engine
+process is shared with other applications) and Gno.land may migrate away from
+Atom.One by on-chain transactions.
+
+If Atom.One validators do not largely (> 90% by voting power) run on their own
+hardware where validators have physical access to their server at all times 2
+years after migration or 4 years after Gno.land launch whichever is sooner,
+GovDAO with a Supermajority Decision may choose to fund the development of a
+fork Atom.One in the likeness of the Cosmos -> Atom.One fork with a relevant
+governance proposal on Atom.One (with preference to the class of voters who
+voted in favor of this requirement); provided that GovDAO first submits
+reasonable proposals to Atom.One that get rejected by Atom.One.
+
+Likewise if the Atom.One staking incentive system is not such that the top
+validator has at most three times the voting power of the lowest validator 2
+years after migration or 4 years after Gno.land launch whichever is sooner,
+GovDAO with a Supermajority Decision may choose to fund the development of a
+fork Atom.One in the likeness of the Cosmos -> Atom.One fork with a relevant
+governance proposal on Atom.One (with preference to the class of voters who
+voted in favor of this requirement); provided that GovDAO first submits
+reasonabe proposals to Atom.One that get rejected by Atom.One.
+
+In the case of an Atom.One fork initiated by GovDAO by the above, the fork need
+not run any chain except those that run Gno. The constitution of the fork shall
+be determined by Supermajority Decision of GovDAO and respect the rights of
+NT,LLC with respect to the "Gno" word mark.
 
 ## GovDAO Structure
 
@@ -1367,20 +1383,24 @@ require a different path for post-quantum readiness.
      * Investigate changes to Tendermint2 with NT,LLC to support pluggable
        quantum proof cryptography.
    * Within 3 years after launch:
-     * Complete an initial draft modification of Tendermint2 approved by NT,LLC
-       to support pluggable quantum proof cryptography.
+     * Complete or approve an initial draft modification of Tendermint2 also
+       approved by NT,LLC to support pluggable quantum proof cryptography.
    * Within 4 years after launch:
-     * Complete final release of Tendermint2 by NT,LLC to support pluggable
-       quantum proof cryptography.
+     * Support and test final release of Tendermint2 by NT,LLC to support
+       pluggable quantum proof cryptography.
    * Within 5 years after launch:
      * Require validators to run Tendermint2 with quantum proof cryptography.
        If Atom.One does not allow post-quantum Tendermint2 by this time and
        Gno.land runs on Atom.One ICS, Gno.land must migrate away from Atom.One
        ICS.
 
+Tendermint2 like the GnoVM is owned by and funded by NT,LLC. The funding for
+the development of the above is NT,LLC. Failing the above GovDAO may decide to
+fork Tendermint2 on a branch with a unique name with the above as priorities.
+
 No development or endorsement of quantum-proof modifications to Gno.land Core
 Software or any consensus engine shall take place without the pre-approval of
-NT,LLC (or its delegate) of its design specification. GovDAO may use a
+NT,LLC (or its delegate) of its design specification. GovDAO must use a
 reasonable amount of funds (under the typical salary for a software architect
 for a year) to collect proposals for such specifications to be approved by
 NT,LLC (or its delegate) before funding for its development. 
@@ -1395,9 +1415,20 @@ doctorates degree in cryptography or relevant fields in mathematics, and at
 least 1 T1 or T2 members who are equally expert in the field of quantum
 computing.
 
+Such new cryptographic primitives or implementations have a need that is not
+met by the existing core software.
+
+New cryptographic primitives for when an old primitive is deemeed
+insufficiently secure (e.g. when quantum computers break secp256k1 given
+pubkey) then both the old and new pubkeys shall be independently derived and
+both required for a testing period of 7 years with significant economic
+incentivecs such as with bounties rewarded for cracking challenge keys. This
+helps prevent the adoption of primitives or implementations with unknown or
+secret exploits from posing systemic risk.
+
 ### Formal Verification of Go/Gno.
 
-Once the market cap of $GNOT exceeds $5B GovDAO must pass a Constitutional
+Once the market cap of $GNOT exceeds $8B GovDAO must pass a Constitutional
 Amendment to include provisions for the formal verification of Go or Gno
 programs with the approval of a reputable researcher with publications about
 formal verification using open source tools already used by industry for formal
@@ -1485,3 +1516,181 @@ products.
 All of the procedures, software, and materials used by the forensic analysis
 team shall be made public and free such that any team may use them to offer
 their own forensic analysis.
+
+# Appendix
+
+## Common DAO Spec
+
+This is based off of atomone-hub/genesis/CONSTITUTION.md and simplified.
+
+These common DAO specifications shall apply for all Core DAOs unless otherwise
+specified, Special Purpose DAOs, and all sub-DAOs of these DAOs. Other DAOs
+that are not Core DAOs or Special Purpose DAOs or Descendants of these DAOs
+need not implement these specifications.
+
+## Common DAO Spec - version gno.land/genesis
+
+All sub-DAOs have parent DAOs. The parent DAO of the Core DAOs and Special
+Purpose DAOs are the governance of the AtomOne Hub itself. Therefore all Core
+DAOs and Special Purpose DAOs as well as their sub-DAOs and the Hub Governance
+itself altogether form a tree structure. The parent DAO and the parent DAO’s
+parent DAO and so on, all the way up to Hub Governance are altogether called
+the Ancestors of a DAO. The sub-DAOs and their sub-DAOs and so on are called
+the Descendants of a DAO.
+
+Every DAO, upon creation, must have a Charter (which is composed of Purpose and
+Description), an initial set of Council members (which may be empty) and may
+also have  Bylaws and Mandates, The Purpose and Description must be plaintext
+files. The Bylaws and Mandates must be named plaintext files or folders of
+plaintext files, or folders of folders.
+
+A DAO’s Charter, Bylaws, and Mandates may be changed by a Simple Majority vote
+from any of the DAO’s ancestors, except from AtomOne Hub Governance which shall
+require a Supermajority vote.
+
+A DAO’s Bylaws, Mandates, and the Bylaws and Mandates of its ancestor DAOs, the
+relevant Laws, and this Constitution, altogether are called the Governing
+Documents of the DAO. 
+
+A DAO has a Council composed of zero or more members, with no maximum number of
+members unless otherwise specified in its Governing Documents.
+
+The Council of a DAO may change the Bylaws of the DAO, and otherwise make
+Decisions on behalf of the DAO by passing Proposals.
+
+A DAO may establish any number of sub-DAOs through the DAO Council’s Simple
+Majority vote, with their own defined Charters and specific bylaws and
+mandates, as necessity may arise and in accordance with the parent DAO Charter
+and bylaws. Sub-DAOs are owned by and can be controlled by the parent DAO, and
+members are also subject to the ancestor DAOs’ bylaws and mandates.
+
+A Simple Majority in DAO governance is defined to be exactly “more than half”.
+A Supermajority in DAO governance is defined to be exactly "two thirds or
+more". This is distinct from a Supermajority in Hub Governance.
+
+By default, unless specified otherwise in its Governing Documents, the
+following rules shall apply for Council voting:
+
+- each member shall have equal voting power (no member may occupy multiple
+  seats)  
+- a Council member may resign and thereby remove themselves from the Council  
+- the tally denominator is the number of voters minus ABSTAINs (no quorum
+  requirement)  
+- proposals are open until they are decided by sufficient majority, or
+  dismissed, or expired  
+- proposals are immediately dismissed by a Simple Majority vote of NO
+
+By default, unless specified otherwise in its Governing Documents, the
+following rules shall apply for Council membership election:
+
+- the Council may elect one or more new members, and/or remove one or more
+  members, by Super Majority vote. (self mutating).   
+- the DAO’s Ancestors may modify the Council membership with a Super Majority
+  vote.
+
+Each DAO shall have an associated crypto address which can hold any number of
+tokens.  
+
+DAOs may operate with logic on core shards, or, represented as a m-of-n
+multisig account on the AtomOne hub where the signers are each members of the
+DAO’s council, where m is more than ½ n and also m is 3 or more. In all cases
+financial transactions from the DAO’s treasury must follow the passage of
+governance proposals on the DAO.
+
+### Section 4.b: Core DAOs with Special Powers
+
+As stated, the AtomOne Hub Governance structure will include several DAOs, to
+provide guidance, oversight, and support for various aspects of governance and
+operations. 
+
+The Core DAO Council has the authority to make decisions for the Core DAO
+through a Simple Majority vote of its members, as well as update the Bylaws,
+but cannot update its Charter or Mandates. 
+
+All Core DAOs and their sub-DAOs shall be composed of Cosmonauts, and the DAO
+Councils be composed of Citizens. All Cosmonauts and Citizens of these DAOs
+must have public and known real human identities.
+
+Members are encouraged to engage in multiple DAOs within the AtomOne Hub to
+foster collaboration, innovation, and the exchange of ideas. However, to
+maintain the integrity of governance, members must declare their conflicts of
+interest  and are required to comply with the conflict of interest policies
+outlined in this Constitution, the Laws, and applicable Governing Documents.
+Members must recuse themselves by not voting or voting ABSTAIN on proposals
+that pose a conflict of interest.
+
+The following are Core DAOs of AtomOne:
+
+- Steering DAO and its subDAOs  
+- Oversight DAOs and their subDAOs  
+- Special Purpose DAOs and their subDAOs
+
+While Core DAOs are non-person entities and may hold ATONE tokens in its
+treasury, unlike other DAOs, Core DAOs may not stake ATONE tokens.
+
+All Core DAOs must manage the financial resources of its treasury efficiently
+and transparently at all times. 
+
+#### Steering DAO
+
+There is only ever one Steering DAO.
+
+The Steering DAO is responsible for providing guidance and advisory annotations
+on proposals and funding reports, helping to steer the overall direction and
+priorities of the AtomOne Hub.
+
+The Steering DAO can:
+
+- publish publish periodic announcements on chain  
+- annotate all core DAO proposals with advisory notes to provide context,
+  guidance, and recommendations, offering a non-binding perspective to aid
+  decision-making.  
+- annotate funding reports to highlight key insights, concerns, and
+  recommendations.  
+- adjust AtomOne Hub Governance proposal timelines ("bend time") to provide
+  additional time for consideration, though this power cannot be used to
+  indefinitely prevent proposals from being addressed.  
+- reduce the threshold needed to pass new laws from a Constitutional Majority
+  to a Supermajority.
+
+
+The mostly advisory nature of the Steering DAO's annotations ensures they guide
+but do not dictate decisions, and specific limitations on the power to adjust
+proposal timelines must be defined to prevent abuse.
+
+Upon genesis there will be no Steering DAO. A Steering DAO may be created,
+dismissed, or replaced by a Supermajority vote on AtomOne hub governance. 
+
+For the purpose of cohesion, before the Steering DAO can be created (or
+replaced), its initial (or new) set of Council members must have all agreed to
+joining that Council by cryptographically signing a list of all the council
+members, along with the DAO’s identifier.
+
+#### Oversight DAOs
+
+An Oversight DAO is responsible for ensuring that all laws, bylaws, mandates,
+and core DAO governance proposals as well as AtomOne Hub governance proposals
+within the scope of its mandate) are in compliance with their respective
+Governing Documents. 
+
+There can be one or more Oversight DAOs.
+
+Any Oversight DAO can (within the scope of its mandate):
+
+- veto any proposal or transaction of any Core DAO or AtomOne Hub with proof of
+  its violation of Governing Documents.  
+- adjust Core DAO or AtomOne Hub proposal timelines ("bend time") to provide
+  additional time for consideration, ensure thorough review, and ensure all
+  Core DAO and AtomOne Hub proposals comply with its Governing Documents.  
+- as exceptions to the above rules, no Oversight DAO may affect any proposals
+  to change any Oversight DAO’s Council membership, or any proposals to suspend
+  or dismiss any Oversight DAO; both of which either require the passage of new
+  law, or specific proposal types with the same criteria as passing new law.
+
+The broad veto power of Oversight DAOs ensures that no single proposal can
+override constitutional principles or violate the Constitution, but vetoes
+should be used sparingly and with justification.
+
+Upon genesis there will be no Oversight DAOs. An Oversight DAO may be created,
+dismissed, or replaced by a Supermajority vote on AtomOne hub governance. 
+
