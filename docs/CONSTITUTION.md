@@ -64,8 +64,8 @@ this Constitution for Gno.land.
    is used to secure the other (consumer) chain.
 
  * SDDCAs (Storage Deposit Discoungt Credit Accounts): Excess $GNOT deposits
-   from the redution in price of $GNOT/byte deposit. See "Excess $GNOT
-   Deposits".
+   from the redution in price of $GNOT/byte deposit ($GNOT Storage Deposit
+   Price). See "Excess $GNOT Deposits".
 
  * Open Soruce IP: Intellectual Property that is made available freely under
    the Gno Network GPL or any liberal license compatible with the Gno Network
@@ -146,11 +146,11 @@ token.
  * One billion $GNOT corresponds to 10TB of persistent state space.
  * The $GNOT inflation schedule will never change, thus the total created $GNOT
    will never exceed 1.333~ billion $GNOT.
- * The $GNOT storage deposit rate (per byte) will never increase.
- * The $GNOT storage deposit rate will be such that the total remaining $GNOT.
-   and all future inflationary $GNOT never exceeds 20TB of state (double the
-   original 10TB). This is to keep the blockchain state at an accessible level
-   especailly accounting for any future potential economic collapses.
+ * The $GNOT Storage Deposit Price (per byte) will never increase.
+ * The $GNOT Storage Deposit Price will be such that the total remaining $GNOT.
+   and all future inflationary $GNOT never exceeds the size of a typical
+   consumer internal hard-disk or solid-state drive. See also "Gno.land Storage
+   Capacity".
 
 Gno.land is obligated to migrate to be hosted/secured by Atom.One ICS when it
 is deemed ready according to this Constitution by GovDAO by Supermajority
@@ -260,6 +260,7 @@ for the Gno.land blockchain and its users and includes (and must prioritize):
  * GnoWeb+Alts
  * Tendermint2
  * GnoVM
+ * Go
  * Atom.One IBC and ICS
  * Official standard reference browser extension wallet
  * Official standard hardware wallet software
@@ -509,6 +510,8 @@ automatic burn mechanism of $GNOT but the Gno.land Constitution may also
 approve of other official burn mechanisms that are reasonable, VOLUNTARY, and
 EXPLICIT. Such burning mechanisms may be used to yield storage deposit tokens
 on other chains.
+
+XXX Include a standard burn address and/or burn transaction type.
 
 The $GNOT token should not be used as a storage deposit token or for any other
 chain except the original Gno.land chain, nor be used as a staking/bonding
@@ -1009,6 +1012,111 @@ includes any modifications to the structure and voting rules of GovDAO.
 
 All GovDAO members agree to help enforce these rights of NT,LLC.
 
+## Principle of the Chain
+
+In all cases the latest released Gno.land node software shall be able to run
+the transactions from the first Genesis launch until current lastest
+transaction. This is achieved by the following:
+
+ * A chain upgrade may have a sequential number in the chain ID.
+ * Each unique chain ID has its own Genesis State & transactions from index 0.
+ * The last transaction for a given chain ID results in the End State.
+ * The Genesis State of the next chain ID is composed of {End State, Migration
+   Script, Other Genesiss Params}.
+ * The Migration Script is applied to the End State to form a part of the next
+   Genesis State.
+ * A folder with subfolders for each chain ID in sequence where each subfolder
+   includes the blockchain of blocks of txs and a partial Genesis State that
+   omits the End State of the previous chain ID; and also the last node release
+   for that chain ID.
+ * A simple bash script that to derive the latest state from the first Genesis
+   by running all txs in sequence from the first chain ID to the last.
+
+Blockchain nodes that have the full transaction history will always be able to
+sync to the latest state hash from genesis using the latest released node
+software and possibly also including previous node software releases. This is
+to preserve integrity. If validators and nodes are not allowed to store any
+offending transaction data they may prune past transactions as long as they
+maintain a recent qualfiied snapshot as determined by this Constitution or
+GovDAO and all transactions since the snapshot such that the latest blockchain
+state may be derived from the snapshot.
+
+### Gno.land Node Upgrades
+
+All upgrades to the Gno.land Node Software must be for Fully Audited Open
+Source IP (as any official software release) approved by GovDAO Supermajority
+Decision that includes the exact commit hash of the software release. The only
+exception to the Fully Audited requirement shall be for emergency security
+patches as approved by Law.
+
+No node operator shall be required to run Gno.land Node Software that cannot be
+deterministically built with the source even in the case of security issues.
+
+### Gno.land Storage Capacity
+
+The $GNOT Storage Deposit Price will be such that the total remaining $GNOT.
+and all future inflationary $GNOT does not exceed the size of a typical
+affordable consumer internal hard-disk or solid-state drive available for
+purchase by anyone for a PC; where such a storage drive is manufactured by
+independent manufacturers of at least three independent manufacturers and in
+three different countries; and such a storage drive is at least as good as the
+following in key performance metrics:
+
+ * Western Digital 10TB WD\_Black Performance Internal Hard Drive HDD - 7200
+   RPM, SATA 6 Gb/s, 512 MB Cache, 3.5" - WD102FZBX
+
+This is to keep the blockchain state at an accessible level for newcomers,
+developers, and hobbiests and also accounts for any future potential economic
+collapses.
+
+### State Purge Transactions
+
+State Purge Transactions are blockchain transactions for deleting state from a
+Gno.land realm or package. Transactions that depend on state purged by State
+Purge Transactions shall fail with a special transaction response code.  The
+Merkle-tree root hash shall be derivable as if the data was there even after
+purge by State Purge Transactions. This helps preserve the integrity of the
+chain state for valid use-cases and makes it easier to undo when needed.
+
+State Purge Transactions must be constructed by a fully deterministic and
+accountable procedure made available to anyone to run freely without depending
+on any external services or APIs. State Purge Transactions must be signed by
+authorized signers determined by a future Constitutional Amendment with
+limitations, controls, and a system of accountability so as to prevent the
+abuse of the chain.
+
+The procedure for the submission of State Purge Transactions may not
+necessarily be part of the usual logic of the node software as it may require
+more resources than should be made to all nodes and may involve prioritization
+based on off-chain tips such as by flagging which may not require any gas fees.
+However the node software must be made such that node operators may optionally
+automatically check the integrity of state purge transactions and detect
+false-positives (due to non-determinism bugs or due to the wrongful signing of
+State Purge Transactions). False Positive Purge Detection Transactions may be
+signed and submitted by active validators as well as any GovDAO delegated
+authority; but whether such transactions have any immediate effect or whether
+node operators must check the integrity of the transaction shall be determined
+by future Constitutional Amendments. False Positive Detection Transactions that
+are shown to be valid must be addressed by GovDAO.
+
+All AI models used for the purpose of automated moderation shall be registered
+on chain by the hash of its bytes and shall be static and not automatically
+trained and updated with new transactions such that anyone can check the
+integrity of State Purge Transactions easily with the exct AI model registered
+on chain at the time of purge. AI models may be replaced with newer models or
+be trained with blockchain data and periodically be registered with the chain.
+All AI models used for the purpose of automated moderation shall be made
+available for anyone on demand with any reasonable fees for the transmission of
+its bytes.
+
+### Addressing Core Software Bugs
+
+See "Transaction Replay Forks".
+
+### Addressing Hacks, Theft, and Exploits.
+
+See "Transaction Replay Forks".
+
 ## Amendments to the Constitution 
 
 All amendments (modifications) to this Constitution incuding changes to any
@@ -1038,8 +1146,10 @@ User rights, protections, and limitations will be determined by future
 Constitutional Amendments provided that freedom of speech will be protected
 with the following exceptions:
 
-Pornographic material must be defined by a constitutional amendment but in all
-cases shall include: 
+### Banned Offensive Material
+
+Pornographic material is defined as follows and can be further restricted by
+Law:
 
  * photographs or animated or AI rendered depictions of humans or animals or
    humanoid figures engaged in sexual activity or depicted in an arousing way
@@ -1052,77 +1162,65 @@ cases shall include:
    including games or movies that include such material; except of classic
    sculptures hand-made prior to the year 1985.
 
-Gore material must be defined by a constitutional amendment but shall only
-include realistic depictions of gore whether photographic, video, animated, or
-AI rendered, and whether embedded in a movie or in a game; and shall exclude
-material that is submitted for educational purposes especially those related to
-political conflicts or abuses of power.
+Gore material is defined as follows:
 
-Harmful harmful (material harmful for users) is defined as material that is
-determined to result in hacks or exploits of user devices unbeknownst to the
-user. This excludes material that is submitted for educational purposes and
-includes relevant disclaimers to make clear that the material is harmful and is
-unlikely to result in accidental hacks or exploits of user devices.
+ * realistic depictions of gore whether photographic, video, animated, or AI
+   rendered, and whether embedded in a movie or in a game; and shall exclude
+   material that is submitted for educational purposes especially those related
+   to political conflicts or abuses of power.
 
-Pornographic material, gore material, and harmful harmful as determined by
-GovDAO or as determined by the Oversight Body may be filtered by GnoWeb or the
-blockchain node in API responses in such a way that anyone who runs GnoWeb or
-the blockchain node can also replicate the filter without pay or conditions and
+Harmful harmful (material harmful for users) is defined as:
+
+ * material that is determined to result in hacks or exploits of user devices
+   unbeknownst to the user. This excludes material that is submitted for
+   educational purposes and includes relevant disclaimers to make clear that
+   the material is harmful and is unlikely to result in accidental hacks or
+   exploits of user devices.
+
+Pornographic, Gore, and Harmful material are altogether called Banned Offensive
+Material. Banned Offensive Material as determined by the relevant GovDAO DAO or
+as determined by the Oversight Body may be filtered by GnoWeb or the blockchain
+node in API responses in such a way that anyone who runs GnoWeb or the
+blockchain node can also replicate the filter without pay or conditions and
 without relying on any external service. This shall not include hatespeech or
 misinformation: neither GovDAO nor the Oversight Body nor any Core DAOs may
 determine what is hatespeech or misinformation. This is to ensure freedom of
 speech.
 
-Blockchain nodes that have the full transaction history will always be able to
-sync to the latest state hash from genesis using the latest released node
-software and possibly also including previous node software releases. This is
-to ensure the integrity of the chain. If validators and nodes are not allowed
-to store any offending transaction data they may prune past transactions as
-long as they maintain a recent qualfiied snapshot as determined by this
-Constitution or GovDAO and all transactions since the snapshot such that the
-latest blockchain state may be derived from the snapshot.
-
-Only pornographic material, gore material, and harmful material may be purged
+Only Banned Offensive Material and harmful material may be purged
 from the blockchain state by marking code packages or state objects (including
-entire realms) as such with a State Purge Transaction. Transactions that depend
-on state purged by State Purge Transactions shall fail with a special
-transaction response code. To preserve integrity of the chain the Merkle-tree
-root hash shall be derivable as if the data was there even after purge by State
-Purge Transactions.
+entire realms) as such with a [State Purge Transaction](#state-purge-transactions).
 
-State Purge Transactions must be constructed by a fully deterministic and
-accountable procedure made available to anyone to run freely without depending
-on any external services or APIs. State Purge Transactions shall be signable by
-parties determined by this Constitution.
-
-The procedure for the submission of State Purge Transactions may not
-necessarily be part of the usual logic of the node software as it may require
-more resources than should be made to all nodes and may involve prioritization
-based on off-chain tips such as by flagging which may not require any gas fees.
-However the node software must be made such that node operators may optionally
-automatically check the integrity of state purge transactions and detect
-false-positives (due to non-determinism bugs or due to the wrongful signing of
-State Purge Transactions). False Positive Purge Detection Transactions may be
-signed and submitted by active validators as well as any GovDAO delegated
-authority; but whether such transactions have any immediate effect or whether
-node operators must check the integrity of the transaction shall be determined
-by future Constitutional Amendments. False Positive Detection Transactions that
-are shown to be valid must be addressed by GovDAO.
-
-All AI models used for the purpose of automated moderation shall be registered
-on chain by the hash of its bytes and shall be static and not automatically
-trained and updated with new transactions such that anyone can check the
-integrity of State Purge Transactions easily with the exct AI model registered
-on chain at the time of purge. AI models may be replaced with newer models or
-be trained with blockchain data and periodically be registered with the chain.
-All AI models used for the purpose of automated moderation shall be made
-available for anyone on demand with any reasonable fees for the transmission of
-its bytes.
+The Princple of the Chain shall be preserved at all times; that is, the
+blockchain of blocks of transactions will not itself be modified (but the state
+may be with subsequent transactions). See also "Principle of the Chain".
 
 Code packages and realms that are primarily designed or used to bypass these
-checks may also be frozen with State Freeze Transactions or purged from the
-blockchain state with State Purge Transactions either signed by a manual
-process defined by this Constitution.
+checks may also be frozen with a State Freeze Transaction with a future
+Constitutional Amendment that defines the procedure and limitations but in no
+case shall any state be purged except for the Banned Offensive Material. A porn
+realm may have all of its pornographic material purged but comments about the
+porn do not fall in this category so therefore cannot be purged. This is to
+prevent abuse and censorship of legitimate discussions.
+
+### Intellectual Property and Privacy
+
+DMCA or GDPR or similar that are concerned with intellectual property or
+privacy will not affect the Principle of the Chain; this is because such laws
+can be misused to censor information that the public ought to know. As with the
+aforementioned other offending material each validator or node is responsible
+for deleting old blockchain transaction history as needed. GovDAO may pass a
+Constitutional Amendment to include DMCA or GDPR issues in the class of
+material that may be pruged from blockchain state with a Purge Transaction but
+only after a heirarchical bonded system of manual review first takes place to
+filter for a strict subset of DMCA or GDPR or similiar requests in accordance
+with terms defined in the Constitution under "User Rights and Limitations". In
+no case shall there be an automated system that purges such state, nor any
+guarantees of timeliness of processing such material be offered or required.
+
+Notwithstanding the above, such material may be filtered by GnoWeb.
+
+### $GNOT Deposits for Purged State
 
 Any $GNOT byte deposit tokens of state purged from the blockchain state with
 State Purge Transactions (after a proving period of 6 months without being
@@ -1154,25 +1252,40 @@ the submission Purge Deposit Confiscation Transactions.
 
 User or realm tokens or property that are not $GNOT deposit tokens of purged
 state whether native tokens or Gno application derived may not be confiscated
-by any means, though they may be frozen by a procedure defined by future
-Constitutional Amendments.
+by any means, though they may be frozen by State Freeze Transactions.
+
+### Hacks, Thefts, and Exploits
 
 User or realm tokens or property that are determined to be derived from any
-hacks, thefts, or exploits and are not determined to be owned by users
-unrelated to any hacks, thefts, or exploits may be frozen by a procedure
-defined by future Constitutional Amendments.
+hacks, thefts, or exploits and are not determined to have already been
+transferred to unrelated parties may be frozen by a State Freeze Transaction or
+the funds used to recompense associated victims as determined by a future
+Constitutional Amendment and governed by the Constitution Alone.
 
-Until 6 months after $GNOT is transferrable and until any future Constitutional
-Amendments to the contrary GovDAO by Supermajority Decision with the
-pre-approval by the Oversight Body may do anything deemed necessary including
-chain upgrades with transaction filtering to reverse the damage as best judged
-by GovDAO and the Oversight Body in the spirit of this Constitution.
+Each recompense decision shall be independent of another and require a
+Supermajorithy Decision of GovDAO. The public shall be provided sufficient
+information to judge the soundness of each decision.
 
-Future Constitutional Amendments are expected to define conventions and
-protocols for realm and library logic to support the freezing of user accounts
-or tokens or property in such a way to minimize impact for unrelated parties;
-such as by the standardization of "wrapper contracts" that manage the
-throttling of deposit to and withdraws from any exchange logic.
+### Transaction Replay Forks
+
+At any time GovDAO by Supermajority Decision shall have the right and authority
+to address bugs in the Core Software including the GnoVM, node software, and
+systems Gno code by filtering or annotating transactions or making adjustments
+to state (Transaction Replay Forks). This shall not apply to general Gno
+ecosystem Gno code issues.
+
+Before and until 1 year after $GNOT is transferrable GovDAO by Supermajority
+Decision shall have the right and authority to make Transaction Replay Forks
+for the purpose of addressing hacks, thefts, and exploits or other problems in
+the spirit of the Constitution.
+
+The extra-blockchain information of a Transaction Replay Fork such as
+transaction annotations, filters, and state adjustments shall be considered a
+part of the node software and not a part of the blockchain structure (of blocks
+of transactions) itself, so as to preserve the Principle of the Chain.
+
+These terms are expected to be modified before the 1 year mark to clarify or
+modify the Transaction Replay Fork rules.
 
 ## Software Audits
 
@@ -1238,17 +1351,6 @@ least three GovDAO members two of whom are T1 or T2 members; and they shall
 each be responsible for ensuring that all the conditions are satisifed; however
 they shall not be responsible for the correctness of each Qualified Audit
 Report.
-
-## Gno.land Node Software Upgrading
-
-All upgrades to the Gno.land Node Software must be for Fully Audited Open
-Source IP (as any official software release) approved by GovDAO Supermajority
-Decision that includes the exact commit hash of the software release. The only
-exception to the Fully Audited requirement shall be for emergency security
-patches as approved by Law.
-
-No node operator shall be required to run Gno.land Node Software that cannot be
-deterministically built with the source even in the case of security issues.
 
 ## Realm Upgrading
 
@@ -1537,6 +1639,30 @@ GovDAO must maintain a simple guide for users to harden their security including
 Gno.land nor GovDAO nor any entity receiving funding from Gno.land or GovDAO
 may not sell any hardware devices except by approved retailers of the
 manufactuer.
+
+### Safety Wrapper Contracts
+
+GovDAO shall ensure the timely development of conventions, protocols, and
+libraries for realm and library logic to support the freezing of user accounts
+or native tokens or application tokens/property in such a way to minimize harm
+for unrelated parties.
+
+For the purpose of protecting users from theft or loss resulting from exploits,
+hacks, or even user error GovDAO shall fund for the development of multiple
+competing implementations of wrapper contracts that address one or more of the
+following concerns:
+
+ * restriction patterns of inflow and outflow of tokens or property 
+ * pluggable circuit breakers and administration to control inflow and outflow
+ * realm upgrading for one or more patterns
+ * organization administration
+
+For example, time-based restriction of outflows (a waiting period) allows for a
+circuit breaker to prevent a hacker from running off with stolen funds; and
+value-based throttling restriction of outflows can add supplementary protection
+if the waiting period fails; and such a Safety Wrapper Contract could allow for
+outflow restrictions to overlap with inflow restrictions to save time without
+compromising on security.
 
 ### Quantum Proof Cryptography
 
