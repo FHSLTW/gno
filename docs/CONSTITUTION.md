@@ -896,8 +896,8 @@ breach of this requirement its signature shall have no effect or its effect
 must be reversed promptly by GovDAO before any other decision.
 
 Within 2 years after launch NT,LLC must delegate its Oversight Body role to a
-DAO (the Oversight Body DAO) on Gno.land, or by by declaring its members of
-present or former T1 or T2 members in accordance with all requirements.
+DAO (the Oversight Body DAO) on Gno.land, or by by declaring its members in
+accordance with all requirements.
 
 If after 2 years after launch NT,LLC does not determine the Oversight Body DAO
 or its members, GovDAO shall remind NT,LLC to determine the Oversight Body DAO
@@ -908,30 +908,60 @@ determined that satisfies the requirements.
 
 The Oversight Body DAO committee Requirements are as follows:
 
- * One Oversight Body DAO member shall be from T1.
- * One Oversight Body DAO member shall be from T2.
- * One Oversight Body DAO member shall not be a GovDAO member (the Third
-   Oversight Member).
+ * One Oversight Body DAO member shall be from T1 or T2 (First Oversight Member).
+ * One Oversight Body DAO member shall be from T1 or T2 (Second Oversight Member).
+ * One Oversight Body DAO member shall not be a GovDAO member but otherwise be
+   a Qualified Candidate with no significant conflict of interests such as by
+   being invested in a competing crypto project (Third Oversight Member).
 
 Furhermore,
 
+ * Each member gets 1 vote. All decisions require 2 YES votes.
  * Two or more members shall not reside in the same country at the time of
    appointment.
  * Two or more members shall not be citizens of (or be automatically eligible
    for citizenship by birthright of) the same country or union.
  * All Oversight Body DAO members must fully understand the Constitution and
    Laws as assessed in a live interview test with T1 members.
+ * Each member shall serve a maximum term of three years, thereafter shall not
+   be eligible for re-election for another three years.
+ * All members shall be considered working full time and paid as a typical T1
+   GovDAO member (including the Third Oversight Member) from the PayTreasury.
 
-After the initial establishment of an Oversight Body DAO any member of the DAO
-committee may be replaced at any time by a Supermajority Decision of GovDAO;
-except the Third Oversight Member if elected by GnotDAO.
+After the initial establishment of an Oversight Body DAO:
 
-At any time GnoDAO by Supermajority Decision may elect to replace the Third
-Oversight Body DAO member with another qualified candidate. After election the
-candidate must pass the live interview test with T1 members, and the test must
-be recorded and result shared with the public.
+ * The First Oversight Member may be replaced at any time by a Supermajority
+   Decision of GovDAO.
+ * The Second Oversight Member may be replaced at any time by NT,LLC.
+ * The Third Oversight Member who has served already for three months may be
+   replaced at any time by a Supermajority Decision of GnotDAO (not GovDAO).
+ * The Third Oversight Member who has served already for three months may also
+   be replaced at any time by a Supermajority Decision of GovDAO AND the
+   pre-approval of NT,LLC.
 
-The Oversight Body DAO may not self-mutate.
+After any election by GnotDAO the candidate must pass the live interview test
+with T1 members (as determined by a Majority Decision by GovDAO), and the test
+must be recorded and result shared with the public. The Third Oversight Member
+candidate who gets rejected in the live interview cannot be re-elected for
+another one year.
+
+Any Oversight Member who gets replaced shall be deemed to have served their
+full term and cannot be re-elected for another three years.
+
+A vacancy (e.g. from resignment, incapacitation, disqualification, ejection
+from GovDAO etc) must be replaced before any Constitutional Amendment or Law
+gets passed; and furthermore must be replaced within 30 days before further
+proposals get passed save for any urgent Node Software Upgrades related to
+software bugs or Transaction Replay Forks.
+
+The Oversight Body DAO members committee may not self-mutate except when a
+vacancy arises after which the two remaining members may self-elect by
+consensus a temporary Qualified Candidate (the Temporary Oversight Member)
+without restriction. This Temporary Oversight Member is expected to get
+superceded (or be voted in) by the usual election rules, but such a member
+shall not be deemed to have been "replaced": they may be elected again soon
+after. Temporary Oversight Members may vote to elect more Temporary Oversight
+Members with any more vacancies.
 
 With the exception of any Oversight Body DAO election proposals, the Oversight
 Body or its subDAOs shall have the authority to (and must block) any decision
@@ -947,7 +977,7 @@ This is especially important for proposals that immediately pass due to a
 supermajority decision. XXX improve this by improving the Common DAO Spec.
 
 The Oversight Body does NOT have the sole authority to transfer, spend, freeze,
-or burn any funds.
+or burn any funds or property.
 
 ## GnotDAO
 
