@@ -1412,11 +1412,14 @@ TODO Rest to be determined after launch by a Constitutional Amendment.
 
 ## Name Registration
 
-Name registration will not intially be implemented, but shall be one of the
-priorities to figure out.
+The primary purpose shall be for providing human readible names for package
+paths (i.e. the `org\_name` in `"gno.land/r/org_name/pkg_name"`).
+Name registration will not intially be implemented.
 
-There shall be one name registration for Gno.land, though realms may define
-their own for any purpose not managed by Gno.land.
+There shall be at most one core name registration system for Gno.land, though
+anyone may deploy their own for any purpose not managed by Gno.land, and as per
+the Seven Mandates of Gno.land no name shall be required for any core services
+(such as MsgAddPackage or MsgExec).
 
 The name registration system shall satisfy the following:
 
