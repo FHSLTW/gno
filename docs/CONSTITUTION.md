@@ -1413,7 +1413,8 @@ TODO Rest to be determined after launch by a Constitutional Amendment.
 ## Name Registration
 
 The primary purpose shall be for providing human readible names for package
-paths (i.e. the `org\_name` in `"gno.land/r/org_name/pkg_name"`).
+paths (e.g. `org\_name` in `"gno.land/r/org_name/pkg_name"`).
+
 Name registration will not intially be implemented.
 
 There shall be at most one core name registration system for Gno.land, though
@@ -1439,6 +1440,7 @@ The name registration system shall satisfy the following:
    * "admin" (and neither "admln")
    * "support"
    * and more prefixes as determined by GovDAO.
+   * and blacklists also determined by GovDAO.
 
  * Notwithstanding the above NT,LLC may reserve names that start with "gno".
 
@@ -1513,21 +1515,21 @@ must be voted YES by more than 1/3 of the total voting power of GovDAO
 (abstains do not count) by the end of the voting period of three weeks. There
 is no commitment yet for voting YES on this initial fork proposal.
 
-If such a fork proposal reaches 1/3 of voting power, a second fork commitment
-proposal must be initiated with the same terms as the original within a week
-after the first fork proposal's voting period has ended. Again all GovDAO
-members vote on this second proposal. The second fork proposal must also be
-voted YES by more than 1/3 of all the total voting power of GovDAO by the end
-of the voting period of three weeks. Abstaining is equivalent to voting NO.
-Those who vote YES here are committing to join the others who voted YES and
-split from those who voted NO or abstained if it also reaches 1/3 of voting
+If such a fork proposal reaches more than 1/3 of voting power, a second fork
+commitment proposal must be initiated with the same terms as the original
+within a week after the first fork proposal's voting period has ended. Again
+all GovDAO members vote on this second proposal. The second fork proposal must
+also be voted YES by more than 1/3 of all the total voting power of GovDAO by
+the end of the voting period of three weeks. Abstaining is equivalent to voting
+NO.  Those who vote YES here are committing to join the others who voted YES
+and split from those who voted NO or abstained if it also reaches 1/3 of voting
 power--members may only serve on one chain.
 
-If the second fork commitment proposal also reaches 1/3 of voting power, two
-concurrent proposals must be proposed to determine which fork retains the
-original Gno.land identity: one for the current chain, and another for the
-proposed fork. Only T1 members may vote on these proposals; and they may vote
-YES or NO on one or both proposals.
+If the second fork commitment proposal also reaches more than 1/3 of voting
+power, two concurrent proposals must be proposed to determine which fork
+retains the original Gno.land identity: one for the current chain, and another
+for the proposed fork. Only T1 members may vote on these proposals; and they
+may vote YES or NO on one or both proposals.
 
  * If the current chain wins a 2/3 supermajority of votes of the original T1
    members (but not the proposed fork), everyone who voted YES on the fork
