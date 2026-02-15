@@ -299,9 +299,9 @@ participate, verify, and fund for data gathering, indexing, and processing as
 they wish. The end result is a more trustworthy search engine; and for many the
 ability to search without being tracked for advertisers.
 
-No longer would we need to depend on a handful of search engines, and the few
-internet archives (many thanks to archive.org and other archives, but they are
-[constantly hit](https://blog.archive.org/2024/05/28/internet-archive-and-the-wayback-machine-under-ddos-cyber-attack/) by [cyberattacks](https://blog.archive.org/2024/10/21/internet-archive-services-update-2024-10-21/)
+No longer would we need to depend on a handful of centralized search engines,
+and the few internet archives (many thanks to archive.org and other archives,
+but they are [constantly hit](https://blog.archive.org/2024/05/28/internet-archive-and-the-wayback-machine-under-ddos-cyber-attack/) by [cyberattacks](https://blog.archive.org/2024/10/21/internet-archive-services-update-2024-10-21/)
 and are always under existential risk of being shut down by the powers that be
 or even mobs of terrorists or religious extremists. We can reinvent the data
 archives and search engines to be more open, decentralized,
@@ -325,11 +325,12 @@ software implementations that all align with "small. simple. secure."
 philosophy of projects like Tendermint or [Alpine Linux](https://alpinelinux.org).
 
 We also have the ability to construct *new* small/simple/scure composable
-modules for the new opportunities of today (such as processing these archives
-w/ fully accountable determinstic AI). Once we have attained some level of
-financial power as a community we can also start funding the completion of
-foundational software projects written in more modern memory-safe languages,
-formally verify their safety, and even use AI to help secure them to finality.
+modules (in Gno and Go) for the new opportunities of today (such as processing
+these archives w/ fully accountable determinstic AI). Once we have attained
+some level of financial power as a community we can also start funding the
+completion of foundational software projects written in more modern memory-safe
+languages, formally verify their safety, and even use AI to help secure them to
+finality.
 
 Going back to the previous example of using AI to analyze archives, answers to
 common queries should be recorded somewhere again with full accountability of
