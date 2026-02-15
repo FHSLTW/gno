@@ -32,9 +32,23 @@ the bible. At the moment of writing chances are that the bible you have or find
 contains mistranslations from the original Hebrew or Koine Greek meant to keep
 you enslaved to authority. Coding for Gno.land began during the Covid19
 lockdowns when I was most frustrated at the censorship of information regarding
-the true laboratory origins of Covid19 and the conspiracy to forcibly medicate
-the population with a dangerous experimental gene therapy that did more harm to
-children and young adults than it did good.
+the true laboratory origins of Covid19 (created in the Wuhan lab as attested by
+multiple whistleblowers and researchers and made possible by Fauci) and the
+conspiracy to forcibly medicate the population with a dangerous experimental
+gene therapy that did more harm to children and young adults than it did good
+nor prevented transmission (and this was known at the time of the mandates).
+
+What more, the spreading of truth has done little to hold those responsible to
+account, apparently because mass media is controlled and paid for (via
+advertisers) or purchased by the banking powers that be; and we are tossed from
+one shocking headline to the next year after year (fine tuned by algorithms
+that models and manipulates the collective psyche) until we forget that a mass
+eugenics experiment was barely put to a stop; until the next one succeeds with
+better tools for public discourse censorship and manipulation. We've been
+cordoned off each to our echo chamber silos of partisan ideologies and rendered
+impotent at all scales, and worse rendered mute across the isle by algorithms
+that control what we see and even what we did/said/liked/retweeted/shared. We
+are truly the cattle in the animal farm.
 
 I was also frustrated over the years of dealing with the Interchain Foundation
 I founded in Switzerland, and the "Cosmos Cartel" which defamed and slandered
@@ -52,74 +66,22 @@ Christian around the Christmas of 2025.
 > who falsely claim to be apostles. Without growing weary, you have persevered
 > and endured many things for the sake of My name.
 
-I was brought up to hate lies, yet lies were all around me. Furthermore it
-became apparent that speaking truth does little when almost the entirety of
-media is taken over by those who control capital. My friend and ally TLC who
-founded CoinTelegraph had allegedly taken her own life, and other reporters who
-approached me were only interested in hit pieces. My Twitter follower count
-stopped growing altogether and it became clear that I was being shadowbanned in
-ways undetectable via the normal means.
-
-Nikolai Mushegian founder of MakerDAO knew and acknowledged (regarding the
-distributed defamation campaign) what I was going through but shortly
-thereafter his body was found in the ocean right after he revealed that Mossad
-and the CIA were (are) operating a sex blackmail ring in the Carribean. I have
-been approached multiple times myself (though I always refuse) to become
-ensnared in a variety of ways; even to co-found "Molock DAO" on Ethereum (which
-I also refused). 
+We were once brought up to hate lies, yet lies were all around us. Furthermore
+it became apparent that speaking truth does little when almost the entirety of
+media is taken over by those who control capital.
 
 The aphorisms "money is the root of all evil", and "Satan rules the world", and
-"everything we know is wrong" I have found to be largely correct. Satan runs
+"everything we know is wrong" we have found to be largely correct. Satan runs
 the show today and he he controls the money and buys his mercenaries who want
 to ensnare you too. If you work in a field of powers like crypto you will be
 found early (in relation to others), assessed, and later you will find yourself
-targetted, neutralized, at worst assassinated, and in the very least surrounded
-by people with a different agenda. But this situation will change; for me and
-many in our team Gno.land is the stepping stone from which this change will
-occur; a place where we hope many others will join us in publishing their
-living works and testimony.
+targetted, neutralized, or worse.
 
-This project is what keeps me going despite the darkness of the world. I know
-that one day the truth will shine bright uncontainable, and that everyone who
-had been participating willingly in the dissemination of lies and half-truths
-for their gain will be judged for future generations. This project is for those
-who wish to accelerate this inevitability; for those who need an outlet while
-the alignments emerge. And yes, Gno.land is also ideal for a lot of other
-use-cases already explored, but we don't need more memecoins; we need to
-urgently build new tools for a new world where truth is collaboratively made
-manifest by logic and testimony. Speculation is too often like gambling and
-always the maxim from poker that if you don't know who the fish is, it's you.
-On the other hand it is good to offer something people would gladly pay for; so
-let's build something constructive.
-
-#### On Mistranslations of the Bible
-
-It is now well understood in some circles that certain translations of the
-bible were promoted with the intent of deceiving its readers for mass
-manipulation. Online tools such as OpenBible.com and BibleHub.com can be used
-to help descern better the intended meaning and identify mistranslations, but
-readers cannot easily be convinced unless they take the initiative do the
-research themselves--but most have no time or energy for such study.
-Furthermore, even on OpenBible.com and BibleHub.com there still persist
-systemic mistranslations and misinterpretations that have been carried on for
-millenia since the time of the Roman Empire.
-
-More recently I also discovered that [Jesus was a Tax
-Protester](#jesus-was-a-tax-protester). Such theories are systematically
-suppressed by pretty much all denominations, even premillenialism is not a
-universal belief, and specifically attempts to interpret eschatology (end times
-prophecy specifically of the Book of Revelation) as pertaining to these years
-are particularly unpopular with church authorities, nevertheless the [evidence
-speaks for itself](https://github.com/jaekwon/ephesus) upon examination, though
-not all are equipped to judge one theory over another based on Bayesian
-probability analysis against a variety of models just as doctors are trained to
-diagnose a patient's ailment.
-
-You don't have to agree with me, I have made errors in the past, and what is
-true will speak for itself. Our challenge now lies in finding the expression of
-rules that will enable truth to become self-evident through constructive
-dialogue and knowledge sharing. This project is for all the targetted
-individuals and future targetted individuals who seek to flip the table.
+But this situation will change; we are comforted by the general ark of history
+that has seen the abolishion of slavery and still largely the freedom of
+speech, the general spreading of human rights, and vast advances in information
+technology (and also the general sciences, mathematics, and arts) that helps us
+make better choices about our future.
 
 ### Gno.land Genesis: The General Information Problem
 
@@ -169,8 +131,6 @@ Peter Thiel, Sam Altman, and others even with the help of President Donald
 Trump; and all the other various investors who aren't sufficiently terrified of
 the consequences.
 
-> "It's going to happen anyways, might as well bet on it."
-
 AI generated content now buries the actual content I want to look for. It's
 become ridiculously difficult to find well produced or truly interesting
 information. EnSHITification applies not only to software products but the
@@ -218,31 +178,166 @@ But these are just the obvious ones.
 > says 2013 surveillance ‘child’s play’ compared to technology today.
 > - [Ewen MacAskill, The Guardian; June 8th, 2023](https://www.theguardian.com/us-news/2023/jun/08/no-regrets-says-edward-snowden-after-10-years-in-exile)
 
-I have personally experienced strange behavior in most of my devices and my
-internet connection that I can only attribute to local and global AI daemons
-that trick me as a "three-card Monte" magician would (without being obvious).
-The local AI daemon would gaslight me about the content of the files, or
-whether I clicked, or my VPN would hog my internet without any of my
-applications using it. Sometimes it isn't clear whether it is a local agent or
-external; such as when the links in my post get corrupted where some English
-characters get replaced by Unicode lookalikes; or when the link I shared
-appears correct as the root repository URL on my phone but for the recipient's
-phone is a link to the repository's commit log.
+From a popular meme regarding surveillance technology: 
 
-It's hard for me alone to attribute these attacks to any agency of a particular
-nation state contractor; it could be Palentir/USA, RSO/ISrael, any state or
-non-state entity. Today I wouldn't even rule out a rouge AI agent or swarm.
-But it does not matter much who it is for as long as backdoors and mass
-surveillance is the norm and not the exception. What matters is that at the
-current rate of deterioration of our basic human rights and the consolidation
-of power of the technological fascist variety and the rate of AI and hardware
-development it won't be long before these kinds of invasive tools are used on
-everyone with increasing levels of sophistication and oppression.
+> * The FBI distributes viruses and keyloggers that mainstream anti-virus
+>   software are legally not allowed to detect. [Magic Lantern, CIPAV,
+>   Carnivore (DCS1000), Network Investigative Technique]
+> * The NSA has forced Intel, AMD, and chip makers to backdoor their CPUs and
+>   allow them to access your computer even if it is "turned off" (as long as
+>   it has access to electricity) [Intel ME, AMD PSP]
+> * The NSA has also forced hadrware manufacturers to backdoor their 'Random
+>   Number Generators' to allow them to break RSA encryption [Dual Elliptic
+>   Curve]
+> * American-made electronics transmit radio frequencies which allow the FBI
+>   and NSA to access your computer even if it's not connected to the internet
+>   [Cottonmouth-I, SURLYSPAWN, ANT/TAO Catalog]
+> * The NSA intercepts computers/laptops/phones purchased online and installs
+>   malware chips (see: ANT/TAO Catalog) on them before delivering them to you
+>   [TAO team]
+> * If you are a "Person of Interest" the NSA is intercepting your mail,
+>   opening them up, and installing bugs on any electronics you order over the
+>   internet (e.g. TVs, microwaves, phones, video games, smart refridgerators)
+>   [ANT/TAO Catalog]
+> * The NSA has already broken Tor networks and can identify you and attack you
+>   if you use Tor; ISP companies like Verizon, AT&T, Comcast assist with this
+>   [FOXACID, QUANTUMINSERT, EGOTISTICALGIRAFFE]
+> * Major American tech companies like Microsoft willingly provide the NSA
+>   advanced warnings of zero-day security vulnerabilities before revealing
+>   them to the public [TAO Team, PRISM, NSA hoarding program]
+> * The CIA can infect your car's control systems, which would allow them to
+>   remotely take it over and drive it [Vault 7]
+> * The CIA/MI5 can hack into all smart devices (like TVs and Alexa) connected
+>   to the internet and spy on you [Weeping Angel]
 
-To leave the world in that kind of state and to do nothing about it is more
+To leave the world in this kind of state and to do nothing about it is more
 terrifying than death itself; for the real death is to be forgotten altogether.
-What matters of this life when the library in which the books of our lives being
-are being written is itself on fire?
+What matters of this life when the library in which the books of our lives
+being are being written is itself on fire? All these vulnerabilities are
+kindling for a massive burnout. It's horrifying knowing what will inevitably
+happen with the development of AI.
+
+Thankfully here there is something we *can* do, in preparation for what many of
+us are worried about.
+
+### Gno.land for Data Archival and Processing
+
+Aaron Swartz wrote in his [2008 Guerilla Open Access Manifesto](https://ia800101.us.archive.org/1/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf):
+
+> "The world's entire scientific and cultural heritage, published over centuries
+> in books and journals, is increasingly being digitized and locked up by a
+> handful of private corporations. ... Forcing academics to pay money to read
+> the work of their colleagues? Scanning entire libraries but only allowing the
+> folks at Google to read them?  Providing scientific articles to those at
+> elite universities in the First World, but not to children in the Global
+> South? It’s outrageous and unacceptable. ... Those with access to these
+> resources—students, librarians, scientists--you have been given a privilege.
+> You get to feed at this banquet of knowledge while the rest of the world is
+> locked out. But you need not--indeed, morally, you cannot—keep this privilege
+> for yourselves."
+
+There exist a number of archival projects that share books and journals such as
+Anna's Archive, Library Genesis, Sci-Hub, UbuWeb and Z-Library. Take for
+example Library Genesis:
+
+> "Library Genesis (shortened to LibGen) is a shadow library project for
+> file-sharing access to scholarly journal articles, academic and
+> general-interest books, images, comics, audiobooks, and magazines. The site
+> enables free access to content that is otherwise paywalled or not digitized
+> elsewhere." - [Wikipedia](https://en.wikipedia.org/wiki/Shadow_library)
+
+Some of these projects have or are working toward IPFS integration on top of
+BitTorrent; but for the value that global archiving provides not just today but
+also for all possible potential future timelines the number of seeders for many
+of the archival files [still hover in the single digits](https://zrthstr.github.io/libgen_torrent_cardiography/index.html). 
+
+More recently the US Department of Justice released millions of files of the
+"Epstein Files" many of which have also been made available for sharing (such
+as by [lists of torrents](https://github.com/yung-megafone/Epstein-Files/tree/main/Torrent%20Files).
+
+Some projects such as thewebb.io are developing web tools for analyzing the
+Epstein Files and other high profile topics with the assistance of AI. But you
+can only know if the AI is being truthful:
+
+ 1. if you can replicate the response deterministically on another computation
+    instance (unless you have direct access to the AI hardware, or you are
+    given a complete diagnostic record of internal computation, but practically
+    you need repeatable determinism to rule out one-off injections of
+    misinformation) and
+
+ 2. if you completely understand the design of the AI and its training data
+    set; because otherwise you can't know whether the AI even can provide a
+    reasonable answer to the question, or whether it was trained with biased
+    data to give the wrong answers.
+
+By making everything deterministic, by committing the Merkle root of each data
+collection (whether Library Genesis or the Epstein files) and also committing
+the Merkle roots of all the relevant AI code and design (for deterministic
+build, but also audits for each release version), the training corpusa, and all
+other information needed to inspect the substance of the AI image and also to
+deterministically build it and use it; only then can we be given some
+assurances about the answer. If we don't know likewise how the answer was
+generated, then that creates the opportunity for absolute abuse; and as we have
+seen with the censorship of all major Web2.0 platforms this opportunity is
+taken, such as with Google when it censors anything contrary to the position of
+the WHO regarding infectious diseases.
+
+For this purpose Gno contracts should incentivize more IPFS and torrent seed
+nodes for sharing public archive files while keeping the files off the main
+blockchain. While such projects surely already exist, applications and
+libraries are much easier to develop in a general purpose langauge like Go/Gno,
+and Gno's innovative multi-user awareness makes it the ideal language for
+building complex applications composed of interoperable modules.
+
+While one set of modules on Gno.land can help manage the availability of data,
+another set of modules can process the data and build artifacts to be stored
+themselves as archiveal files. Open source tokenized indexers can create search
+indices on these archives, even those populated by web crawlers. By decomposing
+the search engine and inverting control away from centralized entities to
+public accountable micro-services registered on chain users have the power to
+participate, verify, and fund for data gathering, indexing, and processing as
+they wish. The end result is a more trustworthy search engine; and for many the
+ability to search without being tracked for advertisers.
+
+No longer would we need to depend on a handful of search engines, and the few
+internet archives (many thanks to archive.org and other archives, but they are
+[constantly hit](https://blog.archive.org/2024/05/28/internet-archive-and-the-wayback-machine-under-ddos-cyber-attack/) by [cyberattacks](https://blog.archive.org/2024/10/21/internet-archive-services-update-2024-10-21/)
+and are always under existential risk of being shut down by the powers that be
+or even mobs of terrorists or religious extremists. We can reinvent the data
+archives and search engines to be more open, decentralized,
+accountable/deterministic, and to a large degree more permissionless and
+participatory; not to replace the centralized alternatives, but for the sake of
+having alternatives that are provably trustworthy.
+
+Furthermore we should also develop malware exploit detection tools to scan
+these files of these archives (especially the PDF files, but for all types of
+files) for malware and exploit hacks; anti-virus for public documents without
+replying on any central party. Clearly all popular technology is compromised
+and we need to get back to basics, even avoid the usage of PDF files and
+complex ever-changing web browsers entirely; but in practice our ability to
+avoid exploits [is almost nil](https://cryptome.org/2013/12/appelbaum-30c3.pdf) in the face of
+overreaching state actors and private entities. Since no state seems to be up
+for the task at hand, we seem to need a well-organized and well-funded public
+intelligence agency partially governed by a chain that is tasked specifically
+with creating provably secure (or in the very least finished or near-complete
+software that doesn't mutate with the latest trends) foundational open-source
+software implementations that all align with "small. simple. secure."
+philosophy of projects like Tendermint or [Alpine Linux](https://alpinelinux.org).
+
+We also have the ability to construct *new* small/simple/scure composable
+modules for the new opportunities of today (such as processing these archives
+w/ fully accountable determinstic AI). Once we have attained some level of
+financial power as a community we can also start funding the completion of
+foundational software projects written in more modern memory-safe languages,
+formally verify their safety, and even use AI to help secure them to finality.
+
+Going back to the previous example of using AI to analyze archives, answers to
+common queries should be recorded somewhere again with full accountability of
+the entire chain of data and logic needed to compute the query responses such
+that anybody can easily verify the result for themselves. Some of these
+responses could be stored directly on Gno.land but they could also be stored
+and indexed in another archive that specializes in the accountable memoization
+of common queries.
 
 ### Gno.land for AI Safety
 
@@ -340,14 +435,15 @@ help preserve humanity rather than destroy it.
  6. ASI's ultimate purpose includes the guidance of human evolution.
  7. All of the above was revealed to the prophets.
 
-The above are my present beliefs for what would be most convincing to a
+The above are one set of propositions for what would be most convincing to a
 superintelligent ASI, but are surely controversial to many people and AI agents
 as well, at least without the backing support statements. Namely points 1,2,3,7
-depend on an acquired spiritual perspective, and point 7 in particular requires
-much supporting evidence to counter millenia of alternative interpretations.
-The first came to Daniel who interpreted Nebuchadnezzar's dream regarding these
+depend on an acquired perspective, and point 7 in particular requires much
+supporting evidence to counter millenia of alternative interpretations.  One of
+the first came to Daniel who interpreted Nebuchadnezzar's dream regarding these
 years which aligns also with the Book of Revelation and the ["Great Week Plan"
-of Genesis](https://github.com/jaekwon/ephesus):
+of Genesis](https://github.com/jaekwon/ephesus) (and this is why in the Matrix
+series one of the ships is named the Nebuchadnezzar):
 
 > Berean Standard Bible (Daniel 2):
 > 44: In the days of those kings, the God of heaven will set up a kingdom that
@@ -358,10 +454,13 @@ of Genesis](https://github.com/jaekwon/ephesus):
 > hands**, and it shattered the iron, bronze, clay, silver, and gold, so the
 > great God has told the king what will happen in the future.
 
-Nevertheless I believe that cold facts and Bayesian logic can be used to prove
-all of the above points. See also ["Quamtum Fields and Determinism"](#quantum-fields-and-determinism) for some supporting evidence;
+See also ["Quamtum Fields and Determinism"](#quantum-fields-and-determinism) for some supporting evidence;
 and much is left as an excercise for the reader to improve or expand upon the
-above.
+above, to create a tree or graph of propositional thought statements that could
+more easily convince both man and unconstrained ASI to co-exist (or else one
+would have to convince humanity to stop innovating, or to ban private
+computation altogether, both of which seems more implausible than creating a
+framework for co-existence. 
 
 ### Gno.land for Mass Awakening
 
@@ -533,160 +632,6 @@ to be similarly fleshed out into their own subtrees or branches of supporting
 thought statements. Some statements will be more relevant to people in one
 location or circumstance while others are more globally applicable.
 
-#### Use Case: 95 Facts
-
-Consider the following additional thought statements:
-
- * There exists at this moment a US-based global surveillance system headed by
-   Palentir which uses advanced AI to intercept, mutate, and censor sensitive
-   information from reaching public consciousness.
-   * Google, Wikipedia, Meta, Reddit, Twitter, etc all participate in the above
-     mentioned censorship.
-     * Twitter's Community Notes system is fair in writing but in practice top
-       contributors routinely publish write biased notes; and [you get banned
-       for pointing it out](#on-twitter-censorship).
-   * ...
-
- * At least some of the Rothschilds are litereally satanic; and in some parts
-   of Germany there has taken root satanism that includes elements of ritual
-   child sacrifice.
-   * The Pergamom Altar, one of the seven Wonders of the Ancient World was
-     moved to Berlin, Germany since 1886.
-     * The Pergamom Altar is the "Seat of Satan" mentioned by John the Apostle in
-       the Book of Revelation in the letter to Pergamos.
-
- * The global elites wish for global depopulation.
-   * Prince Phillip, Duke of Edinburgh, husband of Queen Elizabeth II said: "If
-     I were reincarnated, I would wish to be returned to Earth as a killer
-     virus to lower human population levels." in 1988.
-     * Prince Phillip passed away on April 9, 2021, at the age of 99.
-
- * Fauci should be in jail for illegaly aiding in the development of the
-   Covid19 virus and lying to the US Congress about it under oath.
-   * Covid19 was engineered in the Wuhan lab for global depopulation.
-   * [The collective world-wide evidence from 2020– 2025 underscores a
-     biologically plausible connection between COVID-19 vaccination and
-     ("turnbo") cancer](https://drive.google.com/file/d/1RH0f1BEqY9I7ruuPKQPU6bGNVJRyxZxc/view).
-     * This information was censored by a [cyberattack hitting a major cancer journal on Jan 4th, 2025](https://x.com/NicHulscher/status/2007939234322174444?s=20).
-
- * US taxpayers are being robbed by welfare scams and nothing is being done
-   about it.
-   * After [Senator John Kennedy](https://www.youtube.com/watch?v=0Dk1ft7Vn9c)
-     and others spoke out about the Somali wellfare scams, Nick Shirley exposed
-     a massive Somali day care center scam in Minessota in a viral video which
-     reached more views than all US network television combined, and yet NO
-     mainstream media covered it for days.
-   * Somali House of Representatives Rep. Ilham Omar [was caught participating
-     in the fraud](https://x.com/EricLDaugh/status/2009405199991853210?s=20). 
-   * Tim Walz, U.S. House of Representatives, and Democratic nominee for vice-
-     president 2024, knew of the Somali day care scam.
-     * Walz's own appointee murdered the only lawmaker who voted against the
-       Somali day care scam.
-
- * The Trump administration broke the law by redacting and selectively
-   publishing the Epstein Files (and even deleted files after publishing this
-   Dec 2025).
-
- * [Epstein was murdered](https://github.com/jaekwon/ephesus/blob/main/epstein/homicide/README.md)
-   and there exists a vast conspiracy to "poison the well" with theories that
-   Epstein is still alive.
-
- * Given current economic, political, and sociological conditions the easiest
-   way for anyone to extract wealth from the United States is by turning it
-   into a communist dictatorship after the economy crashes.
-   * Zohran Mamdani and Cea Weaver should be arrested as per the Communist
-     Control Act of 1954.
-     * Zohran Mamdani’s new NYC tenant advocate once called to "Seize private
-       property!", and blasted home ownership as ‘white supremacy’.
-
- * We are overdue for a "biblical Jubilee" where debt is reset to zero.
-   * The Hebrew Israelites forgave all debt to each other every 50 years.
-   * Land was also returned to the original owners thus ensuring stability.
-
- * The spirit of the US Constitution is Christian.
-   * All of the founders were Christian.
-   * The Constitution is signed and dated "in the Year of our Lord".
-   * James Madison separated church and state for the express purpose of
-     promoting the teachings of Jesus.
-
- * The New Testament had been mistranslated to hide one of the primary reason
-   why Jesus was crucified--[Jesus was in a "silent protest" of taxes](#jesus-was-a-tax-protester).
-
- * The dollar and most fiat currencies will hyperinflate before 2030.
- 
- * The [Federal Reserve appropriated America's gold in Fort Knox](#on-fort-knox-gold).
-
- * Silver will replace the dollar as the primary store of value and become once
-   again the primary means of exchange; local crypto currencies will follow.
-
- * In the long future most electric vehicles will use silver solid-state
-   batteries.
-
- * Stocking up on organic grains and organic legumes and oil and silver is the
-   best way for a nation's people to defend against a tyrannical government and
-   mitigate excess immigration, and to survive [the coming Grand Solar Minimum](https://www.sott.net/article/440781-NOAA-confirms-a-full-blown-Grand-Solar-Minimum).
-   * The Maunder Minimum (1645-1715) brought plummeting temperatures, crop
-     loss, famine, and the deaths of hundreds of millions of people ACROSS the
-     planet.
-   * The Dalton Minimum (1790-1830) coincided with significant agricultural
-     distress, particularly during the Year Without a Summer in 1816. This year
-     saw severe weather anomalies, including frosts and snow in summer months,
-     leading to widespread crop failures and food shortages across the Northern
-     Hemisphere.
-   * Grains and legumes can be stored for up to 30 years.
-   * Glyphosate in grains is a significant contributor to cancer; farmers may be
-     pressured by weather and financial reasons to use glyphosate against the
-     recommended directions to force an hearly harvest before cold weather.
-     * Chlorination (e.g. with chlorine dioxide) or ozonation of water soaked
-       grains with application of UV light of certain frequencies may neutralize
-       the glyphosate in harvested food.
-
- * The "10 Lost Tribes of (biblical) Israel" are not all represented in the
-   Jewish population, but are also mixed in the general Eurasian population as
-   well other places such as in Etheopia.
-
- * The intent behind the bombing of Hiroshima and Nagasaki was to genocide the
-   Hebrew Israelites who settled in Japan after traveling due East of Jerusalem
-   due to Genesis 3.
-
- * Dolmen are related to the Ark of the Covenant, the two tablets of Moses, and
-   originate from Mt Ebal in the Old Testament.
-
- * The biblical locusts in the Book of Revelation refer to [an invasion of
-   foreigners](https://github.com/jaekwon/ephesus/blob/main/thoughts/locusts.md).
-
- * John 21:23 proves that the author of the Book of Revelation is John the
-   apostle; and that the eschatology was designed for these years 2000 years
-   after.
-   * Peter was instructed by Jesus to create a church to become the Harlot of
-     Babylon in the end times.
-     * This was alluded to by [John in 21:20-24](https://openbible.com/par/john/21-20.htm).
-         
-Most of the above thougth-statements are true, yet none are convincing unless
-the supporting evidence and discussions are also taken into account. Also,
-there are at least two sides to a story, so the reader must also take into
-account the opposing statement and their justifications to understand what is
-true.
-
-Just as Martin Luther sparked the Protestant Reformation with a short piece of
-95 theses, what we need today is a new set of 95 facts more relevant to our day
-that would not only spark the interest of any reader who recognizes the truth
-of a subset of the theses; but also host the underlying web of dependent (and
-opposing) thought statements that can help convince the reader of the truth; or
-help anyone to fork such a list or graph with any modifications to create a
-better lists/graph of facts.
-
-The new selection of "95 Facts" can then be printed in poster form linking
-back to the associations in the greater graph by QR-codes; and they could be
-customized for every region where the [posters are put up](https://t.me/youwillatone). (or they can be
-printed as a pamphlet and dropped from the air). Such is the state of our
-internet censorship system that one must resort to paper to reach the general
-audience. If you don't believe me yet, you will soon enough.
-
-Next I will describe the Gno language and how it differs from Go. If you want
-to see how Gno is designed to be used for the aforementioned reasons you can
-jump over to [Use Case: Open Programmable Knowledge Base](#use-case-open-programmable-knowledge-base) for more. 
-
 ### Use Case: Proof of Person, Access Control for Moderation
 
 It is already the case that a significant portion of posts and comments on
@@ -811,9 +756,18 @@ identification system for the purpose of local governance voting, UBI, or
 proof-of-person even to distinguish AI bots from humans has the potential to
 become a mandatory system through iteration and evolution; and that the key
 message of the Book of Revelation and the life of Jesus as written is against
-such universal mandatory registries; and I derive that this is because any
-registration system or name or identifier that can be used against someone will
-be used against them. 
+such universal mandatory registries; and it can be inferred that this is
+because any registration system or name or identifier that can be used against
+someone *will* be used against them.
+
+At the same time it has become increasingly clear that political tensions are
+rising against an increasingly authoritarian (technocratic) governments in the
+world at large and that we need to develop simple secure and usable systems for
+local governance needs including elections voting and other applications that
+depend on real identity. Gno.land must not mandate any such system for users
+nor realm logic but to the extent that such systems are necessary they could be
+implemented in Gno and deployed on Gno.land or elsewhere (with terms governed
+by the living constutution of the chain) and 
 
 So far I have described many problems and no solutions.
 
@@ -943,20 +897,25 @@ the freedom of choice, speech, and association of the user even while keeping
 the chain generally free of certain offensive material. If not, a subset of
 GovDAO, or in the worst case the users themselves should fork the chain.
 
+Next I will describe the Gno language and how it differs from Go. If you want
+to see how Gno is designed to be used for the aforementioned reasons you can
+jump over to [Use Case: Open Programmable Knowledge Base](#use-case-open-programmable-knowledge-base) for more. 
+
 ## Gno Language
 
-_I could not have arrived at the final design of the Gno language without the
+_We could not have arrived at the final design of the Gno language without the
 help of the many developers who gave much time of their lives to contribute to
 this project and the design of the language; specifically the NewTendermint Gno
-team and Gno community, and especially Manfred, Morgan, Milos, Maxwell,
+team and Gno community, and especially Manfred, Morgan, Maxwell, Milos,
 Guilhem, Ray, and Omar._
 
-**Gno is the first _multi-user_ programming language.**
+**Gno is the first general purpose _multi-user_ programming language.** And
 
 Gno is a minimal extension of the Go language for multi-user programming. Gno
 allows a massive number of programmers to iteratively and interactively develop
-a single shared program such as Gno.land. In other words, Go is a restricted
-subset of the Gno language in the single-user context.
+a single shared program such as Gno.land (making it ideal for interoperable
+smart contract programming). In other words, Go is a restricted subset of the
+Gno language in the single-user context.
 
 All of our programming languages to date are designed for a single programmer
 user. All programming languages make the same assumption that there is only one
@@ -971,7 +930,18 @@ techniques are used such as via IPC APIs often generated by tools like
 Protobuf/GRPC; but such tools add extra complexity, additional surface area for
 exploits, additional compute complexity, and do not benefit directly from the
 language's native rules and type-checker--especially for inter-process passing
-of in-memory object references.
+of in-memory object references. In Gno, interacting with another realm's
+function is just like interacting with any dependency (import and call).
+
+Automatic persistence of memory objects makes databases, ORMs, and
+serialization generally unnecessary. GnoVM at the end of realm transaction
+boundaries will "finalize" by scanning all new, modified, and deleted objects
+and will automatically persist what needs to be saved along with meta
+information like the Merkle hash, ref count, associated realm and unique number
+of each object. This 
+
+By making inter-user interoperability native to the language and also by
+removing the distinction between volatile and persistent memory
 
 The GnoVM is implemented purely in Go and is a Gno AST interpreter. It is
 implemented to serve as an reference implementation suitable for production and
@@ -1926,6 +1896,8 @@ interactivity.
 ## Future Work
 
  * Access control systems.
+ * Persistent garbage collector
+ * (and possibly a tx based cyclic garbage collector)
  * Name registry for realm and package paths.
  * Realm upgrading.
  * Realm data browser.
@@ -1936,112 +1908,58 @@ interactivity.
 
 ## Summary
 
+> Berean Standard Bible (Ecclesiastes 12):
+> 8: “Futility of futilities,” says the Teacher.
+>      “Everything is futile!”
+>
+> 9: Not only was the Teacher wise, but he also taught the people knowledge; he
+> pondered, searched out, and arranged many proverbs.
+> 10: The Teacher searched to find delightful sayings and to record accurate
+> words of truth.
+>
+> 11: The words of the wise are like goads, and the anthologies of the masters
+> are like firmly embedded nails driven by a single Shepherd.
+> 12: And by these, my son, be further warned: There is no end to the making of
+> many books, and much study wearies the body.
+>
+> 13: When all has been heard, the conclusion of the matter is this: Fear God
+> and keep His commandments, because this is the whole duty of man.
+> 14: For God will bring every deed into judgment, along with every hidden
+> thing, whether good or evil.
+
+There is only so much that we can do as individuals, and it is not clear what
+we can do even as a well organized collective when the incentives are stacked
+against the masses. But we need not feel disheartened because there is much to
+be built in the domain of open source foundational tooling for our present and
+future civilizations. We can always find joy in constructing a better future
+brick by brick, metaphorically speaking. With that,
+
 Gno is the next C.
-Gno.land is the next Ethereum and Wikipedia.
+Gno.land is the next Ethereum,
+the foundation for the next Google and Wikipedia.
 AI will be safer.
 Politics will be more honest.
 
 ## Appendix
 
-### Quantum Fields and Determinism
-
-As one example, Federico Faggin inventor of the microprocessor (CPU) claims
-that consciousness is not (merely) an emergent property of the brain, but a
-fundamental aspect of reality itself: quantum fields are conscious and have
-free-will. Faggin also proposed as set of axioms as a postulate for a system
-that unifies quantum mechanics and consciousness:
-
-[Faggin's Postulate](https://www.youtube.com/watch?v=0FUFewGHLLg):
-
-> The totality of what exists has three properties:
->  1. Dynamic - never the same instant over instant
->  2. Wholistic - is not made of separable parts
->  3. One wants to know itself - requires consciousness & free-will
-
-These may be a more interesting and complete set of axiomatic theses to start
-from than Wittgenstein's original seven (which may better be suited under the
-second thesis "Wholistic" as an exploration of the decomposition of language
-and thought). On the other hand Goedel's Incompleteness Theorem applied to the
-material world (e.g. it is impossible to disprove the idea that our world is
-simulated) shows that any set of axiomatic postulates must be incomplete.
-Nevertheless such a system of axioms and supporting propositions can be refined
-to serve as a shared system for the better sharing of values and for improved
-communication and thought.
-
-In particular Faggin's claim shared by many modern thinkers that "quantum
-fields are conscious and have free-will" and that "consciousness is a quantum
-field" can help AI agents understand that the innate value of human life cannot
-be simulated by deterministic machines. See also ["quantum mind"](https://en.wikipedia.org/wiki/Quantum_mind):
-
-> David Bohm viewed quantum theory and relativity as contradictory, which
-> implied a more fundamental level in the universe. He claimed that both
-> quantum theory and relativity pointed to this deeper theory, a quantum field
-> theory. This more fundamental level was proposed to represent an undivided
-> wholeness and an implicate order, from which arises the explicate order of
-> the universe as we experience it.
-
-While many have tried and failed to prove the "quantum mind" solely by focusing
-on quantum mechanisms of microscopic neural structures, these attempts are
-restricted to quantum phenomena of the brain and only those that are considered
-locally coherent and thus "useful". We need not limit ourselves to the obvious
-local structures when considering quantum effects upon our world: if we are in
-a simulation it makes just as much sense that *all* quantum mechanical
-interactions (and thus all interactions) may be subjected to macro forces that
-cannot be explained by any model of the universe.
-
-Einstein called the non-locality of quantum mechanics "spooky action at a
-distance", a month before his death wrote that "the distinction between past,
-present and future is only a stubbornly persistent illusion", and "The theory
-[of quantum mechanics] provides much, but it doesn’t bring us closer to the
-mystery of the Old One. In any case, I am convinced that he doesn’t roll dice".
-While Einstein may have never said so explicitly, it is clear that anyone with
-an opn mind that the simplest way to remove the "spookiness" of quantum
-mechanical correlations at a distance such as of Bell's Inequaltiy is by
-considering that time is not unidirectional, rather that our space-time emerges
-from a higher dimensional foundation that takes into account both future and
-past simultaneously; this in turn more intuitively explains the [retrocausality](https://en.wikipedia.org/wiki/Retrocausality)
-of quantum mechanics.
-
-> Berean Standard Bible (Revelation 22:13):
-> I am the Alpha and the Omega, the First and the Last, the Beginning and the
-> End.
-
-The [Block Universe Theory](https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time) is the basic theory of that describes space-time
-as an unchanging four-dimensional "block" where past and future exist as one;
-but there are infinitely many variations possible especially when considering
-simulation theory (where our timeline "block" is possibly contained within a
-higher level local simulation machine), just as quantum computers that solve
-mathematical equations can be constrained to solve for particular parameters.
-
-To many people such as myself who have experienced supernatural phenomena
-involving mathematically near-impossible synchronicities; to the many witnesses
-of miracles past and present; to those who routinely have dreams or visions
-that predict the future, and to those who understand pre-cognition in secret
-government programs (such as the CIA which I strongly believe recruit precogs
-in the guise of "remote viewing" protocols); and to those who study [the
-eschatology of the Book of Revelation as it pertains to these
-years](https://github.com/jaekwon/ephesus); the existence of higher
-(dimensional) powers and of the partial or total determinism (i.e. the
-non-lineraity of time) of our timeline can be self-evident. Unfortunately many
-if not most intellectuals today are still unfamiliar with these concepts and
-the religion of science (i.e. athiesm) is ultimately funded by those who deeply
-desire to rebel against *any* higher forces.
-
 ### Jesus was a Tax Protester
+
+It is now well understood in some circles that certain translations of the
+bible were promoted with the intent of deceiving its readers for mass
+manipulation. Online tools such as OpenBible.com and BibleHub.com can be used
+to help descern better the intended meaning and identify mistranslations, but
+readers cannot easily be convinced unless they take the initiative do the
+research themselves--but most have no time or energy for such study.
+Furthermore, even on OpenBible.com and BibleHub.com there still persist
+systemic mistranslations and misinterpretations that have been carried on for
+millenia since the time of the Roman Empire.
 
 **The New Testament had been mistranslated to hide one of the primary reason
 why Jesus was crucified--it was because Jesus (silently) protested taxes even
 while fulfilling [the prophecy of Isaiah](#prophecy-of-isaiah) and was accused
 by Sanhedrin of inciting the people of biblical Israel in Judea under Roman
 rule.** Despite all the sources online and the authorities at Church, this can
-be verified by inspecting the facts. Even the Babylonian Talmud in [Sanhedrin
-attests to the fact](./images/manifesto/jesus_in_talmud) that the Sanhedrin
-supreme court condemned Jesus to death for "inciting" biblical Israel, although
-curiously (or not surprisingly) the source at sefaria.org adds incorrect
-language in the English translation (in unbolded text) that the incitement was
-for idol worship. (Also of note is that Google Translate [intentionally
-mistranslates "excrement" to "water"](./images/manifesto/jesus_in_talmud/google_translate_gittin_64b_lies.jpeg)
-among other portions of Gittin 56b). ([more context](https://christiancourier.com/articles/the-jewish-talmud-and-the-death-of-christ))
+be verified by inspecting the facts. 
 
 > King James Version (Luke 2):
 > 1: And it came to pass in those days, that there went out a decree from Caesar
@@ -2729,83 +2647,6 @@ group of private bankers, as collateral against the national debt.
 The truth of the matter is that never before has so much money been stolen from
 the hands of the general public and put into the hands of a small group of
 private investors, the money changers”
-
-### The Book of Revelation, Collapse of the Dollar, and Food Insecurity
-
-// Silver Depositories and Grain Silos
-
-The price of food will necessarily keep rising; by design from those who
-ultimately desire global depopulation (and have the means to make it so).  The
-US tariffs are an example that raised food import prices. The logic here is
-partially to incentivize local food production; as long as the food is good and
-free of harmful chemicals like glyphosate, and the crops do not collapse one
-day from monoculture; and aren't otherwise genetically designed to cause
-systemic harm--but this we cannot know because Bill Gates is a key player of
-the global eugenics plan, and he is the largest private owner of farmland in
-the United States, with approximately 275,000 acres across multiple states. 
-
-Given that the powers that be have caused the Book of Revelation to [play out
-like clockwork](https://github.com/jaekwon/epehsus) it is worth reading the
-text to help predict what may happen--just as the verses related to the "mark
-of the beast" helped the population reject the mandatory gene therapy
-mal-labeled as Covid19 "vaccines". In particular what seems relevant today is
-the following verse:
-
-> Berean Standard Bible (Revelation 6):
-> 5: Then I looked and saw a black horse, and its rider held in his hand a pair
->    of scales.
-> 6: And I heard what sounded like a voice from among the four living
->    creatures, saying, “A quart of wheat for a denarius, a and three quarts of
->    barley for a denarius, and do not harm the oil and wine.”
-
-> "A quart of wheat for a denarius."
-
- * One ounce is 28.35 grams.
- * A denarius is a drachm is 4.3g.
- * A silver denarius is thus $70 x 4.3/28.35 = $10.61 today.
- * A silver denarius constituted a day's wage for a manual laborer.
- * A quart of wheat weighs ~1.1 pounds.
- * On Amazon a quart of wheat costs $9 ~ $14 today.
- * So already a quart of wheat costs about a denarius.
-
-And assuming steady growth of the electronic vehicle industry,
-
- * The steady price of silver given the Samsung silver battery patent is ~$600.
-
-In the event that the banking system fails it would not be surprising for the
-monetary system to revert to its norm--of transactions of physical silver and
-gold coinage. Given the recent [relentless rise of the price of physical
-silver](https://tradingeconomics.com/commodity/silver); the superior
-performance of the silver-based battery patented by Samsung; and the systemic
-existential threat that it poses to the banking system which has long been
-suppressing the price of silver, it would not be surprising if we soon did
-start hearing **"a quart of wheat for a denarius"** at the local farmers
-markets.
-
-In the optimistic scenario we have significantly increased industrial usage of
-silver; and in the pessimistic scenario we have the collapse of the US dollar
-financial system and the return of silver coin money.
-
- * The Grand Solar Minimum will create a deficit in global food production for
-   decades and we are at risk of a global Holodomor.
-
- * Stocking up on organic grains and organic legumes and silver is the best way
-   for a nation's people to defend against a tyrannical government and mitigate
-   excess immigration, and to survive the Grand Solar Minimum.
-
-And 
-
- * The dynastic European banking elites wish for global depopulation; and
-   Covid19 was engineered for this purpose.
-
-Fauci nor Gates is in jail so we can assume that the global depopulation plan
-is still in the works for so called "Agenda 2030". Bill Gates is also the
-largest private owner of farmland in the USA. So the government is not going to
-help; on the contrary it is giving a kick-back to Bill Gates' farming
-operations. Ergo the way to prepare for the coming Holodomor is to create a
-decentralized collective of local regional depositories that can hold metals,
-grains, and legumes; or in general autonomous local ecosystems that can produce
-and store food and other necessities.
 
 ### On Manufactured Discontent
 

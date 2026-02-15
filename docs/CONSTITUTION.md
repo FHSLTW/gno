@@ -1217,6 +1217,14 @@ misinformation: neither GovDAO nor the Oversight Body nor any Core DAOs may
 determine what is hatespeech or misinformation. This is to ensure freedom of
 speech.
 
+For the avoidance of doubt, any files released to the public as a matter of
+public accountability regarding the Epstein files may reside on gno.land but
+with complete redaction of the offending materials (e.g. redacted photos are
+OK, explicit photos are not). The files are a matter of national and
+international security, and as such they belong on Gno.land as do any
+discussions. The privacy of individuals mentioned in those files is not yet
+protected by this Constitution but should be clarified with an amendment.
+
 Only Banned Offensive Material and harmful material may be purged
 from the blockchain state by marking code packages or state objects (including
 entire realms) as such with a [State Purge Transaction](#state-purge-transactions).
