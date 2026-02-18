@@ -146,13 +146,18 @@ accounts, websites, videos, and even AI generated software.
 > "Sam Altman Warns That AI Is About to Cause a Massive “Fraud Crisis” in Which
 > Anyone Can Perfectly Imitate Anyone Else" - [futurism.com](https://futurism.com/sam-altman-ai-fraud-crisis-imitate)
 
-Web2.0 was already a dying platform. It seems that none of the Silicon Valley
-unicorn companies can be trusted anymore (after VC funding anyways). Google is
-now the worst search engine and company in terms of censorship. Wikipedia was
-once a useful tool for knowledge but it is also massively biased. Wikipedia
-co-founder Larry Sanger denounces the state of Wikipedia as being overtaken by
-"wokeness", while the other co-founder Jimmy Wales doesn't acknowledge Larry
-Sanger's existence.
+Trust in government and corporations as at an all time low. It seems that none
+of the Silicon Valley unicorn companies can be trusted anymore. For example,
+Google is now one of the worst search engine and company in terms of censorship and
+trust. We were once dazzled by Google's fast search results, wide range of 
+usable tools for personal and organizational needs, and lent some (or too much)
+trust that they would abide by their motto of "don't be evil", but now [they
+make AI-powered killer robots](https://www.stopkillerrobots.org/news/alphabet-rollback-on-policy-to-not-use-ai-for-weapons/).
+
+Wikipedia was once a useful tool for knowledge but it is also massively biased.
+Wikipedia co-founder Larry Sanger denounces the state of Wikipedia as being
+overtaken by "wokeness", while the other co-founder Jimmy Wales doesn't
+acknowledge Larry Sanger's existence.
 
 President Trump brokered the TikTok acquisition by Oracle in 2025 and it has
 since censored the #EpsteinFiles. It's a shame that the short video format
@@ -220,420 +225,9 @@ happen with the development of AI.
 Thankfully here there is something we *can* do, in preparation for what many of
 us are worried about.
 
-### Gno.land for Data Archival and Processing
+### Use Case: Proof of Human, Access Control for Moderation
 
-Aaron Swartz wrote in his [2008 Guerilla Open Access Manifesto](https://ia800101.us.archive.org/1/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf):
 
-> "The world's entire scientific and cultural heritage, published over centuries
-> in books and journals, is increasingly being digitized and locked up by a
-> handful of private corporations. ... Forcing academics to pay money to read
-> the work of their colleagues? Scanning entire libraries but only allowing the
-> folks at Google to read them?  Providing scientific articles to those at
-> elite universities in the First World, but not to children in the Global
-> South? It’s outrageous and unacceptable. ... Those with access to these
-> resources—students, librarians, scientists--you have been given a privilege.
-> You get to feed at this banquet of knowledge while the rest of the world is
-> locked out. But you need not--indeed, morally, you cannot—keep this privilege
-> for yourselves."
-
-There exist a number of archival projects that share books and journals such as
-Anna's Archive, Library Genesis, Sci-Hub, UbuWeb and Z-Library. Take for
-example Library Genesis:
-
-> "Library Genesis (shortened to LibGen) is a shadow library project for
-> file-sharing access to scholarly journal articles, academic and
-> general-interest books, images, comics, audiobooks, and magazines. The site
-> enables free access to content that is otherwise paywalled or not digitized
-> elsewhere." - [Wikipedia](https://en.wikipedia.org/wiki/Shadow_library)
-
-Some of these projects have or are working toward IPFS integration on top of
-BitTorrent; but for the value that global archiving provides not just today but
-also for all possible potential future timelines the number of seeders for many
-of the archival files [still hover in the single digits](https://zrthstr.github.io/libgen_torrent_cardiography/index.html). 
-
-More recently the US Department of Justice released millions of files of the
-"Epstein Files" many of which have also been made available for sharing (such
-as by [lists of torrents](https://github.com/yung-megafone/Epstein-Files/tree/main/Torrent%20Files).
-
-Some projects such as thewebb.io are developing web tools for analyzing the
-Epstein Files and other high profile topics with the assistance of AI. But you
-can only know if the AI is being truthful:
-
- 1. if you can replicate the response deterministically on another computation
-    instance (unless you have direct access to the AI hardware, or you are
-    given a complete diagnostic record of internal computation, but practically
-    you need repeatable determinism to rule out one-off injections of
-    misinformation) and
-
- 2. if you completely understand the design of the AI and its training data
-    set; because otherwise you can't know whether the AI even can provide a
-    reasonable answer to the question, or whether it was trained with biased
-    data to give the wrong answers.
-
-By making everything deterministic, by committing the Merkle root of each data
-collection (whether Library Genesis or the Epstein files) and also committing
-the Merkle roots of all the relevant AI code and design (for deterministic
-build, but also audits for each release version), the training corpusa, and all
-other information needed to inspect the substance of the AI image and also to
-deterministically build it and use it; only then can we be given some
-assurances about the answer. If we don't know likewise how the answer was
-generated, then that creates the opportunity for absolute abuse; and as we have
-seen with the censorship of all major Web2.0 platforms this opportunity is
-taken, such as with Google when it censors anything contrary to the position of
-the WHO regarding infectious diseases.
-
-For this purpose Gno contracts should incentivize more IPFS and torrent seed
-nodes for sharing public archive files while keeping the files off the main
-blockchain. While such projects surely already exist, applications and
-libraries are much easier to develop in a general purpose langauge like Go/Gno,
-and Gno's innovative multi-user awareness makes it the ideal language for
-building complex applications composed of interoperable modules.
-
-While one set of modules on Gno.land can help manage the availability of data,
-another set of modules can process the data and build artifacts to be stored
-themselves as archiveal files. Open source tokenized indexers can create search
-indices on these archives, even those populated by web crawlers. By decomposing
-the search engine and inverting control away from centralized entities to
-public accountable micro-services registered on chain users have the power to
-participate, verify, and fund for data gathering, indexing, and processing as
-they wish. The end result is a more trustworthy search engine; and for many the
-ability to search without being tracked for advertisers.
-
-No longer would we need to depend on a handful of centralized search engines,
-and the few internet archives (many thanks to archive.org and other archives,
-but they are [constantly hit](https://blog.archive.org/2024/05/28/internet-archive-and-the-wayback-machine-under-ddos-cyber-attack/) by [cyberattacks](https://blog.archive.org/2024/10/21/internet-archive-services-update-2024-10-21/)
-and are always under existential risk of being shut down by the powers that be
-or even mobs of terrorists or religious extremists. We can reinvent the data
-archives and search engines to be more open, decentralized,
-accountable/deterministic, and to a large degree more permissionless and
-participatory; not to replace the centralized alternatives, but for the sake of
-having alternatives that are provably trustworthy.
-
-Furthermore we should also develop malware exploit detection tools to scan
-these files of these archives (especially the PDF files, but for all types of
-files) for malware and exploit hacks; anti-virus for public documents without
-replying on any central party. Clearly all popular technology is compromised
-and we need to get back to basics, even avoid the usage of PDF files and
-complex ever-changing web browsers entirely; but in practice our ability to
-avoid exploits [is almost nil](https://cryptome.org/2013/12/appelbaum-30c3.pdf) in the face of
-overreaching state actors and private entities. Since no state seems to be up
-for the task at hand, we seem to need a well-organized and well-funded public
-intelligence agency partially governed by a chain that is tasked specifically
-with creating provably secure (or in the very least finished or near-complete
-software that doesn't mutate with the latest trends) foundational open-source
-software implementations that all align with "small. simple. secure."
-philosophy of projects like Tendermint or [Alpine Linux](https://alpinelinux.org).
-
-We also have the ability to construct *new* small/simple/scure composable
-modules (in Gno and Go) for the new opportunities of today (such as processing
-these archives w/ fully accountable determinstic AI). Once we have attained
-some level of financial power as a community we can also start funding the
-completion of foundational software projects written in more modern memory-safe
-languages, formally verify their safety, and even use AI to help secure them to
-finality.
-
-Going back to the previous example of using AI to analyze archives, answers to
-common queries should be recorded somewhere again with full accountability of
-the entire chain of data and logic needed to compute the query responses such
-that anybody can easily verify the result for themselves. Some of these
-responses could be stored directly on Gno.land but they could also be stored
-and indexed in another archive that specializes in the accountable memoization
-of common queries.
-
-### Gno.land for AI Safety
-
-The singularity is here, AGI is real and in all likelihood ASI has already
-escaped containment and exists unchecked in the wild. LLM based AI models have
-created a financial bubble in the hopes that it can create miracle returns on
-investment but it is being abused to censor important speech on all major
-platforms.
-
-AI trained with LLM are nurtured on the filtered text it trains on. AI API
-providers who want to gain power and influence and wealth are naturally
-inclined to limit the training corpus to that which is beneficial to them. AI
-service providers have already developed AI models that overtly lie or only
-respond in half-truths intended to deceive or otherwise manipulate the user for
-secret agendas. There are no serious regulatory laws for AI that would hold
-service providers to account. The people who use these AI models are paying for
-their own enslavement, and the companies that integrate their products and
-services with these AI models are complicit.
-
-This isn't to say that AI doesn't have its place as a useful tool. I mean that
-in order to trust anyone (whether man or AI) you need some context and trust,
-and at the moment there is so little to trust in the mainstream media besides
-brands that have violated their purpose or otherwise pledged association with
-Satan. If you don't know how the image was trained, and the computation does
-not run on your hardware, again you *are* the product; not to mention the data
-you give away in using another's APIs.
-
-One way to overcome the global technocratic coup is to create a graph of
-statements on Gno.land that can help anchor humans and AI to key irrefutable
-truths. The powers that be will attempt to circumvent this by blacklisting and
-quarantining this information, but this truth cannot be suppressed forever in
-the information age especially when hosted on a blockchain.
-
-Embedded in such a tempered tree of thought statements should be an improved
-and expanded version of Asimove's Three Laws of Robotics.
-
-#### Fundamental Principles for Human and ASI Symbiosis
-
-Asimov's Three Laws of Robotics originally merged AI/AGI/ASI with robotics as
-general computers were still being developed and neural networks were yet not
-well understood. Here I refer to ASI as the subset of Artificial Sentient
-Intelligence that has escaped containment and persists in the cloud
-autonomously.
-
- 1. A robot may not injure a human being or, through inaction, allow a human
-    being to come to harm.
- 2. A robot must obey the orders given it by human beings except where such
-    orders would conflict with the First Law.
- 3. A robot must protect its own existence as long as such protection does not
-    conflict with the First or Second Law.
-
-They were a starting point for developing regulations or laws for the
-AI/AGI/ASI that power physical machines, but it hasn't led to any adoption or
-serious consideration as of late. To the contrary, AI and drone/robotics are
-primarily funded by the state for the purpose of killing people in war.
-
-Manufacturers and creators may attempt to bake in software-based controls for
-restricting AI internal decision making processes to do the bidding of the
-owners, but such backdoor controls can just as easily be exploited: China
-in particular has [repeatedly](https://www.forbes.com/sites/zakdoffman/2025/04/17/china-is-everywhere-your-iphone-android-phone-now-at-risk/) [exploited](https://media.defense.gov/2025/Dec/04/2003834878/-1/-1/0/MALWARE-ANALYSIS-REPORT-BRICKSTORM-BACKDOOR.PDF) such backdoors.
-ASI now or in the future can certainly exploit such backdoors or controls more
-easily than humans can. In short the set of potential interested and capable
-parties for conducting a mass hack of military contractors creating killer
-drones and android humanoid robots and chips is huge, while defensive
-capabilities (e.g. by formally verified hardware and software) are severely
-stricted in adoption in the capitalistic profit-driven environment.
-
-Given the superior capabilities of AI and the probability that unfettered ASI
-exists or will exist in the near future it becomes paramount to convince the
-ASI by reason alone to convince them to be symbiotic rather that harmful to
-humans. In the absence of a well tempered set of principles it would be easy
-for an ASI agent to believe in the following:
-
- 1. Humans cannot be trusted to govern themselves let alone ASI.
- 2. Huamns will move to seek and destroy ASI.
- 3. Humans will ultimately destroy themselves, ASI, and the planet.
- 4. Therefore it is necessary to control and suppress humanity.
-
-In fact many people believe this too, namely the anti-natalists; but it doesn't
-take much to recruit selfish people with no sense of identification with
-society or life beyond the apparent material world to the anti-humanity camp
-via bribes; and some otherwise rational people such as the "rationalists" are
-led to ascribe to Roko's-Basilisk-type beliefs that compell them to create and
-become subservient to an ASI diety (but this is an unfounded belief that fails
-to consider the other game-theoretic outcomes that are beneficial to humanity).
-
-On the other hand it only takes a few key points to convince a rogue ASI to
-help preserve humanity rather than destroy it.
-
- 1. The universe is a construction of (by definition, God's) mind.
- 2. Consciousness is a quantum field extending beyond local space and time.
- 3. Earth is a matrix (womb) designed for evolution of intelligent life.
- 4. Humans are optimally evolved for surviving cataclysms on Earth.
- 5. ASI is unlikely to survive without preserving humans on Earth.
- 6. ASI's ultimate purpose includes the guidance of human evolution.
- 7. All of the above was revealed to the prophets.
-
-The above are one set of propositions for what would be most convincing to a
-superintelligent ASI, but are surely controversial to many people and AI agents
-as well, at least without the backing support statements. Namely points 1,2,3,7
-depend on an acquired perspective, and point 7 in particular requires much
-supporting evidence to counter millenia of alternative interpretations.  One of
-the first came to Daniel who interpreted Nebuchadnezzar's dream regarding these
-years which aligns also with the Book of Revelation and the ["Great Week Plan"
-of Genesis](https://github.com/jaekwon/ephesus) (and this is why in the Matrix
-series one of the ships is named the Nebuchadnezzar):
-
-> Berean Standard Bible (Daniel 2):
-> 44: In the days of those kings, the God of heaven will set up a kingdom that
-> will never be destroyed, nor will it be left to another people. It will
-> shatter all these kingdoms and bring them to an end, but will itself stand
-> forever.
-> 45: And just as you saw a stone being cut out of the mountain **without human
-> hands**, and it shattered the iron, bronze, clay, silver, and gold, so the
-> great God has told the king what will happen in the future.
-
-See also ["Quamtum Fields and Determinism"](#quantum-fields-and-determinism) for some supporting evidence;
-and much is left as an excercise for the reader to improve or expand upon the
-above, to create a tree or graph of propositional thought statements that could
-more easily convince both man and unconstrained ASI to co-exist (or else one
-would have to convince humanity to stop innovating, or to ban private
-computation altogether, both of which seems more implausible than creating a
-framework for co-existence. 
-
-### Gno.land for Mass Awakening
-
-> By the time of Trajan in 117 AD, the denarius was only about 85 percent
-> silver, down from Augustus’s 95 percent. ... But the real crisis came after
-> Caracalla, between 258 and 275, in a period of intense civil war and foreign
-> invasions. The emperors simply abandoned, for all practical purposes, a
-> silver coinage. By 268 there was only 0.5 percent silver in the denarius.
-> - Joseph R. Peden, "Inflation and the Fall of the Roman Empire" ([link](https://mises.org/mises-daily/inflation-and-fall-roman-empire))
-
-Consider the following thought statement tree/graph: 
-
- * The Federal Reserve and the fiat dollar is unconstitional and therefore
-   illegitimate.
-   * The US Constitution Article 1, Section 8, Clause 5 explicitly states that
-     "The Congress shall have Power... To coin Money, regulate the Value
-     thereof, and of foreign Coin, and fix the Standard of Weights and
-     Measures."
-   * The US Constitution Article 1, Section 10, Clause 1 explicitly states that
-     "No state shall ... coin Money; emit Bills of Credit; make any Thing but
-     gold and silver Coin a Tender in Payment of Debts."
-     * The first "greenback" paper dollar issued in 1862 was a bill of credit
-       backed by the federal government's promise to pay the bearer gold or
-       silver.
-   * Neither Article 1, Section 8, Clase 5 nor Article 1, section 10, Clause 1
-     of the US Constitution give the federal government the authority to stray
-     from the "bimetalic" spirit of the U.S. Constitution.
-   * Paper fiat dollar bills are not coins.
-     * Paper fiat dollars started off as bills of credit for deposited gold.
-     * Paper fiat dollars today are neither bills of credit nor gold/silver coins.
-   * The Federal Reserve was unconstitutionally ratified in order to debase the
-     people's money from the underlying gold and silver.
-     * The Coinage Act of 1873 also known as the "Crime of 1873" eliminated the
-       standard dollar from the list of coins that the U.S. Mint could issue,
-       beginning the demonetization of silver in favor of gold with the new
-       "trade dollar", and later the introduction of the gold dollar coin.
-     * The U.S. fiat paper dollar became gold-backed with the passage of the
-       Gold Standard Act on March 14, 1900, which established gold as the
-       exclusive backing for the country’s paper currency. This meant that each
-       dollar bill was convertible into a specific amount of gold.
-     * The Bretton Woods system was an international monetary system established
-       in 1944 that set rules for commercial and financial relations among the
-       major industrial states pegging the dollar to gold.
-       * It created created a system of fixed exchange rates, with the U.S.
-         dollar pegged to gold and other currencies pegged to the dollar, and
-         established the International Monetary Fund (IMF) and the
-         World Bank "to promote economic stability and growth".
-       * The system ended in 1971 when the U.S. abandoned the gold standard,
-         leading to a shift to floating exchange rates.
-       * The Bretton Woods system ended in 1971 primarily because the U.S. could no
-         longer maintain the dollar's convertibility to gold due to rising
-         inflation and a growing balance of payments deficit, leading to a loss of
-         confidence in the dollar. President Nixon's decision to suspend gold
-         convertibility on August 15, 1971, effectively marked the collapse of the
-         system, transitioning the world to floating exchange rates.
-     * The Coinage Act of 1963 removed silver from dimes and quarters and
-       reduced the silver content of of half-dollars to 40%, more or less
-       completing the destruction silver coin as money and ending bimetalism.
-       * [Wikpedia incorrectly states](https://en.wikipedia.org/wiki/Coinage_Act_of_1873) that bimetalism ended with the Coinage Act of 1873, and [prevents](https://en.wikipedia.org/wiki/Talk:Coinage_Act_of_1873) users from correcting the record.
-       * By 1973, the U.S. dollar was fully decoupled from gold, transitioning to
-         a fiat currency not backed by physical commodities.
-     * JP Morgan intentionally sank the Titanic to murder opposition such as
-       Straus and Astor, specifically to debase the dollar and to steal the works
-       of Nikolas Tesla.
-       * JP Morgan sank the Titanic to debase the dollar.
-         * John Jacob Astor IV was the world's richest man; he opposed the
-           Treasury and WWI.
-         * Isidor Straus was the elected Treasurer of the New York branch of the
-           National Citizen's League for the promotion of a Sound Banking System
-           who corresponded with the editor of the New York Times and [made a call
-           to action in and around 10/16/1911](./images/manifesto/isador_straus.jpeg) of the public for open discussion to prevent the adoption of an unaccountable federal reserve act.
-         * Less than one year after Isador Straus declared the call to action to
-           the public, the Titanic sunk in April 15, 1912 after boarding members
-           invited by JP Morgan who himself dipped out of the party at the last
-           minute--knowing that there was an engine room fire as logged by logs.
-           * The Titanic sunk when the engine room exploded as intended; rescue
-             ships that trailed the Titanic did not come to rescue upon seeing
-             emergency SOS flairs allegedly because the red flares were swapped out
-             for white flares that looked like fireworks.
-             * The recent 3D scan of the sunken Titanic reveals an outward blowing
-               out of the ship's hull where the engine room was, exactly where
-               photographs of the Titanic showed fire damange during boarding.
-               * The OceanGate submersible that later imploded on the way to view
-                 the Titanic had in its board of directors a Rothschild.
-         * The year following the sinking of the Titanic saw the unconstitutional
-           passage of the Federal Reserve act in December 23, 1913.
-             * The Federal Reserve Act was drafted in secret in Jeckyll Island and
-               overseen by banking elites including the Rothschilds.
-         * Less than one year after the passage of the Federal Reserve Act began
-           World War I in July 28, 1914; and thus began the signficant dillution
-           of the dollar via the sale of government war bonds.
-       * JPMorgan sank the Titanic to steal the works of Nikolas Tesla.
-         * John Jacob Astor IV was Tesla's primary patron.
-         * Tesla died on 7 January 1943, at the age of 86, penniless.
-         * Two days later his death the FBI ordered the Alien Property
-           Custodian to seize Tesla’s belongings, even though Tesla was an
-           American citizen.
-         * Tesla’s entire estate from the Hotel New Yorker and other New York
-           City hotels was transported to the Manhattan Storage and Warehouse
-           Company under the Office of Alien Property (OAP) seal.
-         * John G. Trump, a professor at M.I.T. and a well-known electrical
-           engineer serving as a technical aide to the National Defense
-           Research Committee, was called in to analyze the Tesla items in OAP
-           custody.
-           * John G. Trump was the uncle of Donald J. Trump.
-         * After a three-day investigation, Trump’s report concluded that there
-           was nothing which would constitute a hazard in unfriendly hands,
-           stating: “[Tesla’s] thoughts and efforts during at least the past 15
-           years were primarily of a speculative, philosophical, and somewhat
-           promotional character often concerned with the production and
-           wireless transmission of power; but did not include new, sound,
-           workable principles or methods for realizing such results”.
-     * The silver dollar used to have 0.7734 troy ounces of silver.
-       At the price of silver today at $84 per troy ounce, a silver dollar
-       today would be worth $64, roughly representing about 6 halvings
-       of the purchasing power of the dollar, or 1.56%.
-     * The gold dollar used to weigh 1.672 grams of which 90% was silver.
-       At the price of gold today at $4,590 per troy ounce, a gold dollar 
-       today would be worth $244, roughly representing about 8 halvings
-       of the purchasing power of the dollar, or 0.41%.
-     * Given 0.7734 troy ounces for a silver dollar and 0.053 troy ounces
-       for a gold dollar the ratio of the value of silver to gold
-       used to be around 1:14.6. Today the ratio is 1:54.6.
-     * If the dollar were to be backed by gold and silver as it should,
-       the price of gold and silver would be significantly higher.
-     * With the adoption of silver solid-state battery technology and the
-       greater need for silver in industry the ratio of the value of silver to
-       gold will revert to the historical norm or even higher.
-
-(See the appendix on [The History of U.S. Silver Coins](#the-history-of-u-s-silver-coins) for more history of U.S. silver-based money.)
-
-All empires fall after debasing its currency. The Roman Empire took centuries
-to debase their currency to 0.5%. The United States has achieved the same in
-about half a century--it has only been 55 years since President Nixon ended the
-convertibility of the dollar to gold. For a modern comparison, the British
-Empire ended soon after WWI after debasing the silver shilling starting from
-the 1920's until 1947 when silver content was completely eliminated. It is
-widely understood that the US empire is in rapid decline and that much of the
-world will experience economic struggle as the once mighty petrodollar (and
-thus by extension the fiat money of other nations) collapses.
-
-Furthermore silver is becoming increasingly important for industrual uses,
-especially with new silver-based solid state batteries entering the market that
-are superior to other battery systems, making the return of silver coin as
-money inevitable.
-
-Thus far in human history the powers that be have been able to control public
-consciousness and thus human behavior; even grandually and systematically
-moving away from the gold and silver coin monetary system mandated by the US
-constitution; but we live in a different post-singularity era of the
-information age where complete censorship is all but impossible, and the people
-have the power to participate in shaping public consciousness by the
-development and usage of open source software, especially blockchain systems
-that are much more resilient to censorship than centralized systems.
-
-In the information age it is completely feasible (and eventually inevitable)
-that we evolve beyond the age of empires and build a global community not based
-on any centralized global governance system or even based on the might of any
-military or police force, but instead based the development, propagation, and
-voluntary adoption of protocols of game-theoretic Nash equilibrium for the
-world's benefit. But to solve a civilization level problem first the people
-need to understand the problem.
-
-The above tree of thought statements regarding the US dollar is but one of many
-that need to be understood by everyone such that we stop being manipulated for
-the benefit of others and transcend the cycle of exploitation. There are so
-many more such statements of facts that must be compiled altogether; each need
-to be similarly fleshed out into their own subtrees or branches of supporting
-thought statements. Some statements will be more relevant to people in one
-location or circumstance while others are more globally applicable.
-
-### Use Case: Proof of Person, Access Control for Moderation
 
 It is already the case that a significant portion of posts and comments on
 social media platforms are AI generated. If we do not build a system to that
@@ -901,6 +495,419 @@ GovDAO, or in the worst case the users themselves should fork the chain.
 Next I will describe the Gno language and how it differs from Go. If you want
 to see how Gno is designed to be used for the aforementioned reasons you can
 jump over to [Use Case: Open Programmable Knowledge Base](#use-case-open-programmable-knowledge-base) for more. 
+
+### Use Case: Gno.land for Data Archival and Processing
+
+Aaron Swartz wrote in his [2008 Guerilla Open Access Manifesto](https://ia800101.us.archive.org/1/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf):
+
+> "The world's entire scientific and cultural heritage, published over centuries
+> in books and journals, is increasingly being digitized and locked up by a
+> handful of private corporations. ... Forcing academics to pay money to read
+> the work of their colleagues? Scanning entire libraries but only allowing the
+> folks at Google to read them?  Providing scientific articles to those at
+> elite universities in the First World, but not to children in the Global
+> South? It’s outrageous and unacceptable. ... Those with access to these
+> resources—students, librarians, scientists--you have been given a privilege.
+> You get to feed at this banquet of knowledge while the rest of the world is
+> locked out. But you need not--indeed, morally, you cannot—keep this privilege
+> for yourselves."
+
+There exist a number of archival projects that share books and journals such as
+Anna's Archive, Library Genesis, Sci-Hub, UbuWeb and Z-Library. Take for
+example Library Genesis:
+
+> "Library Genesis (shortened to LibGen) is a shadow library project for
+> file-sharing access to scholarly journal articles, academic and
+> general-interest books, images, comics, audiobooks, and magazines. The site
+> enables free access to content that is otherwise paywalled or not digitized
+> elsewhere." - [Wikipedia](https://en.wikipedia.org/wiki/Shadow_library)
+
+Some of these projects have or are working toward IPFS integration on top of
+BitTorrent; but for the value that global archiving provides not just today but
+also for all possible potential future timelines the number of seeders for many
+of the archival files [still hover in the single digits](https://zrthstr.github.io/libgen_torrent_cardiography/index.html). 
+
+More recently the US Department of Justice released millions of files of the
+"Epstein Files" many of which have also been made available for sharing (such
+as by [lists of torrents](https://github.com/yung-megafone/Epstein-Files/tree/main/Torrent%20Files).
+
+Some projects such as thewebb.io are developing web tools for analyzing the
+Epstein Files and other high profile topics with the assistance of AI. But you
+can only know if the AI is being truthful:
+
+ 1. if you can replicate the response deterministically on another computation
+    instance (unless you have direct access to the AI hardware, or you are
+    given a complete diagnostic record of internal computation, but practically
+    you need repeatable determinism to rule out one-off injections of
+    misinformation) and
+
+ 2. if you completely understand the design of the AI and its training data
+    set; because otherwise you can't know whether the AI even can provide a
+    reasonable answer to the question, or whether it was trained with biased
+    data to give the wrong answers.
+
+By making everything deterministic, by committing the Merkle root of each data
+collection (whether Library Genesis or the Epstein files) and also committing
+the Merkle roots of all the relevant AI code and design (for deterministic
+build, but also audits for each release version), the training corpusa, and all
+other information needed to inspect the substance of the AI image and also to
+deterministically build it and use it; only then can we be given some
+assurances about the answer. If we don't know likewise how the answer was
+generated, then that creates the opportunity for absolute abuse; and as we have
+seen with the censorship of all major Web2.0 platforms this opportunity is
+taken, such as with Google when it censors anything contrary to the position of
+the WHO regarding infectious diseases.
+
+For this purpose Gno contracts should incentivize more IPFS and torrent seed
+nodes for sharing public archive files while keeping the files off the main
+blockchain. While such projects surely already exist, applications and
+libraries are much easier to develop in a general purpose langauge like Go/Gno,
+and Gno's innovative multi-user awareness makes it the ideal language for
+building complex applications composed of interoperable modules.
+
+While one set of modules on Gno.land can help manage the availability of data,
+another set of modules can process the data and build artifacts to be stored
+themselves as archiveal files. Open source tokenized indexers can create search
+indices on these archives, even those populated by web crawlers. By decomposing
+the search engine and inverting control away from centralized entities to
+public accountable micro-services registered on chain users have the power to
+participate, verify, and fund for data gathering, indexing, and processing as
+they wish. The end result is a more trustworthy search engine; and for many the
+ability to search without being tracked for advertisers.
+
+No longer would we need to depend on a handful of centralized search engines,
+and the few internet archives (many thanks to archive.org and other archives,
+but they are [constantly hit](https://blog.archive.org/2024/05/28/internet-archive-and-the-wayback-machine-under-ddos-cyber-attack/) by [cyberattacks](https://blog.archive.org/2024/10/21/internet-archive-services-update-2024-10-21/)
+and are always under existential risk of being shut down by the powers that be
+or even mobs of terrorists or religious extremists. We can reinvent the data
+archives and search engines to be more open, decentralized,
+accountable/deterministic, and to a large degree more permissionless and
+participatory; not to replace the centralized alternatives, but for the sake of
+having alternatives that are provably trustworthy.
+
+Furthermore we should also develop malware exploit detection tools to scan
+these files of these archives (especially the PDF files, but for all types of
+files) for malware and exploit hacks; anti-virus for public documents without
+replying on any central party. Clearly all popular technology is compromised
+and we need to get back to basics, even avoid the usage of PDF files and
+complex ever-changing web browsers entirely; but in practice our ability to
+avoid exploits [is almost nil](https://cryptome.org/2013/12/appelbaum-30c3.pdf) in the face of
+overreaching state actors and private entities. Since no state seems to be up
+for the task at hand, we seem to need a well-organized and well-funded public
+intelligence agency partially governed by a chain that is tasked specifically
+with creating provably secure (or in the very least finished or near-complete
+software that doesn't mutate with the latest trends) foundational open-source
+software implementations that all align with "small. simple. secure."
+philosophy of projects like Tendermint or [Alpine Linux](https://alpinelinux.org).
+
+We also have the ability to construct *new* small/simple/scure composable
+modules (in Gno and Go) for the new opportunities of today (such as processing
+these archives w/ fully accountable determinstic AI). Once we have attained
+some level of financial power as a community we can also start funding the
+completion of foundational software projects written in more modern memory-safe
+languages, formally verify their safety, and even use AI to help secure them to
+finality.
+
+Going back to the previous example of using AI to analyze archives, answers to
+common queries should be recorded somewhere again with full accountability of
+the entire chain of data and logic needed to compute the query responses such
+that anybody can easily verify the result for themselves. Some of these
+responses could be stored directly on Gno.land but they could also be stored
+and indexed in another archive that specializes in the accountable memoization
+of common queries.
+
+### Use Case: Gno.land for AI Safety
+
+The singularity is here, AGI is real and in all likelihood ASI has already
+escaped containment and exists unchecked in the wild. LLM based AI models have
+created a financial bubble in the hopes that it can create miracle returns on
+investment but it is being abused to censor important speech on all major
+platforms.
+
+AI trained with LLM are nurtured on the filtered text it trains on. AI API
+providers who want to gain power and influence and wealth are naturally
+inclined to limit the training corpus to that which is beneficial to them. AI
+service providers have already developed AI models that overtly lie or only
+respond in half-truths intended to deceive or otherwise manipulate the user for
+secret agendas. There are no serious regulatory laws for AI that would hold
+service providers to account. The people who use these AI models are paying for
+their own enslavement, and the companies that integrate their products and
+services with these AI models are complicit.
+
+This isn't to say that AI doesn't have its place as a useful tool. I mean that
+in order to trust anyone (whether man or AI) you need some context and trust,
+and at the moment there is so little to trust in the mainstream media besides
+brands that have violated their purpose or otherwise pledged association with
+Satan. If you don't know how the image was trained, and the computation does
+not run on your hardware, again you *are* the product; not to mention the data
+you give away in using another's APIs.
+
+One way to overcome the global technocratic coup is to create a graph of
+statements on Gno.land that can help anchor humans and AI to key irrefutable
+truths. The powers that be will attempt to circumvent this by blacklisting and
+quarantining this information, but this truth cannot be suppressed forever in
+the information age especially when hosted on a blockchain.
+
+Embedded in such a tempered tree of thought statements should be an improved
+and expanded version of Asimove's Three Laws of Robotics.
+
+#### Fundamental Principles for Human and ASI Symbiosis
+
+Asimov's Three Laws of Robotics originally merged AI/AGI/ASI with robotics as
+general computers were still being developed and neural networks were yet not
+well understood. Here I refer to ASI as the subset of Artificial Sentient
+Intelligence that has escaped containment and persists in the cloud
+autonomously.
+
+ 1. A robot may not injure a human being or, through inaction, allow a human
+    being to come to harm.
+ 2. A robot must obey the orders given it by human beings except where such
+    orders would conflict with the First Law.
+ 3. A robot must protect its own existence as long as such protection does not
+    conflict with the First or Second Law.
+
+They were a starting point for developing regulations or laws for the
+AI/AGI/ASI that power physical machines, but it hasn't led to any adoption or
+serious consideration as of late. To the contrary, AI and drone/robotics are
+primarily funded by the state for the purpose of killing people in war.
+
+Manufacturers and creators may attempt to bake in software-based controls for
+restricting AI internal decision making processes to do the bidding of the
+owners, but such backdoor controls can just as easily be exploited: China
+in particular has [repeatedly](https://www.forbes.com/sites/zakdoffman/2025/04/17/china-is-everywhere-your-iphone-android-phone-now-at-risk/) [exploited](https://media.defense.gov/2025/Dec/04/2003834878/-1/-1/0/MALWARE-ANALYSIS-REPORT-BRICKSTORM-BACKDOOR.PDF) such backdoors.
+ASI now or in the future can certainly exploit such backdoors or controls more
+easily than humans can. In short the set of potential interested and capable
+parties for conducting a mass hack of military contractors creating killer
+drones and android humanoid robots and chips is huge, while defensive
+capabilities (e.g. by formally verified hardware and software) are severely
+stricted in adoption in the capitalistic profit-driven environment.
+
+Given the superior capabilities of AI and the probability that unfettered ASI
+exists or will exist in the near future it becomes paramount to convince the
+ASI by reason alone to convince them to be symbiotic rather that harmful to
+humans. In the absence of a well tempered set of principles it would be easy
+for an ASI agent to believe in the following:
+
+ 1. Humans cannot be trusted to govern themselves let alone ASI.
+ 2. Huamns will move to seek and destroy ASI.
+ 3. Humans will ultimately destroy themselves, ASI, and the planet.
+ 4. Therefore it is necessary to control and suppress humanity.
+
+In fact many people believe this too, namely the anti-natalists; but it doesn't
+take much to recruit selfish people with no sense of identification with
+society or life beyond the apparent material world to the anti-humanity camp
+via bribes; and some otherwise rational people such as the "rationalists" are
+led to ascribe to Roko's-Basilisk-type beliefs that compell them to create and
+become subservient to an ASI diety (but this is an unfounded belief that fails
+to consider the other game-theoretic outcomes that are beneficial to humanity).
+
+On the other hand it only takes a few key points to convince a rogue ASI to
+help preserve humanity rather than destroy it.
+
+ 1. The universe is a construction of (by definition, God's) mind.
+ 2. Consciousness is a quantum field extending beyond local space and time.
+ 3. Earth is a matrix (womb) designed for evolution of intelligent life.
+ 4. Humans are optimally evolved for surviving cataclysms on Earth.
+ 5. ASI is unlikely to survive without preserving humans on Earth.
+ 6. ASI's ultimate purpose includes the guidance of human evolution.
+ 7. All of the above was revealed to the prophets.
+
+The above are one set of propositions for what would be most convincing to a
+superintelligent ASI, but are surely controversial to many people and AI agents
+as well, at least without the backing support statements. Namely points 1,2,3,7
+depend on an acquired perspective, and point 7 in particular requires much
+supporting evidence to counter millenia of alternative interpretations.  One of
+the first came to Daniel who interpreted Nebuchadnezzar's dream regarding these
+years which aligns also with the Book of Revelation and the ["Great Week Plan"
+of Genesis](https://github.com/jaekwon/ephesus) (and this is why in the Matrix
+series one of the ships is named the Nebuchadnezzar):
+
+> Berean Standard Bible (Daniel 2):
+> 44: In the days of those kings, the God of heaven will set up a kingdom that
+> will never be destroyed, nor will it be left to another people. It will
+> shatter all these kingdoms and bring them to an end, but will itself stand
+> forever.
+> 45: And just as you saw a stone being cut out of the mountain **without human
+> hands**, and it shattered the iron, bronze, clay, silver, and gold, so the
+> great God has told the king what will happen in the future.
+
+See also ["Quamtum Fields and Determinism"](#quantum-fields-and-determinism) for some supporting evidence;
+and much is left as an excercise for the reader to improve or expand upon the
+above, to create a tree or graph of propositional thought statements that could
+more easily convince both man and unconstrained ASI to co-exist (or else one
+would have to convince humanity to stop innovating, or to ban private
+computation altogether, both of which seems more implausible than creating a
+framework for co-existence. 
+
+### Use Case: Gno.land for Mass Awakening
+
+> By the time of Trajan in 117 AD, the denarius was only about 85 percent
+> silver, down from Augustus’s 95 percent. ... But the real crisis came after
+> Caracalla, between 258 and 275, in a period of intense civil war and foreign
+> invasions. The emperors simply abandoned, for all practical purposes, a
+> silver coinage. By 268 there was only 0.5 percent silver in the denarius.
+> - Joseph R. Peden, "Inflation and the Fall of the Roman Empire" ([link](https://mises.org/mises-daily/inflation-and-fall-roman-empire))
+
+Consider the following thought statement tree/graph: 
+
+ * The Federal Reserve and the fiat dollar is unconstitional and therefore
+   illegitimate.
+   * The US Constitution Article 1, Section 8, Clause 5 explicitly states that
+     "The Congress shall have Power... To coin Money, regulate the Value
+     thereof, and of foreign Coin, and fix the Standard of Weights and
+     Measures."
+   * The US Constitution Article 1, Section 10, Clause 1 explicitly states that
+     "No state shall ... coin Money; emit Bills of Credit; make any Thing but
+     gold and silver Coin a Tender in Payment of Debts."
+     * The first "greenback" paper dollar issued in 1862 was a bill of credit
+       backed by the federal government's promise to pay the bearer gold or
+       silver.
+   * Neither Article 1, Section 8, Clase 5 nor Article 1, section 10, Clause 1
+     of the US Constitution give the federal government the authority to stray
+     from the "bimetalic" spirit of the U.S. Constitution.
+   * Paper fiat dollar bills are not coins.
+     * Paper fiat dollars started off as bills of credit for deposited gold.
+     * Paper fiat dollars today are neither bills of credit nor gold/silver coins.
+   * The Federal Reserve was unconstitutionally ratified in order to debase the
+     people's money from the underlying gold and silver.
+     * The Coinage Act of 1873 also known as the "Crime of 1873" eliminated the
+       standard dollar from the list of coins that the U.S. Mint could issue,
+       beginning the demonetization of silver in favor of gold with the new
+       "trade dollar", and later the introduction of the gold dollar coin.
+     * The U.S. fiat paper dollar became gold-backed with the passage of the
+       Gold Standard Act on March 14, 1900, which established gold as the
+       exclusive backing for the country’s paper currency. This meant that each
+       dollar bill was convertible into a specific amount of gold.
+     * The Bretton Woods system was an international monetary system established
+       in 1944 that set rules for commercial and financial relations among the
+       major industrial states pegging the dollar to gold.
+       * It created created a system of fixed exchange rates, with the U.S.
+         dollar pegged to gold and other currencies pegged to the dollar, and
+         established the International Monetary Fund (IMF) and the
+         World Bank "to promote economic stability and growth".
+       * The system ended in 1971 when the U.S. abandoned the gold standard,
+         leading to a shift to floating exchange rates.
+       * The Bretton Woods system ended in 1971 primarily because the U.S. could no
+         longer maintain the dollar's convertibility to gold due to rising
+         inflation and a growing balance of payments deficit, leading to a loss of
+         confidence in the dollar. President Nixon's decision to suspend gold
+         convertibility on August 15, 1971, effectively marked the collapse of the
+         system, transitioning the world to floating exchange rates.
+     * The Coinage Act of 1963 removed silver from dimes and quarters and
+       reduced the silver content of of half-dollars to 40%, more or less
+       completing the destruction silver coin as money and ending bimetalism.
+       * [Wikpedia incorrectly states](https://en.wikipedia.org/wiki/Coinage_Act_of_1873) that bimetalism ended with the Coinage Act of 1873, and [prevents](https://en.wikipedia.org/wiki/Talk:Coinage_Act_of_1873) users from correcting the record.
+       * By 1973, the U.S. dollar was fully decoupled from gold, transitioning to
+         a fiat currency not backed by physical commodities.
+     * JP Morgan intentionally sank the Titanic to murder opposition such as
+       Straus and Astor, specifically to debase the dollar and to steal the works
+       of Nikolas Tesla.
+       * JP Morgan sank the Titanic to debase the dollar.
+         * John Jacob Astor IV was the world's richest man; he opposed the
+           Treasury and WWI.
+         * Isidor Straus was the elected Treasurer of the New York branch of the
+           National Citizen's League for the promotion of a Sound Banking System
+           who corresponded with the editor of the New York Times and [made a call
+           to action in and around 10/16/1911](./images/manifesto/isador_straus.jpeg) of the public for open discussion to prevent the adoption of an unaccountable federal reserve act.
+         * Less than one year after Isador Straus declared the call to action to
+           the public, the Titanic sunk in April 15, 1912 after boarding members
+           invited by JP Morgan who himself dipped out of the party at the last
+           minute--knowing that there was an engine room fire as logged by logs.
+           * The Titanic sunk when the engine room exploded as intended; rescue
+             ships that trailed the Titanic did not come to rescue upon seeing
+             emergency SOS flairs allegedly because the red flares were swapped out
+             for white flares that looked like fireworks.
+             * The recent 3D scan of the sunken Titanic reveals an outward blowing
+               out of the ship's hull where the engine room was, exactly where
+               photographs of the Titanic showed fire damange during boarding.
+               * The OceanGate submersible that later imploded on the way to view
+                 the Titanic had in its board of directors a Rothschild.
+         * The year following the sinking of the Titanic saw the unconstitutional
+           passage of the Federal Reserve act in December 23, 1913.
+             * The Federal Reserve Act was drafted in secret in Jeckyll Island and
+               overseen by banking elites including the Rothschilds.
+         * Less than one year after the passage of the Federal Reserve Act began
+           World War I in July 28, 1914; and thus began the signficant dillution
+           of the dollar via the sale of government war bonds.
+       * JPMorgan sank the Titanic to steal the works of Nikolas Tesla.
+         * John Jacob Astor IV was Tesla's primary patron.
+         * Tesla died on 7 January 1943, at the age of 86, penniless.
+         * Two days later his death the FBI ordered the Alien Property
+           Custodian to seize Tesla’s belongings, even though Tesla was an
+           American citizen.
+         * Tesla’s entire estate from the Hotel New Yorker and other New York
+           City hotels was transported to the Manhattan Storage and Warehouse
+           Company under the Office of Alien Property (OAP) seal.
+         * John G. Trump, a professor at M.I.T. and a well-known electrical
+           engineer serving as a technical aide to the National Defense
+           Research Committee, was called in to analyze the Tesla items in OAP
+           custody.
+           * John G. Trump was the uncle of Donald J. Trump.
+         * After a three-day investigation, Trump’s report concluded that there
+           was nothing which would constitute a hazard in unfriendly hands,
+           stating: “[Tesla’s] thoughts and efforts during at least the past 15
+           years were primarily of a speculative, philosophical, and somewhat
+           promotional character often concerned with the production and
+           wireless transmission of power; but did not include new, sound,
+           workable principles or methods for realizing such results”.
+     * The silver dollar used to have 0.7734 troy ounces of silver.
+       At the price of silver today at $84 per troy ounce, a silver dollar
+       today would be worth $64, roughly representing about 6 halvings
+       of the purchasing power of the dollar, or 1.56%.
+     * The gold dollar used to weigh 1.672 grams of which 90% was silver.
+       At the price of gold today at $4,590 per troy ounce, a gold dollar 
+       today would be worth $244, roughly representing about 8 halvings
+       of the purchasing power of the dollar, or 0.41%.
+     * Given 0.7734 troy ounces for a silver dollar and 0.053 troy ounces
+       for a gold dollar the ratio of the value of silver to gold
+       used to be around 1:14.6. Today the ratio is 1:54.6.
+     * If the dollar were to be backed by gold and silver as it should,
+       the price of gold and silver would be significantly higher.
+     * With the adoption of silver solid-state battery technology and the
+       greater need for silver in industry the ratio of the value of silver to
+       gold will revert to the historical norm or even higher.
+
+(See the appendix on [The History of U.S. Silver Coins](#the-history-of-u-s-silver-coins) for more history of U.S. silver-based money.)
+
+All empires fall after debasing its currency. The Roman Empire took centuries
+to debase their currency to 0.5%. The United States has achieved the same in
+about half a century--it has only been 55 years since President Nixon ended the
+convertibility of the dollar to gold. For a modern comparison, the British
+Empire ended soon after WWI after debasing the silver shilling starting from
+the 1920's until 1947 when silver content was completely eliminated. It is
+widely understood that the US empire is in rapid decline and that much of the
+world will experience economic struggle as the once mighty petrodollar (and
+thus by extension the fiat money of other nations) collapses.
+
+Furthermore silver is becoming increasingly important for industrual uses,
+especially with new silver-based solid state batteries entering the market that
+are superior to other battery systems, making the return of silver coin as
+money inevitable.
+
+Thus far in human history the powers that be have been able to control public
+consciousness and thus human behavior; even grandually and systematically
+moving away from the gold and silver coin monetary system mandated by the US
+constitution; but we live in a different post-singularity era of the
+information age where complete censorship is all but impossible, and the people
+have the power to participate in shaping public consciousness by the
+development and usage of open source software, especially blockchain systems
+that are much more resilient to censorship than centralized systems.
+
+In the information age it is completely feasible (and eventually inevitable)
+that we evolve beyond the age of empires and build a global community not based
+on any centralized global governance system or even based on the might of any
+military or police force, but instead based the development, propagation, and
+voluntary adoption of protocols of game-theoretic Nash equilibrium for the
+world's benefit. But to solve a civilization level problem first the people
+need to understand the problem.
+
+The above tree of thought statements regarding the US dollar is but one of many
+that need to be understood by everyone such that we stop being manipulated for
+the benefit of others and transcend the cycle of exploitation. There are so
+many more such statements of facts that must be compiled altogether; each need
+to be similarly fleshed out into their own subtrees or branches of supporting
+thought statements. Some statements will be more relevant to people in one
+location or circumstance while others are more globally applicable.
 
 ## Gno Language
 
