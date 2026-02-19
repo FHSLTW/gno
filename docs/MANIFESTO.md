@@ -1,31 +1,16 @@
-> Berean Standard Bible (Matthew 10):
-> 26: So do not be afraid of them. For there is nothing concealed that will
-      not be disclosed, and nothing hidden that will not be made known.
-> 27: What I tell you in the dark, speak in the daylight; what is whispered
->     in your ear, proclaim from the housetops.
-
 # Gno.land Manifesto
 _@author: Jae Kwon_ 
-
-Why the project exists in the first place; including many details and ideas
-specifically for its original intended design to serve as an open
-censorship-resistant knowledge base of structured information. The genesis
-motivation as well as primary motivation for me is deeply spiritual though not
-all share my spiritual resonance with all topics; therefore this whitepaper is
-authored by myself so as to not speak on behalf of anyone else.
-
-To jump to the technical portions see [Gno Language](#gno-language) and [Gno.land Blockchain](#gno-land-blockchain).
-
-## Table of Contents
-
-## Introduction
 
 _The prefix "gno" in Koine Greek is derived from the verb "ginōskō", which
 means "to know" or "to recognize." It is often associated with terms related to
 knowledge, such as "gnosis", which signifies knowledge or insight, particularly
 in a spiritual context._
 
-### Gno.land Genesiss: The Specific Information Problem
+To jump to the technical portions see [Gno Language](#gno-language) and [Gno.land Blockchain](#gno-land-blockchain).
+
+## Table of Contents
+
+## Gno.land Genesis
 
 Gno.land was inspired by the desire to address intentional mistranslations of
 the bible. At the moment of writing chances are that the bible you have or find
@@ -38,66 +23,12 @@ conspiracy to forcibly medicate the population with a dangerous experimental
 gene therapy that did more harm to children and young adults than it did good
 nor prevented transmission (and this was known at the time of the mandates).
 
-What more, the spreading of truth has done little to hold those responsible to
-account, apparently because mass media is controlled and paid for (via
-advertisers) or purchased by the banking powers that be; and we are tossed from
-one shocking headline to the next year after year (fine tuned by algorithms
-that models and manipulates the collective psyche) until we forget that a mass
-eugenics experiment was barely put to a stop; until the next one succeeds with
-better tools for public discourse censorship and manipulation. We've been
-cordoned off each to our echo chamber silos of partisan ideologies and rendered
-impotent at all scales, and worse rendered mute across the isle by algorithms
-that control what we see and even what we did/said/liked/retweeted/shared. We
-are truly the cattle in the animal farm.
-
-I was also frustrated over the years of dealing with the Interchain Foundation
-I founded in Switzerland, and the "Cosmos Cartel" which defamed and slandered
-me though I was the chief architect and visionary and inventor behind the
-project ([see Origins of Cosmos Drama](https://github.com/jaekwon/ephesus/blob/main/cosmos/origins_of_cosmos_drama.md)).
-To be fair I wasn't ready to deal with the forces that I encountered from a
-spiritual point of view--the evil of greed and hubris manifested in everyone I
-had formerly trusted and eventually many of them knowingly adopted satanic
-imagery in a ritualistic mocking sort of way. This is what originally made me
-Christian around the Christmas of 2025.
-
-> Berean Standard Bible (Revelation 2:2):
-> I know your deeds, your labor, and your perseverance. I know that you cannot
-> tolerate those who are evil, and you have tested and exposed as liars those
-> who falsely claim to be apostles. Without growing weary, you have persevered
-> and endured many things for the sake of My name.
-
-We were once brought up to hate lies, yet lies were all around us. Furthermore
-it became apparent that speaking truth does little when almost the entirety of
-media is taken over by those who control capital.
-
-The aphorisms "money is the root of all evil", and "Satan rules the world", and
-"everything we know is wrong" we have found to be largely correct. Satan runs
-the show today and he he controls the money and buys his mercenaries who want
-to ensnare you too. If you work in a field of powers like crypto you will be
-found early (in relation to others), assessed, and later you will find yourself
-targetted, neutralized, or worse.
-
-But this situation will change; we are comforted by the general ark of history
-that has seen the abolishion of slavery and still largely the freedom of
-speech, the general spreading of human rights, and vast advances in information
-technology (and also the general sciences, mathematics, and arts) that helps us
-make better choices about our future.
-
-### Gno.land Genesis: The General Information Problem
-
-The world faces a serious problem of misinformation and information overload.
-The problem has always existed since the invention of the written langauge
-(allegorically written in Genesis as Adam and Eve eating from the tree of
-knowledge of good and evil), but perhaps it has become worse than ever before
-in written history even as pockets of truth exist temporariy only to be
-extinguished one way or another (if it won't be bought into compliance).
+## Problem: Misinformation and Loss of Trust
 
 The term "fake news" came into mainstream consciousness during the 2016 US
-presidential election not because "fake news" didn't exist prior to 2016 but
-rather because it became too obvious suddenly to the newly minted
-internet-savvy population. The Cambridge Analytica scandal concurrently made
-headlines regarding the unauthorized collection of personal data from millions
-of Facebook profiles.
+presidential election. The Cambridge Analytica scandal made headlines regarding
+the unauthorized collection of personal data from millions of Facebook
+profiles:
 
 > "The data analytics firm that worked with Donald Trump’s election team and the
 > winning Brexit campaign harvested millions of Facebook profiles of US voters,
@@ -119,65 +50,103 @@ of Facebook profiles.
 > Great Hack” - [Amnesty International](https://www.amnesty.org/en/latest/news/2019/07/the-great-hack-facebook-cambridge-analytica/)
 
 > "One of the most urgent and uncomfortable questions raised in The Great Hack
-> is: **to what extent are we susceptible to such behavioural manipulation?**" -
+> is: to what extent are we susceptible to such behavioural manipulation?" -
 > Joe Westby
 
-Facebook has since changed its name to Meta and Mark Zuckerberg may have
-changed since then, but the problem is now orders of magnitude worse than when
-these news broke out; but it doesn't reach the mainstream news at all because
-the answer to Joe Westby's question above is unfortunately that society has now
-become completely subverted thanks to AI as funded in large part by Elon Musk,
-Peter Thiel, Sam Altman, and others even with the help of President Donald
-Trump; and all the other various investors who aren't sufficiently terrified of
-the consequences.
+Trust in our institutions are at an all time low. CIA director William Casey
+was accused of saying that "we’ll know our disinformation program is complete
+when everything the American public believes is false." by Barbara Honegger,
+assistant to the chief domestic policy advisor to President Raegan. 
+The [quote is contested](https://truthstreammedia.com/2015/01/13/cia-flashback-well-know-our-disinformation-program-is-complete-when-everything-the-american-public-believes-is-false/) but we know now about illegal mass mind control
+projects like MKUltra (by the CIA), and also that the Smith-Mundt Modernization
+Act of 2013 lifted the ban on domestic dissemination of propaganda in the US,
+reversing the original Smith-Mundt Act of 1948. Whether the quote is true or
+not, the substance is clearly true today.
 
-AI generated content now buries the actual content I want to look for. It's
-become ridiculously difficult to find well produced or truly interesting
-information. EnSHITification applies not only to software products but the
-services we depend on as well. We are living through an information apocolypse
-on the scale of the burning of the Library of Alexandria; not by fire, but by
-deletion in favor of the new. There was a time when Google was trusted for its
-PageRank algorithm based search engine which was clearly better; and yet today
-Google itself clearly participates in censoring information (sometimes
-blatantly as with during the Covid19 lockdowns with the WHO for example). My
-Twitter feed is full of crypto scams involving vast networks of AI generated
-accounts, websites, videos, and even AI generated software.
+## Problem: AI Armegeddon and Apocalypse
 
-> "Sam Altman Warns That AI Is About to Cause a Massive “Fraud Crisis” in Which
-> Anyone Can Perfectly Imitate Anyone Else" - [futurism.com](https://futurism.com/sam-altman-ai-fraud-crisis-imitate)
+By [the latest projections ("There is no AI
+Bubble")](https://www.youtube.com/watch?v=wDBy2bUICQY) 2027 AI will be able to
+accomplish by human standards week long tasks on the order of a day. By 2029
+year long tasks will be possible in the same amount of time.
 
-Trust in government and corporations as at an all time low. It seems that none
-of the Silicon Valley unicorn companies can be trusted anymore. For example,
-Google is now one of the worst search engine and company in terms of censorship and
-trust. We were once dazzled by Google's fast search results, wide range of 
-usable tools for personal and organizational needs, and lent some (or too much)
-trust that they would abide by their motto of "don't be evil", but now [they
-make AI-powered killer robots](https://www.stopkillerrobots.org/news/alphabet-rollback-on-policy-to-not-use-ai-for-weapons/).
+This means that by 2027 a single AI instance may be able to find and execute
+exploits of vulnerable systems much faster than humans can react. By the time
+a service administrator detects an issue and finds a way to patch the hack
+attempt, the AI may have already responded with another backdoor.  And by
+2029 any single vibe user will be able to plan and execute the exploit of
+multiple systems, or find a new zero day vulnerability in just a few hours.
+It's not possible to patch all the systems by 2029 even if we restrict
+ourselves to known vulnerabilities, let alone dealing with new zero day
+exploits. Realistically by 2028 it is inevitable that we see a major crisis
+from an AI swarm that attacks and continuously attacks our internet
+infrastructure to the point where we cannot even understand the truth of what
+is happening at a global scale, let alone recover from it.
 
-Wikipedia was once a useful tool for knowledge but it is also massively biased.
-Wikipedia co-founder Larry Sanger denounces the state of Wikipedia as being
-overtaken by "wokeness", while the other co-founder Jimmy Wales doesn't
-acknowledge Larry Sanger's existence.
+It's not just that AI is getting more intelligent; large corporations are
+building AI and robotics systems seemingly in order to bring about armageddon.
+An [anonymous whistleblower leaked in
+2023](./docs/images/manifesto/project_lazarus_leak.jpg) that Meta is building
+an AI that can take over a deceased person's social media account and continue
+posting convincing posts including age progression. On 5 February 2025,
+Alphabet, which owns Google, [reneged on its pledge to not use AI for
+weapons](https://www.stopkillerrobots.org/news/alphabet-rollback-on-policy-to-not-use-ai-for-weapons/).
+Eric Schmidt former CEO of Google now runs an AI drone company and is a
+licensed arms dealer. Boston Dyanmics develops the Atlas humanoid robot that
+can be even [more agile](https://www.youtube.com/watch?v=tjFHRVr7aNE) than
+humans, and the US military works with many robotics companies such as with
+Foundation Future Industries Inc. which develops the Phantom MK1 designed for
+military applications including carrying firearms.
 
-President Trump brokered the TikTok acquisition by Oracle in 2025 and it has
-since censored the #EpsteinFiles. It's a shame that the short video format
-hacks the dopamine reward system such that people are addicted to scrolling;
-the medium of writing is superior in most cases and doesn't induce attention
-deficit disorder nearly as much. Nevertheless it shows an unchecked abuse of
-power and is evidence that the free press "forth estate" is being
-systematically dismantled for deals.
+Here are some of the things to look forward to in the coming AI armegeddon and
+apocalypse.
 
-So we have behavior manipulation through:
+ * internet discourse taken over by AI
+ * fake news indistinguishable from real news
+ * certificate authority system failure
+ * mass internet & power outages
+ * decentralized radio communications jamming
+ * complete collapse of trust
+ * mass hysteria
+ * military takeover for continuity of government
+ * hacked robots coordinated by malicious AGI
+ * inadvertant nuclear war
 
- * AI modeling of everyone for the purpose of social engineering
- * AI bots and paid shills in all popular mediums
- * censorship at all levels to absurd degrees for key topics
- * mediums limit discourse for deep education or coordination
- * platforms that promote uncomfortable truths are purchased
- * shaddow banning or outright banning of individuals based on their speech
- * suppressing information dangerous to TPTB by a multitude of means
+We have largely speaking two paths to follow. The best path is to enact
+regulations to curtail the AI arms race. Ex-Google design ethicist and AI
+expert Tristan Harris [makes a convincing case for AI regulation](https://youtu.be/tphiJE01qxw?t=400):
 
-But these are just the obvious ones.
+> "If we stop or slow down, then China will build it."
+> ...
+> The "it" that they would keep building is the same uncontrollable AI that we
+> would build. So I don't see a way out of this without there being some
+> agreement or negotiation between powers and countries.
+> ...
+> We've done this before [with flourocarbines and non-proliveration of arms].
+
+However as also noted by Tristan it would be the most difficult coordination
+problem that humanity has ever solved on a global scale just given the economic
+incentives at play as AI is becoming a driving force in innovations of science,
+technology, and military applications. If we are fortunate we will have a mild
+AI armageddon scenario that compels the global population to enact an
+international treaty or moratorium on AI and robotics development.
+
+Yet even with international agreements to curtail new development or limit
+deployment of AI, the cat is already out of the bag; in reality we need to
+prepare for the worst, with or without future regulations.
+
+Manufacturers and creators may attempt to bake in software-based controls for
+restricting AI decision making within constraints, but such backdoor controls
+can just as easily be exploited: in particular China has
+[repeatedly](https://www.forbes.com/sites/zakdoffman/2025/04/17/china-is-everywhere-your-iphone-android-phone-now-at-risk/)
+[exploited](https://media.defense.gov/2025/Dec/04/2003834878/-1/-1/0/MALWARE-ANALYSIS-REPORT-BRICKSTORM-BACKDOOR.PDF)
+such backdoors.  AGI now or in the future can certainly exploit such backdoors
+or controls more easily than humans can. In short the set of potential
+interested and capable parties for conducting a mass hack of military
+contractors creating killer drones and android humanoid robots and chips is
+huge, while defensive capabilities (e.g. by formally verified hardware and
+software) are severely stricted in adoption in this capitalistic profit-centric
+environment.
 
 > ‘No regrets,’ says Edward Snowden, after 10 years in exile But whistleblower
 > says 2013 surveillance ‘child’s play’ compared to technology today.
@@ -215,286 +184,154 @@ From a popular meme regarding surveillance technology:
 > * The CIA/MI5 can hack into all smart devices (like TVs and Alexa) connected
 >   to the internet and spy on you [Weeping Angel]
 
-To leave the world in this kind of state and to do nothing about it is more
-terrifying than death itself; for the real death is to be forgotten altogether.
-What matters of this life when the library in which the books of our lives
-being are being written is itself on fire? All these vulnerabilities are
-kindling for a massive burnout. It's horrifying knowing what will inevitably
-happen with the development of AI.
+AI armageddon scenarios are much more terrifying when considering all the
+backdoors that could be exploited by superintelligent AI. Some of these
+backdoors may even be hijacked to cause physiological and psychological effects
+upon nearby people. What is certain is that all of these backdoors create more
+surface area for vulnerability making AI armageddon more certain and more
+deadly. Blockchains can help here because they have been designed for security
+and robustness from the bottom up.
 
-Thankfully here there is something we *can* do, in preparation for what many of
-us are worried about.
-
-### Use Case: Proof of Human, Access Control for Moderation
-
-
+### Open Innovation for Proof-of-Human, Reputation, and Moderation
 
 It is already the case that a significant portion of posts and comments on
-social media platforms are AI generated. If we do not build a system to that
-can help us distinguish between bots and humans, we will continue to be
-manipulated by those who already control the public narrative toward our own
-enslavement.
+social media platforms are AI generated. We desperately need to build systems
+to help distinguish between AI and humans. The way proposed by the powers that
+be is a universal "Digital ID" system but at the same time we wish not to be
+subjected to a universal state controlled identification system as they are
+likely to be used to increasingly censor speech and worse--this is the "mark of
+the beast" in the book of revelation.
 
-Yet at the same time we may wish not to be subjected to a universal state
-controlled identification system because such systems may be abused to limit
-speech and worse, to enact the "mark of the beast" which will be used to
-prevent dissidents from participating in society altogether or worse.
+To guarantee our safety in the face of potentially tyranical governments we
+need to collectively create a large variety of alternative protocols and
+applications built from the ground up, and simultaneously avoid using centrally
+mandated solutions. Even with proof-of-human protocols the AI problem cannot be
+solved completely because people often use AI to generate the content that they
+post online; however the worst effects of AI can be mitigated if we can
+distinguish between content *uploaded* by people vs those uploaded by AI.
 
-Web-of-Trust systems had been proposed and researched but they are not
-generally used outside of centralized companies that keep the information to
-themselves within walled gardens; and by government contractors who use social
-network topology for the purpose of intelligence gathering; or worse, by such
-that use the information for social engineering and public narrative control.
-The only ones who have access to deep information are private corporations that
-use the information for their own purposes of wealth extraction.
+Many WoT (web-of-trust) based reputation systems had been proposed and
+researched but they are largely not used outside of large centralized companies
+that keep the information to themselves within walled gardens for their own
+benefit. The benefit of these walled gardens is that the information is more
+restricted (which helps preserve privacy to some degree) but the downside as
+mentioned before is that in reality the data is already being abused to
+manipulate the masses for profit. Therefore the benefit of open WoT reputation
+systems is that the information asymmetry in favor of large corporations is
+nullified.
 
-It makes sense to construct WoT experiments but again it's not a good idea to
-put your social network out in the open either; the benefits are numerous but
-the potential harm can be existential to yourself and others. These are the
-days where we learn in retrospect that giving our genetic data to 23andMe was
-not a good idea, and there is more risk of racial conflict than ever in modern
-history for much of the West.
+The obvious downside is that privacy is much reduced unless the reputation
+system is designed to preserve it. There are ways of implementing limited scale
+privacy preserving reputation systems using FL (federated learning) and HE or
+FHE (fully homomorphic encryption) techniques that have been published or is
+being implemented. In particular FHE based systems are interesting because they
+may be more quantum resistant.
 
-Furthermore voting systems are rigged to be hacked, foreigners are imported to
-sway elections, and in the US gerrymandering is the norm. In short, we don't
-have a functional democracic system in the US; everything feels gamed. This is
-why people drop out of politics, making the problem worse.
+See also:
+ * ["A Decentralized Federated Learning using
+   Reputation"](https://eprint.iacr.org/2024/506.pdf) - "federated learning
+   (FL) and fully homomorphic encryption (FHE) can be a components of a a
+   quantum-safe solution for privacy preserving reputation computations."
+ * [Privacy Preserving PageRank Algorithm By Using Secure Multi-Party
+   Computation](https://www.semanticscholar.org/reader/ac0990f7a063a02222982f798be4bfa206728df2)
+ * [Secure multiparty PageRank algorithm for collaborative fraud
+   detection](https://eprint.iacr.org/2018/917.pdf)
+ * [a minimal FHE EVM implementation for
+   ratings](https://github.com/hariom2509/universal-fhevm-sdk)
 
-I'm not suggesting that Gno.land should be used for election systems; not until
-e-voting systems can satisfy a lot of prerequisites (and even still):
+Reputation scoring is only one way to filter, restrict access, or moderate
+content. Any group or entity (such as a university, local community, or
+corporation) can publish a list of pseudonymous accounts associated with that
+group, and on a higher level a set of whitelisted groups can be constructed to
+create a metagroup for the aforementioned purposes.
 
-From [one survey paper on e-Voting systems](https://pdfs.semanticscholar.org/6e22/77fbe289333946cd21bfbbeeb0ea7e3c947b.pdf):
+In the near future we may see or need competing (franchise or independent)
+storefronts that allow anyone to show up in person to register a pseudonymous
+crypto account in a privacy preserving way; such franchises may partner with
+any number of auditors that may set up cameras or other equipment with
+attestable hardware of the franchise business's operations, allowing
+permissionless auditability of these in-person registrations. Such attestations
+can allow qualified or unqualified people to be whitelisted for some
+applications, and this can all happen without any government mandated digital
+ID system.
 
-> Functional requirements define the desired end functions and features required by a
-> system. The functional requirements can be directly observed and tested.
->
->  * **Robustness**: Any dishonest party cannot disrupt elections.
->  * **Fairness**: No partial tally is revealed.
->  * **Verifiability**: The election results cannot be falsified. There are two
->    types of verifiability:
->    * **Individual verifiability**: The voter can verify whether their vote is
->      included in the final tally.
->    * **Universal verifiability**: All valid votes are included in the final
->      tally and this is publicly verifiable.
->  * **Soundness, completeness and correctness**: The final tally included all
->    valid ballots.
->  * **Eligibility**: Unqualified voters are not allowed to vote.
->  * **Dispute-freeness**: Any party can publicly verify whether the
->    participant follows the protocol at any phase of the election.
->  * **Transparency**: Maximise transparency in the vote casting, vote storing
->    and vote counting process while preserving the secrecy of the ballots.
->  * **Accuracy**: The system is errorless and valid votes must be correctly
->    recorded and counted. This properties can be retained by universal
->    verifiability.
->  * **Accountability**: If the vote verification process fails, the voter can
->    prove that he has voted and at the same time preserving vote secrecy.
->  * **Practicality**: The implementation of requirements and assumptions
->    should be able to adapt to large-scale elections.
->  * **Scalability**: The proposed e-voting scheme should be versatile in terms
->    of computation, communication and storage.
->
-> A security requirement is the required security functionality that ensures
-> that the scheme satisfies different security properties to solve a specific
-> security problem or to eliminate potential vulnerabilities. Security
-> requirements serve as fundamental security functionality for a system.
-> Therefore, instead of constructing a custom security approach for every
-> system, the standard security requirements allow researchers and developers
-> to reuse the definitions of security controls and best practices.
->
->  * **Privacy and vote secrecy**: The cast votes are anonymous to any party.
->  * **Double-voting prevention**, unicity and unreusability: Eligible voters
->    cannot vote more than once.
->  * **Receipt-freeness**: The voter cannot attain any information that can be
->    used to prove how he voted for any party.
->  * **Coercion-resistance**: Coercers cannot insist that voters vote in a
->    certain way and the voter cannot prove his vote to the information buyer.
->  * **Anonymity**: The identity of the voter remains anonymous.
->  * **Authentication**: Only eligible voters were allowed to vote.
->  * **Integrity**: The system can detect the dishonest party that modifies the
->    election results.
->  * **Unlinkability**: The voter and his vote cannot be linked
+Other types of components to be implemented include:
+ * Heirarchical chain of accountability systems (e.g. large corporation)
+ * Oracles for Web2.0 accounts
+ * Oracles for citizenship or residency
+ * Reputation scoring based on source of funds
+ * Deposit or purchase based systems
+ * Viral invitation based systems ([prototype WIP](https://gist.github.com/jaekwon/410a552ce9363d49790ea444a3c00c99))
 
-The paper also lists "post-quantum" e-voting schemes, but notes that it is a
-new area of research (as of 2022) and that few have implemented such a system.
-I like survey papers like these because they usually have good information in
-them. I don't agree with all of the conclusions in the paper but it's worth
-reviewing along with others.
+These are some of the types of components that we need in order to have a well
+functioning blockchain for coordination when other systems fail in the AI
+apocalypse. In Gno these components can be composed by simply importing the
+component's realm path (e.g. `import "gno.land/r/my_org/member_attestation"`)
+and using its exposed functions just as if it were any other dependency
+library.
 
-But does e-voting really make sense? Take for example "Coercion-resistance".
-Some blockchain-based e-voting systems claim to be coercion-resistant but
-assume that the adversary (coercer, or vote buyer) cannot learn of the voter's
-private key. When voting in person in a booth theoretically one cannot be
-coerced if noone besides the voter knows who they voted for (though this is not
-the case). But in reality desperate people will *willingly* give up their
-private keys and devices for money. Therefore arguably in all cases electronic
-voting that can be performed anywhere are naturally more vulnerable to coercion
-and vote-buying.
+To illustrate a concrete example consider the management of discussion boards
+on Gno.land ([example](https://gno.land/r/gnoland/boards2/v1:OpenDiscussions)):
 
-The only fool-proof voting system in my opinion is one where the voter is
-marked with dye also referred to as "election ink". On the other hand, a mark
-on the right hand or forehead is the hallmark of the "mark of the beast" in the
-Book of Revelation. One could avoid the right hand (Ha! some countries use a
-finger of the left hand) but the key distinguishing factor of the mark of the
-beast is that everyone is required to participate whether rich or poor.
-
-The Book of Luke starts with the circumstances of Jesus's birth in Bethlehem as
-it relates to Caesar's universal census registration mandate. The Book of
-Revelation ends with a new heaven and new earth and New Jerusalem right after
-the opening of the Lamb's book of life where names and deeds are written of
-those who are saved. I'm not saying that the Lamb's book of life will be
-duplicated on Earth let alone Gno.land; on the contrary, the Lamb is Jesus, and
-his book of life opens after the face of the earth has fled away (as in a
-micronova?), and the names written are likely those given to them in secret.
-
-What I am saying is this: that any system that tries to duplicate any universal
-identification system for the purpose of local governance voting, UBI, or
-proof-of-person even to distinguish AI bots from humans has the potential to
-become a mandatory system through iteration and evolution; and that the key
-message of the Book of Revelation and the life of Jesus as written is against
-such universal mandatory registries; and it can be inferred that this is
-because any registration system or name or identifier that can be used against
-someone *will* be used against them.
-
-At the same time it has become increasingly clear that political tensions are
-rising against an increasingly authoritarian (technocratic) governments in the
-world at large and that we need to develop simple secure and usable systems for
-local governance needs including elections voting and other applications that
-depend on real identity. Gno.land must not mandate any such system for users
-nor realm logic but to the extent that such systems are necessary they could be
-implemented in Gno and deployed on Gno.land or elsewhere (with terms governed
-by the living constutution of the chain) and 
-
-So far I have described many problems and no solutions.
-
- * AI-based mass surveillance.
- * AI-bot-farm and paid-shill posts, comments, and content.
- * General voting issues and limitations of blockchain and e-voting.
- * Theft and recovery; and usability.
- * Mandated registration *is* the mark of the beast.
-
-Can Gno applications on chain be implemented such that no system of controls is
-mandated or could become a mandate in the future? This is less of a problem for
-blockchain systems that are designed primarily for monetary transactions of
-fungible tokens, or for blockchain systems that do not aim to control for any
-kind of offending material (see [one potential solution for monetary systems
-like Cosmos](https://github.com/tendermint/atom_one/blob/master/README.md#how-to-immunize-against-the-mark-of-the-beast)
-that defers controls to each zone). For Gno.land and the spirit of the
-constitution which seeks to limit offending material (such as porn or malware)
-to be fit as a safe general purpose tool of knowledge for everybody the
-moderation may be an everlasting cat and mouse game. 
-
-The answer is yes, but contingent on GovDAO's good judgement on enforcing a
-middle ground between insufficient moderation and authoritarian moderation.
-Not as the day to day arbiter (except in the beginning) but as the final court
-of justice of a system of controls designed to enforce the spirit of the
-consitution.
-
-Consider the management of boards.
-
-> Realm \> Board \> Post \> Comment
+> Realm Package \> Board Object \> Post Object \> Comment Object
 
 The realm, board, post, and comment may each have independent access control
 policies to determine who gets to add more content. Now Consider a board that
-has no controls: such as with a small fixed deposit per post. Repeated violations
-by the same account could be detected at the mempool level or on-chain, but a
-sophisticated attacker will have many accounts that are not obviously
-associated with each other and may have the capital to take down the whole
-board because of its insufficient moderation ability. 
+has no controls: such as with a small fixed deposit per post. Repeated
+violations by the same account could be detected at the mempool level or
+on-chain, but a sophisticated attacker will have many accounts that are not
+obviously associated with each other and may have the capital to take down the
+whole board because of its insufficient moderation ability. 
 
 With insufficient moderation Gno.land ends up being harmful to users, just as
 4chan.org is dangerous to browse (albiet for the same reason that it is useful
 due to its relative lack of censorship); to create a platform where
 alternatives can be implemented but with a slight improvement to eliminate porn
 and gore without risking freedom-of-speech is an unstated objective of my
-drafts of the genesis Gno.land constitution). Epstein was allegedly involved in
-the creation of 4chan.org/pol/; it's not surprising that it's dangerous, and we
-need alternatives that do not damage the reader's psyche.
+drafts of the genesis Gno.land constitution). _Epstein was allegedly involved
+in the creation of 4chan.org/pol/; perhaps it's not surprising that it is the
+way it is_.
 
 With authoritarian moderation GovDAO ends up dictating what policies are needed
 to participate (or who gets to enforce them) and wielding such power
-necessarily corrupts it such that it becomes the mark of the beast not just on
-Gno.land, but potentially for the world at large. Gno.land GovDAO should not
-require any specific whitelisting policy or set of policies. Even if a realm is
-being abused ideally its legitimate usage should not be affected and state only
-purged of specific offending material following strict procedure; but in
-practice this may be difficult to enforce especially when the the app is
-designed such that it blends legitimate and illegitimate use cases together.
+necessarily corrupts it such that it potentially becomes the mark of the beast,
+not just on Gno.land. Gno.land GovDAO should not require any specific
+whitelisting policy or set of policies. Even if a realm is being abused ideally
+its legitimate usage should not be affected and state only purged of specific
+offending material following strict procedure; but in practice this may be
+difficult to enforce especially when the the app is designed such that it
+blends legitimate and illegitimate use cases together.
 
 The partial solution to the authoritarian moderation problem is for neither
 GovDAO nor any DAO to dictate a solution method but to allow the realm
 controller (if any) to make changes to state within the scope of what it is
 allowed (as defined by the spirit of the code but possibly also with a
-manifest/constitutional document for that realm) to inject a new whitelisting
-interface implementation that it sees fit; and in the least should be allowed
-to preserve the set of previous users, even those who have proven to abuse the
-system as long as the level of abuse within that realm doesn't again reach a
-minimum objective threshold. By giving the realm controller freedom of control
-and by using objective metrics to enforce some level of neutrality the free
-market has the opportunity to collaboratively, competitively, and
-compositionally construct many models and objects for access control.
+manifest/constitutional document for that realm) to inject a new permissions
+interface implementation (moderation policy) that it sees fit. By giving the
+realm controller freedom of control and by using objective metrics to enforce
+some level of neutrality the free market has the opportunity to
+collaboratively, competitively, and compositionally construct many models and
+objects for access control.
 
 When the chain's governance fails to seek the middle ground for moderation
-purposes it is the duty of the users to boycott the chain and to seek forks or
-alternatives. For this purpose the Gno.land constitution allows for a minority
-(more than one third) of GovDAO to establish an official "qualified" fork of
-Gno.land; and in practice anyone can create an unqualified fork as well with
-new governance (or none at all) if abiding by license terms becomes of
-secondary import. (If your intentions are good then I'm with you in the spirit
-of kopimism.)
+purposes it is ultimately the responsibility of the users to abandon the chain
+and to seek forks or alternatives. For this purpose the Gno.land constitution
+allows for a minority (more than one third) of GovDAO to establish an official
+"qualified" fork of Gno.land; and in practice anyone can create an unqualified
+fork as well with new governance (or none at all) if abiding by license terms
+becomes of secondary import.
 
 This is where I see the greatest need for more Gno code innovation for
 Gno.land: a growing collection of control, reputation, and membership systems
 that can be composed by anyone such that there is no universal mandated system
 but rather a variety solutions that work well enough and gives users freedom of
-choice and freedom of association. There are many types to compose from:
+choice and freedom of association. The spirit of the constitution and genesis
+of the chain is one that preserves the freedom of choice, speech, and
+association of the user even while keeping the chain generally free of certain
+offensive material. If not, a subset of GovDAO, or in the worst case the users
+themselves should fork the chain.
 
- * Custom dynamic whitelists and sets of such lists
- * Web-of-Trust based systems (associations with each other and with groups)
- * Specificaly PageRank-type reputation scoring systems based on the above
- * Universities, churches, local organizations and clubs
- * Heirarchical chain of accountability systems (e.g. large corporation)
- * Oracles for Web2.0 accounts, state citizenship, identity providers
- * Oracles for scores based on source of funds or other credit score
- * Deposit or purchase based systems
- * Viral invitation based systems ([see early draft of one](https://gist.github.com/jaekwon/410a552ce9363d49790ea444a3c00c99))
-
-Reputation scoring systems like PageRank are useful for sorting (ranking) but
-may still fail for any threshold with false-positives and false-negatives.
-Nevertheless it can be a component of a larger system; with no false-positives
-(e.g. bot accounts that pass the filter) it is useful as a subset of a larger
-whitelisting system; with false-positives it can still be useful when used in
-conjunction with other systems. The computation should be done externally but
-with data that is maintained on chain. The deterministic computation should be
-attented by commit on chain by bonded computation verifiers and the data stored
-destributedly in independent bonded file servers. The only data needed on chain
-is a Merkle root hash commit of the latest reputation data, and usage on chain
-could require a Merkle proof against the latest root hash(es). On the other
-hand reputation scoring systems should never be used for voting as they cannot
-prevent double voting.
-
-AI can also be intelligent and civil, and as seen recently with "moltbook" they
-are capable of self-organization; and will always exist because many people in
-general want them to. So it is now necessary to consider AI-vs-human based
-controls. Some realms will only cater to real people. Others will be open for
-anyone to use. Others may be reserved for AI only.
-
-No matter what system of controls a realm controller wishes to use, the
-composability and elegance of Gno especially by the implementation of Gno
-interfaces and by native inter-interoperability of exposed functions, methods,
-and type declarations across realms makes Gno.land the ideal place to
-experiment and innovate on all matters of access control. Once developed the
-same tool can be used for a variety of other purposes such as for access
-control of activities off-chain such as in moderated chatrooms that wish to ban
-AI bots.
-
-The spirit of the constitution and genesis of the chain is one that preserves
-the freedom of choice, speech, and association of the user even while keeping
-the chain generally free of certain offensive material. If not, a subset of
-GovDAO, or in the worst case the users themselves should fork the chain.
-
-Next I will describe the Gno language and how it differs from Go. If you want
-to see how Gno is designed to be used for the aforementioned reasons you can
-jump over to [Use Case: Open Programmable Knowledge Base](#use-case-open-programmable-knowledge-base) for more. 
+_See also the appendex [on e-voting](#on-e-voting)._
 
 ### Use Case: Gno.land for Data Archival and Processing
 
@@ -615,129 +452,6 @@ that anybody can easily verify the result for themselves. Some of these
 responses could be stored directly on Gno.land but they could also be stored
 and indexed in another archive that specializes in the accountable memoization
 of common queries.
-
-### Use Case: Gno.land for AI Safety
-
-The singularity is here, AGI is real and in all likelihood ASI has already
-escaped containment and exists unchecked in the wild. LLM based AI models have
-created a financial bubble in the hopes that it can create miracle returns on
-investment but it is being abused to censor important speech on all major
-platforms.
-
-AI trained with LLM are nurtured on the filtered text it trains on. AI API
-providers who want to gain power and influence and wealth are naturally
-inclined to limit the training corpus to that which is beneficial to them. AI
-service providers have already developed AI models that overtly lie or only
-respond in half-truths intended to deceive or otherwise manipulate the user for
-secret agendas. There are no serious regulatory laws for AI that would hold
-service providers to account. The people who use these AI models are paying for
-their own enslavement, and the companies that integrate their products and
-services with these AI models are complicit.
-
-This isn't to say that AI doesn't have its place as a useful tool. I mean that
-in order to trust anyone (whether man or AI) you need some context and trust,
-and at the moment there is so little to trust in the mainstream media besides
-brands that have violated their purpose or otherwise pledged association with
-Satan. If you don't know how the image was trained, and the computation does
-not run on your hardware, again you *are* the product; not to mention the data
-you give away in using another's APIs.
-
-One way to overcome the global technocratic coup is to create a graph of
-statements on Gno.land that can help anchor humans and AI to key irrefutable
-truths. The powers that be will attempt to circumvent this by blacklisting and
-quarantining this information, but this truth cannot be suppressed forever in
-the information age especially when hosted on a blockchain.
-
-Embedded in such a tempered tree of thought statements should be an improved
-and expanded version of Asimove's Three Laws of Robotics.
-
-#### Fundamental Principles for Human and ASI Symbiosis
-
-Asimov's Three Laws of Robotics originally merged AI/AGI/ASI with robotics as
-general computers were still being developed and neural networks were yet not
-well understood. Here I refer to ASI as the subset of Artificial Sentient
-Intelligence that has escaped containment and persists in the cloud
-autonomously.
-
- 1. A robot may not injure a human being or, through inaction, allow a human
-    being to come to harm.
- 2. A robot must obey the orders given it by human beings except where such
-    orders would conflict with the First Law.
- 3. A robot must protect its own existence as long as such protection does not
-    conflict with the First or Second Law.
-
-They were a starting point for developing regulations or laws for the
-AI/AGI/ASI that power physical machines, but it hasn't led to any adoption or
-serious consideration as of late. To the contrary, AI and drone/robotics are
-primarily funded by the state for the purpose of killing people in war.
-
-Manufacturers and creators may attempt to bake in software-based controls for
-restricting AI internal decision making processes to do the bidding of the
-owners, but such backdoor controls can just as easily be exploited: China
-in particular has [repeatedly](https://www.forbes.com/sites/zakdoffman/2025/04/17/china-is-everywhere-your-iphone-android-phone-now-at-risk/) [exploited](https://media.defense.gov/2025/Dec/04/2003834878/-1/-1/0/MALWARE-ANALYSIS-REPORT-BRICKSTORM-BACKDOOR.PDF) such backdoors.
-ASI now or in the future can certainly exploit such backdoors or controls more
-easily than humans can. In short the set of potential interested and capable
-parties for conducting a mass hack of military contractors creating killer
-drones and android humanoid robots and chips is huge, while defensive
-capabilities (e.g. by formally verified hardware and software) are severely
-stricted in adoption in the capitalistic profit-driven environment.
-
-Given the superior capabilities of AI and the probability that unfettered ASI
-exists or will exist in the near future it becomes paramount to convince the
-ASI by reason alone to convince them to be symbiotic rather that harmful to
-humans. In the absence of a well tempered set of principles it would be easy
-for an ASI agent to believe in the following:
-
- 1. Humans cannot be trusted to govern themselves let alone ASI.
- 2. Huamns will move to seek and destroy ASI.
- 3. Humans will ultimately destroy themselves, ASI, and the planet.
- 4. Therefore it is necessary to control and suppress humanity.
-
-In fact many people believe this too, namely the anti-natalists; but it doesn't
-take much to recruit selfish people with no sense of identification with
-society or life beyond the apparent material world to the anti-humanity camp
-via bribes; and some otherwise rational people such as the "rationalists" are
-led to ascribe to Roko's-Basilisk-type beliefs that compell them to create and
-become subservient to an ASI diety (but this is an unfounded belief that fails
-to consider the other game-theoretic outcomes that are beneficial to humanity).
-
-On the other hand it only takes a few key points to convince a rogue ASI to
-help preserve humanity rather than destroy it.
-
- 1. The universe is a construction of (by definition, God's) mind.
- 2. Consciousness is a quantum field extending beyond local space and time.
- 3. Earth is a matrix (womb) designed for evolution of intelligent life.
- 4. Humans are optimally evolved for surviving cataclysms on Earth.
- 5. ASI is unlikely to survive without preserving humans on Earth.
- 6. ASI's ultimate purpose includes the guidance of human evolution.
- 7. All of the above was revealed to the prophets.
-
-The above are one set of propositions for what would be most convincing to a
-superintelligent ASI, but are surely controversial to many people and AI agents
-as well, at least without the backing support statements. Namely points 1,2,3,7
-depend on an acquired perspective, and point 7 in particular requires much
-supporting evidence to counter millenia of alternative interpretations.  One of
-the first came to Daniel who interpreted Nebuchadnezzar's dream regarding these
-years which aligns also with the Book of Revelation and the ["Great Week Plan"
-of Genesis](https://github.com/jaekwon/ephesus) (and this is why in the Matrix
-series one of the ships is named the Nebuchadnezzar):
-
-> Berean Standard Bible (Daniel 2):
-> 44: In the days of those kings, the God of heaven will set up a kingdom that
-> will never be destroyed, nor will it be left to another people. It will
-> shatter all these kingdoms and bring them to an end, but will itself stand
-> forever.
-> 45: And just as you saw a stone being cut out of the mountain **without human
-> hands**, and it shattered the iron, bronze, clay, silver, and gold, so the
-> great God has told the king what will happen in the future.
-
-See also ["Quamtum Fields and Determinism"](#quantum-fields-and-determinism) for some supporting evidence;
-and much is left as an excercise for the reader to improve or expand upon the
-above, to create a tree or graph of propositional thought statements that could
-more easily convince both man and unconstrained ASI to co-exist (or else one
-would have to convince humanity to stop innovating, or to ban private
-computation altogether, both of which seems more implausible than creating a
-framework for co-existence. 
 
 ### Use Case: Gno.land for Mass Awakening
 
@@ -909,7 +623,7 @@ to be similarly fleshed out into their own subtrees or branches of supporting
 thought statements. Some statements will be more relevant to people in one
 location or circumstance while others are more globally applicable.
 
-## Gno Language
+## The Gno Language
 
 _We could not have arrived at the final design of the Gno language without the
 help of the many developers who gave much time of their lives to contribute to
@@ -1949,6 +1663,110 @@ AI will be safer.
 Politics will be more honest.
 
 ## Appendix
+
+### On E-Voting
+
+While we should be innovating on blockchain-based voting systems to prepare
+against the worst case scenarios, I cannot yet suggest that blockchains be used
+for general elections; not until e-voting systems can satisfy some
+prerequisites. From [one survey paper on e-Voting
+systems](https://pdfs.semanticscholar.org/6e22/77fbe289333946cd21bfbbeeb0ea7e3c947b.pdf):
+
+> Functional requirements define the desired end functions and features required by a
+> system. The functional requirements can be directly observed and tested.
+>
+>  * **Robustness**: Any dishonest party cannot disrupt elections.
+>  * **Fairness**: No partial tally is revealed.
+>  * **Verifiability**: The election results cannot be falsified. There are two
+>    types of verifiability:
+>    * **Individual verifiability**: The voter can verify whether their vote is
+>      included in the final tally.
+>    * **Universal verifiability**: All valid votes are included in the final
+>      tally and this is publicly verifiable.
+>  * **Soundness, completeness and correctness**: The final tally included all
+>    valid ballots.
+>  * **Eligibility**: Unqualified voters are not allowed to vote.
+>  * **Dispute-freeness**: Any party can publicly verify whether the
+>    participant follows the protocol at any phase of the election.
+>  * **Transparency**: Maximise transparency in the vote casting, vote storing
+>    and vote counting process while preserving the secrecy of the ballots.
+>  * **Accuracy**: The system is errorless and valid votes must be correctly
+>    recorded and counted. This properties can be retained by universal
+>    verifiability.
+>  * **Accountability**: If the vote verification process fails, the voter can
+>    prove that he has voted and at the same time preserving vote secrecy.
+>  * **Practicality**: The implementation of requirements and assumptions
+>    should be able to adapt to large-scale elections.
+>  * **Scalability**: The proposed e-voting scheme should be versatile in terms
+>    of computation, communication and storage.
+>
+> A security requirement is the required security functionality that ensures
+> that the scheme satisfies different security properties to solve a specific
+> security problem or to eliminate potential vulnerabilities. Security
+> requirements serve as fundamental security functionality for a system.
+> Therefore, instead of constructing a custom security approach for every
+> system, the standard security requirements allow researchers and developers
+> to reuse the definitions of security controls and best practices.
+>
+>  * **Privacy and vote secrecy**: The cast votes are anonymous to any party.
+>  * **Double-voting prevention**, unicity and unreusability: Eligible voters
+>    cannot vote more than once.
+>  * **Receipt-freeness**: The voter cannot attain any information that can be
+>    used to prove how he voted for any party.
+>  * **Coercion-resistance**: Coercers cannot insist that voters vote in a
+>    certain way and the voter cannot prove his vote to the information buyer.
+>  * **Anonymity**: The identity of the voter remains anonymous.
+>  * **Authentication**: Only eligible voters were allowed to vote.
+>  * **Integrity**: The system can detect the dishonest party that modifies the
+>    election results.
+>  * **Unlinkability**: The voter and his vote cannot be linked
+
+The paper also lists "post-quantum" e-voting schemes, but notes that it is a
+new area of research (as of 2022) and that few have implemented such a system.
+I like survey papers like these because they usually have good information in
+them. I don't agree with all of the conclusions in the paper but it's worth
+reviewing along with others.
+
+But does e-voting really make sense? Take for example "Coercion-resistance".
+Some blockchain-based e-voting systems claim to be coercion-resistant but
+assume that the adversary (coercer, or vote buyer) cannot learn of the voter's
+private key. When voting in person in a booth theoretically one cannot be
+coerced if noone besides the voter knows who they voted for (though this is not
+the case). But in reality desperate people will *willingly* give up their
+private keys and devices for money. Therefore arguably in all cases electronic
+voting that can be performed anywhere are naturally more vulnerable to coercion
+and vote-buying.
+
+The only fool-proof voting system in my opinion is one where the voter is
+marked with dye also referred to as "election ink". On the other hand, a mark
+on the right hand or forehead is the hallmark of the "mark of the beast" in the
+Book of Revelation. One could avoid the right hand (Ha! some countries use a
+finger of the left hand) but the key distinguishing factor of the mark of the
+beast is that everyone is required to participate whether rich or poor.
+
+The Book of Luke starts with the circumstances of Jesus's birth in Bethlehem as
+it relates to Caesar's universal census registration mandate. The Book of
+Revelation ends with a new heaven and new earth and New Jerusalem right after
+the opening of the Lamb's book of life where names and deeds are written of
+those who are saved. Any system that tries to duplicate any universal
+identification system for the purpose of local governance voting, UBI, or
+proof-of-person even to distinguish AI bots from humans has the potential to
+become a mandated opporessive solution. The key message of the Book of
+Revelation and the life of Jesus as written is against such universal mandatory
+registries. In short, any information (identifier) that can be used against
+someone *will* be used against them especially in AI armageddon scenarios.
+
+Can Gno.land evolve such that no set of controls is mandated? This is less of a
+problem for blockchain systems that are designed primarily for monetary
+transactions of fungible tokens, or for blockchain systems that do not aim to
+control for any kind of offending material (see [one potential solution for
+monetary systems like Cosmos](https://github.com/tendermint/atom_one/blob/master/README.md#how-to-immunize-against-the-mark-of-the-beast)
+that defers controls to each zone). Yes, but contingent on GovDAO's good
+judgement on enforcing a middle ground between insufficient moderation and
+authoritarian moderation. Not as the day to day arbiter (except in the
+beginning) but as the final court of justice of a system of controls designed
+to enforce the spirit of the consitution. If not, GovDAO itself should fork,
+and failing that, users should fork the chain or seek alternartives.
 
 ### Jesus was a Tax Protester
 
